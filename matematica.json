@@ -1,6 +1,6 @@
 [
   {
-    "id": "8ano_mat_racionais_01",
+    "id": "mat_racionais_01",
     "titulo": "Matemática - Frações e Decimais",
     "tipo": "conteudo",
     "icone": "🔢",
@@ -28,7 +28,7 @@
     ]
   },
   {
-    "id": "8ano_mat_dizimas_01",
+    "id": "mat_dizimas_01",
     "titulo": "Matemática - Dízimas Periódicas",
     "tipo": "conteudo",
     "icone": "♾️",
@@ -56,7 +56,7 @@
     ]
   },
   {
-    "id": "8ano_mat_irracionais_01",
+    "id": "mat_irracionais_01",
     "titulo": "Matemática - Números Irracionais",
     "tipo": "conteudo",
     "icone": "🎲",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "id": "8ano_mat_modulo_01",
+    "id": "mat_modulo_01",
     "titulo": "Matemática - Módulo e Opostos",
     "tipo": "conteudo",
     "icone": "⚖️",
@@ -112,7 +112,7 @@
     ]
   },
   {
-    "id": "8ano_mat_potencias_01",
+    "id": "mat_potencias_01",
     "titulo": "Matemática - Potenciação e Notação Científica",
     "tipo": "conteudo",
     "icone": "⚡",
@@ -126,4 +126,73 @@
       { "enunciado": "Qual é a forma correta de escrever o número 0,000004 em notação científica?", "opcoes": ["4 × 10⁻⁶", "4 × 10⁶", "0,4 × 10⁻⁵", "40 × 10⁻⁷"], "correta": 0, "explicacao": "0,000004 = 4 × 10⁻⁶." },
       { "enunciado": "Qual é a forma correta de escrever o número 400.000.000 em notação científica?", "opcoes": ["4 × 10⁸", "4 × 10⁹", "0,4 × 10⁹", "40 × 10⁷"], "correta": 0, "explicacao": "400.000.000 = 4 × 10⁸." },
       { "enunciado": "Na notação científica a × 10ⁿ, qual é a condição para o número 'a'?", "opcoes": ["Deve ser maior que 0 e menor que 1.", "Deve ser maior ou igual a 1 e menor que 10.", "Deve ser maior que 10.", "Deve ser um número inteiro."], "correta": 1, "explicacao": "O coeficiente 'a' deve estar entre 1 e 10." },
-      { "enunciado": "Qual propriedade da potenciação diz que a^m × a^n = a^(m+n)?", "opcoes": ["Produto de potências de mesma base.",
+      { "enunciado": "Qual propriedade da potenciação diz que a^m × a^n = a^(m+n)?", "opcoes": ["Produto de potências de mesma base.", "Quociente de potências de mesma base.", "Potência de potência.", "Potência de um produto."], "correta": 0, "explicacao": "Na multiplicação de mesma base, somamos os expoentes." },
+      { "enunciado": "Qual é o resultado de 2⁵ ÷ 2³?", "opcoes": ["2² = 4", "2⁸ = 256", "2¹⁵", "2"], "correta": 0, "explicacao": "Na divisão de mesma base, subtraímos os expoentes: 2^(5-3) = 4." },
+      { "enunciado": "Qual é o resultado de (2³)²?", "opcoes": ["2⁵ = 32", "2⁶ = 64", "2⁹ = 512", "4³ = 64"], "correta": 1, "explicacao": "Potência de potência: multiplicamos os expoentes: 2^(3×2) = 2⁶ = 64." },
+      { "enunciado": "Qual é o valor de 5⁻²?", "opcoes": ["-25", "1/25", "25", "-1/25"], "correta": 1, "explicacao": "5⁻² = 1/5² = 1/25." },
+      { "enunciado": "O número 6,5 × 10³ é igual a:", "opcoes": ["650", "6.500", "65.000", "0,0065"], "correta": 1, "explicacao": "6,5 × 1000 = 6500." },
+      { "enunciado": "O número 2,3 × 10⁻² é igual a:", "opcoes": ["230", "0,23", "0,023", "23"], "correta": 2, "explicacao": "2,3 × 0,01 = 0,023." },
+      { "enunciado": "A distância da Terra à Lua é de aproximadamente 384.000 km. Em notação científica, isso é:", "opcoes": ["3,84 × 10⁵ km", "3,84 × 10⁶ km", "38,4 × 10⁴ km", "0,384 × 10⁶ km"], "correta": 0, "explicacao": "384.000 = 3,84 × 10⁵." },
+      { "enunciado": "O diâmetro de uma bactéria é cerca de 0,000001 m. Em notação científica:", "opcoes": ["1 × 10⁻⁶ m", "1 × 10⁶ m", "0,1 × 10⁻⁵ m", "10 × 10⁻⁷ m"], "correta": 0, "explicacao": "0,000001 = 1 × 10⁻⁶." },
+      { "enunciado": "Qual das potências abaixo tem o maior valor?", "opcoes": ["2⁴", "4²", "2⁵", "3³"], "correta": 2, "explicacao": "2⁴=16, 4²=16, 2⁵=32, 3³=27. O maior é 32." },
+      { "enunciado": "Qual é o valor de 10⁴?", "opcoes": ["100", "1.000", "10.000", "100.000"], "correta": 2, "explicacao": "10⁴ = 10.000." },
+      { "enunciado": "Todo número elevado a 1 (a¹) é igual a:", "opcoes": ["0", "1", "O próprio número.", "Infinito."], "correta": 2, "explicacao": "Qualquer número elevado a 1 é ele mesmo." }
+    ]
+  },
+  {
+    "id": "mat_raizes_01",
+    "titulo": "Matemática - Raízes e Radiciação",
+    "tipo": "conteudo",
+    "icone": "√",
+    "perguntas": [
+      { "enunciado": "A raiz quadrada de um número é:", "opcoes": ["O número que, multiplicado por 2, dá o valor original.", "O número que, elevado ao quadrado, resulta no valor original.", "A metade do número.", "O dobro do número."], "correta": 1, "explicacao": "√x = y se y² = x." },
+      { "enunciado": "Qual é a raiz quadrada de 36?", "opcoes": ["4", "6", "8", "9"], "correta": 1, "explicacao": "6 × 6 = 36." },
+      { "enunciado": "Qual é a raiz quadrada de 144?", "opcoes": ["10", "11", "12", "14"], "correta": 2, "explicacao": "12 × 12 = 144." },
+      { "enunciado": "Por que a raiz quadrada de um número negativo não existe no conjunto dos números reais?", "opcoes": ["Porque não há número real que elevado ao quadrado dê um resultado negativo.", "Porque a matemática não permite números negativos.", "Porque o zero impede o cálculo.", "Porque é um número irracional."], "correta": 0, "explicacao": "Todo número real ao quadrado é positivo." },
+      { "enunciado": "Qual é a raiz cúbica de 8?", "opcoes": ["2", "3", "4", "8"], "correta": 0, "explicacao": "2 × 2 × 2 = 8." },
+      { "enunciado": "Qual é a raiz cúbica de -27?", "opcoes": ["-3", "-9", "3", "9"], "correta": 0, "explicacao": "(-3) × (-3) × (-3) = -27." },
+      { "enunciado": "O que significa simplificar uma raiz?", "opcoes": ["Deixar o número dentro da raiz o menor possível.", "Encontrar o valor exato da raiz.", "Retirar fatores do radicando que sejam quadrados perfeitos.", "Tornar o número negativo."], "correta": 2, "explicacao": "Simplificamos retirando quadrados perfeitos (ex: √8 = 2√2)." },
+      { "enunciado": "A raiz de 25 é um número racional ou irracional?", "opcoes": ["Irracional.", "Racional, pois o resultado é 5.", "Irracional, pois não tem fim.", "Racional, pois é uma fração."], "correta": 1, "explicacao": "√25 = 5, que é inteiro." },
+      { "enunciado": "A raiz quadrada de 2 (√2) é um número:", "opcoes": ["Racional.", "Irracional.", "Inteiro.", "Natural."], "correta": 1, "explicacao": "√2 é uma dízima não periódica." },
+      { "enunciado": "Qual é o valor aproximado de √37?", "opcoes": ["6,0", "6,1", "6,5", "7,0"], "correta": 1, "explicacao": "√37 ≈ 6,08." },
+      { "enunciado": "A raiz quadrada de 16 é igual a:", "opcoes": ["4", "8", "2", "16"], "correta": 0, "explicacao": "4 × 4 = 16." },
+      { "enunciado": "O símbolo √ é chamado de:", "opcoes": ["Radical.", "Expoente.", "Base.", "Potência."], "correta": 0, "explicacao": "É o radical." },
+      { "enunciado": "Calcule √(25 × 4):", "opcoes": ["10", "20", "15", "5"], "correta": 0, "explicacao": "√100 = 10." },
+      { "enunciado": "Qual é o valor de (√9)²?", "opcoes": ["3", "9", "81", "0"], "correta": 1, "explicacao": "(√9)² = 3² = 9." },
+      { "enunciado": "Qual é o valor de √(9²)?", "opcoes": ["3", "9", "81", "0"], "correta": 1, "explicacao": "√81 = 9." },
+      { "enunciado": "A raiz de um número quadrado perfeito é sempre:", "opcoes": ["Racional.", "Irracional.", "Negativa.", "Zero."], "correta": 0, "explicacao": "Quadrados perfeitos têm raízes exatas." },
+      { "enunciado": "Quais números abaixo são quadrados perfeitos?", "opcoes": ["1, 4, 9, 16, 25...", "2, 3, 5, 7, 11...", "1, 2, 3, 4, 5...", "10, 20, 30, 40..."], "correta": 0, "explicacao": "1²=1, 2²=4, 3²=9..." },
+      { "enunciado": "O que é uma raiz inexata?", "opcoes": ["Aquela que não tem resultado inteiro.", "Aquela que dá um número negativo.", "Aquela que dá zero.", "Aquela que não existe."], "correta": 0, "explicacao": "Raízes inexatas resultam em irracionais (ex: √2)." },
+      { "enunciado": "Qual é o valor de √81?", "opcoes": ["7", "8", "9", "10"], "correta": 2, "explicacao": "9 × 9 = 81." },
+      { "enunciado": "A raiz cúbica de 64 é:", "opcoes": ["2", "4", "6", "8"], "correta": 1, "explicacao": "4 × 4 × 4 = 64." }
+    ]
+  },
+  {
+    "id": "mat_pitagoras_01",
+    "titulo": "Matemática - Teorema de Pitágoras",
+    "tipo": "conteudo",
+    "icone": "📐",
+    "perguntas": [
+      { "enunciado": "O Teorema de Pitágoras é válido para qual tipo de triângulo?", "opcoes": ["Triângulo equilátero.", "Triângulo isósceles.", "Triângulo retângulo.", "Qualquer triângulo."], "correta": 2, "explicacao": "Aplica-se a triângulos com um ângulo reto (90°)." },
+      { "enunciado": "O que é a hipotenusa em um triângulo retângulo?", "opcoes": ["O lado menor.", "O lado oposto ao ângulo reto, sendo o maior lado.", "O lado que forma o ângulo reto.", "Qualquer um dos lados."], "correta": 1, "explicacao": "É o lado oposto ao ângulo de 90°." },
+      { "enunciado": "O que são os catetos?", "opcoes": ["Os lados que formam o ângulo reto.", "Apenas o lado maior.", "O lado oposto ao ângulo reto.", "As diagonais do triângulo."], "correta": 0, "explicacao": "São os dois lados que formam o ângulo de 90°." },
+      { "enunciado": "Segundo o Teorema de Pitágoras, a² = b² + c², onde 'a' é:", "opcoes": ["Um cateto.", "A hipotenusa.", "O ângulo reto.", "A altura do triângulo."], "correta": 1, "explicacao": "A hipotenusa (a) é o maior lado." },
+      { "enunciado": "Em um triângulo retângulo, os catetos medem 3 cm e 4 cm. Qual é a medida da hipotenusa?", "opcoes": ["5 cm", "6 cm", "7 cm", "8 cm"], "correta": 0, "explicacao": "a² = 3² + 4² = 25 → a = 5." },
+      { "enunciado": "Um triângulo tem catetos de 6 cm e 8 cm. Qual é a hipotenusa?", "opcoes": ["10 cm", "12 cm", "14 cm", "15 cm"], "correta": 0, "explicacao": "a² = 6² + 8² = 100 → a = 10." },
+      { "enunciado": "Se a hipotenusa de um triângulo retângulo mede 13 cm e um cateto mede 5 cm, qual é o outro cateto?", "opcoes": ["8 cm", "10 cm", "12 cm", "15 cm"], "correta": 2, "explicacao": "13² = 5² + c² → 169 = 25 + c² → c = 12." },
+      { "enunciado": "A fórmula do Teorema de Pitágoras é usada para descobrir:", "opcoes": ["A área do triângulo.", "Um lado desconhecido de um triângulo retângulo.", "O volume de um cubo.", "A medida dos ângulos."], "correta": 1, "explicacao": "Relaciona os lados para achar um lado desconhecido." },
+      { "enunciado": "Qual é a medida da hipotenusa de um triângulo retângulo com catetos de 9 cm e 12 cm?", "opcoes": ["15 cm", "18 cm", "20 cm", "25 cm"], "correta": 0, "explicacao": "a² = 9² + 12² = 225 → a = 15." },
+      { "enunciado": "O Teorema de Pitágoras é uma ferramenta muito utilizada em qual área?", "opcoes": ["Construção civil e engenharia.", "Apenas em matemática teórica.", "Apenas em química.", "Apenas em geografia."], "correta": 0, "explicacao": "Muito usado em construções." },
+      { "enunciado": "Quantos ângulos retos tem um triângulo retângulo?", "opcoes": ["1", "2", "3", "Nenhum."], "correta": 0, "explicacao": "Possui exatamente um ângulo de 90°." },
+      { "enunciado": "Um triângulo com lados 7, 24 e 25 é retângulo?", "opcoes": ["Sim, pois 25² = 7² + 24².", "Não, pois não é possível.", "Sim, pois 7 + 24 = 25.", "Não, pois os lados são muito diferentes."], "correta": 0, "explicacao": "625 = 49 + 576. É retângulo." },
+      { "enunciado": "Se a hipotenusa é 10 cm e um cateto é 6 cm, o outro cateto mede:", "opcoes": ["4 cm", "6 cm", "8 cm", "9 cm"], "correta": 2, "explicacao": "10² = 6² + c² → c = 8." },
+      { "enunciado": "O Teorema de Pitágoras foi criado por:", "opcoes": ["Pitágoras, filósofo e matemático grego.", "Euclides.", "Isaac Newton.", "Albert Einstein."], "correta": 0, "explicacao": "Leva o nome do matemático grego." },
+      { "enunciado": "O que é um 'terno pitagórico'?", "opcoes": ["Uma sequência de 3 números que satisfazem o Teorema de Pitágoras.", "Três ângulos iguais.", "Um triângulo equilátero.", "Um número elevado ao cubo."], "correta": 0, "explicacao": "Exemplo: 3, 4 e 5." },
+      { "enunciado": "Em relação à hipotenusa, ela é sempre o lado:", "opcoes": ["Menor do triângulo.", "Maior do triângulo retângulo.", "Igual aos catetos.", "Oposto ao cateto maior."], "correta": 1, "explicacao": "É o maior lado." },
+      { "enunciado": "Um pedreiro precisa saber o comprimento de uma escada que será apoiada a 3 m da parede e alcançará 4 m de altura. Qual o comprimento?", "opcoes": ["5 m", "6 m", "7 m", "8 m"], "correta": 0, "explicacao": "a² = 3² + 4² = 25 → a = 5." },
+      { "enunciado": "Se os catetos medem 5 cm cada, a hipotenusa é:", "opcoes": ["5 cm", "5√2 cm", "10 cm", "√5 cm"], "correta": 1, "explicacao": "a² = 25 + 25 = 50 → a = √50 = 5√2." },
+      { "enunciado": "Qual é o valor de 9²?", "opcoes": ["18", "36", "81", "72"], "correta": 2, "explicacao": "9 × 9 = 81." },
+      { "enunciado": "Um triângulo tem catetos de 8 cm e 15 cm. Qual é a hipotenusa?", "opcoes": ["17 cm", "20 cm", "23 cm", "25 cm"], "correta": 0, "explicacao": "a² = 8² + 15² = 289 → a = 17." }
+    ]
+  }
+]
