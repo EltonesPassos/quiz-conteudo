@@ -83,7 +83,7 @@
         "explicacao": "A contextualização situa o leitor sobre o fato recente e relevante, apresentando os pontos principais antes de defender a tese."
       },
       {
-        "enunciado": "O que um editorial pode fazer em relação a resultados científicos, segundo o texto?",
+        "enunciado": "O que um editorial pode fazer em relação a resultados científicos?",
         "opcoes": [
           "Deve sempre aceitá-los sem questionar.",
           "Pode contestá-los, baseando-se na ideologia e posicionamento da empresa.",
@@ -91,7 +91,7 @@
           "Só pode usar dados científicos se forem de revistas famosas."
         ],
         "correta": 1,
-        "explicacao": "O texto cita que editoriais podem adotar posições diferentes, até mesmo questionando a ciência, pois representam a ideologia do veículo."
+        "explicacao": "Editoriais podem adotar posições diferentes, até mesmo questionando a ciência, pois representam a ideologia do veículo."
       },
       {
         "enunciado": "Qual é o objetivo do uso de argumentos em um texto editorial?",
@@ -127,7 +127,7 @@
         "explicacao": "O texto aponta que o negacionismo climático serve a interesses econômicos de indústrias que não querem reduzir lucros."
       },
       {
-        "enunciado": "Segundo o texto, a comparação entre dois editoriais sobre o mesmo tema é útil para:",
+        "enunciado": "A comparação entre dois editoriais sobre o mesmo tema é útil para:",
         "opcoes": [
           "Descobrir qual deles é o mais longo e cansativo.",
           "Entender que um está sempre certo e o outro sempre errado.",
@@ -138,7 +138,7 @@
         "explicacao": "Comparar editoriais ajuda a perceber como a linha editorial e as opiniões de cada empresa influenciam a forma de apresentar o texto."
       },
       {
-        "enunciado": "A 'primeira característica' de um editorial, segundo o texto, é:",
+        "enunciado": "A 'primeira característica' de um editorial é:",
         "opcoes": [
           "Falar sobre assuntos aleatórios, sem importância social.",
           "Ter um tema bem determinado e relevante para a sociedade.",
@@ -149,7 +149,7 @@
         "explicacao": "O editorial sempre aborda um tema específico e de relevância para a sociedade."
       },
       {
-        "enunciado": "No texto sobre a ciência, qual a crítica feita à indústria do petróleo e carvão?",
+        "enunciado": "Qual a crítica feita à indústria do petróleo e carvão no contexto do editorial sobre ciência?",
         "opcoes": [
           "Elas investem pesado em energia solar.",
           "Elas financiam campanhas políticas para evitar medidas que reduzam seus lucros.",
@@ -157,7 +157,7 @@
           "Elas incentivam a diminuição do consumo."
         ],
         "correta": 1,
-        "explicacao": "O texto aponta que essas indústrias usam seu poder financeiro para influenciar a política e manter seus lucros."
+        "explicacao": "Essas indústrias usam seu poder financeiro para influenciar a política e manter seus lucros."
       },
       {
         "enunciado": "Um editorial é sempre neutro e imparcial?",
@@ -193,7 +193,7 @@
         "explicacao": "A tese é a ideia central que será defendida pelos argumentos ao longo do texto."
       },
       {
-        "enunciado": "Qual é a consequência de continuar ignorando as mudanças climáticas, segundo o texto?",
+        "enunciado": "Qual é a consequência de continuar ignorando as mudanças climáticas?",
         "opcoes": [
           "O planeta continuará o mesmo, sem impactos.",
           "As empresas lucrarão mais.",
@@ -201,7 +201,7 @@
           "Haverá maior risco de eventos climáticos extremos, o que ameaça a economia."
         ],
         "correta": 3,
-        "explicacao": "O texto argumenta que ignorar a ciência climática é um risco para a humanidade e para a economia."
+        "explicacao": "Ignorar a ciência climática é um risco para a humanidade e para a economia."
       },
       {
         "enunciado": "Qual é a finalidade do 'Uso de argumentos' em um editorial?",
@@ -215,7 +215,7 @@
         "explicacao": "Os argumentos servem para validar a tese e convencer o leitor de que a opinião do jornal é coerente."
       },
       {
-        "enunciado": "Segundo o texto, por que os editoriais costumam ter argumentos menos objetivos?",
+        "enunciado": "Por que os editoriais costumam ter argumentos menos objetivos?",
         "opcoes": [
           "Porque os jornalistas não sabem usar números.",
           "Porque o texto traduz a ideologia e a linha de pensamento do veículo de informação.",
@@ -286,10 +286,10 @@
           "Não, mas sempre foi considerado um crime inafiançável."
         ],
         "correta": 1,
-        "explicacao": "O texto cita o exemplo do historiador Procópio de Cesareia, no século VI, que espalhou informações falsas sobre o imperador."
+        "explicacao": "O historiador Procópio de Cesareia, no século VI, já espalhava informações falsas sobre o imperador."
       },
       {
-        "enunciado": "Quem foi Procópio de Cesareia, mencionado no texto?",
+        "enunciado": "Quem foi Procópio de Cesareia?",
         "opcoes": [
           "Um inventor da internet.",
           "Um imperador romano que foi vítima de fake news.",
@@ -355,7 +355,7 @@
         "explicacao": "A principal ferramenta contra as fake news é o senso crítico: checar os fatos e não repassar informações não verificadas."
       },
       {
-        "enunciado": "Qual exemplo de Fato é citado no texto?",
+        "enunciado": "Qual exemplo de Fato foi citado?",
         "opcoes": [
           "O filme 'La La Land' é mais bonito.",
           "O filme 'Moonlight' ganhou o Oscar de melhor filme em 2017.",
@@ -399,7 +399,7 @@
         "explicacao": "Cabe a nós, como cidadãos, mudar esse cenário através da checagem e não compartilhando inverdades."
       },
       {
-        "enunciado": "Segundo o texto, o que o leitor deve desconfiar ao ler uma notícia?",
+        "enunciado": "O que o leitor deve desconfiar ao ler uma notícia?",
         "opcoes": [
           "De notícias com fontes claras e nomes de autores.",
           "De títulos em letras maiúsculas, informações exageradas e falta de transparência sobre quem registrou o domínio.",
@@ -407,10 +407,10 @@
           "De textos que usam dados estatísticos e gráficos."
         ],
         "correta": 1,
-        "explicacao": "O texto alerta sobre o uso de letras maiúsculas (caça-cliques) e a falta de transparência sobre a origem do site."
+        "explicacao": "O alerta é sobre o uso de letras maiúsculas (caça-cliques) e a falta de transparência sobre a origem do site."
       },
       {
-        "enunciado": "No texto sobre a checagem de fatos, o que caracteriza o 'jornalismo sério'?",
+        "enunciado": "O que caracteriza o 'jornalismo sério'?",
         "opcoes": [
           "A busca pela verdade, a transparência e o combate aos caça-cliques.",
           "A publicação de notícias sem se importar com a veracidade.",
@@ -429,12 +429,12 @@
           "Que é divertida."
         ],
         "correta": 1,
-        "explicacao": "O texto usa 'ilícito' para se referir a ações proibidas por lei, como enganar o leitor com notícias falsas."
+        "explicacao": "O termo 'ilícito' refere-se a ações proibidas por lei, como enganar o leitor com notícias falsas."
       },
       {
-        "enunciado": "Qual é a diferença entre Fato e Opinião, segundo o texto?",
+        "enunciado": "Qual é a diferença entre Fato e Opinião?",
         "opcoes": [
-          "Fato é verificável e opinão é um ponto de vista subjetivo.",
+          "Fato é verificável e opinião é um ponto de vista subjetivo.",
           "Fato é uma opinião e opinião é um fato.",
           "Ambos são a mesma coisa.",
           "Fato é sempre falso e opinião é sempre verdadeira."
@@ -451,7 +451,7 @@
           "Ler apenas o título e ignorar o resto."
         ],
         "correta": 1,
-        "explicacao": "O texto enfatiza a importância do olhar crítico e da checagem para evitar a propagação de fake news."
+        "explicacao": "A ênfase está na importância do olhar crítico e da checagem para evitar a propagação de fake news."
       }
     ]
   },
@@ -462,7 +462,7 @@
     "icone": "🔬",
     "perguntas": [
       {
-        "enunciado": "No editorial 'A quem interessa atacar a ciência?', qual é a principal preocupação apontada sobre a negação da ciência?",
+        "enunciado": "Qual é a principal preocupação apontada sobre a negação da ciência?",
         "opcoes": [
           "O alto custo das pesquisas científicas.",
           "A falta de interesse dos jovens pela ciência.",
@@ -470,10 +470,10 @@
           "A dificuldade de encontrar cientistas qualificados no mercado."
         ],
         "correta": 2,
-        "explicacao": "O texto aponta que o negacionismo climático e a descrença na ciência servem a interesses econômicos de indústrias que não querem reduzir lucros."
+        "explicacao": "O negacionismo climático e a descrença na ciência servem a interesses econômicos de indústrias que não querem reduzir lucros."
       },
       {
-        "enunciado": "Segundo o texto, qual é a definição de 'método científico'?",
+        "enunciado": "Qual é a definição de 'método científico'?",
         "opcoes": [
           "Um conjunto de regras fixas que nunca mudam.",
           "Um processo dinâmico de construção do conhecimento, em permanente evolução.",
@@ -484,7 +484,7 @@
         "explicacao": "A ciência é um processo dinâmico de construção do conhecimento, não é imutável."
       },
       {
-        "enunciado": "O texto afirma que a ciência do clima é 'robusta'. O que isso significa?",
+        "enunciado": "A ciência do clima é considerada 'robusta'. O que isso significa?",
         "opcoes": [
           "Que ela é frágil e incerta.",
           "Que ela é sólida e firme, baseada em muitos resultados sólidos.",
@@ -495,7 +495,7 @@
         "explicacao": "Robusto significa sólido/firme. A ciência do clima tem resultados sólidos, como o aumento de eventos climáticos extremos."
       },
       {
-        "enunciado": "Segundo o texto, qual é o interesse da indústria do petróleo e carvão ao financiar campanhas políticas?",
+        "enunciado": "Qual é o interesse da indústria do petróleo e carvão ao financiar campanhas políticas?",
         "opcoes": [
           "Investir em energia solar.",
           "Evitar medidas que reduzam seus lucros.",
@@ -506,7 +506,7 @@
         "explicacao": "Essas indústrias usam seu poder financeiro para evitar medidas que diminuam seus lucros."
       },
       {
-        "enunciado": "Como a ciência, segundo o texto, nos ajuda a enxergar as mudanças climáticas?",
+        "enunciado": "Como a ciência nos ajuda a enxergar as mudanças climáticas?",
         "opcoes": [
           "Como uma mentira inventada.",
           "Como uma ameaça real, com eventos extremos cada vez mais severos.",
@@ -517,18 +517,18 @@
         "explicacao": "A ciência do clima mostra que o aquecimento global é uma ameaça real, com eventos extremos cada vez mais frequentes."
       },
       {
-        "enunciado": "Quem é Donald Trump no contexto do texto 'A quem interessa atacar a ciência?'",
+        "enunciado": "Qual é o papel de Donald Trump no contexto do movimento 'anticência'?",
         "opcoes": [
           "Um cientista renomado.",
-          "Um empresário e político que é um dos expoentes do movimento 'anticência'.",
+          "Um dos expoentes do movimento 'anticência'.",
           "Um jornalista que defende a ciência.",
           "Um líder religioso que apoia a ciência."
         ],
         "correta": 1,
-        "explicacao": "O texto cita Trump como um dos expoentes do movimento global 'anticência'."
+        "explicacao": "Trump é citado como um dos expoentes do movimento global 'anticência'."
       },
       {
-        "enunciado": "Por que o texto diz que a luta contra as mudanças climáticas é um desafio para a indústria?",
+        "enunciado": "Por que a luta contra as mudanças climáticas é um desafio para a indústria?",
         "opcoes": [
           "Porque a indústria não tem recursos para mudar.",
           "Porque a ciência exige uma redução do consumo e dos lucros para preservar o planeta.",
@@ -539,7 +539,7 @@
         "explicacao": "A mudança de modelo econômico exige redução de consumo e, consequentemente, afeta os lucros de indústrias que dependem da exploração."
       },
       {
-        "enunciado": "Qual é o significado da palavra 'inócua' usada no texto?",
+        "enunciado": "Qual é o significado da palavra 'inócua'?",
         "opcoes": [
           "Que é muito importante.",
           "Que não produz o efeito pretendido, ineficaz.",
@@ -547,10 +547,10 @@
           "Que é muito cara."
         ],
         "correta": 1,
-        "explicacao": "O texto usa 'inócua' para dizer que qualquer tentativa de debater o método científico com quem nega a ciência é ineficaz."
+        "explicacao": "Inócua significa que qualquer tentativa de debater o método científico com quem nega a ciência é ineficaz."
       },
       {
-        "enunciado": "Segundo o texto, a 'descrença na ciência' é perigosa porque:",
+        "enunciado": "Por que a 'descrença na ciência' é perigosa?",
         "opcoes": [
           "Impede o avanço da tecnologia.",
           "Faz com que as pessoas não acreditem em fatos comprovados e tomem decisões que prejudicam a sociedade e o planeta.",
@@ -561,7 +561,7 @@
         "explicacao": "A negação da ciência leva a decisões políticas e econômicas que ignoram riscos reais, como as mudanças climáticas."
       },
       {
-        "enunciado": "O texto diz que o 'negacionismo climático' é sustentado por:",
+        "enunciado": "O 'negacionismo climático' é sustentado por:",
         "opcoes": [
           "Grandes corporações e grupos ultraconservadores que não querem perder privilégios.",
           "A maioria dos cientistas do mundo.",
@@ -569,10 +569,10 @@
           "Os países mais pobres."
         ],
         "correta": 0,
-        "explicacao": "O texto aponta que o negacionismo é financiado por quem quer manter o atual sistema econômico de concentração de renda."
+        "explicacao": "O negacionismo é financiado por quem quer manter o atual sistema econômico de concentração de renda."
       },
       {
-        "enunciado": "Em relação ao futuro do planeta, o texto argumenta que:",
+        "enunciado": "Em relação ao futuro do planeta, argumenta-se que:",
         "opcoes": [
           "Não há com o que se preocupar.",
           "É preciso mudar o modelo econômico e construir uma nova sociedade, mais igualitária e sustentável.",
@@ -580,10 +580,10 @@
           "O consumo deve aumentar."
         ],
         "correta": 1,
-        "explicacao": "O texto defende que a ciência deve vencer e que precisamos redirecionar padrões socioeconômicos para um futuro sustentável."
+        "explicacao": "A ciência deve vencer e precisamos redirecionar padrões socioeconômicos para um futuro sustentável."
       },
       {
-        "enunciado": "O que o texto quer dizer com 'O futuro de seu próprio negócio' ao falar das empresas?",
+        "enunciado": "O que significa a expressão 'O futuro de seu próprio negócio' ao falar das empresas?",
         "opcoes": [
           "Que as empresas não se importam com o futuro.",
           "Que o lucro imediato pode levar à destruição da própria economia no longo prazo.",
@@ -591,10 +591,10 @@
           "Que o negócio é a única coisa importante."
         ],
         "correta": 1,
-        "explicacao": "O texto alerta que a ganância de curto prazo pode levar a um colapso econômico e ambiental que afetará as próprias empresas."
+        "explicacao": "A ganância de curto prazo pode levar a um colapso econômico e ambiental que afetará as próprias empresas."
       },
       {
-        "enunciado": "De acordo com o texto, qual é a relação entre a ciência e o 'desenvolvimento atual'?",
+        "enunciado": "Qual é a relação entre a ciência e o 'desenvolvimento atual'?",
         "opcoes": [
           "A ciência apoia o desenvolvimento atual sem críticas.",
           "A ciência nos mostra que o desenvolvimento atual é insustentável e precisa ser mudado.",
@@ -605,7 +605,7 @@
         "explicacao": "A ciência do clima mostra que o atual modelo de desenvolvimento é insustentável e exige mudanças."
       },
       {
-        "enunciado": "No texto, a palavra 'expoentes' refere-se a:",
+        "enunciado": "O que significa a palavra 'expoentes'?",
         "opcoes": [
           "Pessoas que negam a ciência.",
           "Indivíduos que se destacam como principais representantes de um movimento ou ideia.",
@@ -627,7 +627,7 @@
         "explicacao": "As mudanças climáticas são o exemplo central usado no texto para ilustrar o ataque à ciência."
       },
       {
-        "enunciado": "O texto afirma que a ciência é um processo 'dinâmico'. Qual das opções abaixo reflete essa ideia?",
+        "enunciado": "A ciência é um processo 'dinâmico'. Qual das opções abaixo reflete essa ideia?",
         "opcoes": [
           "A ciência nunca muda suas conclusões.",
           "A ciência está sempre em evolução, revendo e construindo conhecimento.",
@@ -638,7 +638,7 @@
         "explicacao": "Ser dinâmico significa estar em permanente evolução, construindo e revisando o conhecimento."
       },
       {
-        "enunciado": "O que o texto critica quando fala em 'ignorar o atual estágio de robustez da ciência'?",
+        "enunciado": "O que significa 'ignorar o atual estágio de robustez da ciência'?",
         "opcoes": [
           "A falta de recursos para a ciência.",
           "A atitude de negar ou desconsiderar o conhecimento científico já consolidado.",
@@ -649,7 +649,7 @@
         "explicacao": "Ignorar a ciência robusta é negar os fatos comprovados, como a crise climática."
       },
       {
-        "enunciado": "Segundo o texto, a busca por 'sustentabilidade' é incompatível com:",
+        "enunciado": "A busca por 'sustentabilidade' é incompatível com:",
         "opcoes": [
           "O lucro imediato e a exploração desenfreada dos recursos naturais.",
           "A ciência e a tecnologia.",
