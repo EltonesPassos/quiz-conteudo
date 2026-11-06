@@ -1,7 +1,7 @@
 [
   {
     "id": "mat_racionais_01",
-    "titulo": "Matemática - Números Racionais",
+    "titulo": "Matemática - Frações e Decimais",
     "tipo": "conteudo",
     "icone": "🔢",
     "perguntas": [
@@ -38,6 +38,58 @@
         "correta": 1,
         "explicacao": "O decimal exato tem fim, como 2,5 ou 0,125."
       },
+      {
+        "enunciado": "Todo número natural é um número racional?",
+        "opcoes": [
+          "Sim, pois pode ser escrito como uma fração com denominador 1.",
+          "Não, pois é maior que zero.",
+          "Não, pois é um número inteiro.",
+          "Sim, mas apenas os números pares."
+        ],
+        "correta": 0,
+        "explicacao": "Qualquer número inteiro n pode ser escrito como n/1, logo é racional."
+      },
+      {
+        "enunciado": "Como o número misto 1 1/2 pode ser representado como uma fração imprópria?",
+        "opcoes": [
+          "1/2",
+          "2/3",
+          "5/2",
+          "3/2"
+        ],
+        "correta": 3,
+        "explicacao": "1 1/2 = (1 × 2 + 1) / 2 = 3/2."
+      },
+      {
+        "enunciado": "O número 3,5 é um número racional porque:",
+        "opcoes": [
+          "Pode ser escrito como 35/10.",
+          "É um número inteiro.",
+          "É maior que 3.",
+          "Tem uma vírgula."
+        ],
+        "correta": 0,
+        "explicacao": "35/10 é uma fração, logo 3,5 é racional."
+      },
+      {
+        "enunciado": "O número -7 pertence a qual conjunto?",
+        "opcoes": [
+          "Apenas aos Naturais.",
+          "Apenas aos Irracionais.",
+          "Aos Inteiros e aos Racionais.",
+          "Apenas aos Irracionais."
+        ],
+        "correta": 2,
+        "explicacao": "-7 é inteiro e todo inteiro é racional (pode ser escrito como -7/1)."
+      }
+    ]
+  },
+  {
+    "id": "mat_dizimas_01",
+    "titulo": "Matemática - Dízimas Periódicas",
+    "tipo": "conteudo",
+    "icone": "♾️",
+    "perguntas": [
       {
         "enunciado": "O que é uma 'dízima periódica'?",
         "opcoes": [
@@ -83,60 +135,35 @@
         "explicacao": "Para a dízima 0,2555...: (25 - 2) / 90 = 23/90."
       },
       {
-        "enunciado": "Todo número natural é um número racional?",
+        "enunciado": "Qual das opções é uma dízima periódica composta?",
         "opcoes": [
-          "Sim, pois pode ser escrito como uma fração com denominador 1.",
-          "Não, pois é maior que zero.",
-          "Não, pois é um número inteiro.",
-          "Sim, mas apenas os números pares."
+          "0,333...",
+          "0,666...",
+          "0,12333...",
+          "0,5"
         ],
-        "correta": 0,
-        "explicacao": "Qualquer número inteiro n pode ser escrito como n/1, logo é racional."
+        "correta": 2,
+        "explicacao": "A dízima composta tem uma parte não periódica (12) antes do período (33...)."
       },
       {
-        "enunciado": "Como o número misto 1 1/2 pode ser representado como uma fração imprópria?",
+        "enunciado": "Qual é a fração geratriz de 0,666...?",
         "opcoes": [
-          "1/2",
+          "1/6",
           "2/3",
-          "5/2",
-          "3/2"
-        ],
-        "correta": 3,
-        "explicacao": "1 1/2 = (1 × 2 + 1) / 2 = 3/2."
-      },
-      {
-        "enunciado": "O que indica o módulo (ou valor absoluto) de um número?",
-        "opcoes": [
-          "A distância desse número até o zero na reta numérica.",
-          "Se o número é positivo ou negativo.",
-          "Apenas o seu valor decimal.",
-          "O dobro do número."
-        ],
-        "correta": 0,
-        "explicacao": "O módulo é sempre a distância até o zero, por isso é sempre positivo ou zero."
-      },
-      {
-        "enunciado": "Qual é o módulo de -5?",
-        "opcoes": [
-          "-5",
-          "5",
-          "0",
-          "25"
+          "3/5",
+          "6/10"
         ],
         "correta": 1,
-        "explicacao": "O módulo de -5 é 5, pois a distância de -5 até o zero é 5."
-      },
-      {
-        "enunciado": "O que são números opostos?",
-        "opcoes": [
-          "Números que têm o mesmo valor.",
-          "Números que estão a mesma distância do zero, mas em lados opostos na reta.",
-          "Números que são sempre negativos.",
-          "Números que são fracionários."
-        ],
-        "correta": 1,
-        "explicacao": "Exemplo: +3 e -3 são opostos, pois têm o mesmo módulo e sinais diferentes."
-      },
+        "explicacao": "0,666... = 6/9 = 2/3 (simplificado)."
+      }
+    ]
+  },
+  {
+    "id": "mat_irracionais_01",
+    "titulo": "Matemática - Números Irracionais",
+    "tipo": "conteudo",
+    "icone": "🎲",
+    "perguntas": [
       {
         "enunciado": "O que é um número irracional?",
         "opcoes": [
@@ -193,17 +220,6 @@
         "explicacao": "Os números Reais (R) englobam tanto os racionais quanto os irracionais."
       },
       {
-        "enunciado": "Qual das sequências representa apenas números racionais?",
-        "opcoes": [
-          "√2, √3, π",
-          "1/2, 0,75, -3",
-          "π, 2,5, √5",
-          "0,333..., √7, -1"
-        ],
-        "correta": 1,
-        "explicacao": "1/2 é fração, 0,75 é decimal exato e -3 é inteiro. Todos são racionais."
-      },
-      {
         "enunciado": "O número 0,123456789... (sem repetição) é um número:",
         "opcoes": [
           "Racional exato.",
@@ -215,50 +231,6 @@
         "explicacao": "Sem repetição padrão, não pode ser escrito como fração, logo é irracional."
       },
       {
-        "enunciado": "O número 3,5 é um número racional porque:",
-        "opcoes": [
-          "Pode ser escrito como 35/10.",
-          "É um número inteiro.",
-          "É maior que 3.",
-          "Tem uma vírgula."
-        ],
-        "correta": 0,
-        "explicacao": "35/10 é uma fração, logo 3,5 é racional."
-      },
-      {
-        "enunciado": "Qual das opções é uma dízima periódica composta?",
-        "opcoes": [
-          "0,333...",
-          "0,666...",
-          "0,12333...",
-          "0,5"
-        ],
-        "correta": 2,
-        "explicacao": "A dízima composta tem uma parte não periódica (12) antes do período (33...)."
-      },
-      {
-        "enunciado": "Qual é a fração geratriz de 0,666...?",
-        "opcoes": [
-          "1/6",
-          "2/3",
-          "3/5",
-          "6/10"
-        ],
-        "correta": 1,
-        "explicacao": "0,666... = 6/9 = 2/3 (simplificado)."
-      },
-      {
-        "enunciado": "O número -7 pertence a qual conjunto?",
-        "opcoes": [
-          "Apenas aos Naturais.",
-          "Apenas aos Irracionais.",
-          "Aos Inteiros e aos Racionais.",
-          "Apenas aos Irracionais."
-        ],
-        "correta": 2,
-        "explicacao": "-7 é inteiro e todo inteiro é racional (pode ser escrito como -7/1)."
-      },
-      {
         "enunciado": "O número π (pi) é classificado como:",
         "opcoes": [
           "Racional exato.",
@@ -268,6 +240,47 @@
         ],
         "correta": 2,
         "explicacao": "π tem infinitas casas decimais sem repetição, logo é irracional."
+      }
+    ]
+  },
+  {
+    "id": "mat_modulo_01",
+    "titulo": "Matemática - Módulo e Opostos",
+    "tipo": "conteudo",
+    "icone": "⚖️",
+    "perguntas": [
+      {
+        "enunciado": "O que indica o módulo (ou valor absoluto) de um número?",
+        "opcoes": [
+          "A distância desse número até o zero na reta numérica.",
+          "Se o número é positivo ou negativo.",
+          "Apenas o seu valor decimal.",
+          "O dobro do número."
+        ],
+        "correta": 0,
+        "explicacao": "O módulo é sempre a distância até o zero, por isso é sempre positivo ou zero."
+      },
+      {
+        "enunciado": "Qual é o módulo de -5?",
+        "opcoes": [
+          "-5",
+          "5",
+          "0",
+          "25"
+        ],
+        "correta": 1,
+        "explicacao": "O módulo de -5 é 5, pois a distância de -5 até o zero é 5."
+      },
+      {
+        "enunciado": "O que são números opostos?",
+        "opcoes": [
+          "Números que têm o mesmo valor.",
+          "Números que estão a mesma distância do zero, mas em lados opostos na reta.",
+          "Números que são sempre negativos.",
+          "Números que são fracionários."
+        ],
+        "correta": 1,
+        "explicacao": "Exemplo: +3 e -3 são opostos, pois têm o mesmo módulo e sinais diferentes."
       }
     ]
   },
@@ -441,39 +454,6 @@
         ],
         "correta": 2,
         "explicacao": "2,3 × 0,01 = 0,023."
-      },
-      {
-        "enunciado": "A distância da Terra à Lua é de aproximadamente 384.000 km. Em notação científica, isso é:",
-        "opcoes": [
-          "3,84 × 10⁵ km",
-          "3,84 × 10⁶ km",
-          "38,4 × 10⁴ km",
-          "0,384 × 10⁶ km"
-        ],
-        "correta": 0,
-        "explicacao": "384.000 = 3,84 × 10⁵."
-      },
-      {
-        "enunciado": "O diâmetro de uma bactéria é cerca de 0,000001 m. Em notação científica:",
-        "opcoes": [
-          "1 × 10⁻⁶ m",
-          "1 × 10⁶ m",
-          "0,1 × 10⁻⁵ m",
-          "10 × 10⁻⁷ m"
-        ],
-        "correta": 0,
-        "explicacao": "0,000001 = 1 × 10⁻⁶."
-      },
-      {
-        "enunciado": "Qual das potências abaixo tem o maior valor?",
-        "opcoes": [
-          "2⁴",
-          "4²",
-          "2⁵",
-          "3³"
-        ],
-        "correta": 2,
-        "explicacao": "2⁴=16, 4²=16, 2⁵=32, 3³=27. O maior é 2⁵=32."
       }
     ]
   },
@@ -638,28 +618,6 @@
         "explicacao": "(√9)² = 3² = 9."
       },
       {
-        "enunciado": "Qual é o valor de √(9²)?",
-        "opcoes": [
-          "3",
-          "9",
-          "81",
-          "0"
-        ],
-        "correta": 1,
-        "explicacao": "√(81) = 9."
-      },
-      {
-        "enunciado": "A raiz de um número quadrado perfeito é sempre:",
-        "opcoes": [
-          "Racional.",
-          "Irracional.",
-          "Negativa.",
-          "Zero."
-        ],
-        "correta": 0,
-        "explicacao": "Quadrados perfeitos têm raízes exatas, logo racionais."
-      },
-      {
         "enunciado": "Quais números abaixo são quadrados perfeitos?",
         "opcoes": [
           "1, 4, 9, 16, 25...",
@@ -669,17 +627,6 @@
         ],
         "correta": 0,
         "explicacao": "Quadrados perfeitos são resultados de números inteiros ao quadrado: 1²=1, 2²=4, 3²=9..."
-      },
-      {
-        "enunciado": "O que é uma raiz inexata?",
-        "opcoes": [
-          "Aquela que não tem resultado inteiro.",
-          "Aquela que dá um número negativo.",
-          "Aquela que dá zero.",
-          "Aquela que não existe."
-        ],
-        "correta": 0,
-        "explicacao": "Raízes inexatas resultam em números irracionais (ex: √2, √3)."
       }
     ]
   },
