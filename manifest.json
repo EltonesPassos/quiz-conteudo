@@ -1,5 +1,6 @@
 {
   "bancos": [
-    "https://raw.githubusercontent.com/EltonESPassos/quiz-conteudo/refs/heads/main/portugues_8ano.json"
+    "https://raw.githubusercontent.com/EltonESPassos/quiz-conteudo/refs/heads/main/portugues_8ano.json",
+    "https://raw.githubusercontent.com/EltonESPassos/quiz-conteudo/refs/heads/main/portugues_8ano_parte2.json"
   ]
 }
