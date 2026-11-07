@@ -1,6 +1,6 @@
 [
   {
-    "id": "8ano_port_editorial_01",
+    "id": "8ano_v1_port_editorial_01",
     "titulo": "Português - O Gênero Editorial",
     "tipo": "conteudo",
     "icone": "📰",
@@ -228,7 +228,7 @@
     ]
   },
   {
-    "id": "8ano_port_fakenews_01",
+    "id": "8ano_v1_port_fakenews_01",
     "titulo": "Português - Fake News e Olhar Crítico",
     "tipo": "conteudo",
     "icone": "🕵️",
@@ -456,7 +456,7 @@
     ]
   },
   {
-    "id": "8ano_port_ciencia_01",
+    "id": "8ano_v1_port_ciencia_01",
     "titulo": "Português - Fato, Opinião e Ciência",
     "tipo": "conteudo",
     "icone": "🔬",
@@ -673,7 +673,7 @@
     ]
   },
   {
-    "id": "8ano_port_comentario_01",
+    "id": "8ano_v1_port_comentario_01",
     "titulo": "Português - Comentário do Leitor",
     "tipo": "conteudo",
     "icone": "💬",
@@ -802,7 +802,7 @@
     ]
   },
   {
-    "id": "8ano_port_formacao_01",
+    "id": "8ano_v1_port_formacao_01",
     "titulo": "Português - Formação de Palavras",
     "tipo": "conteudo",
     "icone": "🧩",
@@ -975,7 +975,7 @@
     ]
   },
   {
-    "id": "8ano_port_checagem_01",
+    "id": "8ano_v1_port_checagem_01",
     "titulo": "Português - Checagem de Fatos",
     "tipo": "conteudo",
     "icone": "🔍",
@@ -1148,7 +1148,7 @@
     ]
   },
   {
-    "id": "8ano_port_direitos_01",
+    "id": "8ano_v1_port_direitos_01",
     "titulo": "Português - Direitos das Crianças",
     "tipo": "conteudo",
     "icone": "⚖️",
