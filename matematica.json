@@ -1,6 +1,6 @@
 [
   {
-    "id": "8ano_mat_racionais_01",
+    "id": "8ano_v1_mat_racionais_01",
     "titulo": "Matemática - Frações e Decimais",
     "tipo": "conteudo",
     "icone": "🔢",
@@ -28,7 +28,7 @@
     ]
   },
   {
-    "id": "8ano_mat_dizimas_01",
+    "id": "8ano_v1_mat_dizimas_01",
     "titulo": "Matemática - Dízimas Periódicas",
     "tipo": "conteudo",
     "icone": "♾️",
@@ -56,7 +56,7 @@
     ]
   },
   {
-    "id": "8ano_mat_irracionais_01",
+    "id": "8ano_v1_mat_irracionais_01",
     "titulo": "Matemática - Números Irracionais",
     "tipo": "conteudo",
     "icone": "🎲",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "id": "8ano_mat_modulo_01",
+    "id": "8ano_v1_mat_modulo_01",
     "titulo": "Matemática - Módulo e Opostos",
     "tipo": "conteudo",
     "icone": "⚖️",
@@ -112,7 +112,7 @@
     ]
   },
   {
-    "id": "8ano_mat_potencias_01",
+    "id": "8ano_v1_mat_potencias_01",
     "titulo": "Matemática - Potenciação e Notação Científica",
     "tipo": "conteudo",
     "icone": "⚡",
@@ -140,7 +140,7 @@
     ]
   },
   {
-    "id": "8ano_mat_raizes_01",
+    "id": "8ano_v1_mat_raizes_01",
     "titulo": "Matemática - Raízes e Radiciação",
     "tipo": "conteudo",
     "icone": "√",
@@ -168,7 +168,7 @@
     ]
   },
   {
-    "id": "8ano_mat_pitagoras_01",
+    "id": "8ano_v1_mat_pitagoras_01",
     "titulo": "Matemática - Teorema de Pitágoras",
     "tipo": "conteudo",
     "icone": "📐",
