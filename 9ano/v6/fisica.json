@@ -1,0 +1,1598 @@
+[
+  {
+    "id": "9ano_v6_fis_calor_temp_01",
+    "titulo": "Física - Calor e Temperatura",
+    "tipo": "conteudo",
+    "icone": "🌡️",
+    "perguntas": [
+      {
+        "enunciado": "Qual é a definição correta de temperatura?",
+        "opcoes": [
+          "A quantidade total de calor de um corpo.",
+          "A energia térmica em trânsito.",
+          "A grandeza física associada à energia cinética média das partículas de um corpo.",
+          "A medida da dilatação de um material."
+        ],
+        "correta": 2,
+        "explicacao": "A temperatura mede o grau de agitação das moléculas (energia cinética média)."
+      },
+      {
+        "enunciado": "O que é calor?",
+        "opcoes": [
+          "A energia térmica transmitida de um corpo de maior temperatura para um de menor temperatura.",
+          "A energia cinética média das partículas.",
+          "A sensação de quente ou frio.",
+          "Uma escala de medição."
+        ],
+        "correta": 0,
+        "explicacao": "Calor é a energia térmica em trânsito, que flui naturalmente do corpo mais quente para o mais frio."
+      },
+      {
+        "enunciado": "Quando dois corpos em contato atingem a mesma temperatura, dizemos que eles alcançaram:",
+        "opcoes": [
+          "O zero absoluto.",
+          "O equilíbrio térmico.",
+          "A dilatação térmica.",
+          "O calor latente."
+        ],
+        "correta": 1,
+        "explicacao": "O equilíbrio térmico ocorre quando cessa a troca líquida de calor entre os corpos."
+      },
+      {
+        "enunciado": "O que acontece com as moléculas de um corpo quando ele é aquecido?",
+        "opcoes": [
+          "Elas param de se mover.",
+          "Elas se agitam mais, aumentando sua energia cinética.",
+          "Elas diminuem de tamanho.",
+          "Elas se transformam em outro elemento químico."
+        ],
+        "correta": 1,
+        "explicacao": "O aumento da temperatura significa maior agitação térmica (energia cinética)."
+      },
+      {
+        "enunciado": "Qual é a unidade de medida de temperatura no Sistema Internacional de Unidades (SI)?",
+        "opcoes": [
+          "Celsius (°C)",
+          "Fahrenheit (°F)",
+          "Kelvin (K)",
+          "Caloria (cal)"
+        ],
+        "correta": 2,
+        "explicacao": "A unidade oficial do SI para temperatura é o Kelvin (K)."
+      },
+      {
+        "enunciado": "O que significa o 'zero absoluto'?",
+        "opcoes": [
+          "A temperatura em que a água congela (0 °C).",
+          "A temperatura em que a agitação das partículas cessa completamente (0 K).",
+          "A temperatura média do corpo humano.",
+          "O ponto de ebulição da água."
+        ],
+        "correta": 1,
+        "explicacao": "No zero absoluto (0 K ou -273 °C), teoricamente a agitação molecular é nula."
+      },
+      {
+        "enunciado": "A sensação de frio ou quente é relativa?",
+        "opcoes": [
+          "Não, é absoluta e igual para todos.",
+          "Sim, depende das condições iniciais e do corpo que sente.",
+          "Sim, mas só para metais.",
+          "Não, depende apenas do termômetro."
+        ],
+        "correta": 1,
+        "explicacao": "Nossa percepção térmica é relativa à temperatura da nossa pele no momento."
+      },
+      {
+        "enunciado": "Se você segura um cubo de gelo, o calor flui:",
+        "opcoes": [
+          "Do gelo para a sua mão.",
+          "Da sua mão para o gelo.",
+          "Não há fluxo de calor.",
+          "Do meio ambiente para o gelo apenas."
+        ],
+        "correta": 1,
+        "explicacao": "O calor flui do corpo mais quente (mão) para o mais frio (gelo)."
+      },
+      {
+        "enunciado": "Calor e temperatura são a mesma coisa?",
+        "opcoes": [
+          "Sim, são sinônimos.",
+          "Não. Calor é energia em trânsito; temperatura é a medida da agitação molecular.",
+          "Sim, ambos são medidos em calorias.",
+          "Não. Calor é medido em graus e temperatura em calorias."
+        ],
+        "correta": 1,
+        "explicacao": "São grandezas diferentes: calor é energia (calorias/Joules) e temperatura é nível de agitação (°C/K)."
+      },
+      {
+        "enunciado": "O instrumento utilizado para medir a temperatura é o:",
+        "opcoes": [
+          "Barômetro.",
+          "Termômetro.",
+          "Calorímetro.",
+          "Higrômetro."
+        ],
+        "correta": 1,
+        "explicacao": "O termômetro mede a temperatura, aproveitando a dilatação de líquidos."
+      },
+      {
+        "enunciado": "Um corpo com temperatura de 30 °C está em um ambiente a 20 °C. O fluxo de calor ocorre:",
+        "opcoes": [
+          "Do ambiente para o corpo.",
+          "Do corpo para o ambiente.",
+          "Não há fluxo.",
+          "Os dois cedem calor igualmente."
+        ],
+        "correta": 1,
+        "explicacao": "O calor flui do corpo de maior temperatura (30 °C) para o de menor (20 °C)."
+      },
+      {
+        "enunciado": "Qual grandeza física é medida em calorias (cal) ou Joules (J)?",
+        "opcoes": [
+          "Temperatura.",
+          "Calor (energia térmica).",
+          "Pressão.",
+          "Volume."
+        ],
+        "correta": 1,
+        "explicacao": "Calor é uma forma de energia, logo é medido em cal ou J."
+      },
+      {
+        "enunciado": "O que é a energia térmica de um corpo?",
+        "opcoes": [
+          "A soma das energias cinéticas de todas as suas partículas.",
+          "Apenas a temperatura da superfície.",
+          "A quantidade de calor que ele recebe do Sol.",
+          "A sua massa multiplicada pela aceleração."
+        ],
+        "correta": 0,
+        "explicacao": "A energia térmica é o somatório da energia de vibração/agitação de todas as moléculas."
+      },
+      {
+        "enunciado": "Quando misturamos água quente e água fria em um recipiente isolado, a temperatura final será:",
+        "opcoes": [
+          "Igual à da água quente.",
+          "Igual à da água fria.",
+          "Uma média entre as duas, atingindo o equilíbrio térmico.",
+          "Sempre 0 °C."
+        ],
+        "correta": 2,
+        "explicacao": "O calor é transferido até que ambas atinjam a mesma temperatura (equilíbrio)."
+      },
+      {
+        "enunciado": "Se a temperatura de um corpo aumenta, o que ocorre com suas partículas?",
+        "opcoes": [
+          "Diminuem a vibração.",
+          "Aumentam a vibração e a energia cinética.",
+          "Param de vibrar.",
+          "Diminuem a massa."
+        ],
+        "correta": 1,
+        "explicacao": "Mais temperatura significa mais energia cinética (agitação)."
+      },
+      {
+        "enunciado": "Qual das opções NÃO é uma forma de transmissão de calor?",
+        "opcoes": [
+          "Condução.",
+          "Convecção.",
+          "Irradiação.",
+          "Dilatação."
+        ],
+        "correta": 3,
+        "explicacao": "Dilatação é um efeito do calor, não uma forma de transmissão."
+      },
+      {
+        "enunciado": "A propagação de calor que ocorre no vácuo (sem matéria) é chamada de:",
+        "opcoes": [
+          "Condução.",
+          "Convecção.",
+          "Irradiação.",
+          "Convecção forçada."
+        ],
+        "correta": 2,
+        "explicacao": "A irradiação ocorre por ondas eletromagnéticas, não precisando de meio material."
+      },
+      {
+        "enunciado": "A temperatura de um corpo é uma medida:",
+        "opcoes": [
+          "Da quantidade total de calor.",
+          "Do grau de agitação das partículas.",
+          "Da energia potencial gravitacional.",
+          "Da sua massa."
+        ],
+        "correta": 1,
+        "explicacao": "Como visto, a temperatura reflete a energia cinética média das partículas."
+      },
+      {
+        "enunciado": "Se dois corpos têm a mesma temperatura, podemos afirmar que:",
+        "opcoes": [
+          "Possuem a mesma quantidade de calor.",
+          "Não há fluxo líquido de calor entre eles.",
+          "Possuem a mesma massa.",
+          "São feitos do mesmo material."
+        ],
+        "correta": 1,
+        "explicacao": "Com temperaturas iguais, estão em equilíbrio térmico, sem troca líquida de calor."
+      },
+      {
+        "enunciado": "O calor sempre flui espontaneamente:",
+        "opcoes": [
+          "Do corpo de menor para o de maior temperatura.",
+          "Do corpo de maior para o de menor temperatura.",
+          "Em qualquer direção, independentemente da temperatura.",
+          "Apenas em sólidos."
+        ],
+        "correta": 1,
+        "explicacao": "O fluxo natural de calor é sempre do mais quente para o mais frio."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_fis_escalas_01",
+    "titulo": "Física - Escalas Termométricas",
+    "tipo": "conteudo",
+    "icone": "📏",
+    "perguntas": [
+      {
+        "enunciado": "Quais são as três escalas termométricas mais utilizadas atualmente?",
+        "opcoes": [
+          "Celsius, Fahrenheit e Kelvin.",
+          "Celsius, Kelvin e Rankine.",
+          "Fahrenheit, Réaumur e Kelvin.",
+          "Celsius, Fahrenheit e Réaumur."
+        ],
+        "correta": 0,
+        "explicacao": "As mais comuns são Celsius (°C), Fahrenheit (°F) e Kelvin (K)."
+      },
+      {
+        "enunciado": "Na escala Celsius, quais são os pontos fixos de fusão e ebulição da água, respectivamente?",
+        "opcoes": [
+          "0 °C e 100 °C",
+          "32 °C e 212 °C",
+          "273 °C e 373 °C",
+          "-273 °C e 0 °C"
+        ],
+        "correta": 0,
+        "explicacao": "A escala Celsius adota 0 °C para o gelo e 100 °C para a água em ebulição."
+      },
+      {
+        "enunciado": "Na escala Fahrenheit, quais são os pontos fixos de fusão e ebulição da água?",
+        "opcoes": [
+          "0 °F e 100 °F",
+          "32 °F e 212 °F",
+          "273 °F e 373 °F",
+          "0 °F e 212 °F"
+        ],
+        "correta": 1,
+        "explicacao": "A escala Fahrenheit adota 32 °F e 212 °F para os pontos de fusão e ebulição."
+      },
+      {
+        "enunciado": "Qual é o valor do zero absoluto na escala Celsius?",
+        "opcoes": [
+          "0 °C",
+          "-273 °C",
+          "273 °C",
+          "-100 °C"
+        ],
+        "correta": 1,
+        "explicacao": "O zero absoluto corresponde a -273,15 °C (adota-se -273 °C para cálculos)."
+      },
+      {
+        "enunciado": "Qual é a equação de conversão entre Celsius e Fahrenheit?",
+        "opcoes": [
+          "θc/5 = (θf - 32)/9",
+          "θc/100 = θf/180",
+          "θc = θf + 32",
+          "θc/9 = (θf - 32)/5"
+        ],
+        "correta": 0,
+        "explicacao": "A fórmula correta é θc/5 = (θf - 32)/9."
+      },
+      {
+        "enunciado": "Qual é a equação de conversão entre Celsius e Kelvin?",
+        "opcoes": [
+          "T = θc + 273",
+          "T = θc - 273",
+          "T = θc * 273",
+          "T = θc / 273"
+        ],
+        "correta": 0,
+        "explicacao": "A conversão é T(K) = θc + 273."
+      },
+      {
+        "enunciado": "Se a temperatura é de 25 °C, qual é o valor correspondente em Kelvin?",
+        "opcoes": [
+          "248 K",
+          "298 K",
+          "273 K",
+          "300 K"
+        ],
+        "correta": 1,
+        "explicacao": "T = 25 + 273 = 298 K."
+      },
+      {
+        "enunciado": "Se a temperatura é de 50 °C, qual é o valor em Fahrenheit?",
+        "opcoes": [
+          "122 °F",
+          "100 °F",
+          "90 °F",
+          "132 °F"
+        ],
+        "correta": 0,
+        "explicacao": "50/5 = (F - 32)/9 -> 10 = (F - 32)/9 -> 90 = F - 32 -> F = 122 °F."
+      },
+      {
+        "enunciado": "A temperatura de -40 °C corresponde a qual valor em Fahrenheit?",
+        "opcoes": [
+          "-40 °F",
+          "0 °F",
+          "-32 °F",
+          "32 °F"
+        ],
+        "correta": 0,
+        "explicacao": "-40 é o único ponto onde as escalas Celsius e Fahrenheit se igualam."
+      },
+      {
+        "enunciado": "Quem propôs a escala Celsius?",
+        "opcoes": [
+          "Anders Celsius",
+          "Daniel Fahrenheit",
+          "William Thomson (Lord Kelvin)",
+          "Cláudio Galeno"
+        ],
+        "correta": 0,
+        "explicacao": "Anders Celsius propôs a escala em 1742."
+      },
+      {
+        "enunciado": "Quem propôs a escala Kelvin?",
+        "opcoes": [
+          "Anders Celsius",
+          "Daniel Fahrenheit",
+          "William Thomson (Lord Kelvin)",
+          "Isaac Newton"
+        ],
+        "correta": 2,
+        "explicacao": "William Thomson, o Lord Kelvin, propôs a escala absoluta em 1848."
+      },
+      {
+        "enunciado": "A temperatura de 300 K corresponde a qual valor em Celsius?",
+        "opcoes": [
+          "27 °C",
+          "300 °C",
+          "273 °C",
+          "-27 °C"
+        ],
+        "correta": 0,
+        "explicacao": "θc = T - 273 = 300 - 273 = 27 °C."
+      },
+      {
+        "enunciado": "A temperatura de 100 °F corresponde a qual valor em Celsius (aproximadamente)?",
+        "opcoes": [
+          "37,8 °C",
+          "100 °C",
+          "50 °C",
+          "212 °C"
+        ],
+        "correta": 0,
+        "explicacao": "C/5 = (100-32)/9 -> C/5 = 68/9 -> C = 37,7... °C."
+      },
+      {
+        "enunciado": "A escala que adota o zero absoluto como seu ponto inicial é:",
+        "opcoes": [
+          "Celsius.",
+          "Fahrenheit.",
+          "Kelvin.",
+          "Rankine."
+        ],
+        "correta": 2,
+        "explicacao": "A escala Kelvin inicia no zero absoluto (0 K)."
+      },
+      {
+        "enunciado": "Na escala Kelvin, a unidade é representada por:",
+        "opcoes": [
+          "Grau Kelvin (°K)",
+          "Kelvin (K)",
+          "Kelvin (°k)",
+          "Grau k (K)"
+        ],
+        "correta": 1,
+        "explicacao": "Pela convenção atual, não se usa o símbolo de grau (°), apenas a letra K."
+      },
+      {
+        "enunciado": "Se a temperatura de um corpo é de 32 °F, quanto é em Celsius?",
+        "opcoes": [
+          "0 °C",
+          "32 °C",
+          "-32 °C",
+          "100 °C"
+        ],
+        "correta": 0,
+        "explicacao": "32 °F é o ponto de fusão da água, que corresponde a 0 °C."
+      },
+      {
+        "enunciado": "Qual das escalas possui valores sempre positivos (não tem valores negativos)?",
+        "opcoes": [
+          "Celsius.",
+          "Fahrenheit.",
+          "Kelvin.",
+          "Todas têm valores negativos."
+        ],
+        "correta": 2,
+        "explicacao": "Como o Kelvin começa no zero absoluto (a menor temperatura possível), não há valores negativos nessa escala."
+      },
+      {
+        "enunciado": "Converter 20 °C para Fahrenheit resulta em:",
+        "opcoes": [
+          "68 °F",
+          "36 °F",
+          "80 °F",
+          "52 °F"
+        ],
+        "correta": 0,
+        "explicacao": "20/5 = (F-32)/9 -> 4 = (F-32)/9 -> 36 = F-32 -> F = 68 °F."
+      },
+      {
+        "enunciado": "A temperatura de ebulição da água na escala Fahrenheit é:",
+        "opcoes": [
+          "100 °F",
+          "212 °F",
+          "273 °F",
+          "0 °F"
+        ],
+        "correta": 1,
+        "explicacao": "Na escala Fahrenheit, a água ferve a 212 °F."
+      },
+      {
+        "enunciado": "Se a variação de temperatura em Celsius é de 10 °C, a variação em Kelvin será:",
+        "opcoes": [
+          "10 K",
+          "283 K",
+          "5 K",
+          "20 K"
+        ],
+        "correta": 0,
+        "explicacao": "A variação nas escalas Celsius e Kelvin é idêntica (ΔC = ΔK)."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_fis_dilatacao_01",
+    "titulo": "Física - Dilatação Térmica",
+    "tipo": "conteudo",
+    "icone": "🌉",
+    "perguntas": [
+      {
+        "enunciado": "O que é dilatação térmica?",
+        "opcoes": [
+          "A diminuição do volume de um corpo ao ser resfriado.",
+          "O aumento das dimensões de um corpo devido ao aumento da temperatura.",
+          "A mudança de estado físico de uma substância.",
+          "A capacidade de um material conduzir calor."
+        ],
+        "correta": 1,
+        "explicacao": "A dilatação ocorre porque as moléculas se agitam mais e ocupam mais espaço."
+      },
+      {
+        "enunciado": "Quais são os três tipos de dilatação térmica?",
+        "opcoes": [
+          "Sólida, líquida e gasosa.",
+          "Linear, superficial e volumétrica.",
+          "Rápida, lenta e constante.",
+          "Endotérmica, exotérmica e neutra."
+        ],
+        "correta": 1,
+        "explicacao": "Dependendo das dimensões consideradas, a dilatação pode ser linear (1D), superficial (2D) ou volumétrica (3D)."
+      },
+      {
+        "enunciado": "A dilatação que ocorre no comprimento de um corpo é chamada de:",
+        "opcoes": [
+          "Dilatação superficial.",
+          "Dilatação volumétrica.",
+          "Dilatação linear.",
+          "Dilatação gasosa."
+        ],
+        "correta": 2,
+        "explicacao": "A dilatação linear considera apenas a variação do comprimento (ex: trilhos de trem)."
+      },
+      {
+        "enunciado": "A dilatação que ocorre na área de um corpo é chamada de:",
+        "opcoes": [
+          "Dilatação superficial.",
+          "Dilatação volumétrica.",
+          "Dilatação linear.",
+          "Dilatação de área."
+        ],
+        "correta": 0,
+        "explicacao": "A dilatação superficial considera a variação da área (ex: placas, pisos)."
+      },
+      {
+        "enunciado": "A dilatação que ocorre no volume de um corpo é chamada de:",
+        "opcoes": [
+          "Dilatação superficial.",
+          "Dilatação volumétrica.",
+          "Dilatação linear.",
+          "Dilatação de volume."
+        ],
+        "correta": 1,
+        "explicacao": "A dilatação volumétrica considera a variação nas três dimensões (ex: líquidos em recipientes)."
+      },
+      {
+        "enunciado": "O que acontece com a maioria das substâncias quando resfriadas?",
+        "opcoes": [
+          "Dilatam-se.",
+          "Contraem-se.",
+          "Mudam de cor.",
+          "Aumentam a temperatura."
+        ],
+        "correta": 1,
+        "explicacao": "Ao resfriar, as moléculas perdem energia e se aproximam, causando a contração térmica."
+      },
+      {
+        "enunciado": "O que são as 'juntas de dilatação' em estruturas como pontes e trilhos?",
+        "opcoes": [
+          "Espaços deixados para permitir a expansão do material sem danificar a estrutura.",
+          "Peças que impedem a passagem de calor.",
+          "Frestas que causam acidentes.",
+          "Locais onde o material é mais fraco."
+        ],
+        "correta": 0,
+        "explicacao": "As juntas absorvem a variação de tamanho do material devido às mudanças de temperatura."
+      },
+      {
+        "enunciado": "Por que os fios de energia elétrica são instalados com uma leve 'barriga' (curvatura) entre os postes?",
+        "opcoes": [
+          "Para evitar que se rompam ao contraírem em dias frios.",
+          "Para que fiquem mais bonitos.",
+          "Para não conduzir eletricidade.",
+          "Para facilitar a passagem dos pássaros."
+        ],
+        "correta": 0,
+        "explicacao": "No frio, os fios contraem. Se estivessem esticados, a contração poderia quebrá-los."
+      },
+      {
+        "enunciado": "A dilatação anômala da água ocorre entre quais temperaturas?",
+        "opcoes": [
+          "0 °C e 4 °C",
+          "0 °C e 100 °C",
+          "4 °C e 10 °C",
+          "-10 °C e 0 °C"
+        ],
+        "correta": 0,
+        "explicacao": "A água apresenta um comportamento anômalo entre 0 °C e 4 °C."
+      },
+      {
+        "enunciado": "O que acontece com a água quando é aquecida de 0 °C a 4 °C?",
+        "opcoes": [
+          "Ela se expande (dilata).",
+          "Ela se contrai (diminui de volume).",
+          "Ela ferve.",
+          "Ela congela."
+        ],
+        "correta": 1,
+        "explicacao": "Neste intervalo, a água se contrai em vez de dilatar. Acima de 4 °C, ela dilata normalmente."
+      },
+      {
+        "enunciado": "Em qual temperatura a água atinge sua maior densidade?",
+        "opcoes": [
+          "0 °C",
+          "4 °C",
+          "10 °C",
+          "100 °C"
+        ],
+        "correta": 1,
+        "explicacao": "A 4 °C a água é mais densa, o que explica por que o gelo flutua e os lagos congelam por cima."
+      },
+      {
+        "enunciado": "Por que o gelo flutua na água?",
+        "opcoes": [
+          "Porque o gelo é mais leve que a água.",
+          "Porque a água congelada é menos densa que a água líquida a 4 °C.",
+          "Porque o gelo tem temperatura maior.",
+          "Porque a gravidade não atua no gelo."
+        ],
+        "correta": 1,
+        "explicacao": "Devido à dilatação anômala, ao congelar, a água aumenta de volume e diminui a densidade."
+      },
+      {
+        "enunciado": "A dilatação anômala da água é fundamental para a vida aquática em lagos congelantes porque:",
+        "opcoes": [
+          "O gelo afunda e mata os peixes.",
+          "O gelo se forma no fundo do lago.",
+          "O gelo flutua e isola termicamente a água líquida abaixo, preservando a vida.",
+          "A água ferve no inverno."
+        ],
+        "correta": 2,
+        "explicacao": "A camada de gelo na superfície isola a água abaixo, que fica a 4 °C (mais densa)."
+      },
+      {
+        "enunciado": "Qual é a fórmula da dilatação linear?",
+        "opcoes": [
+          "ΔL = L0 * α * Δθ",
+          "ΔL = m * c * Δθ",
+          "ΔL = Q / m",
+          "ΔL = L0 / α"
+        ],
+        "correta": 0,
+        "explicacao": "ΔL é a variação do comprimento, L0 é o comprimento inicial, α é o coeficiente de dilatação linear e Δθ a variação de temperatura."
+      },
+      {
+        "enunciado": "O coeficiente de dilatação linear (α) depende de qual fator?",
+        "opcoes": [
+          "Da massa do objeto.",
+          "Do material que constitui o corpo.",
+          "Da cor do objeto.",
+          "Do tempo de aquecimento."
+        ],
+        "correta": 1,
+        "explicacao": "Cada material possui um coeficiente de dilatação próprio."
+      },
+      {
+        "enunciado": "Um trilho de trem de 100 m é aquecido e sofre uma variação de temperatura. Ele sofrerá principalmente que tipo de dilatação?",
+        "opcoes": [
+          "Superficial.",
+          "Volumétrica.",
+          "Linear.",
+          "Não sofrerá dilatação."
+        ],
+        "correta": 2,
+        "explicacao": "Por ser comprido e fino, consideramos a variação na sua dimensão de comprimento (linear)."
+      },
+      {
+        "enunciado": "Uma chapa metálica quadrada é aquecida. Ela sofrerá principalmente que tipo de dilatação?",
+        "opcoes": [
+          "Superficial.",
+          "Volumétrica.",
+          "Linear.",
+          "Não sofrerá dilatação."
+        ],
+        "correta": 0,
+        "explicacao": "A chapa tem duas dimensões relevantes (comprimento e largura), sofrendo dilatação de área."
+      },
+      {
+        "enunciado": "Se um material tem coeficiente de dilatação muito baixo, significa que:",
+        "opcoes": [
+          "Ele dilata muito com pouca variação de temperatura.",
+          "Ele dilata pouco com variação de temperatura.",
+          "Ele não pode ser aquecido.",
+          "Ele é um isolante térmico."
+        ],
+        "correta": 1,
+        "explicacao": "Materiais com baixo coeficiente (ex: vidro pirex) sofrem pequenas variações de tamanho."
+      },
+      {
+        "enunciado": "Um líquido está dentro de um recipiente de vidro. Ao aquecer o conjunto, o que acontece?",
+        "opcoes": [
+          "Apenas o líquido dilata.",
+          "Apenas o vidro dilata.",
+          "Ambos dilatam, e o líquido geralmente dilata mais que o vidro.",
+          "Ambos se contraem."
+        ],
+        "correta": 2,
+        "explicacao": "Líquidos geralmente têm coeficientes de dilatação maiores que os sólidos."
+      },
+      {
+        "enunciado": "Quando mergulhamos uma garrafa plástica fechada em água fervente, ela pode deformar porque:",
+        "opcoes": [
+          "O ar dentro dela expande (dilata) com o calor.",
+          "O plástico derrete imediatamente.",
+          "A água entra na garrafa.",
+          "A gravidade muda."
+        ],
+        "correta": 0,
+        "explicacao": "O calor aquece o ar interno, que sofre dilatação volumétrica e empurra as paredes da garrafa."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_fis_transmissao_01",
+    "titulo": "Física - Processos de Transmissão de Calor",
+    "tipo": "conteudo",
+    "icone": "🔥",
+    "perguntas": [
+      {
+        "enunciado": "Quais são os três processos de transmissão de calor?",
+        "opcoes": [
+          "Condução, convecção e irradiação.",
+          "Dilatação, contração e fusão.",
+          "Calor específico, calor latente e calor sensível.",
+          "Celsius, Fahrenheit e Kelvin."
+        ],
+        "correta": 0,
+        "explicacao": "O calor pode ser transmitido por condução, convecção ou irradiação."
+      },
+      {
+        "enunciado": "A propagação de calor que ocorre de partícula para partícula, sem transporte de matéria, é chamada de:",
+        "opcoes": [
+          "Convecção.",
+          "Irradiação.",
+          "Condução.",
+          "Evaporação."
+        ],
+        "correta": 2,
+        "explicacao": "Na condução, a energia é passada pela vibração das partículas, mas elas não se deslocam macroscopicamente."
+      },
+      {
+        "enunciado": "A condução térmica ocorre principalmente em:",
+        "opcoes": [
+          "Gases.",
+          "Sólidos.",
+          "Líquidos.",
+          "No vácuo."
+        ],
+        "correta": 1,
+        "explicacao": "Nos sólidos, as partículas estão mais próximas, facilitando a transmissão de energia vibratória."
+      },
+      {
+        "enunciado": "Materiais que facilitam a propagação do calor são chamados de:",
+        "opcoes": [
+          "Isolantes.",
+          "Condutores.",
+          "Refletores.",
+          "Transmissores."
+        ],
+        "correta": 1,
+        "explicacao": "Metais são bons condutores de calor."
+      },
+      {
+        "enunciado": "Materiais que dificultam a propagação do calor são chamados de:",
+        "opcoes": [
+          "Isolantes.",
+          "Condutores.",
+          "Absorventes.",
+          "Emissores."
+        ],
+        "correta": 0,
+        "explicacao": "Plástico, isopor e madeira são exemplos de isolantes térmicos."
+      },
+      {
+        "enunciado": "Qual das opções abaixo é um exemplo de bom condutor de calor?",
+        "opcoes": [
+          "Isopor.",
+          "Madeira.",
+          "Metal (ferro, cobre).",
+          "Ar."
+        ],
+        "correta": 2,
+        "explicacao": "Os metais são excelentes condutores de calor."
+      },
+      {
+        "enunciado": "A transmissão de calor pelo movimento de massas de fluidos (líquidos ou gases) é chamada de:",
+        "opcoes": [
+          "Condução.",
+          "Convecção.",
+          "Irradiação.",
+          "Solidificação."
+        ],
+        "correta": 1,
+        "explicacao": "Na convecção, o fluido quente sobe (menos denso) e o frio desce (mais denso), formando correntes."
+      },
+      {
+        "enunciado": "Para que ocorra convecção, é necessário que exista:",
+        "opcoes": [
+          "Um sólido metálico.",
+          "Um fluido (líquido ou gás) e uma diferença de temperatura.",
+          "Vácuo.",
+          "Apenas radiação solar."
+        ],
+        "correta": 1,
+        "explicacao": "A convecção depende do movimento de fluidos, impulsionado pela diferença de densidade (devido à temperatura)."
+      },
+      {
+        "enunciado": "Por que o ar-condicionado deve ser instalado na parte superior da parede?",
+        "opcoes": [
+          "Para que o ar frio desça e o ar quente suba, criando convecção.",
+          "Para que ele não molhe o chão.",
+          "Para ficar mais perto do teto.",
+          "Para evitar a irradiação."
+        ],
+        "correta": 0,
+        "explicacao": "O ar frio é mais denso e desce, promovendo a circulação e o resfriamento do ambiente."
+      },
+      {
+        "enunciado": "A transmissão de calor por ondas eletromagnéticas é chamada de:",
+        "opcoes": [
+          "Condução.",
+          "Convecção.",
+          "Irradiação.",
+          "Convecção forçada."
+        ],
+        "correta": 2,
+        "explicacao": "A irradiação ocorre por ondas (principalmente infravermelho) e não precisa de meio material."
+      },
+      {
+        "enunciado": "Como o calor do Sol chega à Terra se no espaço há vácuo?",
+        "opcoes": [
+          "Por condução através de um gás especial.",
+          "Por convecção do vento solar.",
+          "Por irradiação (ondas eletromagnéticas).",
+          "Pelo movimento da Lua."
+        ],
+        "correta": 2,
+        "explicacao": "A irradiação é o único processo que ocorre no vácuo."
+      },
+      {
+        "enunciado": "A cor preta, quando exposta ao Sol, aquece-se mais rápido do que a cor branca porque:",
+        "opcoes": [
+          "Ela reflete mais ondas de calor.",
+          "Ela absorve mais radiação térmica (infravermelho).",
+          "Ela conduz melhor o calor.",
+          "Ela é mais leve."
+        ],
+        "correta": 1,
+        "explicacao": "Objetos escuros absorvem mais radiação térmica, enquanto os claros refletem."
+      },
+      {
+        "enunciado": "Uma roupa de lã em contato com o corpo atua como:",
+        "opcoes": [
+          "Condutor térmico.",
+          "Isolante térmico.",
+          "Fonte de calor.",
+          "Refrigerador."
+        ],
+        "correta": 1,
+        "explicacao": "A lã aprisiona ar e dificulta a perda de calor do corpo, atuando como isolante."
+      },
+      {
+        "enunciado": "Nas praias, a brisa marítima (durante o dia) sopra do mar para o continente porque:",
+        "opcoes": [
+          "A água aquece mais rápido que a areia.",
+          "A areia aquece mais rápido que a água, o ar sobre a areia sobe e o ar do mar ocupa seu lugar.",
+          "O mar está sempre mais frio.",
+          "A lua puxa o ar."
+        ],
+        "correta": 1,
+        "explicacao": "A areia tem menor calor específico e esquenta rápido, gerando uma corrente de convecção."
+      },
+      {
+        "enunciado": "Ao segurar uma panela de metal com um pano, estamos:",
+        "opcoes": [
+          "Facilitando a condução de calor.",
+          "Evitando a condução de calor para a mão.",
+          "Criando uma irradiação.",
+          "Promovendo convecção."
+        ],
+        "correta": 1,
+        "explicacao": "O pano é um isolante térmico que dificulta a chegada do calor à pele."
+      },
+      {
+        "enunciado": "O vácuo no interior de uma garrafa térmica impede a transferência de calor por:",
+        "opcoes": [
+          "Condução e convecção.",
+          "Apenas irradiação.",
+          "Somente radiação térmica.",
+          "Fusão."
+        ],
+        "correta": 0,
+        "explicacao": "Sem matéria, não há condução nem convecção. A irradiação é minimizada pelo espelhamento interno."
+      },
+      {
+        "enunciado": "As correntes de convecção em uma panela de água fervendo ocorrem porque:",
+        "opcoes": [
+          "A água quente do fundo (menos densa) sobe e a fria desce.",
+          "A água fria tem maior energia cinética.",
+          "O metal conduz a água.",
+          "A água não troca calor."
+        ],
+        "correta": 0,
+        "explicacao": "O calor vem de baixo, aquece a água do fundo, que fica menos densa e sobe."
+      },
+      {
+        "enunciado": "O processo de transmissão de calor que pode ocorrer em qualquer meio (sólido, líquido, gasoso ou vácuo) é:",
+        "opcoes": [
+          "Condução.",
+          "Convecção.",
+          "Irradiação.",
+          "Evaporação."
+        ],
+        "correta": 2,
+        "explicacao": "A irradiação ocorre por ondas eletromagnéticas, não dependendo de matéria."
+      },
+      {
+        "enunciado": "Qual é a principal forma de transmissão de calor que aquece o ar da sua sala por meio de um aquecedor colocado no chão?",
+        "opcoes": [
+          "Condução.",
+          "Convecção.",
+          "Irradiação.",
+          "Solidificação."
+        ],
+        "correta": 1,
+        "explicacao": "O ar quente sobe, gerando correntes de convecção que aquecem todo o ambiente."
+      },
+      {
+        "enunciado": "Em relação à condução, a irradiação tem como principal diferença o fato de:",
+        "opcoes": [
+          "Precisar de um sólido para ocorrer.",
+          "Não precisar de meio material para se propagar.",
+          "Ser mais lenta.",
+          "Só ocorrer em metais."
+        ],
+        "correta": 1,
+        "explicacao": "A irradiação viaja pelo vácuo, enquanto a condução precisa de partículas para transferir energia."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_fis_calorimetria_01",
+    "titulo": "Física - Calorimetria (Calor Sensível)",
+    "tipo": "conteudo",
+    "icone": "🧪",
+    "perguntas": [
+      {
+        "enunciado": "O que é Calorimetria?",
+        "opcoes": [
+          "O estudo da medição de temperatura.",
+          "O ramo da Física que estuda as trocas de calor e suas quantidades.",
+          "A medição da dilatação térmica.",
+          "O estudo da eletricidade."
+        ],
+        "correta": 1,
+        "explicacao": "A calorimetria quantifica o calor cedido ou recebido por um corpo."
+      },
+      {
+        "enunciado": "O calor que provoca variação de temperatura no corpo é chamado de:",
+        "opcoes": [
+          "Calor latente.",
+          "Calor sensível.",
+          "Calor específico.",
+          "Calor radiante."
+        ],
+        "correta": 1,
+        "explicacao": "O calor sensível é aquele que altera a temperatura do corpo sem mudar seu estado físico."
+      },
+      {
+        "enunciado": "Qual é a fórmula do calor sensível?",
+        "opcoes": [
+          "Q = m * L",
+          "Q = m * c * Δθ",
+          "Q = P * t",
+          "Q = m * v² / 2"
+        ],
+        "correta": 1,
+        "explicacao": "Q é a quantidade de calor, m é a massa, c é o calor específico e Δθ é a variação de temperatura."
+      },
+      {
+        "enunciado": "O que é calor específico (c)?",
+        "opcoes": [
+          "A quantidade de calor necessária para variar a temperatura de 1 g de substância em 1 °C.",
+          "A quantidade total de calor de um corpo.",
+          "A temperatura máxima de um material.",
+          "O tempo para o corpo aquecer."
+        ],
+        "correta": 0,
+        "explicacao": "O calor específico é uma propriedade de cada material, medido em cal/g°C."
+      },
+      {
+        "enunciado": "Qual das substâncias abaixo tem o maior calor específico?",
+        "opcoes": [
+          "Ferro.",
+          "Água.",
+          "Areia.",
+          "Ouro."
+        ],
+        "correta": 1,
+        "explicacao": "A água tem calor específico de 1,00 cal/g°C, muito alto comparado aos metais."
+      },
+      {
+        "enunciado": "Materiais com alto calor específico:",
+        "opcoes": [
+          "Aquecem e esfriam rapidamente.",
+          "Aquecem e esfriam lentamente (precisam de mais energia).",
+          "Não trocam calor.",
+          "Têm temperatura sempre alta."
+        ],
+        "correta": 1,
+        "explicacao": "Como precisam de mais calor para mudar a temperatura, demoram mais para aquecer e esfriar."
+      },
+      {
+        "enunciado": "A areia da praia aquece mais rápido que a água do mar porque:",
+        "opcoes": [
+          "A areia tem calor específico menor.",
+          "A água está sempre em movimento.",
+          "A areia é mais escura.",
+          "A água tem menor calor específico."
+        ],
+        "correta": 0,
+        "explicacao": "O calor específico da areia é de cerca de 0,20 cal/g°C, enquanto o da água é 1,00."
+      },
+      {
+        "enunciado": "Qual é a unidade de calor específico usualmente utilizada?",
+        "opcoes": [
+          "cal/g°C",
+          "cal",
+          "g/cal",
+          "°C/cal"
+        ],
+        "correta": 0,
+        "explicacao": "É a quantidade de calorias por grama por grau Celsius."
+      },
+      {
+        "enunciado": "Qual é a unidade de medida da quantidade de calor (Q) no sistema usual?",
+        "opcoes": [
+          "Joule ou caloria.",
+          "Kelvin.",
+          "Metro.",
+          "Ampère."
+        ],
+        "correta": 0,
+        "explicacao": "Calor é energia, podendo ser medido em calorias (cal) ou joules (J)."
+      },
+      {
+        "enunciado": "Calcule o calor necessário para elevar a temperatura de 100 g de água em 10 °C. (Dado: c água = 1 cal/g°C)",
+        "opcoes": [
+          "1000 cal",
+          "100 cal",
+          "10 cal",
+          "10000 cal"
+        ],
+        "correta": 0,
+        "explicacao": "Q = m * c * Δθ = 100 * 1 * 10 = 1000 cal."
+      },
+      {
+        "enunciado": "Se a massa de um corpo dobra, a quantidade de calor necessária para aquecê-lo também:",
+        "opcoes": [
+          "Dobra.",
+          "Cai pela metade.",
+          "Continua a mesma.",
+          "Fica quatro vezes maior."
+        ],
+        "correta": 0,
+        "explicacao": "Pela fórmula Q = mcΔθ, a massa e o calor são diretamente proporcionais."
+      },
+      {
+        "enunciado": "Se a variação de temperatura de um corpo é de 20 °C para 50 °C, qual é o valor de Δθ?",
+        "opcoes": [
+          "30 °C",
+          "70 °C",
+          "20 °C",
+          "50 °C"
+        ],
+        "correta": 0,
+        "explicacao": "Δθ = Temperatura final - Temperatura inicial = 50 - 20 = 30 °C."
+      },
+      {
+        "enunciado": "O calor sensível pode ser calculado em Joules (J) em vez de calorias. Qual é a relação entre essas unidades (aproximadamente)?",
+        "opcoes": [
+          "1 cal = 4,18 J",
+          "1 J = 4,18 cal",
+          "1 cal = 100 J",
+          "1 J = 1 cal"
+        ],
+        "correta": 0,
+        "explicacao": "Uma caloria equivale a aproximadamente 4,18 Joules."
+      },
+      {
+        "enunciado": "A equação fundamental da calorimetria (Q = mcΔθ) se aplica quando:",
+        "opcoes": [
+          "O corpo está mudando de estado físico.",
+          "O corpo sofre apenas variação de temperatura.",
+          "O corpo está no zero absoluto.",
+          "Não há troca de calor."
+        ],
+        "correta": 1,
+        "explicacao": "Para mudança de estado físico, usa-se a equação do calor latente (Q = mL)."
+      },
+      {
+        "enunciado": "Se o calor específico de uma substância é 0,5 cal/g°C, isso significa que:",
+        "opcoes": [
+          "Precisamos de 0,5 cal para variar 1 g da substância em 1 °C.",
+          "Precisamos de 0,5 cal para fundir 1 g da substância.",
+          "A substância ferve a 0,5 °C.",
+          "Ela não absorve calor."
+        ],
+        "correta": 0,
+        "explicacao": "Essa é exatamente a definição de calor específico."
+      },
+      {
+        "enunciado": "Em uma panela com água, o calor do fogo é transferido para a panela e depois para a água. O metal da panela tem calor específico baixo, o que significa que:",
+        "opcoes": [
+          "Ele aquece rapidamente com pouca energia.",
+          "Ele demora muito para aquecer.",
+          "Ele não conduz calor.",
+          "Ele isola a água."
+        ],
+        "correta": 0,
+        "explicacao": "Metais possuem baixo calor específico, o que faz com que sua temperatura suba facilmente."
+      },
+      {
+        "enunciado": "Um copo de 50 g de vidro e um copo de 50 g de plástico recebem a mesma quantidade de calor. Qual aquece mais rápido?",
+        "opcoes": [
+          "O vidro (se seu calor específico for menor que o do plástico).",
+          "O plástico.",
+          "Ambos aquecem na mesma taxa.",
+          "Nenhum aquece."
+        ],
+        "correta": 0,
+        "explicacao": "O material com menor calor específico varia mais sua temperatura com a mesma quantidade de calor."
+      },
+      {
+        "enunciado": "Para calcular a quantidade de calor (Q) recebida por um corpo, usamos Q = m * c * Δθ. O que representa o 'm'?",
+        "opcoes": [
+          "A massa em gramas ou quilogramas.",
+          "A massa em litros.",
+          "A temperatura inicial.",
+          "O calor específico."
+        ],
+        "correta": 0,
+        "explicacao": "O 'm' representa a massa do corpo, que precisa estar na mesma unidade que o calor específico."
+      },
+      {
+        "enunciado": "Em um dia quente, o suor resfria o corpo humano porque a água:",
+        "opcoes": [
+          "Evapora, absorvendo calor da pele.",
+          "Ferve, liberando calor.",
+          "Tem alto calor específico.",
+          "Reage quimicamente com a pele."
+        ],
+        "correta": 0,
+        "explicacao": "A evaporação precisa de energia (calor latente de vaporização), que é retirada do corpo."
+      },
+      {
+        "enunciado": "Uma barra de ferro de 100 g sofreu um aquecimento, variando sua temperatura em 20 °C. Dado que o calor específico do ferro é 0,11 cal/g°C, qual foi o calor sensível absorvido?",
+        "opcoes": [
+          "220 cal",
+          "110 cal",
+          "200 cal",
+          "22 cal"
+        ],
+        "correta": 0,
+        "explicacao": "Q = m * c * Δθ = 100 * 0,11 * 20 = 220 cal."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_fis_calor_latente_01",
+    "titulo": "Física - Calor Latente e Mudanças de Estado",
+    "tipo": "conteudo",
+    "icone": "🧊",
+    "perguntas": [
+      {
+        "enunciado": "O calor que provoca mudança de estado físico de uma substância é chamado de:",
+        "opcoes": [
+          "Calor sensível.",
+          "Calor latente.",
+          "Calor específico.",
+          "Calor de dilatação."
+        ],
+        "correta": 1,
+        "explicacao": "O calor latente é o calor que não altera a temperatura, mas altera o estado físico."
+      },
+      {
+        "enunciado": "Qual é a fórmula do calor latente?",
+        "opcoes": [
+          "Q = m * c * Δθ",
+          "Q = m * L",
+          "Q = P / t",
+          "Q = m / L"
+        ],
+        "correta": 1,
+        "explicacao": "Q é o calor latente, m é a massa e L é a constante de calor latente da substância."
+      },
+      {
+        "enunciado": "A mudança de estado do sólido para o líquido é chamada de:",
+        "opcoes": [
+          "Solidificação.",
+          "Fusão.",
+          "Vaporização.",
+          "Condensação."
+        ],
+        "correta": 1,
+        "explicacao": "Fusão é a passagem do estado sólido para o líquido (ex: gelo derretendo)."
+      },
+      {
+        "enunciado": "A passagem do estado líquido para o gasoso é chamada de:",
+        "opcoes": [
+          "Fusão.",
+          "Solidificação.",
+          "Vaporização (ou ebulição).",
+          "Sublimação."
+        ],
+        "correta": 2,
+        "explicacao": "Vaporização é a mudança do líquido para o gás (ex: água fervendo)."
+      },
+      {
+        "enunciado": "A passagem do estado gasoso direto para o sólido é chamada de:",
+        "opcoes": [
+          "Sublimação.",
+          "Condensação.",
+          "Solidificação.",
+          "Fusão."
+        ],
+        "correta": 0,
+        "explicacao": "A sublimação ocorre quando o gás vira sólido sem passar pelo estado líquido (ou vice-versa)."
+      },
+      {
+        "enunciado": "Enquanto uma substância pura está mudando de estado físico, a sua temperatura:",
+        "opcoes": [
+          "Aumenta rapidamente.",
+          "Diminui rapidamente.",
+          "Permanece constante.",
+          "Sobe e desce."
+        ],
+        "correta": 2,
+        "explicacao": "Durante a mudança de fase, todo o calor fornecido é usado para mudar o estado, não a temperatura."
+      },
+      {
+        "enunciado": "Qual é a unidade usual do calor latente de mudança de estado (L)?",
+        "opcoes": [
+          "cal/g",
+          "cal/g°C",
+          "°C/g",
+          "g/cal"
+        ],
+        "correta": 0,
+        "explicacao": "O calor latente é a quantidade de calor por unidade de massa para mudar de estado, logo é cal/g."
+      },
+      {
+        "enunciado": "Para derreter o gelo, a energia absorvida é usada para:",
+        "opcoes": [
+          "Aumentar a agitação das moléculas no estado líquido.",
+          "Quebrar as ligações entre as moléculas do sólido.",
+          "Aumentar a temperatura do gelo.",
+          "Transformar o gelo em vapor."
+        ],
+        "correta": 1,
+        "explicacao": "A energia de fusão serve para romper a estrutura cristalina do gelo, passando para o estado líquido."
+      },
+      {
+        "enunciado": "Calcule a quantidade de calor necessária para fundir 50 g de gelo a 0 °C. (Dado: L_fusão do gelo = 80 cal/g)",
+        "opcoes": [
+          "4000 cal",
+          "400 cal",
+          "50 cal",
+          "80 cal"
+        ],
+        "correta": 0,
+        "explicacao": "Q = m * L = 50 * 80 = 4000 cal."
+      },
+      {
+        "enunciado": "Para transformar água a 100 °C em vapor a 100 °C, o calor latente de vaporização é geralmente:",
+        "opcoes": [
+          "Menor que o de fusão.",
+          "Maior que o de fusão.",
+          "Igual ao de fusão.",
+          "Desprezível."
+        ],
+        "correta": 1,
+        "explicacao": "A vaporização requer muito mais energia (540 cal/g para a água) do que a fusão (80 cal/g)."
+      },
+      {
+        "enunciado": "Ao sair do banho quente, a água em nosso corpo evapora. Esse processo:",
+        "opcoes": [
+          "Libera calor para o corpo, causando sensação de calor.",
+          "Absorve calor do corpo, causando sensação de frio.",
+          "Não altera a temperatura da pele.",
+          "Aumenta a temperatura do ambiente."
+        ],
+        "correta": 1,
+        "explicacao": "A evaporação é endotérmica (absorve calor do ambiente/corpo), resfriando-o."
+      },
+      {
+        "enunciado": "Quando o vapor de água (100 °C) encosta em uma superfície fria, ele se condensa. Esse processo:",
+        "opcoes": [
+          "Absorve calor da superfície.",
+          "Libera calor para a superfície, aquecendo-a.",
+          "Não troca calor.",
+          "Aumenta a temperatura do vapor."
+        ],
+        "correta": 1,
+        "explicacao": "A condensação (gás para líquido) é exotérmica, liberando energia."
+      },
+      {
+        "enunciado": "A quantidade de calor necessária para solidificar 10 g de água é igual em módulo à quantidade para:",
+        "opcoes": [
+          "Fundir 10 g de gelo.",
+          "Vaporizar 10 g de água.",
+          "Aquecer 10 g de água em 10 °C.",
+          "Ferver 1 g de água."
+        ],
+        "correta": 0,
+        "explicacao": "O calor latente de solidificação e de fusão têm o mesmo valor absoluto (L_sol = -L_fus)."
+      },
+      {
+        "enunciado": "O gelo-seco (dióxido de carbono sólido) passa diretamente do estado sólido para o gasoso. Esse processo é chamado de:",
+        "opcoes": [
+          "Fusão.",
+          "Sublimação.",
+          "Condensação.",
+          "Evaporação."
+        ],
+        "correta": 1,
+        "explicacao": "A passagem direta do sólido para o gasoso (ou gasoso para sólido) é sublimação."
+      },
+      {
+        "enunciado": "Por que o suor da pele evapora mais rápido em um dia de vento?",
+        "opcoes": [
+          "O vento diminui a temperatura ambiente.",
+          "O vento remove o vapor de água da superfície, facilitando a evaporação.",
+          "O vento faz o suor ferver.",
+          "O vento impede a evaporação."
+        ],
+        "correta": 1,
+        "explicacao": "O vento renova o ar úmido por ar seco, acelerando a evaporação."
+      },
+      {
+        "enunciado": "O gráfico de aquecimento de uma substância pura mostra dois patamares horizontais. Esses patamares representam:",
+        "opcoes": [
+          "As mudanças de estado (fusão e ebulição).",
+          "A variação de temperatura na fase sólida.",
+          "O equilíbrio térmico com o ambiente.",
+          "O resfriamento da substância."
+        ],
+        "correta": 0,
+        "explicacao": "A temperatura fica constante durante a fusão e a ebulição, formando patamares no gráfico."
+      },
+      {
+        "enunciado": "O que é a vaporização?",
+        "opcoes": [
+          "A passagem do estado sólido para o líquido.",
+          "A passagem do estado líquido para o gasoso.",
+          "A passagem do estado gasoso para o líquido.",
+          "A passagem do estado sólido para o gasoso."
+        ],
+        "correta": 1,
+        "explicacao": "Vaporização é a transição de líquido para gás."
+      },
+      {
+        "enunciado": "A passagem do estado líquido para o sólido é chamada de:",
+        "opcoes": [
+          "Fusão.",
+          "Solidificação.",
+          "Vaporização.",
+          "Condensação."
+        ],
+        "correta": 1,
+        "explicacao": "Solidificação (ou cristalização) é a mudança do líquido para o sólido."
+      },
+      {
+        "enunciado": "A panela de pressão cozinha os alimentos mais rápido porque:",
+        "opcoes": [
+          "O calor específico da água aumenta.",
+          "A pressão interna é maior, o que eleva o ponto de ebulição da água.",
+          "A água ferve mais rápido a 100 °C.",
+          "O calor latente da água diminui."
+        ],
+        "correta": 1,
+        "explicacao": "Com maior pressão, a água ferve acima de 100 °C, acelerando o cozimento."
+      },
+      {
+        "enunciado": "Qual é a quantidade de calor necessária para vaporizar 20 g de água a 100 °C? (Dado: L_vaporização = 540 cal/g)",
+        "opcoes": [
+          "10800 cal",
+          "1080 cal",
+          "540 cal",
+          "20 cal"
+        ],
+        "correta": 0,
+        "explicacao": "Q = m * L = 20 * 540 = 10800 cal."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_fis_exercicios_01",
+    "titulo": "Física - Exercícios de Fixação (Calor e Temperatura)",
+    "tipo": "conteudo",
+    "icone": "📝",
+    "perguntas": [
+      {
+        "enunciado": "Um corpo de 200 g de ferro (c=0,11 cal/g°C) varia sua temperatura de 20 °C para 70 °C. Qual a quantidade de calor sensível absorvida?",
+        "opcoes": [
+          "1100 cal",
+          "2200 cal",
+          "110 cal",
+          "500 cal"
+        ],
+        "correta": 0,
+        "explicacao": "Q = 200 * 0,11 * (70 - 20) = 22 * 50 = 1100 cal."
+      },
+      {
+        "enunciado": "O calor específico da água é 1 cal/g°C. Isso significa que para aquecer 1 kg de água em 1 °C, precisamos de:",
+        "opcoes": [
+          "1 cal",
+          "10 cal",
+          "100 cal",
+          "1000 cal"
+        ],
+        "correta": 3,
+        "explicacao": "1 kg = 1000 g. Q = 1000 * 1 * 1 = 1000 cal."
+      },
+      {
+        "enunciado": "A temperatura de 27 °C equivale a:",
+        "opcoes": [
+          "300 K",
+          "273 K",
+          "27 K",
+          "246 K"
+        ],
+        "correta": 0,
+        "explicacao": "T = 27 + 273 = 300 K."
+      },
+      {
+        "enunciado": "A temperatura de 212 °F equivale a:",
+        "opcoes": [
+          "0 °C",
+          "100 °C",
+          "32 °C",
+          "373 °C"
+        ],
+        "correta": 1,
+        "explicacao": "212 °F é o ponto de ebulição da água em Fahrenheit, que corresponde a 100 °C."
+      },
+      {
+        "enunciado": "Uma variação de temperatura de 15 °C em um corpo equivale a uma variação na escala Fahrenheit de:",
+        "opcoes": [
+          "15 °F",
+          "27 °F",
+          "32 °F",
+          "9 °F"
+        ],
+        "correta": 1,
+        "explicacao": "ΔC/5 = ΔF/9. Logo 15/5 = ΔF/9 -> 3 = ΔF/9 -> ΔF = 27 °F."
+      },
+      {
+        "enunciado": "Qual o calor necessário para transformar 100 g de gelo a 0 °C em água a 0 °C? (L = 80 cal/g)",
+        "opcoes": [
+          "800 cal",
+          "8000 cal",
+          "80 cal",
+          "100 cal"
+        ],
+        "correta": 1,
+        "explicacao": "Q = m * L = 100 * 80 = 8000 cal."
+      },
+      {
+        "enunciado": "Ao aquecer um pedaço de metal e outro de madeira de mesma massa e mesma temperatura por um tempo, o metal queima a mão mais rápido. Isso ocorre porque o metal tem:",
+        "opcoes": [
+          "Maior calor específico.",
+          "Menor calor específico e maior condutividade térmica.",
+          "Maior temperatura.",
+          "Maior massa."
+        ],
+        "correta": 1,
+        "explicacao": "O metal conduz calor mais rápido (maior condutividade) e tem menor calor específico."
+      },
+      {
+        "enunciado": "Uma pedra de gelo derretendo dentro de um copo de refrigerante é um exemplo de calor:",
+        "opcoes": [
+          "Sensível.",
+          "Latente.",
+          "Irradiado.",
+          "Conduzido."
+        ],
+        "correta": 1,
+        "explicacao": "A mudança de estado (sólido para líquido) envolve calor latente."
+      },
+      {
+        "enunciado": "O congelamento da água em uma forma de gelo é um processo que:",
+        "opcoes": [
+          "Absorve calor (endotérmico).",
+          "Libera calor (exotérmico).",
+          "Não troca calor.",
+          "Aumenta a temperatura."
+        ],
+        "correta": 1,
+        "explicacao": "Para solidificar, a água precisa ceder calor para o ambiente (exotérmico)."
+      },
+      {
+        "enunciado": "O que acontece com a temperatura da água enquanto ela está fervendo em uma panela aberta (ao nível do mar)?",
+        "opcoes": [
+          "Ela permanece constante a 100 °C.",
+          "Ela continua subindo até 150 °C.",
+          "Ela diminui.",
+          "Ela fica oscilando."
+        ],
+        "correta": 0,
+        "explicacao": "Durante a ebulição (mudança de estado), a temperatura permanece constante."
+      },
+      {
+        "enunciado": "Se a temperatura de um corpo é de -10 °C, em Kelvin ela é:",
+        "opcoes": [
+          "-10 K",
+          "263 K",
+          "283 K",
+          "10 K"
+        ],
+        "correta": 1,
+        "explicacao": "T = -10 + 273 = 263 K."
+      },
+      {
+        "enunciado": "A transferência de calor que ocorre nas correntes de ar de um refrigerador é a:",
+        "opcoes": [
+          "Condução.",
+          "Convecção.",
+          "Irradiação.",
+          "Solidificação."
+        ],
+        "correta": 1,
+        "explicacao": "O ar frio desce e o quente sobe, formando correntes de convecção."
+      },
+      {
+        "enunciado": "Por que a água de um lago congela primeiro na superfície?",
+        "opcoes": [
+          "Porque o ar é mais frio.",
+          "Devido à dilatação anômala da água (menos densa a 0 °C que a 4 °C).",
+          "Porque o fundo é quente.",
+          "Porque o gelo não conduz calor."
+        ],
+        "correta": 1,
+        "explicacao": "A água a 0 °C é menos densa e flutua, congelando na superfície."
+      },
+      {
+        "enunciado": "A energia que a Terra recebe do Sol é transmitida principalmente por:",
+        "opcoes": [
+          "Condução.",
+          "Convecção.",
+          "Irradiação.",
+          "Evaporação."
+        ],
+        "correta": 2,
+        "explicacao": "O Sol aquece a Terra por irradiação de ondas eletromagnéticas."
+      },
+      {
+        "enunciado": "Um corpo recebe 2000 cal e sua temperatura varia 40 °C. Sabendo que a massa é 100 g, qual é o calor específico do material?",
+        "opcoes": [
+          "0,5 cal/g°C",
+          "5 cal/g°C",
+          "0,05 cal/g°C",
+          "2 cal/g°C"
+        ],
+        "correta": 0,
+        "explicacao": "Q = mcΔθ -> 2000 = 100 * c * 40 -> 2000 = 4000c -> c = 0,5 cal/g°C."
+      },
+      {
+        "enunciado": "O 'zero absoluto' (0 K) significa que:",
+        "opcoes": [
+          "A água congelou.",
+          "A agitação molecular teoricamente cessou.",
+          "O calor é máximo.",
+          "A temperatura está em 273 °C."
+        ],
+        "correta": 1,
+        "explicacao": "A 0 K (-273 °C), a energia cinética das partículas seria nula."
+      },
+      {
+        "enunciado": "O calor flui espontaneamente:",
+        "opcoes": [
+          "Do corpo de menor temperatura para o de maior.",
+          "Do corpo de maior temperatura para o de menor.",
+          "Do corpo de maior massa para o de menor.",
+          "Do corpo de menor calor específico para o de maior."
+        ],
+        "correta": 1,
+        "explicacao": "A transferência espontânea de calor é sempre do mais quente para o mais frio."
+      },
+      {
+        "enunciado": "As roupas de lã nos aquecem no inverno porque:",
+        "opcoes": [
+          "Produzem calor.",
+          "São isolantes térmicos que impedem a perda de calor do corpo.",
+          "São condutoras de calor.",
+          "Refletem a luz solar."
+        ],
+        "correta": 1,
+        "explicacao": "A lã isola o corpo, mantendo-o aquecido."
+      },
+      {
+        "enunciado": "Se a temperatura de um corpo é 68 °F, em Celsius ela é:",
+        "opcoes": [
+          "20 °C",
+          "40 °C",
+          "10 °C",
+          "36 °C"
+        ],
+        "correta": 0,
+        "explicacao": "C/5 = (68 - 32)/9 -> C/5 = 36/9 -> C/5 = 4 -> C = 20 °C."
+      },
+      {
+        "enunciado": "Qual das opções abaixo é um exemplo de transmissão de calor por convecção?",
+        "opcoes": [
+          "O calor do Sol chegando à Terra.",
+          "O ar quente subindo e o frio descendo em uma sala.",
+          "O cabo de uma panela esquentando.",
+          "Uma colher de metal quente dentro da sopa."
+        ],
+        "correta": 1,
+        "explicacao": "A movimentação de fluidos (ar quente/frio) é convecção."
+      }
+    ]
+  }
+]
