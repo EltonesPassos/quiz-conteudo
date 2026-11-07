@@ -1,0 +1,1359 @@
+[
+  {
+    "id": "9ano_v6_geo_asia_introducao_01",
+    "titulo": "Geografia - Ásia: Pluralidade e População",
+    "tipo": "conteudo",
+    "icone": "🌏",
+    "perguntas": [
+      {
+        "enunciado": "Qual é o continente mais extenso e populoso do mundo?",
+        "opcoes": ["África", "América", "Ásia", "Europa"],
+        "correta": 2,
+        "explicacao": "A Ásia é o continente mais extenso territorialmente e o mais populoso."
+      },
+      {
+        "enunciado": "Quais são os dois países mais populosos do mundo, que juntos representam cerca de 60% da população da Ásia?",
+        "opcoes": ["Índia e Paquistão", "China e Índia", "Indonésia e Japão", "Rússia e China"],
+        "correta": 1,
+        "explicacao": "China e Índia são os países mais populosos do mundo e da Ásia."
+      },
+      {
+        "enunciado": "O que é o subcontinente indiano?",
+        "opcoes": [
+          "Uma ilha no Pacífico.",
+          "Uma região que abrange a Índia, Paquistão, Bangladesh, Nepal, Butão, Sri Lanka e Maldivas.",
+          "A parte norte da Ásia.",
+          "Um conjunto de países da África."
+        ],
+        "correta": 1,
+        "explicacao": "O subcontinente indiano é uma área geográfica distinta da Ásia, separada pelo Himalaia."
+      },
+      {
+        "enunciado": "A Índia é o 7º maior país do mundo em extensão territorial. Em 2023, ela ultrapassou qual país em número de habitantes?",
+        "opcoes": ["EUA", "Rússia", "China", "Indonésia"],
+        "correta": 2,
+        "explicacao": "Em 2023, a Índia ultrapassou a China como o país mais populoso do mundo."
+      },
+      {
+        "enunciado": "Qual é a principal característica da população indiana em relação à diversidade?",
+        "opcoes": [
+          "É uma população homogênea.",
+          "É marcada por uma grande diversidade étnica, linguística e religiosa.",
+          "Fala apenas o inglês.",
+          "Pratica apenas uma religião."
+        ],
+        "correta": 1,
+        "explicacao": "A Índia é um país de imensa diversidade cultural e étnica."
+      },
+      {
+        "enunciado": "Quantos idiomas oficiais e dialetos existem na Índia?",
+        "opcoes": [
+          "Apenas 1 idioma.",
+          "18 idiomas regionais e mais de 1.600 dialetos.",
+          "Apenas o inglês.",
+          "5 idiomas."
+        ],
+        "correta": 1,
+        "explicacao": "A Índia reconhece 18 idiomas regionais e possui mais de 1.600 dialetos."
+      },
+      {
+        "enunciado": "Qual é a religião majoritária na Índia?",
+        "opcoes": ["Islamismo", "Cristianismo", "Hinduísmo", "Budismo"],
+        "correta": 2,
+        "explicacao": "Cerca de 79,8% da população indiana é hindu."
+      },
+      {
+        "enunciado": "Qual é o país mais populoso do mundo, segundo dados de 2023?",
+        "opcoes": ["China", "Índia", "EUA", "Indonésia"],
+        "correta": 1,
+        "explicacao": "A Índia se tornou o país mais populoso do mundo em 2023."
+      },
+      {
+        "enunciado": "A Índia tem uma grande população de jovens. Qual é o principal desafio em relação a esse grande contingente populacional?",
+        "opcoes": [
+          "Falta de recursos naturais.",
+          "Gerar empregos e oferecer serviços públicos de qualidade.",
+          "A população está envelhecendo rápido.",
+          "Falta de espaço territorial."
+        ],
+        "correta": 1,
+        "explicacao": "A grande população jovem exige a criação de empregos e a melhoria da infraestrutura e serviços."
+      },
+      {
+        "enunciado": "O que é a 'diáspora indiana'?",
+        "opcoes": [
+          "A migração de indianos para outras partes do mundo.",
+          "A saída de indianos do campo para a cidade.",
+          "A migração de indianos para a China.",
+          "A volta dos indianos para a Índia."
+        ],
+        "correta": 0,
+        "explicacao": "A diáspora é a dispersão de um povo pelo mundo; a indiana é uma das maiores do planeta."
+      },
+      {
+        "enunciado": "Qual é a língua oficial do governo da Índia e muito usada nos negócios e na tecnologia?",
+        "opcoes": ["Hindi", "Inglês", "Bengali", "Urdu"],
+        "correta": 1,
+        "explicacao": "O inglês é amplamente utilizado na Índia, especialmente em negócios e tecnologia."
+      },
+      {
+        "enunciado": "A diversidade linguística da Índia reflete a complexidade cultural do país. Isso significa que:",
+        "opcoes": [
+          "Todas as pessoas falam a mesma língua.",
+          "A comunicação é difícil em algumas regiões, mas há uma grande riqueza cultural.",
+          "A Índia é um país isolado.",
+          "Só se fala inglês no país."
+        ],
+        "correta": 1,
+        "explicacao": "A multiplicidade de línguas e dialetos é uma marca da riqueza cultural indiana."
+      },
+      {
+        "enunciado": "Qual é o nome da capital da Índia?",
+        "opcoes": ["Bombaim", "Nova Délhi", "Calcutá", "Chennai"],
+        "correta": 1,
+        "explicacao": "Nova Délhi é a capital da Índia."
+      },
+      {
+        "enunciado": "A Índia faz fronteira com qual oceano ao sul?",
+        "opcoes": ["Atlântico", "Pacífico", "Índico", "Ártico"],
+        "correta": 2,
+        "explicacao": "A Índia é banhada pelo Oceano Índico ao sul."
+      },
+      {
+        "enunciado": "A cordilheira do Himalaia, que separa a Índia do resto da Ásia, tem qual origem?",
+        "opcoes": [
+          "Vulcânica.",
+          "Sedimentar.",
+          "Tectônica (choque de placas).",
+          "Eólica."
+        ],
+        "correta": 2,
+        "explicacao": "O Himalaia se formou pelo choque entre as placas tectônicas Indiana e Eurasiática."
+      },
+      {
+        "enunciado": "Qual dos países abaixo NÃO faz parte do subcontinente indiano?",
+        "opcoes": ["Nepal", "Butão", "Bangladesh", "China"],
+        "correta": 3,
+        "explicacao": "A China não faz parte do subcontinente indiano, que é uma região geográfica distinta."
+      },
+      {
+        "enunciado": "A grande população da Índia é um desafio para a sustentabilidade ambiental. Quais são os principais problemas gerados?",
+        "opcoes": [
+          "Falta de água e poluição.",
+          "Excesso de florestas.",
+          "Baixa produção de alimentos.",
+          "Estagnação econômica."
+        ],
+        "correta": 0,
+        "explicacao": "A pressão populacional aumenta a demanda por recursos naturais e a geração de poluição."
+      },
+      {
+        "enunciado": "O crescimento populacional na Índia tem desacelerado nos últimos anos. Qual é a principal causa?",
+        "opcoes": [
+          "Políticas de controle de natalidade.",
+          "Queda da taxa de fecundidade (menos filhos por mulher).",
+          "Aumento da mortalidade infantil.",
+          "Maior acesso à tecnologia."
+        ],
+        "correta": 1,
+        "explicacao": "A taxa de fecundidade tem caído, o que desacelera o crescimento populacional."
+      },
+      {
+        "enunciado": "Qual é o impacto das grandes aglomerações urbanas na Índia?",
+        "opcoes": [
+          "Melhoria da qualidade de vida em todo o país.",
+          "Surgimento de favelas, aumento da poluição e problemas de saneamento.",
+          "Redução da população rural.",
+          "Fim da desigualdade social."
+        ],
+        "correta": 1,
+        "explicacao": "As grandes cidades indianas enfrentam problemas graves de infraestrutura e desigualdade."
+      },
+      {
+        "enunciado": "A Índia é um país de dimensões continentais e ocupa uma posição estratégica. Qual é a sua principal importância geopolítica na Ásia?",
+        "opcoes": [
+          "Ser a maior economia da Ásia.",
+          "Ser um dos países mais populosos e com influência crescente na região.",
+          "Ser o único país da Ásia com armas nucleares.",
+          "Não ter influência na região."
+        ],
+        "correta": 1,
+        "explicacao": "A Índia tem crescente influência econômica, política e militar na Ásia e no mundo."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_geo_populacao_asia_01",
+    "titulo": "Geografia - População e Demografia Asiática",
+    "tipo": "conteudo",
+    "icone": "📊",
+    "perguntas": [
+      {
+        "enunciado": "A Ásia concentra a maior parte da população mundial. Qual é a consequência disso para o continente?",
+        "opcoes": [
+          "Uma distribuição populacional equilibrada.",
+          "Uma grande desigualdade na distribuição da população, com áreas superpovoadas e áreas vazias.",
+          "A ausência de grandes cidades.",
+          "A redução da população rural."
+        ],
+        "correta": 1,
+        "explicacao": "A Ásia tem grandes concentrações populacionais (Índia, China) e áreas quase desabitadas (desertos, montanhas)."
+      },
+      {
+        "enunciado": "O que é a 'densidade demográfica'?",
+        "opcoes": [
+          "O número total de habitantes de um país.",
+          "A relação entre o número de habitantes e a área territorial (hab/km²).",
+          "A taxa de natalidade de uma população.",
+          "A taxa de mortalidade de uma população."
+        ],
+        "correta": 1,
+        "explicacao": "A densidade demográfica mede quantas pessoas vivem por quilômetro quadrado."
+      },
+      {
+        "enunciado": "Quais são as áreas mais densamente povoadas da Ásia?",
+        "opcoes": [
+          "Os desertos e as áreas montanhosas.",
+          "As planícies e os vales dos grandes rios.",
+          "As áreas polares.",
+          "As florestas tropicais."
+        ],
+        "correta": 1,
+        "explicacao": "As planícies e os vales fluviais oferecem melhores condições para a agricultura e a ocupação humana."
+      },
+      {
+        "enunciado": "O que é a taxa de fecundidade?",
+        "opcoes": [
+          "O número de nascimentos por mil habitantes.",
+          "O número médio de filhos por mulher em idade fértil.",
+          "O número de mortes por mil habitantes.",
+          "A expectativa de vida."
+        ],
+        "correta": 1,
+        "explicacao": "A taxa de fecundidade indica quantos filhos, em média, cada mulher tem."
+      },
+      {
+        "enunciado": "A China implementou a 'Política do Filho Único' para controlar o crescimento populacional. Qual foi o principal objetivo dessa política?",
+        "opcoes": [
+          "Aumentar a população.",
+          "Reduzir a taxa de natalidade.",
+          "Aumentar a imigração.",
+          "Melhorar a distribuição de renda."
+        ],
+        "correta": 1,
+        "explicacao": "A política visava reduzir a natalidade para controlar o crescimento populacional."
+      },
+      {
+        "enunciado": "Recentemente, a China mudou sua política e passou a permitir dois, e depois três filhos. Por que isso aconteceu?",
+        "opcoes": [
+          "Para aumentar a natalidade e evitar o envelhecimento populacional.",
+          "Para reduzir a população.",
+          "Para controlar a imigração.",
+          "Para cumprir acordos internacionais."
+        ],
+        "correta": 0,
+        "explicacao": "O envelhecimento da população e a baixa natalidade levaram à flexibilização da política."
+      },
+      {
+        "enunciado": "O que é o envelhecimento populacional?",
+        "opcoes": [
+          "O aumento da proporção de idosos na população.",
+          "O aumento da proporção de jovens na população.",
+          "A diminuição da população total.",
+          "O aumento da taxa de natalidade."
+        ],
+        "correta": 0,
+        "explicacao": "O envelhecimento populacional ocorre quando a proporção de idosos aumenta em relação ao total."
+      },
+      {
+        "enunciado": "Quais são as consequências do envelhecimento populacional para um país?",
+        "opcoes": [
+          "Aumento da pressão sobre a previdência social e a saúde.",
+          "Aumento da população economicamente ativa.",
+          "Redução da expectativa de vida.",
+          "Queda da taxa de mortalidade."
+        ],
+        "correta": 0,
+        "explicacao": "O envelhecimento aumenta os gastos com saúde e previdência, sobrecarregando o Estado."
+      },
+      {
+        "enunciado": "A Índia tem uma população muito jovem. Isso é chamado de:",
+        "opcoes": [
+          "Bônus demográfico.",
+          "Envelhecimento populacional.",
+          "Transição demográfica.",
+          "Crescimento negativo."
+        ],
+        "correta": 0,
+        "explicacao": "O bônus demográfico é o período em que a população jovem e ativa é maior, impulsionando a economia."
+      },
+      {
+        "enunciado": "O que é a transição demográfica?",
+        "opcoes": [
+          "A mudança de um regime demográfico com altas taxas de natalidade e mortalidade para outro com taxas baixas.",
+          "A migração de pessoas de um país para outro.",
+          "A mudança de um regime político para outro.",
+          "O aumento da taxa de natalidade."
+        ],
+        "correta": 0,
+        "explicacao": "A transição demográfica ocorre quando as taxas de natalidade e mortalidade caem."
+      },
+      {
+        "enunciado": "O Japão é um exemplo de país com população envelhecida. Qual é a principal característica demográfica do Japão?",
+        "opcoes": [
+          "Alta taxa de natalidade.",
+          "Baixa expectativa de vida.",
+          "Alta proporção de idosos e baixa natalidade.",
+          "Grande população jovem."
+        ],
+        "correta": 2,
+        "explicacao": "O Japão tem uma das populações mais envelhecidas do mundo, com baixa natalidade."
+      },
+      {
+        "enunciado": "A distribuição da população asiática é bastante desigual. Quais são as áreas menos povoadas do continente?",
+        "opcoes": [
+          "As planícies férteis.",
+          "Os vales dos rios.",
+          "Os desertos, as montanhas e as áreas polares.",
+          "As áreas litorâneas."
+        ],
+        "correta": 2,
+        "explicacao": "As áreas com condições climáticas e geográficas adversas são as menos povoadas."
+      },
+      {
+        "enunciado": "Qual é o país mais populoso da Ásia Central?",
+        "opcoes": ["Cazaquistão", "Uzbequistão", "Turcomenistão", "Quirguistão"],
+        "correta": 1,
+        "explicacao": "O Uzbequistão é o país mais populoso da Ásia Central."
+      },
+      {
+        "enunciado": "A população da Índia é marcada por uma grande diversidade cultural. Quais são os principais grupos étnicos e linguísticos?",
+        "opcoes": [
+          "Apenas um grupo étnico e uma língua.",
+          "Diversos grupos étnicos e mais de 18 idiomas regionais.",
+          "Apenas dois grupos étnicos.",
+          "Não há diversidade."
+        ],
+        "correta": 1,
+        "explicacao": "A Índia tem uma enorme diversidade étnica e linguística."
+      },
+      {
+        "enunciado": "O que é a 'fuga de cérebros'?",
+        "opcoes": [
+          "A migração de profissionais qualificados de um país para outro em busca de melhores oportunidades.",
+          "A migração de pessoas não qualificadas.",
+          "A fuga de investimentos estrangeiros.",
+          "A saída de empresas do país."
+        ],
+        "correta": 0,
+        "explicacao": "A fuga de cérebros é a emigração de profissionais altamente qualificados."
+      },
+      {
+        "enunciado": "Qual é o principal destino dos profissionais indianos qualificados que deixam o país?",
+        "opcoes": ["China", "Estados Unidos", "Rússia", "África do Sul"],
+        "correta": 1,
+        "explicacao": "Muitos profissionais indianos migram para os EUA em busca de melhores salários e condições."
+      },
+      {
+        "enunciado": "O que é a 'diáspora'?",
+        "opcoes": [
+          "A dispersão de um povo pelo mundo.",
+          "A concentração de um povo em uma única região.",
+          "A migração sazonal.",
+          "O crescimento populacional."
+        ],
+        "correta": 0,
+        "explicacao": "Diáspora é a dispersão de um grupo étnico ou nacional por várias partes do mundo."
+      },
+      {
+        "enunciado": "A Índia é um dos países que mais envia estudantes para o exterior. Quais são os principais motivos?",
+        "opcoes": [
+          "Buscar melhores universidades e oportunidades de trabalho.",
+          "Fugir de guerras.",
+          "Falta de escolas no país.",
+          "Proibição de estudar na Índia."
+        ],
+        "correta": 0,
+        "explicacao": "Os indianos buscam qualificação e melhores oportunidades no exterior."
+      },
+      {
+        "enunciado": "Qual é a principal característica da população rural na Ásia?",
+        "opcoes": [
+          "Vive nas grandes cidades.",
+          "Trabalha principalmente na agricultura.",
+          "Trabalha na indústria.",
+          "Vive em áreas de deserto."
+        ],
+        "correta": 1,
+        "explicacao": "A maioria da população rural asiática depende da agricultura."
+      },
+      {
+        "enunciado": "O que é o êxodo rural?",
+        "opcoes": [
+          "A migração do campo para a cidade.",
+          "A migração da cidade para o campo.",
+          "A migração de um país para outro.",
+          "O crescimento da população rural."
+        ],
+        "correta": 0,
+        "explicacao": "O êxodo rural é a saída da população do campo em direção às cidades."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_geo_casta_01",
+    "titulo": "Geografia - Sistema de Castas na Índia",
+    "tipo": "conteudo",
+    "icone": "👥",
+    "perguntas": [
+      {
+        "enunciado": "O que é o sistema de castas na Índia?",
+        "opcoes": [
+          "Um sistema político.",
+          "Uma divisão social hierárquica que determina o lugar de cada indivíduo na sociedade.",
+          "Um sistema econômico.",
+          "Uma religião."
+        ],
+        "correta": 1,
+        "explicacao": "O sistema de castas é uma divisão social rígida, com origem no hinduísmo."
+      },
+      {
+        "enunciado": "Quais são os quatro principais grupos do sistema de castas indiano?",
+        "opcoes": [
+          "Brâmanes, Xátrias, Vaixás e Sudras.",
+          "Bramanistas, Xamanistas, Vaixás e Sudras.",
+          "Brâmanes, Xátrias, Vaixás e Párias.",
+          "Brâmanes, Xátrias, Vaixás e Intocáveis."
+        ],
+        "correta": 0,
+        "explicacao": "Os quatro grupos são: brâmanes, xátrias, vaixás e sudras."
+      },
+      {
+        "enunciado": "Qual é a casta dos sacerdotes, responsável pelos rituais religiosos?",
+        "opcoes": ["Xátrias", "Vaixás", "Brâmanes", "Sudras"],
+        "correta": 2,
+        "explicacao": "Os brâmanes são a casta sacerdotal, a mais alta na hierarquia."
+      },
+      {
+        "enunciado": "Qual é a casta dos guerreiros e governantes?",
+        "opcoes": ["Brâmanes", "Xátrias", "Vaixás", "Sudras"],
+        "correta": 1,
+        "explicacao": "Os xátrias são os guerreiros e governantes."
+      },
+      {
+        "enunciado": "Qual é a casta dos comerciantes, agricultores e artesãos?",
+        "opcoes": ["Brâmanes", "Xátrias", "Vaixás", "Sudras"],
+        "correta": 2,
+        "explicacao": "Os vaixás são os comerciantes e agricultores."
+      },
+      {
+        "enunciado": "Qual é a casta dos servos e trabalhadores braçais?",
+        "opcoes": ["Brâmanes", "Xátrias", "Vaixás", "Sudras"],
+        "correta": 3,
+        "explicacao": "Os sudras são os servos e trabalhadores braçais."
+      },
+      {
+        "enunciado": "Como são chamados os 'intocáveis' no sistema de castas indiano?",
+        "opcoes": ["Párias", "Sudras", "Vaixás", "Xátrias"],
+        "correta": 0,
+        "explicacao": "Os párias são os excluídos do sistema de castas, considerados 'intocáveis'."
+      },
+      {
+        "enunciado": "O sistema de castas é oficialmente abolido na Índia desde quando?",
+        "opcoes": ["1947", "1950", "1964", "1988"],
+        "correta": 0,
+        "explicacao": "A Constituição indiana de 1950 aboliu oficialmente o sistema de castas."
+      },
+      {
+        "enunciado": "Apesar de abolido oficialmente, o sistema de castas ainda influencia a sociedade indiana. Quais são as consequências dessa influência?",
+        "opcoes": [
+          "Igualdade total entre todos os cidadãos.",
+          "Preconceito, discriminação e desigualdade social.",
+          "Fim da pobreza.",
+          "Aumento da mobilidade social."
+        ],
+        "correta": 1,
+        "explicacao": "O sistema de castas ainda gera discriminação e desigualdade, especialmente contra os párias."
+      },
+      {
+        "enunciado": "Qual é a relação entre o sistema de castas e o hinduísmo?",
+        "opcoes": [
+          "Não há relação.",
+          "O sistema de castas é uma tradição religiosa e social do hinduísmo.",
+          "O hinduísmo condena o sistema de castas.",
+          "O sistema de castas é uma invenção ocidental."
+        ],
+        "correta": 1,
+        "explicacao": "O sistema de castas tem raízes na religião hindu."
+      },
+      {
+        "enunciado": "O que é a 'intocabilidade'?",
+        "opcoes": [
+          "A condição dos párias, que são considerados impuros e excluídos da sociedade.",
+          "A condição dos brâmanes.",
+          "A condição dos xátrias.",
+          "A condição dos vaixás."
+        ],
+        "correta": 0,
+        "explicacao": "A intocabilidade é a exclusão social dos párias, considerados impuros."
+      },
+      {
+        "enunciado": "A mobilidade social no sistema de castas é:",
+        "opcoes": [
+          "Totalmente livre.",
+          "Praticamente inexistente, pois a pessoa nasce e morre na mesma casta.",
+          "Muito comum.",
+          "Incentivada pelo governo."
+        ],
+        "correta": 1,
+        "explicacao": "A casta é hereditária, ou seja, a pessoa nasce nela e não pode mudar."
+      },
+      {
+        "enunciado": "Qual é a principal crítica ao sistema de castas?",
+        "opcoes": [
+          "A falta de líderes religiosos.",
+          "A discriminação e a violação dos direitos humanos.",
+          "O excesso de mobilidade social.",
+          "A falta de trabalhadores."
+        ],
+        "correta": 1,
+        "explicacao": "O sistema de castas é criticado por gerar discriminação e violar direitos fundamentais."
+      },
+      {
+        "enunciado": "O governo indiano tem adotado políticas para reduzir as desigualdades de casta. Quais são elas?",
+        "opcoes": [
+          "Políticas de ação afirmativa e cotas para os grupos marginalizados.",
+          "Proibição de casamentos entre castas.",
+          "Fim das eleições.",
+          "Aumento das desigualdades."
+        ],
+        "correta": 0,
+        "explicacao": "O governo criou cotas e políticas de inclusão para os grupos historicamente discriminados."
+      },
+      {
+        "enunciado": "Quem foi Mahatma Gandhi e qual foi sua posição em relação ao sistema de castas?",
+        "opcoes": [
+          "Um líder religioso que defendia o sistema de castas.",
+          "Um líder político e espiritual que lutou contra a discriminação dos intocáveis.",
+          "Um imperador indiano.",
+          "Um empresário."
+        ],
+        "correta": 1,
+        "explicacao": "Gandhi lutou contra a intocabilidade e defendeu a igualdade social."
+      },
+      {
+        "enunciado": "O sistema de castas influencia a política indiana?",
+        "opcoes": [
+          "Não, a política é totalmente separada.",
+          "Sim, a casta ainda é um fator importante nas eleições e na distribuição de poder.",
+          "Apenas em áreas rurais.",
+          "Apenas no passado."
+        ],
+        "correta": 1,
+        "explicacao": "A casta ainda tem peso político na Índia, apesar das mudanças."
+      },
+      {
+        "enunciado": "A Índia é uma república democrática e laica. O que isso significa em relação ao sistema de castas?",
+        "opcoes": [
+          "Que o sistema de castas é oficialmente proibido, mas ainda existe na prática.",
+          "Que o sistema de castas é obrigatório.",
+          "Que a religião e a casta são a base do governo.",
+          "Que não há discriminação."
+        ],
+        "correta": 0,
+        "explicacao": "A Constituição proíbe a discriminação por casta, mas a prática social ainda persiste."
+      },
+      {
+        "enunciado": "Qual é o impacto do sistema de castas na economia indiana?",
+        "opcoes": [
+          "Acesso igualitário ao mercado de trabalho.",
+          "Restrição de oportunidades para os grupos marginalizados.",
+          "Aumento da produtividade.",
+          "Fim da pobreza."
+        ],
+        "correta": 1,
+        "explicacao": "As castas mais baixas têm menos acesso a empregos e oportunidades econômicas."
+      },
+      {
+        "enunciado": "O que são os 'dalits'?",
+        "opcoes": [
+          "Os brâmanes.",
+          "Os párias (intocáveis), considerados fora do sistema de castas.",
+          "Os xátrias.",
+          "Os vaixás."
+        ],
+        "correta": 1,
+        "explicacao": "Os dalits são os 'intocáveis', que sofrem discriminação histórica."
+      },
+      {
+        "enunciado": "A luta contra o sistema de castas na Índia tem avançado?",
+        "opcoes": [
+          "Não, está estagnada.",
+          "Sim, com políticas de inclusão e maior conscientização, mas ainda há muito a ser feito.",
+          "Sim, o sistema foi totalmente eliminado.",
+          "Não, o sistema está mais forte."
+        ],
+        "correta": 1,
+        "explicacao": "Houve avanços, mas a discriminação de casta ainda é um desafio."
+      },
+      {
+        "enunciado": "O sistema de castas é um exemplo de:",
+        "opcoes": [
+          "Igualdade social.",
+          "Desigualdade e hierarquia social.",
+          "Mobilidade social.",
+          "Democracia racial."
+        ],
+        "correta": 1,
+        "explicacao": "O sistema de castas é um exemplo de desigualdade social estrutural."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_geo_religioes_01",
+    "titulo": "Geografia - Grandes Religiões e Cultura na Ásia",
+    "tipo": "conteudo",
+    "icone": "🕉️",
+    "perguntas": [
+      {
+        "enunciado": "Qual é a religião com o maior número de seguidores no mundo?",
+        "opcoes": ["Islamismo", "Cristianismo", "Hinduísmo", "Budismo"],
+        "correta": 1,
+        "explicacao": "O Cristianismo é a religião com mais seguidores no mundo."
+      },
+      {
+        "enunciado": "Qual é a segunda maior religião do mundo e a que mais cresce?",
+        "opcoes": ["Cristianismo", "Islamismo", "Hinduísmo", "Budismo"],
+        "correta": 1,
+        "explicacao": "O Islamismo é a segunda maior religião e a que mais cresce."
+      },
+      {
+        "enunciado": "O Hinduísmo é a terceira maior religião do mundo. Onde ele se originou?",
+        "opcoes": ["China", "Índia", "Japão", "Arábia Saudita"],
+        "correta": 1,
+        "explicacao": "O Hinduísmo se originou na Índia."
+      },
+      {
+        "enunciado": "O Hinduísmo é uma religião politeísta. O que isso significa?",
+        "opcoes": [
+          "Que acredita em um único Deus.",
+          "Que acredita em vários deuses.",
+          "Que não acredita em Deus.",
+          "Que acredita apenas em espíritos."
+        ],
+        "correta": 1,
+        "explicacao": "O politeísmo é a crença em múltiplos deuses."
+      },
+      {
+        "enunciado": "Qual é o livro sagrado do Hinduísmo?",
+        "opcoes": ["Bíblia", "Alcorão", "Vedas", "Torá"],
+        "correta": 2,
+        "explicacao": "Os Vedas são os textos sagrados do Hinduísmo."
+      },
+      {
+        "enunciado": "O Budismo foi fundado por qual líder espiritual?",
+        "opcoes": ["Jesus Cristo", "Maomé", "Sidarta Gautama (Buda)", "Confúcio"],
+        "correta": 2,
+        "explicacao": "Sidarta Gautama, o Buda, fundou o Budismo."
+      },
+      {
+        "enunciado": "O Budismo é uma religião que busca:",
+        "opcoes": [
+          "A riqueza material.",
+          "A iluminação e o fim do sofrimento.",
+          "O poder político.",
+          "A conquista de territórios."
+        ],
+        "correta": 1,
+        "explicacao": "O Budismo busca a iluminação e a libertação do sofrimento."
+      },
+      {
+        "enunciado": "Qual é a principal característica do Xintoísmo, religião tradicional do Japão?",
+        "opcoes": [
+          "Monoteísmo.",
+          "Culto aos antepassados e à natureza.",
+          "Culto a um único livro sagrado.",
+          "Ausência de rituais."
+        ],
+        "correta": 1,
+        "explicacao": "O Xintoísmo cultua os antepassados e os elementos da natureza."
+      },
+      {
+        "enunciado": "O Confucionismo é uma filosofia e sistema ético que surgiu em qual país?",
+        "opcoes": ["Índia", "Japão", "China", "Coreia"],
+        "correta": 2,
+        "explicacao": "O Confucionismo surgiu na China, com Confúcio."
+      },
+      {
+        "enunciado": "Qual é a principal ênfase do Confucionismo?",
+        "opcoes": [
+          "A vida após a morte.",
+          "A moral, a ética e a harmonia social.",
+          "A guerra.",
+          "A acumulação de riquezas."
+        ],
+        "correta": 1,
+        "explicacao": "O Confucionismo enfatiza a moral, a ética e a harmonia nas relações sociais."
+      },
+      {
+        "enunciado": "O Islamismo foi fundado por qual profeta?",
+        "opcoes": ["Jesus", "Maomé", "Moisés", "Abraão"],
+        "correta": 1,
+        "explicacao": "Maomé é o profeta fundador do Islamismo."
+      },
+      {
+        "enunciado": "Qual é o livro sagrado do Islamismo?",
+        "opcoes": ["Bíblia", "Torá", "Alcorão", "Vedas"],
+        "correta": 2,
+        "explicacao": "O Alcorão é o livro sagrado do Islamismo."
+      },
+      {
+        "enunciado": "Quais são os cinco pilares do Islamismo?",
+        "opcoes": [
+          "Fé, oração, caridade, jejum e peregrinação.",
+          "Fé, batismo, comunhão, confissão e unção.",
+          "Meditação, ioga, jejum, caridade e peregrinação.",
+          "Estudo, trabalho, caridade, oração e jejum."
+        ],
+        "correta": 0,
+        "explicacao": "Os cinco pilares são: fé (Shahada), oração (Salat), caridade (Zakat), jejum (Sawm) e peregrinação (Hajj)."
+      },
+      {
+        "enunciado": "O Judaísmo é a religião do povo judeu. Qual é o seu livro sagrado?",
+        "opcoes": ["Bíblia", "Torá", "Alcorão", "Vedas"],
+        "correta": 1,
+        "explicacao": "A Torá é o livro sagrado do Judaísmo."
+      },
+      {
+        "enunciado": "O Cristianismo surgiu a partir do Judaísmo. Qual é a principal figura do Cristianismo?",
+        "opcoes": ["Maomé", "Jesus Cristo", "Moisés", "Buda"],
+        "correta": 1,
+        "explicacao": "Jesus Cristo é a figura central do Cristianismo."
+      },
+      {
+        "enunciado": "Qual é o calendário utilizado pelos muçulmanos?",
+        "opcoes": ["Calendário Gregoriano", "Calendário Lunar", "Calendário Solar", "Calendário Judaico"],
+        "correta": 1,
+        "explicacao": "O calendário islâmico é lunar, com 354 dias."
+      },
+      {
+        "enunciado": "O calendário chinês é baseado em:",
+        "opcoes": [
+          "Ciclos lunares e solares.",
+          "Apenas no sol.",
+          "Apenas na lua.",
+          "No calendário gregoriano."
+        ],
+        "correta": 0,
+        "explicacao": "O calendário chinês combina ciclos lunares e solares."
+      },
+      {
+        "enunciado": "O calendário judaico é baseado em:",
+        "opcoes": [
+          "Ciclos lunares.",
+          "Ciclos solares.",
+          "Ciclos lunares e solares.",
+          "No calendário gregoriano."
+        ],
+        "correta": 0,
+        "explicacao": "O calendário judaico é lunissolar, com meses lunares e ajustes solares."
+      },
+      {
+        "enunciado": "A culinária asiática é muito diversificada. Qual é o principal alimento básico em grande parte da Ásia?",
+        "opcoes": ["Trigo", "Arroz", "Milho", "Batata"],
+        "correta": 1,
+        "explicacao": "O arroz é a base alimentar de grande parte da população asiática."
+      },
+      {
+        "enunciado": "O que é a 'Rota da Seda'?",
+        "opcoes": [
+          "Uma rota comercial que ligava a Ásia à Europa, transportando especiarias e seda.",
+          "Uma estrada no Japão.",
+          "Uma rota marítima.",
+          "Uma ferrovia."
+        ],
+        "correta": 0,
+        "explicacao": "A Rota da Seda era uma rede de rotas comerciais que conectava o Oriente e o Ocidente."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_geo_economia_asia_01",
+    "titulo": "Geografia - Economia e Geopolítica da Ásia",
+    "tipo": "conteudo",
+    "icone": "💰",
+    "perguntas": [
+      {
+        "enunciado": "A Índia é a 7ª maior economia do mundo. Qual é o setor que mais emprega mão de obra no país?",
+        "opcoes": ["Indústria", "Agricultura", "Tecnologia", "Turismo"],
+        "correta": 1,
+        "explicacao": "A agricultura é o setor que mais emprega na Índia."
+      },
+      {
+        "enunciado": "A Índia é um dos maiores produtores mundiais de qual produto agrícola?",
+        "opcoes": ["Soja", "Arroz", "Trigo", "Milho"],
+        "correta": 1,
+        "explicacao": "A Índia é um dos maiores produtores de arroz do mundo."
+      },
+      {
+        "enunciado": "Qual é o setor que mais cresce na Índia e é responsável por grande parte do PIB?",
+        "opcoes": ["Agricultura", "Indústria", "Serviços (tecnologia)", "Mineração"],
+        "correta": 2,
+        "explicacao": "O setor de serviços, especialmente tecnologia, tem crescido muito na Índia."
+      },
+      {
+        "enunciado": "O que é o 'Vale do Silício indiano'?",
+        "opcoes": [
+          "Uma região de mineração.",
+          "O polo de tecnologia da Índia, localizado em Bangalore.",
+          "Uma área de produção de soja.",
+          "Uma região turística."
+        ],
+        "correta": 1,
+        "explicacao": "Bangalore é o principal polo de tecnologia da Índia, conhecido como Vale do Silício indiano."
+      },
+      {
+        "enunciado": "Qual é o principal produto de exportação da Índia no setor de serviços?",
+        "opcoes": ["Software", "Petróleo", "Minério de ferro", "Café"],
+        "correta": 0,
+        "explicacao": "A Índia é um grande exportador de software e serviços de TI."
+      },
+      {
+        "enunciado": "Bangladesh é um país jovem e populoso. Qual é a principal atividade econômica do país?",
+        "opcoes": ["Indústria têxtil", "Agricultura", "Mineração", "Turismo"],
+        "correta": 0,
+        "explicacao": "A indústria têxtil é a principal atividade econômica de Bangladesh."
+      },
+      {
+        "enunciado": "Qual é a principal característica da indústria têxtil em Bangladesh?",
+        "opcoes": [
+          "Alta tecnologia.",
+          "Baixos salários e condições precárias de trabalho.",
+          "Produção de alta qualidade.",
+          "Uso de mão de obra escrava."
+        ],
+        "correta": 1,
+        "explicacao": "A indústria têxtil em Bangladesh é marcada por baixos salários e condições precárias."
+      },
+      {
+        "enunciado": "Qual é a principal característica da agricultura no Sudeste Asiático?",
+        "opcoes": [
+          "Uso intensivo de tecnologia.",
+          "Agricultura de subsistência e plantations.",
+          "Grandes latifúndios.",
+          "Pecuária extensiva."
+        ],
+        "correta": 1,
+        "explicacao": "A agricultura no Sudeste Asiático é marcada pela subsistência e pelas plantations."
+      },
+      {
+        "enunciado": "O que são 'plantations'?",
+        "opcoes": [
+          "Pequenas propriedades familiares.",
+          "Grandes propriedades monocultoras voltadas para a exportação.",
+          "Áreas de preservação ambiental.",
+          "Fazendas de gado."
+        ],
+        "correta": 1,
+        "explicacao": "As plantations são grandes propriedades monocultoras voltadas para a exportação."
+      },
+      {
+        "enunciado": "Qual é o principal produto agrícola de exportação do Sudeste Asiático?",
+        "opcoes": ["Soja", "Arroz", "Café", "Óleo de palma"],
+        "correta": 3,
+        "explicacao": "O óleo de palma é um dos principais produtos de exportação da região."
+      },
+      {
+        "enunciado": "O que é a ASEAN?",
+        "opcoes": [
+          "Uma aliança militar.",
+          "A Associação das Nações do Sudeste Asiático.",
+          "Um bloco econômico europeu.",
+          "Uma organização de direitos humanos."
+        ],
+        "correta": 1,
+        "explicacao": "A ASEAN é a Associação das Nações do Sudeste Asiático, um bloco econômico regional."
+      },
+      {
+        "enunciado": "Quais são os países que compõem os 'Tigres Asiáticos'?",
+        "opcoes": [
+          "Coreia do Sul, Taiwan, Cingapura e Hong Kong.",
+          "China, Japão, Índia e Rússia.",
+          "Tailândia, Malásia, Indonésia e Filipinas.",
+          "Brasil, Rússia, Índia e China."
+        ],
+        "correta": 0,
+        "explicacao": "Os Tigres Asiáticos são Coreia do Sul, Taiwan, Cingapura e Hong Kong."
+      },
+      {
+        "enunciado": "O que caracteriza a economia dos 'Tigres Asiáticos'?",
+        "opcoes": [
+          "Economia agrária.",
+          "Industrialização acelerada e exportação de produtos manufaturados.",
+          "Dependência de petróleo.",
+          "Baixo desenvolvimento tecnológico."
+        ],
+        "correta": 1,
+        "explicacao": "Os Tigres Asiáticos se industrializaram rapidamente e são grandes exportadores."
+      },
+      {
+        "enunciado": "Quais são os 'Novos Tigres Asiáticos'?",
+        "opcoes": [
+          "Tailândia, Malásia, Indonésia e Filipinas.",
+          "China, Japão, Coreia do Sul e Índia.",
+          "Brasil, Rússia, Índia e China.",
+          "Vietnã, Laos, Camboja e Mianmar."
+        ],
+        "correta": 0,
+        "explicacao": "Os Novos Tigres Asiáticos são Tailândia, Malásia, Indonésia e Filipinas."
+      },
+      {
+        "enunciado": "Qual é o principal desafio econômico da Índia atualmente?",
+        "opcoes": [
+          "Reduzir a desigualdade social e gerar empregos.",
+          "Aumentar a população.",
+          "Diminuir as exportações.",
+          "Fechar o mercado para o exterior."
+        ],
+        "correta": 0,
+        "explicacao": "A Índia precisa reduzir a desigualdade e gerar empregos para sua grande população jovem."
+      },
+      {
+        "enunciado": "O Paquistão é um país marcado por instabilidade política. Qual é a principal consequência disso para a economia?",
+        "opcoes": [
+          "Aumento dos investimentos estrangeiros.",
+          "Dificuldade de atrair investimentos e crescimento econômico.",
+          "Crescimento acelerado.",
+          "Redução da pobreza."
+        ],
+        "correta": 1,
+        "explicacao": "A instabilidade política afasta investimentos e dificulta o crescimento."
+      },
+      {
+        "enunciado": "Qual é a principal atividade econômica do Afeganistão?",
+        "opcoes": ["Indústria", "Agricultura", "Mineração", "Turismo"],
+        "correta": 1,
+        "explicacao": "A agricultura é a principal atividade econômica do Afeganistão."
+      },
+      {
+        "enunciado": "O que é o 'Terrorismo' no contexto geopolítico asiático?",
+        "opcoes": [
+          "Uma prática religiosa.",
+          "O uso de violência para fins políticos, que afeta a estabilidade de vários países.",
+          "Uma forma de governo.",
+          "Uma organização humanitária."
+        ],
+        "correta": 1,
+        "explicacao": "O terrorismo é uma ameaça à segurança e à estabilidade em várias regiões da Ásia."
+      },
+      {
+        "enunciado": "Qual é o país que mais investe em tecnologia e inovação na Ásia atualmente?",
+        "opcoes": ["Japão", "China", "Índia", "Coreia do Sul"],
+        "correta": 2,
+        "explicacao": "A China tem investido pesadamente em tecnologia e inovação."
+      },
+      {
+        "enunciado": "Qual é o papel da China na economia global?",
+        "opcoes": [
+          "É a maior economia do mundo.",
+          "É uma das maiores economias e o maior exportador de produtos manufaturados.",
+          "É uma economia fechada.",
+          "Depende apenas da agricultura."
+        ],
+        "correta": 1,
+        "explicacao": "A China é uma potência econômica global e o maior exportador de manufaturados."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_geo_sudeste_asiatico_01",
+    "titulo": "Geografia - Sudeste Asiático e Oceania",
+    "tipo": "conteudo",
+    "icone": "🏝️",
+    "perguntas": [
+      {
+        "enunciado": "O Sudeste Asiático é formado por quantos países?",
+        "opcoes": ["5", "11", "15", "20"],
+        "correta": 1,
+        "explicacao": "O Sudeste Asiático é formado por 11 países."
+      },
+      {
+        "enunciado": "Qual é a principal característica geográfica do Sudeste Asiático?",
+        "opcoes": [
+          "A presença de desertos.",
+          "A presença de penínsulas e arquipélagos.",
+          "A ausência de rios.",
+          "A presença de montanhas nevadas."
+        ],
+        "correta": 1,
+        "explicacao": "A região é marcada por penínsulas e arquipélagos."
+      },
+      {
+        "enunciado": "Qual é o maior arquipélago do mundo, localizado no Sudeste Asiático?",
+        "opcoes": ["Filipinas", "Indonésia", "Malásia", "Japão"],
+        "correta": 1,
+        "explicacao": "A Indonésia é o maior arquipélago do mundo."
+      },
+      {
+        "enunciado": "Qual é o país do Sudeste Asiático que é uma cidade-estado?",
+        "opcoes": ["Tailândia", "Cingapura", "Vietnã", "Camboja"],
+        "correta": 1,
+        "explicacao": "Cingapura é uma cidade-estado."
+      },
+      {
+        "enunciado": "Qual é o principal rio do Sudeste Asiático, que atravessa vários países?",
+        "opcoes": ["Rio Nilo", "Rio Mekong", "Rio Amazonas", "Rio Yangtzé"],
+        "correta": 1,
+        "explicacao": "O Rio Mekong é o principal rio da região."
+      },
+      {
+        "enunciado": "O que é o 'Círculo de Fogo do Pacífico'?",
+        "opcoes": [
+          "Uma área de vulcões e terremotos que circunda o Oceano Pacífico.",
+          "Uma corrente marítima.",
+          "Uma área de desertos.",
+          "Uma rota comercial."
+        ],
+        "correta": 0,
+        "explicacao": "O Círculo de Fogo é uma área de intensa atividade sísmica e vulcânica."
+      },
+      {
+        "enunciado": "Quais são os países do Sudeste Asiático que fazem parte do Círculo de Fogo do Pacífico?",
+        "opcoes": ["Indonésia e Filipinas", "Tailândia e Vietnã", "Camboja e Laos", "Mianmar e Brunei"],
+        "correta": 0,
+        "explicacao": "Indonésia e Filipinas estão no Círculo de Fogo e sofrem com terremotos e vulcões."
+      },
+      {
+        "enunciado": "O que é um tsunami?",
+        "opcoes": [
+          "Uma onda gigante causada por terremotos ou erupções vulcânicas.",
+          "Um furacão.",
+          "Uma tempestade tropical.",
+          "Uma enchente."
+        ],
+        "correta": 0,
+        "explicacao": "Tsunamis são ondas gigantes geradas por perturbações no fundo do mar."
+      },
+      {
+        "enunciado": "Qual foi o tsunami mais devastador da história recente, que atingiu vários países do Sudeste Asiático em 2004?",
+        "opcoes": [
+          "Tsunami do Japão.",
+          "Tsunami do Oceano Índico.",
+          "Tsunami do Havaí.",
+          "Tsunami da Tailândia."
+        ],
+        "correta": 1,
+        "explicacao": "O tsunami do Oceano Índico em 2004 causou uma enorme destruição."
+      },
+      {
+        "enunciado": "Qual é a principal atividade econômica do Sudeste Asiático?",
+        "opcoes": ["Agricultura", "Indústria", "Turismo", "Mineração"],
+        "correta": 0,
+        "explicacao": "A agricultura é uma das principais atividades econômicas da região."
+      },
+      {
+        "enunciado": "O que são as 'plantations' no Sudeste Asiático?",
+        "opcoes": [
+          "Pequenas propriedades familiares.",
+          "Grandes propriedades monocultoras voltadas para a exportação.",
+          "Áreas de preservação ambiental.",
+          "Fazendas de gado."
+        ],
+        "correta": 1,
+        "explicacao": "As plantations são grandes propriedades voltadas para a exportação."
+      },
+      {
+        "enunciado": "Qual é o principal produto agrícola de exportação da Indonésia?",
+        "opcoes": ["Café", "Óleo de palma", "Soja", "Milho"],
+        "correta": 1,
+        "explicacao": "A Indonésia é um dos maiores produtores de óleo de palma do mundo."
+      },
+      {
+        "enunciado": "O que é a ASEAN?",
+        "opcoes": [
+          "A Associação das Nações do Sudeste Asiático.",
+          "Uma aliança militar.",
+          "Um bloco econômico europeu.",
+          "Uma organização de direitos humanos."
+        ],
+        "correta": 0,
+        "explicacao": "A ASEAN é a Associação das Nações do Sudeste Asiático."
+      },
+      {
+        "enunciado": "Qual é a principal característica da economia de Cingapura?",
+        "opcoes": [
+          "Economia agrária.",
+          "Economia baseada em serviços financeiros e tecnologia.",
+          "Dependência de petróleo.",
+          "Baixo desenvolvimento."
+        ],
+        "correta": 1,
+        "explicacao": "Cingapura é um centro financeiro e tecnológico global."
+      },
+      {
+        "enunciado": "A Oceania é um continente formado por milhares de ilhas. Qual é o maior país da Oceania?",
+        "opcoes": ["Nova Zelândia", "Austrália", "Papua Nova Guiné", "Fiji"],
+        "correta": 1,
+        "explicacao": "A Austrália é o maior país da Oceania."
+      },
+      {
+        "enunciado": "Qual é a principal característica da Austrália?",
+        "opcoes": [
+          "Grande população.",
+          "Economia baseada na agricultura.",
+          "Clima desértico em grande parte do território.",
+          "Ausência de recursos naturais."
+        ],
+        "correta": 2,
+        "explicacao": "A Austrália tem grandes áreas desérticas (outback)."
+      },
+      {
+        "enunciado": "Qual é a principal atividade econômica da Austrália?",
+        "opcoes": ["Mineração", "Indústria", "Turismo", "Agricultura"],
+        "correta": 0,
+        "explicacao": "A mineração é uma das principais atividades econômicas da Austrália."
+      },
+      {
+        "enunciado": "Qual é o principal problema ambiental da Oceania?",
+        "opcoes": [
+          "Desmatamento e mudanças climáticas.",
+          "Excesso de chuvas.",
+          "Falta de água doce.",
+          "Poluição do ar."
+        ],
+        "correta": 0,
+        "explicacao": "As mudanças climáticas ameaçam as ilhas da Oceania com a elevação do nível do mar."
+      },
+      {
+        "enunciado": "Qual é o país da Oceania mais ameaçado pela elevação do nível do mar?",
+        "opcoes": ["Tuvalu", "Austrália", "Nova Zelândia", "Fiji"],
+        "correta": 0,
+        "explicacao": "Tuvalu é um dos países mais ameaçados pelas mudanças climáticas."
+      },
+      {
+        "enunciado": "A Oceania é um continente com grande diversidade cultural. Quais são os povos originários da região?",
+        "opcoes": [
+          "Os europeus.",
+          "Os aborígenes e os povos do Pacífico.",
+          "Os africanos.",
+          "Os asiáticos."
+        ],
+        "correta": 1,
+        "explicacao": "Os aborígenes e os povos do Pacífico são os originários da Oceania."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_geo_geopolitica_01",
+    "titulo": "Geografia - Geopolítica e Conflitos na Ásia",
+    "tipo": "conteudo",
+    "icone": "🌍",
+    "perguntas": [
+      {
+        "enunciado": "O que é geopolítica?",
+        "opcoes": [
+          "O estudo da geografia física.",
+          "O estudo das relações entre poder político e espaço geográfico.",
+          "O estudo da economia.",
+          "O estudo da população."
+        ],
+        "correta": 1,
+        "explicacao": "A geopolítica analisa as relações de poder no espaço geográfico."
+      },
+      {
+        "enunciado": "Qual é a principal disputa geopolítica na Ásia atualmente?",
+        "opcoes": [
+          "A disputa por recursos naturais e influência regional.",
+          "A disputa por territórios na Europa.",
+          "A disputa por colônias na África.",
+          "A disputa por petróleo na América do Sul."
+        ],
+        "correta": 0,
+        "explicacao": "A Ásia é palco de disputas por recursos e influência entre potências."
+      },
+      {
+        "enunciado": "Quais são as duas potências que disputam a hegemonia na Ásia?",
+        "opcoes": ["Índia e Paquistão", "China e Japão", "China e Índia", "EUA e Rússia"],
+        "correta": 2,
+        "explicacao": "China e Índia são as duas grandes potências que disputam influência na Ásia."
+      },
+      {
+        "enunciado": "Qual é o principal conflito territorial entre Índia e Paquistão?",
+        "opcoes": ["Caxemira", "Tibete", "Sri Lanka", "Nepal"],
+        "correta": 0,
+        "explicacao": "A Caxemira é o principal ponto de tensão entre Índia e Paquistão."
+      },
+      {
+        "enunciado": "O que é a Caxemira?",
+        "opcoes": [
+          "Uma região disputada por Índia, Paquistão e China.",
+          "Um país independente.",
+          "Uma região da Europa.",
+          "Um estado indiano."
+        ],
+        "correta": 0,
+        "explicacao": "A Caxemira é uma região de maioria muçulmana disputada por Índia e Paquistão."
+      },
+      {
+        "enunciado": "Qual é o país que possui armas nucleares e é governado por um regime teocrático?",
+        "opcoes": ["Índia", "Paquistão", "Irã", "Coreia do Norte"],
+        "correta": 1,
+        "explicacao": "O Paquistão é uma república islâmica com armas nucleares."
+      },
+      {
+        "enunciado": "O que é o Talibã?",
+        "opcoes": [
+          "Um grupo fundamentalista islâmico que governou o Afeganistão.",
+          "Um partido político indiano.",
+          "Uma organização humanitária.",
+          "Um grupo militar americano."
+        ],
+        "correta": 0,
+        "explicacao": "O Talibã é um grupo fundamentalista que governou o Afeganistão e voltou ao poder em 2021."
+      },
+      {
+        "enunciado": "Qual foi o principal motivo da invasão soviética ao Afeganistão em 1979?",
+        "opcoes": [
+          "Apoiar o regime socialista afegão.",
+          "Conquistar território.",
+          "Buscar petróleo.",
+          "Combater o terrorismo."
+        ],
+        "correta": 0,
+        "explicacao": "A URSS invadiu o Afeganistão para apoiar o governo socialista local."
+      },
+      {
+        "enunciado": "Qual foi a consequência da invasão soviética ao Afeganistão para os EUA?",
+        "opcoes": [
+          "Os EUA apoiaram os mujahidins para combater os soviéticos.",
+          "Os EUA se aliaram à URSS.",
+          "Os EUA se retiraram da região.",
+          "Os EUA não se envolveram."
+        ],
+        "correta": 0,
+        "explicacao": "Os EUA financiaram e armaram os mujahidins contra a URSS."
+      },
+      {
+        "enunciado": "O que é o extremismo religioso?",
+        "opcoes": [
+          "A prática moderada de uma religião.",
+          "A interpretação radical de uma religião, que pode levar à violência.",
+          "A ausência de religião.",
+          "A liberdade religiosa."
+        ],
+        "correta": 1,
+        "explicacao": "O extremismo religioso é uma interpretação radical que pode justificar atos violentos."
+      },
+      {
+        "enunciado": "Qual é a principal característica do regime da Coreia do Norte?",
+        "opcoes": [
+          "Democracia.",
+          "Ditadura comunista e isolamento internacional.",
+          "Monarquia.",
+          "Teocracia."
+        ],
+        "correta": 1,
+        "explicacao": "A Coreia do Norte é uma ditadura comunista e isolada."
+      },
+      {
+        "enunciado": "Qual é o principal conflito envolvendo a Coreia do Norte?",
+        "opcoes": [
+          "A disputa territorial com a China.",
+          "O programa nuclear e as tensões com a Coreia do Sul e os EUA.",
+          "A guerra civil.",
+          "A disputa por petróleo."
+        ],
+        "correta": 1,
+        "explicacao": "O programa nuclear norte-coreano gera tensões na região."
+      },
+      {
+        "enunciado": "O que é a questão de Taiwan?",
+        "opcoes": [
+          "Uma disputa entre China e Taiwan sobre a soberania da ilha.",
+          "Uma disputa entre Japão e China.",
+          "Uma guerra civil.",
+          "Um conflito comercial."
+        ],
+        "correta": 0,
+        "explicacao": "A China considera Taiwan uma província rebelde, enquanto Taiwan se vê como um território independente."
+      },
+      {
+        "enunciado": "Qual é o principal interesse geopolítico da China no Mar do Sul da China?",
+        "opcoes": [
+          "O controle de rotas marítimas e recursos naturais.",
+          "A pesca de subsistência.",
+          "O turismo.",
+          "A exploração de petróleo."
+        ],
+        "correta": 0,
+        "explicacao": "O Mar do Sul da China é uma importante rota comercial e rica em recursos."
+      },
+      {
+        "enunciado": "Qual é o papel da ONU na geopolítica asiática?",
+        "opcoes": [
+          "Promover a paz e a cooperação internacional.",
+          "Comandar as forças armadas.",
+          "Regular a economia.",
+          "Criar leis para todos os países."
+        ],
+        "correta": 0,
+        "explicacao": "A ONU busca promover a paz e a cooperação entre os países."
+      },
+      {
+        "enunciado": "O que é o fundamentalismo islâmico?",
+        "opcoes": [
+          "Uma interpretação radical do Islã que busca impor suas crenças.",
+          "A prática moderada do Islã.",
+          "Uma seita cristã.",
+          "Uma religião oriental."
+        ],
+        "correta": 0,
+        "explicacao": "O fundamentalismo islâmico é uma interpretação radical que busca impor suas crenças pela força."
+      },
+      {
+        "enunciado": "Quais são as principais rotas comerciais da Ásia?",
+        "opcoes": [
+          "As rotas terrestres e marítimas, como a Rota da Seda e o Estreito de Malaca.",
+          "Apenas rotas aéreas.",
+          "Apenas rotas terrestres.",
+          "Apenas rotas marítimas."
+        ],
+        "correta": 0,
+        "explicacao": "A Ásia é cortada por importantes rotas comerciais terrestres e marítimas."
+      },
+      {
+        "enunciado": "O que é o Estreito de Malaca?",
+        "opcoes": [
+          "Uma importante rota marítima entre o Oceano Índico e o Pacífico.",
+          "Um canal artificial.",
+          "Um rio.",
+          "Uma montanha."
+        ],
+        "correta": 0,
+        "explicacao": "O Estreito de Malaca é uma das rotas marítimas mais importantes do mundo."
+      },
+      {
+        "enunciado": "Qual é o principal desafio da Índia em relação à sua política externa?",
+        "opcoes": [
+          "Equilibrar as relações com os EUA, China e Rússia.",
+          "Isolar-se do mundo.",
+          "Alinhar-se apenas com a China.",
+          "Entrar em guerra."
+        ],
+        "correta": 0,
+        "explicacao": "A Índia busca equilibrar suas relações com as grandes potências."
+      },
+      {
+        "enunciado": "O que é o BRICS?",
+        "opcoes": [
+          "Um grupo de países emergentes (Brasil, Rússia, Índia, China e África do Sul).",
+          "Uma aliança militar.",
+          "Um bloco econômico europeu.",
+          "Uma organização de direitos humanos."
+        ],
+        "correta": 0,
+        "explicacao": "O BRICS é um grupo de países emergentes que busca maior influência global."
+      }
+    ]
+  }
+]
