@@ -1,9 +1,9 @@
 [
   {
-    "id": "9ano_v6_mat_funcoes_01",
-    "titulo": "Matemática - Introdução às Funções",
+    "id": "9ano_v6_mat_conceitos_01",
+    "titulo": "Matemática - Conceitos de Função e Plano Cartesiano",
     "tipo": "conteudo",
-    "icone": "📈",
+    "icone": "📍",
     "perguntas": [
       {
         "enunciado": "O que é uma função em matemática?",
@@ -15,17 +15,6 @@
         ],
         "correta": 1,
         "explicacao": "A função é uma relação em que cada elemento do domínio (x) tem um único correspondente na imagem (y)."
-      },
-      {
-        "enunciado": "Em uma função f(x) = 3x, qual é o valor de f(4)?",
-        "opcoes": [
-          "7",
-          "12",
-          "34",
-          "43"
-        ],
-        "correta": 1,
-        "explicacao": "Substituindo x por 4 na fórmula f(x) = 3x, temos f(4) = 3 * 4 = 12."
       },
       {
         "enunciado": "Em uma função, como é chamado o conjunto de todos os valores possíveis para x?",
@@ -61,6 +50,201 @@
         "explicacao": "A variável independente é aquela que escolhemos livremente, neste caso, o x."
       },
       {
+        "enunciado": "O que significa a notação f(x)?",
+        "opcoes": [
+          "Que a função deve ser multiplicada por x.",
+          "Que f é a imagem do domínio x.",
+          "Que x é a função de f.",
+          "Que a função é igual a zero."
+        ],
+        "correta": 1,
+        "explicacao": "A notação f(x) indica o valor da função f quando a variável independente é x (o valor de y)."
+      },
+      {
+        "enunciado": "Se um ponto está sobre o eixo x, qual é o valor da sua ordenada (y)?",
+        "opcoes": [
+          "Sempre 1.",
+          "Sempre positivo.",
+          "Sempre igual a 0.",
+          "Sempre negativo."
+        ],
+        "correta": 2,
+        "explicacao": "Qualquer ponto no eixo x tem coordenada y = 0, como (3, 0)."
+      },
+      {
+        "enunciado": "Se um ponto está sobre o eixo y, qual é o valor da sua abscissa (x)?",
+        "opcoes": [
+          "Sempre 1.",
+          "Sempre positivo.",
+          "Sempre igual a 0.",
+          "Sempre negativo."
+        ],
+        "correta": 2,
+        "explicacao": "Qualquer ponto no eixo y tem coordenada x = 0, como (0, 5)."
+      },
+      {
+        "enunciado": "Quem foi o matemático responsável por criar o sistema de coordenadas cartesianas?",
+        "opcoes": [
+          "Isaac Newton.",
+          "René Descartes.",
+          "Albert Einstein.",
+          "Pitágoras."
+        ],
+        "correta": 1,
+        "explicacao": "René Descartes desenvolveu o plano cartesiano unindo álgebra e geometria."
+      },
+      {
+        "enunciado": "No par ordenado (3, 5), qual é o valor da abscissa?",
+        "opcoes": [
+          "3",
+          "5",
+          "8",
+          "2"
+        ],
+        "correta": 0,
+        "explicacao": "A abscissa é sempre o primeiro valor do par ordenado (x), que neste caso é 3."
+      },
+      {
+        "enunciado": "No par ordenado (-2, 7), qual é o valor da ordenada?",
+        "opcoes": [
+          "-2",
+          "7",
+          "5",
+          "-7"
+        ],
+        "correta": 1,
+        "explicacao": "A ordenada é sempre o segundo valor do par ordenado (y), que neste caso é 7."
+      },
+      {
+        "enunciado": "O ponto A(2, -3) está localizado em qual quadrante?",
+        "opcoes": [
+          "1º quadrante.",
+          "2º quadrante.",
+          "3º quadrante.",
+          "4º quadrante."
+        ],
+        "correta": 3,
+        "explicacao": "No 4º quadrante, os valores de x são positivos e os de y são negativos."
+      },
+      {
+        "enunciado": "O ponto B(-4, 5) está localizado em qual quadrante?",
+        "opcoes": [
+          "1º quadrante.",
+          "2º quadrante.",
+          "3º quadrante.",
+          "4º quadrante."
+        ],
+        "correta": 1,
+        "explicacao": "No 2º quadrante, os valores de x são negativos e os de y são positivos."
+      },
+      {
+        "enunciado": "O ponto C(-3, -1) está localizado em qual quadrante?",
+        "opcoes": [
+          "1º quadrante.",
+          "2º quadrante.",
+          "3º quadrante.",
+          "4º quadrante."
+        ],
+        "correta": 2,
+        "explicacao": "No 3º quadrante, tanto x quanto y são negativos."
+      },
+      {
+        "enunciado": "O ponto D(5, 2) está localizado em qual quadrante?",
+        "opcoes": [
+          "1º quadrante.",
+          "2º quadrante.",
+          "3º quadrante.",
+          "4º quadrante."
+        ],
+        "correta": 0,
+        "explicacao": "No 1º quadrante, tanto x quanto y são positivos."
+      },
+      {
+        "enunciado": "O eixo horizontal do plano cartesiano é chamado de:",
+        "opcoes": [
+          "Eixo das ordenadas (y).",
+          "Eixo das abscissas (x).",
+          "Origem.",
+          "Eixo de simetria."
+        ],
+        "correta": 1,
+        "explicacao": "O eixo horizontal é o eixo x, também chamado de eixo das abscissas."
+      },
+      {
+        "enunciado": "O eixo vertical do plano cartesiano é chamado de:",
+        "opcoes": [
+          "Eixo das ordenadas (y).",
+          "Eixo das abscissas (x).",
+          "Origem.",
+          "Eixo de simetria."
+        ],
+        "correta": 0,
+        "explicacao": "O eixo vertical é o eixo y, também chamado de eixo das ordenadas."
+      },
+      {
+        "enunciado": "O ponto onde os dois eixos se cruzam (0, 0) é chamado de:",
+        "opcoes": [
+          "Vértice.",
+          "Origem do sistema.",
+          "Raiz.",
+          "Par ordenado."
+        ],
+        "correta": 1,
+        "explicacao": "A interseção dos eixos x e y no ponto (0,0) é a origem do plano cartesiano."
+      },
+      {
+        "enunciado": "Como é escrita a representação de um ponto no plano cartesiano?",
+        "opcoes": [
+          "Apenas um número.",
+          "Um par ordenado (x, y).",
+          "Uma fração.",
+          "Uma equação."
+        ],
+        "correta": 1,
+        "explicacao": "Todo ponto é representado por um par ordenado, onde o primeiro valor é x e o segundo é y."
+      },
+      {
+        "enunciado": "Na função y = 2x, se x = 3, qual é o ponto correspondente no gráfico?",
+        "opcoes": [
+          "(2, 3)",
+          "(3, 2)",
+          "(3, 6)",
+          "(6, 3)"
+        ],
+        "correta": 2,
+        "explicacao": "Se x = 3, y = 2 * 3 = 6. Logo, o par ordenado é (3, 6)."
+      },
+      {
+        "enunciado": "A tabela de uma função mostra os valores de x e y. Se x = 1 e y = 4; x = 2 e y = 8, a função é:",
+        "opcoes": [
+          "y = x + 4",
+          "y = 4x",
+          "y = x²",
+          "y = 2x"
+        ],
+        "correta": 1,
+        "explicacao": "Percebe-se que y é sempre 4 vezes o valor de x (4*1=4; 4*2=8)."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_mat_calculo_funcoes_01",
+    "titulo": "Matemática - Cálculo e Gráficos de Funções",
+    "tipo": "conteudo",
+    "icone": "📈",
+    "perguntas": [
+      {
+        "enunciado": "Em uma função f(x) = 3x, qual é o valor de f(4)?",
+        "opcoes": [
+          "7",
+          "12",
+          "34",
+          "43"
+        ],
+        "correta": 1,
+        "explicacao": "Substituindo x por 4 na fórmula f(x) = 3x, temos f(4) = 3 * 4 = 12."
+      },
+      {
         "enunciado": "Na função f(x) = 2x + 5, qual é o valor de f(3)?",
         "opcoes": [
           "6",
@@ -81,17 +265,6 @@
         ],
         "correta": 0,
         "explicacao": "Substituindo x por 5: f(5) = 5² - 1 = 25 - 1 = 24."
-      },
-      {
-        "enunciado": "O que significa a notação f(x)?",
-        "opcoes": [
-          "Que a função deve ser multiplicada por x.",
-          "Que f é a imagem do domínio x.",
-          "Que x é a função de f.",
-          "Que a função é igual a zero."
-        ],
-        "correta": 1,
-        "explicacao": "A notação f(x) indica o valor da função f quando a variável independente é x (o valor de y)."
       },
       {
         "enunciado": "Um triângulo equilátero tem perímetro y em função do lado x, dado por y = 3x. Se o lado mede 5 cm, qual é o perímetro?",
@@ -116,17 +289,6 @@
         "explicacao": "Calculando f(x) para cada valor do domínio, obtemos a imagem {3, 6, 9, 12, 15}."
       },
       {
-        "enunciado": "O que é o contradomínio de uma função?",
-        "opcoes": [
-          "O conjunto de todos os valores que y pode ou não assumir.",
-          "O conjunto de valores que y obrigatoriamente assume.",
-          "O mesmo que domínio.",
-          "O eixo das abscissas."
-        ],
-        "correta": 0,
-        "explicacao": "O contradomínio é o conjunto de chegada, que contém a imagem (todos os valores possíveis para y)."
-      },
-      {
         "enunciado": "Na relação entre o número de acertos (t) e a nota (N), onde N = 0,5 * t, se o aluno acertou 10 questões, qual é a nota?",
         "opcoes": [
           "5,0",
@@ -136,17 +298,6 @@
         ],
         "correta": 0,
         "explicacao": "N = 0,5 * 10 = 5,0."
-      },
-      {
-        "enunciado": "Em uma função, cada elemento do domínio deve estar associado a:",
-        "opcoes": [
-          "Nenhum elemento do contradomínio.",
-          "Dois elementos do contradomínio.",
-          "Um único elemento do contradomínio.",
-          "Qualquer quantidade de elementos."
-        ],
-        "correta": 2,
-        "explicacao": "Esta é a definição de função: para cada x, existe apenas um único y correspondente."
       },
       {
         "enunciado": "Se uma função é definida por y = 10 - 2x, qual o valor de y quando x = 4?",
@@ -169,17 +320,6 @@
         ],
         "correta": 1,
         "explicacao": "y = 50 + 10(3) = 50 + 30 = 80."
-      },
-      {
-        "enunciado": "Qual das alternativas representa uma relação que NÃO é uma função?",
-        "opcoes": [
-          "Cada pessoa tem um único nome.",
-          "Cada número tem um dobro.",
-          "Um aluno tirou notas 5 e 8 na mesma prova.",
-          "Cada mês tem um número de dias."
-        ],
-        "correta": 2,
-        "explicacao": "Se um valor de x (a prova) tem dois valores de y (notas 5 e 8), a relação não é uma função."
       },
       {
         "enunciado": "Na função f(x) = -2x + 1, qual é o valor de f(-1)?",
@@ -224,6 +364,94 @@
         ],
         "correta": 1,
         "explicacao": "Na função, y é a variável dependente, pois seu valor é obtido a partir de x."
+      },
+      {
+        "enunciado": "Em uma função do 1º grau, o gráfico corta o eixo y no ponto de coordenadas:",
+        "opcoes": [
+          "(a, 0)",
+          "(0, b)",
+          "(x, y)",
+          "(b, 0)"
+        ],
+        "correta": 1,
+        "explicacao": "Quando x = 0, y = b. Logo, o ponto de intersecção com o eixo y é (0, b)."
+      },
+      {
+        "enunciado": "Na função y = 2x - 4, a reta corta o eixo y em qual ponto?",
+        "opcoes": [
+          "(0, 2)",
+          "(2, 0)",
+          "(0, -4)",
+          "(-4, 0)"
+        ],
+        "correta": 2,
+        "explicacao": "Como b = -4, a reta corta o eixo y em (0, -4)."
+      },
+      {
+        "enunciado": "Quando o gráfico de uma função do 1º grau 'passa pela origem', significa que:",
+        "opcoes": [
+          "O coeficiente a é zero.",
+          "O coeficiente b é zero.",
+          "A função é quadrática.",
+          "A reta é horizontal."
+        ],
+        "correta": 1,
+        "explicacao": "Se b = 0, a função y = ax passa pelo ponto (0,0), ou seja, pela origem."
+      },
+      {
+        "enunciado": "A representação gráfica de uma função constante y = 5 é:",
+        "opcoes": [
+          "Uma reta inclinada.",
+          "Uma reta horizontal.",
+          "Uma reta vertical.",
+          "Uma parábola."
+        ],
+        "correta": 1,
+        "explicacao": "Como y é sempre 5 para qualquer x, o gráfico é uma linha reta horizontal."
+      },
+      {
+        "enunciado": "Em um gráfico de uma função do 2º grau com concavidade para cima, o ponto mais baixo é chamado de:",
+        "opcoes": [
+          "Ponto de máximo.",
+          "Ponto de mínimo.",
+          "Zero da função.",
+          "Origem."
+        ],
+        "correta": 1,
+        "explicacao": "Na concavidade para cima (a > 0), o vértice representa o menor valor de y, ou seja, o ponto de mínimo."
+      },
+      {
+        "enunciado": "Para construir o gráfico de uma função do 1º grau, são necessários no mínimo quantos pontos?",
+        "opcoes": [
+          "1 ponto.",
+          "2 pontos.",
+          "3 pontos.",
+          "4 pontos."
+        ],
+        "correta": 1,
+        "explicacao": "Como o gráfico é uma reta, dois pontos distintos são suficientes para determiná-la."
+      },
+      {
+        "enunciado": "O zero da função y = -2x + 8 é:",
+        "opcoes": [
+          "4",
+          "-4",
+          "8",
+          "-8"
+        ],
+        "correta": 0,
+        "explicacao": "-2x + 8 = 0 -> -2x = -8 -> x = 4."
+      },
+      {
+        "enunciado": "O gráfico de uma função do 1º grau, y = ax + b, é sempre:",
+        "opcoes": [
+          "Uma parábola.",
+          "Uma reta.",
+          "Um círculo.",
+          "Uma curva."
+        ],
+        "correta": 1,
+        "explicacao": "A representação gráfica de uma função afim é uma linha reta."
       }
     ]
   },
@@ -333,28 +561,6 @@
         "explicacao": "Fazendo y = 0: 3x - 9 = 0 -> 3x = 9 -> x = 3."
       },
       {
-        "enunciado": "Em uma função do 1º grau, o gráfico corta o eixo y no ponto de coordenadas:",
-        "opcoes": [
-          "(a, 0)",
-          "(0, b)",
-          "(x, y)",
-          "(b, 0)"
-        ],
-        "correta": 1,
-        "explicacao": "Quando x = 0, y = b. Logo, o ponto de intersecção com o eixo y é (0, b)."
-      },
-      {
-        "enunciado": "Na função y = 2x - 4, a reta corta o eixo y em qual ponto?",
-        "opcoes": [
-          "(0, 2)",
-          "(2, 0)",
-          "(0, -4)",
-          "(-4, 0)"
-        ],
-        "correta": 2,
-        "explicacao": "Como b = -4, a reta corta o eixo y em (0, -4)."
-      },
-      {
         "enunciado": "Uma função é chamada de linear quando:",
         "opcoes": [
           "O coeficiente a = 0.",
@@ -375,17 +581,6 @@
         ],
         "correta": 2,
         "explicacao": "Como não há a variável x, y assume sempre o mesmo valor, caracterizando uma função constante."
-      },
-      {
-        "enunciado": "O gráfico da função do 1º grau sempre será:",
-        "opcoes": [
-          "Uma parábola.",
-          "Uma reta inclinada.",
-          "Um círculo.",
-          "Uma curva exponencial."
-        ],
-        "correta": 1,
-        "explicacao": "O gráfico da função do 1º grau é sempre uma reta."
       },
       {
         "enunciado": "Em uma locadora, o aluguel de um filme custa R$ 5,00 fixo mais R$ 2,00 por dia atrasado (y = 5 + 2x). Se o atraso for de 4 dias, qual o valor total?",
@@ -421,28 +616,6 @@
         "explicacao": "O termo que acompanha o x é -1, logo a = -1."
       },
       {
-        "enunciado": "A raiz da função y = -2x + 8 é:",
-        "opcoes": [
-          "4",
-          "-4",
-          "8",
-          "-8"
-        ],
-        "correta": 0,
-        "explicacao": "-2x + 8 = 0 -> -2x = -8 -> x = 4."
-      },
-      {
-        "enunciado": "Para construir o gráfico de uma função do 1º grau, são necessários no mínimo quantos pontos?",
-        "opcoes": [
-          "1 ponto.",
-          "2 pontos.",
-          "3 pontos.",
-          "4 pontos."
-        ],
-        "correta": 1,
-        "explicacao": "Como o gráfico é uma reta, dois pontos distintos são suficientes para determiná-la."
-      },
-      {
         "enunciado": "O ponto onde o gráfico cruza o eixo das abscissas (eixo x) é chamado de:",
         "opcoes": [
           "Coeficiente linear.",
@@ -452,12 +625,67 @@
         ],
         "correta": 2,
         "explicacao": "O zero da função é o valor de x quando y = 0."
+      },
+      {
+        "enunciado": "Na função f(x) = -3x + 12, qual é o valor de f(2)?",
+        "opcoes": [
+          "6",
+          "18",
+          "-6",
+          "12"
+        ],
+        "correta": 0,
+        "explicacao": "f(2) = -3(2) + 12 = -6 + 12 = 6."
+      },
+      {
+        "enunciado": "Se o gráfico de uma função afim passa pelos pontos (0, 2) e (1, 5), qual é o coeficiente angular 'a'?",
+        "opcoes": [
+          "1",
+          "2",
+          "3",
+          "5"
+        ],
+        "correta": 2,
+        "explicacao": "a = Δy/Δx = (5 - 2) / (1 - 0) = 3 / 1 = 3."
+      },
+      {
+        "enunciado": "Uma função do 1º grau y = ax + b tem a = 0. Como é chamada essa função?",
+        "opcoes": [
+          "Linear.",
+          "Quadrática.",
+          "Constante.",
+          "Exponencial."
+        ],
+        "correta": 2,
+        "explicacao": "Se a = 0, y = b. O valor não varia, é constante."
+      },
+      {
+        "enunciado": "Dada a função y = 4x, qual é a imagem quando x = -2?",
+        "opcoes": [
+          "8",
+          "-8",
+          "2",
+          "-2"
+        ],
+        "correta": 1,
+        "explicacao": "y = 4 * (-2) = -8."
+      },
+      {
+        "enunciado": "O gráfico de y = -x é uma reta que:",
+        "opcoes": [
+          "Sobe da esquerda para a direita.",
+          "Desce da esquerda para a direita.",
+          "É horizontal.",
+          "É vertical."
+        ],
+        "correta": 1,
+        "explicacao": "Como a = -1, a função é decrescente, ou seja, a reta desce."
       }
     ]
   },
   {
-    "id": "9ano_v6_mat_funcao_2grau_01",
-    "titulo": "Matemática - Função Polinomial do 2º Grau",
+    "id": "9ano_v6_mat_funcao_2grau_conceitos_01",
+    "titulo": "Matemática - Função Quadrática (Conceitos)",
     "tipo": "conteudo",
     "icone": "📉",
     "perguntas": [
@@ -526,61 +754,6 @@
         ],
         "correta": 1,
         "explicacao": "Os zeros são as raízes da equação ax² + bx + c = 0, onde o gráfico intercepta o eixo x."
-      },
-      {
-        "enunciado": "Como é chamado o ponto de máximo ou de mínimo de uma parábola?",
-        "opcoes": [
-          "Origem.",
-          "Vértice.",
-          "Raiz.",
-          "Eixo de simetria."
-        ],
-        "correta": 1,
-        "explicacao": "O vértice é o ponto que representa o menor ou maior valor da função quadrática."
-      },
-      {
-        "enunciado": "Se a > 0 (concavidade para cima), o vértice da parábola representa um ponto de:",
-        "opcoes": [
-          "Máximo.",
-          "Mínimo.",
-          "Inflexão.",
-          "Zero da função."
-        ],
-        "correta": 1,
-        "explicacao": "Com a concavidade para cima, o vértice fica na parte mais baixa, sendo o ponto de mínimo."
-      },
-      {
-        "enunciado": "Se a < 0 (concavidade para baixo), o vértice da parábola representa um ponto de:",
-        "opcoes": [
-          "Máximo.",
-          "Mínimo.",
-          "Inflexão.",
-          "Zero da função."
-        ],
-        "correta": 0,
-        "explicacao": "Com a concavidade para baixo, o vértice fica na parte mais alta, sendo o ponto de máximo."
-      },
-      {
-        "enunciado": "A fórmula para calcular a coordenada x do vértice (Xv) é:",
-        "opcoes": [
-          "Xv = -b / 2a",
-          "Xv = -Δ / 4a",
-          "Xv = b / 2a",
-          "Xv = -b / a"
-        ],
-        "correta": 0,
-        "explicacao": "A abscissa do vértice é dada por Xv = -b / 2a."
-      },
-      {
-        "enunciado": "A fórmula para calcular a coordenada y do vértice (Yv) é:",
-        "opcoes": [
-          "Yv = -b / 2a",
-          "Yv = -Δ / 4a",
-          "Yv = b / 4a",
-          "Yv = -b / a"
-        ],
-        "correta": 1,
-        "explicacao": "A ordenada do vértice é dada por Yv = -Δ / 4a."
       },
       {
         "enunciado": "O que indica o valor do discriminante (Δ) em uma função quadrática?",
@@ -660,6 +833,135 @@
         "explicacao": "Como a = -1 (negativo), a concavidade é voltada para baixo."
       },
       {
+        "enunciado": "A trajetória de uma bola chutada para cima, formando um arco, é um exemplo de:",
+        "opcoes": [
+          "Função do 1º grau.",
+          "Função quadrática.",
+          "Função exponencial.",
+          "Função constante."
+        ],
+        "correta": 1,
+        "explicacao": "O movimento parabólico é descrito por uma função quadrática."
+      },
+      {
+        "enunciado": "Qual é o valor de Δ (delta) na função y = x² - 4x + 3?",
+        "opcoes": [
+          "4",
+          "16",
+          "12",
+          "-4"
+        ],
+        "correta": 0,
+        "explicacao": "Δ = b² - 4ac = (-4)² - 4(1)(3) = 16 - 12 = 4."
+      },
+      {
+        "enunciado": "Se uma função quadrática tem a > 0, o vértice da parábola representa um ponto de:",
+        "opcoes": [
+          "Máximo.",
+          "Mínimo.",
+          "Inflexão.",
+          "Zero da função."
+        ],
+        "correta": 1,
+        "explicacao": "Com a concavidade para cima, o vértice fica na parte mais baixa, sendo o ponto de mínimo."
+      },
+      {
+        "enunciado": "Se uma função quadrática tem a < 0, o vértice da parábola representa um ponto de:",
+        "opcoes": [
+          "Máximo.",
+          "Mínimo.",
+          "Inflexão.",
+          "Zero da função."
+        ],
+        "correta": 0,
+        "explicacao": "Com a concavidade para baixo, o vértice fica na parte mais alta, sendo o ponto de máximo."
+      },
+      {
+        "enunciado": "Os coeficientes da função y = 2x² - x + 5 são:",
+        "opcoes": [
+          "a=2, b=-1, c=5",
+          "a=2, b=1, c=5",
+          "a=-2, b=-1, c=5",
+          "a=2, b=0, c=5"
+        ],
+        "correta": 0,
+        "explicacao": "O 'a' acompanha x², o 'b' acompanha x e o 'c' é o termo independente."
+      },
+      {
+        "enunciado": "Uma função quadrática tem raízes x1 = 2 e x2 = 5. A parábola corta o eixo x nos pontos:",
+        "opcoes": [
+          "(2, 0) e (5, 0)",
+          "(0, 2) e (0, 5)",
+          "(2, 5) e (5, 2)",
+          "(0, 0) e (5, 5)"
+        ],
+        "correta": 0,
+        "explicacao": "As raízes indicam os valores de x onde y = 0, ou seja, os pontos no eixo x."
+      },
+      {
+        "enunciado": "O gráfico da função y = x² é uma parábola que:",
+        "opcoes": [
+          "Tem concavidade para baixo.",
+          "Tem concavidade para cima e vértice na origem (0,0).",
+          "É uma linha reta.",
+          "Não toca o eixo y."
+        ],
+        "correta": 1,
+        "explicacao": "Como a=1 > 0, a concavidade é para cima, e como b=0 e c=0, o vértice é na origem."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_mat_vertice_parabola_01",
+    "titulo": "Matemática - Vértice e Máximos/Mínimos",
+    "tipo": "conteudo",
+    "icone": "⛰️",
+    "perguntas": [
+      {
+        "enunciado": "Como é chamado o ponto de máximo ou de mínimo de uma parábola?",
+        "opcoes": [
+          "Origem.",
+          "Vértice.",
+          "Raiz.",
+          "Eixo de simetria."
+        ],
+        "correta": 1,
+        "explicacao": "O vértice é o ponto que representa o menor ou maior valor da função quadrática."
+      },
+      {
+        "enunciado": "A fórmula para calcular a coordenada x do vértice (Xv) é:",
+        "opcoes": [
+          "Xv = -b / 2a",
+          "Xv = -Δ / 4a",
+          "Xv = b / 2a",
+          "Xv = -b / a"
+        ],
+        "correta": 0,
+        "explicacao": "A abscissa do vértice é dada por Xv = -b / 2a."
+      },
+      {
+        "enunciado": "A fórmula para calcular a coordenada y do vértice (Yv) é:",
+        "opcoes": [
+          "Yv = -b / 2a",
+          "Yv = -Δ / 4a",
+          "Yv = b / 4a",
+          "Yv = -b / a"
+        ],
+        "correta": 1,
+        "explicacao": "A ordenada do vértice é dada por Yv = -Δ / 4a."
+      },
+      {
+        "enunciado": "O vértice da parábola está localizado em qual parte do gráfico?",
+        "opcoes": [
+          "Sobre o eixo y apenas.",
+          "Sobre o eixo x apenas.",
+          "No eixo de simetria da parábola.",
+          "Na origem do sistema."
+        ],
+        "correta": 2,
+        "explicacao": "A parábola é simétrica em relação a uma reta vertical que passa pelo vértice."
+      },
+      {
         "enunciado": "Se uma função quadrática tem vértice no ponto V(3, 9), e a concavidade é voltada para baixo, qual é o valor máximo da função?",
         "opcoes": [
           "3",
@@ -671,243 +973,625 @@
         "explicacao": "O valor máximo (ou mínimo) é sempre a coordenada y do vértice, que neste caso é 9."
       },
       {
-        "enunciado": "A trajetória de uma bola chutada para cima, formando um arco, é um exemplo de:",
+        "enunciado": "Se uma função quadrática tem vértice no ponto V(2, -4), e a concavidade é voltada para cima, qual é o valor mínimo da função?",
         "opcoes": [
-          "Função do 1º grau.",
-          "Função quadrática.",
-          "Função exponencial.",
-          "Função constante."
+          "2",
+          "-4",
+          "0",
+          "4"
         ],
         "correta": 1,
-        "explicacao": "O movimento parabólico é descrito por uma função quadrática."
+        "explicacao": "A coordenada y do vértice indica o valor mínimo, que é -4."
+      },
+      {
+        "enunciado": "Calcule a coordenada Xv do vértice da função y = x² - 6x + 8.",
+        "opcoes": [
+          "3",
+          "-3",
+          "6",
+          "-6"
+        ],
+        "correta": 0,
+        "explicacao": "Xv = -b / 2a = -(-6) / (2 * 1) = 6 / 2 = 3."
+      },
+      {
+        "enunciado": "Calcule a coordenada Xv do vértice da função y = 2x² + 8x - 1.",
+        "opcoes": [
+          "2",
+          "-2",
+          "4",
+          "-4"
+        ],
+        "correta": 1,
+        "explicacao": "Xv = -b / 2a = -8 / (2 * 2) = -8 / 4 = -2."
+      },
+      {
+        "enunciado": "Se o vértice de uma parábola é (0, 0), onde ela corta o eixo y?",
+        "opcoes": [
+          "No ponto (0, 0).",
+          "No ponto (1, 0).",
+          "No ponto (0, 1).",
+          "Não corta o eixo y."
+        ],
+        "correta": 0,
+        "explicacao": "O vértice está exatamente sobre a origem do sistema."
+      },
+      {
+        "enunciado": "Um goleiro chuta uma bola e sua trajetória é dada por y = -x² + 4x (onde y é a altura). Qual é a altura máxima atingida?",
+        "opcoes": [
+          "2 metros",
+          "4 metros",
+          "6 metros",
+          "8 metros"
+        ],
+        "correta": 1,
+        "explicacao": "Xv = -4 / -2 = 2. Substituindo: Yv = -(2)² + 4(2) = -4 + 8 = 4 metros."
+      },
+      {
+        "enunciado": "Uma empresa tem lucro dado por L = -x² + 10x - 9. Para qual valor de x o lucro é máximo?",
+        "opcoes": [
+          "5",
+          "10",
+          "9",
+          "-5"
+        ],
+        "correta": 0,
+        "explicacao": "Xv = -b / 2a = -10 / (2 * -1) = -10 / -2 = 5."
+      },
+      {
+        "enunciado": "Um jardineiro tem 20 metros de tela para cercar um terreno retangular. A área máxima que ele pode cercar é obtida quando as dimensões são iguais (um quadrado). A área máxima é de:",
+        "opcoes": [
+          "20 m²",
+          "25 m²",
+          "50 m²",
+          "100 m²"
+        ],
+        "correta": 1,
+        "explicacao": "O perímetro é 20, então lado = 5. A área máxima de um retângulo com perímetro fixo é um quadrado: 5 * 5 = 25 m²."
+      },
+      {
+        "enunciado": "Se a parábola tem concavidade voltada para cima, ela tem um ponto de:",
+        "opcoes": [
+          "Máximo.",
+          "Mínimo.",
+          "Inflexão.",
+          "Constância."
+        ],
+        "correta": 1,
+        "explicacao": "O 'U' da parábola com a > 0 indica que o vértice está embaixo, sendo o mínimo."
+      },
+      {
+        "enunciado": "Se a parábola tem concavidade voltada para baixo, ela tem um ponto de:",
+        "opcoes": [
+          "Máximo.",
+          "Mínimo.",
+          "Inflexão.",
+          "Constância."
+        ],
+        "correta": 0,
+        "explicacao": "O '∩' da parábola com a < 0 indica que o vértice está em cima, sendo o máximo."
+      },
+      {
+        "enunciado": "Na função y = 3x² - 12x + 7, qual é o valor da coordenada Xv do vértice?",
+        "opcoes": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correta": 1,
+        "explicacao": "Xv = -(-12) / (2 * 3) = 12 / 6 = 2."
+      },
+      {
+        "enunciado": "O eixo de simetria da parábola passa obrigatoriamente pelo:",
+        "opcoes": [
+          "Zero da função.",
+          "Vértice.",
+          "Coeficiente c.",
+          "Ponto (0,0)."
+        ],
+        "correta": 1,
+        "explicacao": "A parábola é simétrica em relação à reta vertical que passa pelo vértice."
+      },
+      {
+        "enunciado": "Se uma função quadrática atinge seu valor máximo em x = 4 e esse valor máximo é 10, o vértice é:",
+        "opcoes": [
+          "(10, 4)",
+          "(4, 10)",
+          "(-4, 10)",
+          "(4, -10)"
+        ],
+        "correta": 1,
+        "explicacao": "O vértice é o par ordenado (Xv, Yv) = (4, 10)."
+      },
+      {
+        "enunciado": "A função y = x² tem vértice na origem (0,0). Se somarmos 3 à função (y = x² + 3), o novo vértice será:",
+        "opcoes": [
+          "(3, 0)",
+          "(0, 3)",
+          "(0, 0)",
+          "(3, 3)"
+        ],
+        "correta": 1,
+        "explicacao": "Adicionar uma constante positiva desloca o gráfico para cima (Yv = 3)."
+      },
+      {
+        "enunciado": "Qual é a coordenada Yv do vértice da função y = x² - 2x + 5?",
+        "opcoes": [
+          "4",
+          "2",
+          "1",
+          "0"
+        ],
+        "correta": 0,
+        "explicacao": "Xv = 2/2 = 1. Yv = f(1) = 1² - 2(1) + 5 = 1 - 2 + 5 = 4."
+      },
+      {
+        "enunciado": "O ponto de máximo da função lucro L(x) = -2x² + 8x ocorre quando x vale:",
+        "opcoes": [
+          "1",
+          "2",
+          "4",
+          "8"
+        ],
+        "correta": 1,
+        "explicacao": "Xv = -8 / (2 * -2) = -8 / -4 = 2."
       }
     ]
   },
   {
-    "id": "9ano_v6_mat_graficos_01",
-    "titulo": "Matemática - Gráficos e Plano Cartesiano",
+    "id": "9ano_v6_mat_graficos_parabola_01",
+    "titulo": "Matemática - Análise de Gráficos de Parábolas",
     "tipo": "conteudo",
-    "icone": "🗺️",
+    "icone": "📊",
     "perguntas": [
       {
-        "enunciado": "Quem foi o matemático responsável por criar o sistema de coordenadas cartesianas?",
+        "enunciado": "O que indica o coeficiente 'c' no gráfico de uma função quadrática?",
         "opcoes": [
-          "Isaac Newton.",
-          "René Descartes.",
-          "Albert Einstein.",
-          "Pitágoras."
+          "A concavidade da parábola.",
+          "O ponto onde a parábola cruza o eixo y.",
+          "A quantidade de raízes.",
+          "A posição do vértice no eixo x."
         ],
         "correta": 1,
-        "explicacao": "René Descartes desenvolveu o plano cartesiano unindo álgebra e geometria."
+        "explicacao": "O termo independente 'c' é o valor de y quando x = 0."
       },
       {
-        "enunciado": "No plano cartesiano, o eixo horizontal é chamado de:",
+        "enunciado": "Se em uma função quadrática o coeficiente 'c' é igual a zero (ex: y = x² - 4x), a parábola:",
         "opcoes": [
-          "Eixo das ordenadas (y).",
-          "Eixo das abscissas (x).",
-          "Origem.",
-          "Eixo de simetria."
+          "Não corta o eixo y.",
+          "Corta o eixo y na origem (0,0).",
+          "Corta o eixo x em apenas um ponto.",
+          "É uma reta."
         ],
         "correta": 1,
-        "explicacao": "O eixo horizontal é o eixo x, também chamado de eixo das abscissas."
+        "explicacao": "Se c = 0, quando x = 0, y = 0. Logo, passa pela origem."
       },
       {
-        "enunciado": "No plano cartesiano, o eixo vertical é chamado de:",
+        "enunciado": "Se Δ < 0, como fica o gráfico da parábola em relação ao eixo x?",
         "opcoes": [
-          "Eixo das ordenadas (y).",
-          "Eixo das abscissas (x).",
-          "Origem.",
-          "Eixo de simetria."
+          "Corta em dois pontos.",
+          "Toca em um único ponto.",
+          "Fica totalmente acima ou totalmente abaixo do eixo x.",
+          "É uma linha reta."
+        ],
+        "correta": 2,
+        "explicacao": "Sem raízes reais, o gráfico não cruza o eixo das abscissas."
+      },
+      {
+        "enunciado": "Um gráfico de uma função quadrática tem a concavidade para cima e Δ = 0. Isso significa que:",
+        "opcoes": [
+          "A parábola não toca o eixo x.",
+          "A parábola toca o eixo x em dois pontos.",
+          "A parábola toca o eixo x em um único ponto (vértice).",
+          "A parábola está virada para baixo."
+        ],
+        "correta": 2,
+        "explicacao": "Com a > 0 e Δ = 0, a parábola tangencia o eixo x na sua parte mais baixa (vértice)."
+      },
+      {
+        "enunciado": "Uma parábola com a < 0 e Δ > 0:",
+        "opcoes": [
+          "Fica acima do eixo x.",
+          "Corta o eixo x em dois pontos e tem concavidade para baixo.",
+          "Não corta o eixo x.",
+          "Tem um único ponto de interseção com o eixo x."
+        ],
+        "correta": 1,
+        "explicacao": "O Δ > 0 garante duas raízes, e o a < 0 indica concavidade para baixo."
+      },
+      {
+        "enunciado": "Um gráfico de uma função quadrática tem a concavidade para cima e Δ < 0. Isso significa que:",
+        "opcoes": [
+          "A parábola cruza o eixo x.",
+          "A parábola está inteiramente acima do eixo x.",
+          "A parábola está inteiramente abaixo do eixo x.",
+          "A parábola é uma reta."
+        ],
+        "correta": 1,
+        "explicacao": "Como não tem raízes e a concavidade é para cima, todos os valores de y são positivos."
+      },
+      {
+        "enunciado": "O que é o eixo de simetria de uma parábola?",
+        "opcoes": [
+          "Uma linha horizontal que divide a parábola.",
+          "Uma linha vertical que passa pelo vértice e divide a parábola em duas metades iguais.",
+          "O eixo y do plano cartesiano.",
+          "Uma linha que conecta as raízes."
+        ],
+        "correta": 1,
+        "explicacao": "A parábola é simétrica em relação à reta vertical X = Xv."
+      },
+      {
+        "enunciado": "Se uma parábola tem raízes x1 = 1 e x2 = 5, qual é a coordenada Xv do seu vértice?",
+        "opcoes": [
+          "2",
+          "3",
+          "4",
+          "6"
+        ],
+        "correta": 1,
+        "explicacao": "O vértice está no ponto médio das raízes: Xv = (1 + 5) / 2 = 3."
+      },
+      {
+        "enunciado": "Se uma parábola tem raízes x1 = -2 e x2 = 4, qual é a coordenada Xv do seu vértice?",
+        "opcoes": [
+          "1",
+          "-1",
+          "2",
+          "-2"
         ],
         "correta": 0,
-        "explicacao": "O eixo vertical é o eixo y, também chamado de eixo das ordenadas."
+        "explicacao": "Xv = (-2 + 4) / 2 = 2 / 2 = 1."
       },
       {
-        "enunciado": "O ponto onde os dois eixos se cruzam (0, 0) é chamado de:",
+        "enunciado": "Ao observar o gráfico de uma parábola, vemos que ele corta o eixo y no ponto (0, 4). Qual é o coeficiente c da função?",
         "opcoes": [
-          "Vértice.",
-          "Origem do sistema.",
-          "Raiz.",
-          "Par ordenado."
-        ],
-        "correta": 1,
-        "explicacao": "A interseção dos eixos x e y no ponto (0,0) é a origem do plano cartesiano."
-      },
-      {
-        "enunciado": "Como é escrita a representação de um ponto no plano cartesiano?",
-        "opcoes": [
-          "Apenas um número.",
-          "Um par ordenado (x, y).",
-          "Uma fração.",
-          "Uma equação."
-        ],
-        "correta": 1,
-        "explicacao": "Todo ponto é representado por um par ordenado, onde o primeiro valor é x e o segundo é y."
-      },
-      {
-        "enunciado": "No par ordenado (3, 5), qual é o valor da abscissa?",
-        "opcoes": [
-          "3",
-          "5",
-          "8",
+          "4",
+          "-4",
+          "0",
           "2"
         ],
         "correta": 0,
-        "explicacao": "A abscissa é sempre o primeiro valor do par ordenado (x), que neste caso é 3."
+        "explicacao": "O valor de y quando x=0 é o coeficiente c."
       },
       {
-        "enunciado": "No par ordenado (-2, 7), qual é o valor da ordenada?",
+        "enunciado": "Se uma função do 2º grau não tem raízes reais, o seu discriminante Δ é:",
         "opcoes": [
-          "-2",
-          "7",
-          "5",
-          "-7"
-        ],
-        "correta": 1,
-        "explicacao": "A ordenada é sempre o segundo valor do par ordenado (y), que neste caso é 7."
-      },
-      {
-        "enunciado": "O ponto A(2, -3) está localizado em qual quadrante?",
-        "opcoes": [
-          "1º quadrante.",
-          "2º quadrante.",
-          "3º quadrante.",
-          "4º quadrante."
-        ],
-        "correta": 3,
-        "explicacao": "No 4º quadrante, os valores de x são positivos e os de y são negativos."
-      },
-      {
-        "enunciado": "O ponto B(-4, 5) está localizado em qual quadrante?",
-        "opcoes": [
-          "1º quadrante.",
-          "2º quadrante.",
-          "3º quadrante.",
-          "4º quadrante."
-        ],
-        "correta": 1,
-        "explicacao": "No 2º quadrante, os valores de x são negativos e os de y são positivos."
-      },
-      {
-        "enunciado": "O ponto C(-3, -1) está localizado em qual quadrante?",
-        "opcoes": [
-          "1º quadrante.",
-          "2º quadrante.",
-          "3º quadrante.",
-          "4º quadrante."
+          "Positivo.",
+          "Zero.",
+          "Negativo.",
+          "Nulo."
         ],
         "correta": 2,
-        "explicacao": "No 3º quadrante, tanto x quanto y são negativos."
+        "explicacao": "Δ < 0 significa que não há solução real para a equação."
       },
       {
-        "enunciado": "O ponto D(5, 2) está localizado em qual quadrante?",
+        "enunciado": "Em uma parábola com concavidade para baixo, o vértice é o ponto de:",
         "opcoes": [
-          "1º quadrante.",
-          "2º quadrante.",
-          "3º quadrante.",
-          "4º quadrante."
+          "Mínimo.",
+          "Máximo.",
+          "Origem.",
+          "Zero da função."
+        ],
+        "correta": 1,
+        "explicacao": "A concavidade para baixo (a < 0) faz do vértice o ponto mais alto da curva."
+      },
+      {
+        "enunciado": "O gráfico de y = 2x² - 3x tem coeficiente c = 0. Onde ele intersecta o eixo y?",
+        "opcoes": [
+          "Em (0, 2).",
+          "Em (0, -3).",
+          "Na origem (0,0).",
+          "Não intersecta."
+        ],
+        "correta": 2,
+        "explicacao": "Se c = 0, a interseção com o eixo y é na origem (0,0)."
+      },
+      {
+        "enunciado": "Um engenheiro analisou o gráfico de uma parábola e viu que ela corta o eixo x nos pontos -1 e 3. A soma das raízes é:",
+        "opcoes": [
+          "2",
+          "4",
+          "-3",
+          "-4"
         ],
         "correta": 0,
-        "explicacao": "No 1º quadrante, tanto x quanto y são positivos."
+        "explicacao": "-1 + 3 = 2."
       },
       {
-        "enunciado": "Se um ponto está sobre o eixo x, qual é o valor da sua ordenada (y)?",
+        "enunciado": "O produto das raízes do gráfico que corta o eixo x em -1 e 3 é:",
         "opcoes": [
-          "Sempre 1.",
-          "Sempre positivo.",
-          "Sempre igual a 0.",
-          "Sempre negativo."
-        ],
-        "correta": 2,
-        "explicacao": "Qualquer ponto no eixo x tem coordenada y = 0, como (3, 0)."
-      },
-      {
-        "enunciado": "Se um ponto está sobre o eixo y, qual é o valor da sua abscissa (x)?",
-        "opcoes": [
-          "Sempre 1.",
-          "Sempre positivo.",
-          "Sempre igual a 0.",
-          "Sempre negativo."
-        ],
-        "correta": 2,
-        "explicacao": "Qualquer ponto no eixo y tem coordenada x = 0, como (0, 5)."
-      },
-      {
-        "enunciado": "O gráfico de uma função do 1º grau, y = ax + b, é sempre:",
-        "opcoes": [
-          "Uma parábola.",
-          "Uma reta.",
-          "Um círculo.",
-          "Uma curva."
+          "3",
+          "-3",
+          "2",
+          "0"
         ],
         "correta": 1,
-        "explicacao": "A representação gráfica de uma função afim é uma linha reta."
+        "explicacao": "(-1) * 3 = -3."
       },
       {
-        "enunciado": "O gráfico de uma função do 2º grau é sempre:",
+        "enunciado": "Se uma parábola tem concavidade voltada para cima, então o valor de 'a' é:",
         "opcoes": [
-          "Uma reta.",
-          "Uma parábola.",
-          "Uma elipse.",
-          "Um quadrado."
+          "Igual a zero.",
+          "Maior que zero.",
+          "Menor que zero.",
+          "Qualquer valor."
         ],
         "correta": 1,
-        "explicacao": "A função quadrática gera uma curva chamada parábola."
+        "explicacao": "A concavidade para cima ocorre quando a > 0."
       },
       {
-        "enunciado": "Na função y = 2x, se x = 3, qual é o ponto correspondente no gráfico?",
+        "enunciado": "Se o valor de Δ (delta) de uma parábola é 9, quantas raízes reais ela possui?",
         "opcoes": [
-          "(2, 3)",
-          "(3, 2)",
-          "(3, 6)",
-          "(6, 3)"
+          "Nenhuma.",
+          "Uma.",
+          "Duas.",
+          "Três."
         ],
         "correta": 2,
-        "explicacao": "Se x = 3, y = 2 * 3 = 6. Logo, o par ordenado é (3, 6)."
+        "explicacao": "Como Δ > 0, a parábola tem duas raízes reais e distintas."
       },
       {
-        "enunciado": "A tabela de uma função mostra os valores de x e y. Se x = 1 e y = 4; x = 2 e y = 8, a função é:",
+        "enunciado": "Na função y = x² - 2x + 3, qual é o valor de c?",
         "opcoes": [
-          "y = x + 4",
-          "y = 4x",
-          "y = x²",
-          "y = 2x"
+          "1",
+          "-2",
+          "3",
+          "0"
+        ],
+        "correta": 2,
+        "explicacao": "O coeficiente c é o termo independente, que vale 3."
+      },
+      {
+        "enunciado": "Analisando o gráfico de uma função quadrática, o seu ponto mais alto está localizado no ponto (2, 5). Podemos afirmar que:",
+        "opcoes": [
+          "A função tem a > 0.",
+          "O valor máximo da função é 5.",
+          "As raízes são 2 e 5.",
+          "O coeficiente c é 2."
         ],
         "correta": 1,
-        "explicacao": "Percebe-se que y é sempre 4 vezes o valor de x (4*1=4; 4*2=8)."
+        "explicacao": "O ponto mais alto é o vértice (máximo). Sua coordenada y (5) é o valor máximo."
       },
       {
-        "enunciado": "Quando o gráfico de uma função do 1º grau 'passa pela origem', significa que:",
+        "enunciado": "A representação gráfica de uma função quadrática sempre será uma:",
         "opcoes": [
-          "O coeficiente a é zero.",
-          "O coeficiente b é zero.",
+          "Reta.",
+          "Parábola.",
+          "Circunferência.",
+          "Onda."
+        ],
+        "correta": 1,
+        "explicacao": "Por definição, a função do 2º grau tem como gráfico uma parábola."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_mat_dilatacao_parabola_01",
+    "titulo": "Matemática - Exercícios de Aplicação de Funções",
+    "tipo": "conteudo",
+    "icone": "🚀",
+    "perguntas": [
+      {
+        "enunciado": "A receita de uma empresa é dada por R = 5x, e o custo é C = 2x + 100. Qual é a função lucro (L = R - C)?",
+        "opcoes": [
+          "L = 3x - 100",
+          "L = 7x + 100",
+          "L = 3x + 100",
+          "L = -3x - 100"
+        ],
+        "correta": 0,
+        "explicacao": "L = 5x - (2x + 100) = 5x - 2x - 100 = 3x - 100."
+      },
+      {
+        "enunciado": "Ainda sobre a função lucro L = 3x - 100, quantas unidades precisam ser vendidas para que a empresa comece a ter lucro (L > 0)?",
+        "opcoes": [
+          "A partir de 33 unidades.",
+          "A partir de 34 unidades.",
+          "A partir de 100 unidades.",
+          "A partir de 50 unidades."
+        ],
+        "correta": 1,
+        "explicacao": "3x - 100 > 0 -> 3x > 100 -> x > 33,33. Logo, a partir de 34 unidades inteiras."
+      },
+      {
+        "enunciado": "Um carro se move com velocidade constante. A distância percorrida (d) em função do tempo (t) é d = 80t. Isso significa que:",
+        "opcoes": [
+          "O carro acelera com o tempo.",
+          "O carro percorre 80 km a cada hora.",
           "A função é quadrática.",
-          "A reta é horizontal."
+          "O carro está parado."
         ],
         "correta": 1,
-        "explicacao": "Se b = 0, a função y = ax passa pelo ponto (0,0), ou seja, pela origem."
+        "explicacao": "A função do 1º grau indica velocidade constante de 80 km/h."
       },
       {
-        "enunciado": "A representação gráfica de uma função constante y = 5 é:",
+        "enunciado": "O custo de produção de uma peça é dado por C(x) = 0,5x² + 10x + 200. Qual é o custo para produzir 10 peças?",
         "opcoes": [
-          "Uma reta inclinada.",
-          "Uma reta horizontal.",
-          "Uma reta vertical.",
-          "Uma parábola."
+          "R$ 250,00",
+          "R$ 300,00",
+          "R$ 350,00",
+          "R$ 400,00"
         ],
-        "correta": 1,
-        "explicacao": "Como y é sempre 5 para qualquer x, o gráfico é uma linha reta horizontal."
+        "correta": 2,
+        "explicacao": "C(10) = 0,5(100) + 10(10) + 200 = 50 + 100 + 200 = 350."
       },
       {
-        "enunciado": "Em um gráfico de uma função do 2º grau com concavidade para cima, o ponto mais baixo é chamado de:",
+        "enunciado": "Uma bola é lançada e sua altura em função do tempo é h(t) = -5t² + 20t. Em que instante t a bola atinge a altura máxima?",
         "opcoes": [
-          "Ponto de máximo.",
-          "Ponto de mínimo.",
-          "Zero da função.",
-          "Origem."
+          "1 segundo.",
+          "2 segundos.",
+          "3 segundos.",
+          "4 segundos."
         ],
         "correta": 1,
-        "explicacao": "Na concavidade para cima (a > 0), o vértice representa o menor valor de y, ou seja, o ponto de mínimo."
+        "explicacao": "t_vértice = -b / 2a = -20 / (2 * -5) = -20 / -10 = 2."
+      },
+      {
+        "enunciado": "Usando a função h(t) = -5t² + 20t, qual é a altura máxima atingida pela bola?",
+        "opcoes": [
+          "10 metros.",
+          "15 metros.",
+          "20 metros.",
+          "25 metros."
+        ],
+        "correta": 2,
+        "explicacao": "h(2) = -5(2)² + 20(2) = -5(4) + 40 = -20 + 40 = 20."
+      },
+      {
+        "enunciado": "O número de bactérias em uma cultura cresce de forma linear e é dado por N(t) = 200 + 50t, onde t é em horas. Após 4 horas, o número de bactérias será:",
+        "opcoes": [
+          "250",
+          "400",
+          "800",
+          "1000"
+        ],
+        "correta": 1,
+        "explicacao": "N(4) = 200 + 50 * 4 = 200 + 200 = 400."
+      },
+      {
+        "enunciado": "A temperatura T de um forno em função do tempo t (minutos) é T(t) = 2t + 25. Se a temperatura atingiu 105 °C, quantos minutos se passaram?",
+        "opcoes": [
+          "20 minutos.",
+          "30 minutos.",
+          "40 minutos.",
+          "50 minutos."
+        ],
+        "correta": 2,
+        "explicacao": "105 = 2t + 25 -> 2t = 80 -> t = 40."
+      },
+      {
+        "enunciado": "O lucro de uma loja em função do preço (p) de um produto é L(p) = -p² + 100p - 1600. Qual é o preço que gera o lucro máximo?",
+        "opcoes": [
+          "R$ 20,00",
+          "R$ 40,00",
+          "R$ 50,00",
+          "R$ 80,00"
+        ],
+        "correta": 2,
+        "explicacao": "p_vértice = -b / 2a = -100 / (2 * -1) = -100 / -2 = 50."
+      },
+      {
+        "enunciado": "Um terreno retangular tem área A em função do comprimento x, com A(x) = -x² + 30x. Qual é o valor de x que maximiza a área?",
+        "opcoes": [
+          "5",
+          "10",
+          "15",
+          "30"
+        ],
+        "correta": 2,
+        "explicacao": "Xv = -b / 2a = -30 / (2 * -1) = -30 / -2 = 15."
+      },
+      {
+        "enunciado": "Se um plano de saúde cobra R$ 100,00 fixo mais R$ 50,00 por consulta, a função é P(x) = 100 + 50x. Se uma pessoa pagou R$ 350,00, quantas consultas fez?",
+        "opcoes": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "correta": 2,
+        "explicacao": "350 = 100 + 50x -> 50x = 250 -> x = 5."
+      },
+      {
+        "enunciado": "A fórmula de conversão de temperaturas é uma função afim. Se Celsius (C) em função de Fahrenheit (F) é C = (5/9)*(F - 32), qual o valor de C quando F = 32?",
+        "opcoes": [
+          "0",
+          "32",
+          "100",
+          "-32"
+        ],
+        "correta": 0,
+        "explicacao": "C = (5/9)*(32-32) = 0."
+      },
+      {
+        "enunciado": "Em uma função de custo C(x) = 2x + 50, o coeficiente linear 50 representa:",
+        "opcoes": [
+          "O custo por unidade produzida.",
+          "O custo fixo, mesmo que nada seja produzido.",
+          "O lucro máximo.",
+          "O número de produtos."
+        ],
+        "correta": 1,
+        "explicacao": "O termo 'b' (50) é o custo inicial, independente da quantidade produzida."
+      },
+      {
+        "enunciado": "A trajetória de uma flecha é dada pela função h = -2x² + 12x, onde h é a altura. Qual é a altura máxima?",
+        "opcoes": [
+          "12",
+          "16",
+          "18",
+          "20"
+        ],
+        "correta": 2,
+        "explicacao": "Xv = -12/-4 = 3. h(3) = -2(9) + 12(3) = -18 + 36 = 18."
+      },
+      {
+        "enunciado": "No gráfico da função y = 2x + 1, se x aumenta em 1 unidade, y aumenta em:",
+        "opcoes": [
+          "1 unidade.",
+          "2 unidades.",
+          "3 unidades.",
+          "0 unidades."
+        ],
+        "correta": 1,
+        "explicacao": "O coeficiente a = 2 indica que a taxa de variação é 2."
+      },
+      {
+        "enunciado": "Um taxista cobra R$ 5,00 de bandeirada e R$ 2,50 por km rodado. A função é y = 5 + 2,5x. Se a corrida foi de 10 km, o valor é:",
+        "opcoes": [
+          "R$ 25,00",
+          "R$ 30,00",
+          "R$ 35,00",
+          "R$ 40,00"
+        ],
+        "correta": 1,
+        "explicacao": "y = 5 + 2,5(10) = 5 + 25 = 30."
+      },
+      {
+        "enunciado": "Um objeto cai e a altura é dada por h(t) = 10 - 5t². Após 1 segundo, a altura é:",
+        "opcoes": [
+          "10 metros.",
+          "5 metros.",
+          "1 metro.",
+          "0 metros."
+        ],
+        "correta": 1,
+        "explicacao": "h(1) = 10 - 5(1)² = 10 - 5 = 5."
+      },
+      {
+        "enunciado": "A soma dos coeficientes da função y = 3x² - 2x + 4 é:",
+        "opcoes": [
+          "3",
+          "5",
+          "-2",
+          "9"
+        ],
+        "correta": 1,
+        "explicacao": "a=3, b=-2, c=4. Soma = 3 + (-2) + 4 = 5."
+      },
+      {
+        "enunciado": "Na função f(x) = 2x + 1, qual o valor de x para que f(x) = 7?",
+        "opcoes": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "correta": 1,
+        "explicacao": "7 = 2x + 1 -> 2x = 6 -> x = 3."
+      },
+      {
+        "enunciado": "O vértice da parábola y = x² - 4x + 3 está em:",
+        "opcoes": [
+          "(2, -1)",
+          "(2, 1)",
+          "(-2, -1)",
+          "(4, 3)"
+        ],
+        "correta": 0,
+        "explicacao": "Xv = 4/2 = 2. Yv = 2² - 4(2) + 3 = 4 - 8 + 3 = -1."
       }
     ]
   }
