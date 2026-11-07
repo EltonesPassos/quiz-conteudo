@@ -1,0 +1,1598 @@
+[
+  {
+    "id": "9ano_v6_port_funcoes_que_01",
+    "titulo": "Português - Funções do 'Que'",
+    "tipo": "conteudo",
+    "icone": "🧩",
+    "perguntas": [
+      {
+        "enunciado": "Na frase 'É necessário QUE preservemos o meio ambiente', qual é a função do 'que'?",
+        "opcoes": [
+          "Pronome interrogativo.",
+          "Conjunção subordinativa substantiva.",
+          "Partícula expletiva.",
+          "Preposição."
+        ],
+        "correta": 1,
+        "explicacao": "O 'que' introduz uma oração subordinada substantiva, exercendo a função de sujeito."
+      },
+      {
+        "enunciado": "Na oração 'Espero QUE você faça a escolha certa', qual é a classificação do 'que'?",
+        "opcoes": [
+          "Conjunção subordinativa objetiva direta.",
+          "Pronome relativo.",
+          "Advérbio de intensidade.",
+          "Conjunção coordenativa."
+        ],
+        "correta": 0,
+        "explicacao": "O 'que' introduz uma oração que completa o sentido do verbo 'esperar' (objeto direto)."
+      },
+      {
+        "enunciado": "No trecho 'Temos QUE estudar', qual é o valor morfológico da palavra 'que'?",
+        "opcoes": [
+          "Conjunção integrante.",
+          "Pronome relativo.",
+          "Partícula expletiva.",
+          "Preposição (equivalente a 'de')."
+        ],
+        "correta": 3,
+        "explicacao": "O 'que' equivale à preposição 'de' (Temos de estudar)."
+      },
+      {
+        "enunciado": "Em 'Ele tem um QUE de mistério', a palavra 'que' assume a função de:",
+        "opcoes": [
+          "Conjunção.",
+          "Substantivo.",
+          "Interjeição.",
+          "Advérbio."
+        ],
+        "correta": 1,
+        "explicacao": "O 'que' está substantivado (acompanhado de artigo 'um'), funcionando como substantivo."
+      },
+      {
+        "enunciado": "Observe a frase: 'Que linda ficou essa pintura!'. Qual é a função do 'que'?",
+        "opcoes": [
+          "Pronome relativo.",
+          "Advérbio de intensidade.",
+          "Interjeição.",
+          "Partícula expletiva."
+        ],
+        "correta": 2,
+        "explicacao": "O 'que' expressa emoção, espanto, admiração, sendo classificado como interjeição."
+      },
+      {
+        "enunciado": "Em 'Que vai mesmo fazer isso?', o 'que' é classificado como:",
+        "opcoes": [
+          "Pronome interrogativo.",
+          "Conjunção coordenativa.",
+          "Preposição.",
+          "Partícula de realce."
+        ],
+        "correta": 0,
+        "explicacao": "O 'que' inicia uma pergunta, referindo-se à coisa que será feita."
+      },
+      {
+        "enunciado": "Na frase 'Os ratos QUE fugiam sempre.', a palavra 'que' é:",
+        "opcoes": [
+          "Conjunção integrante.",
+          "Pronome relativo.",
+          "Interjeição.",
+          "Advérbio."
+        ],
+        "correta": 1,
+        "explicacao": "O 'que' retoma o antecedente 'ratos' (os ratos fugiam), sendo pronome relativo."
+      },
+      {
+        "enunciado": "Em 'Tenho QUE ir ao supermercado', o 'que' equivale a:",
+        "opcoes": [
+          "Partícula expletiva.",
+          "Pronome interrogativo.",
+          "Preposição ('de').",
+          "Advérbio de tempo."
+        ],
+        "correta": 2,
+        "explicacao": "O 'que' atua como preposição, ligando o verbo 'ter' ao verbo 'ir'."
+      },
+      {
+        "enunciado": "Na oração 'Espere um pouco QUE ela logo chegará', o 'que' é uma:",
+        "opcoes": [
+          "Conjunção coordenativa.",
+          "Conjunção subordinativa integrante.",
+          "Preposição.",
+          "Interjeição."
+        ],
+        "correta": 0,
+        "explicacao": "O 'que' liga duas orações independentes, sendo uma conjunção coordenativa."
+      },
+      {
+        "enunciado": "Em 'Gostaria DE QUE fosse embora', a expressão destacada classifica-se como:",
+        "opcoes": [
+          "Conjunção subordinativa integrante.",
+          "Pronome relativo.",
+          "Preposição + conjunção subordinativa integrante.",
+          "Partícula expletiva."
+        ],
+        "correta": 2,
+        "explicacao": "O verbo 'gostar' exige a preposição 'de', e o 'que' introduz a oração subordinada."
+      },
+      {
+        "enunciado": "Em 'Ele disse QUE viria hoje', o 'que' é:",
+        "opcoes": [
+          "Pronome relativo.",
+          "Conjunção subordinativa integrante.",
+          "Partícula expletiva.",
+          "Advérbio."
+        ],
+        "correta": 1,
+        "explicacao": "O 'que' completa o sentido do verbo 'dizer' (disse algo)."
+      },
+      {
+        "enunciado": "Na frase 'O livro QUE li é bom', o 'que' é:",
+        "opcoes": [
+          "Conjunção integrante.",
+          "Pronome relativo.",
+          "Preposição.",
+          "Substantivo."
+        ],
+        "correta": 1,
+        "explicacao": "O 'que' retoma o substantivo 'livro', exercendo a função de pronome relativo."
+      },
+      {
+        "enunciado": "Em 'Que horas são?', o 'que' é:",
+        "opcoes": [
+          "Interjeição.",
+          "Pronome interrogativo.",
+          "Conjunção.",
+          "Advérbio."
+        ],
+        "correta": 1,
+        "explicacao": "O 'que' está ligado a um substantivo (horas) para formar uma pergunta."
+      },
+      {
+        "enunciado": "Na frase 'Quase QUE ele cai', o 'que' é:",
+        "opcoes": [
+          "Partícula expletiva.",
+          "Pronome relativo.",
+          "Conjunção integrante.",
+          "Preposição."
+        ],
+        "correta": 0,
+        "explicacao": "O 'que' pode ser retirado sem prejuízo de sentido, sendo apenas uma partícula de realce."
+      },
+      {
+        "enunciado": "Em 'A verdade é QUE ele não veio', o 'que' é:",
+        "opcoes": [
+          "Pronome relativo.",
+          "Conjunção subordinativa integrante.",
+          "Interjeição.",
+          "Partícula apassivadora."
+        ],
+        "correta": 1,
+        "explicacao": "Introduz uma oração subordinada substantiva predicativa."
+      },
+      {
+        "enunciado": "Na frase 'Que belo dia!', o 'que' é:",
+        "opcoes": [
+          "Advérbio de modo.",
+          "Interjeição.",
+          "Conjunção.",
+          "Pronome interrogativo."
+        ],
+        "correta": 1,
+        "explicacao": "Expressa admiração, sendo uma interjeição."
+      },
+      {
+        "enunciado": "Em 'A pessoa QUE te ligou é minha mãe', o 'que' é:",
+        "opcoes": [
+          "Conjunção integrante.",
+          "Pronome relativo.",
+          "Preposição.",
+          "Substantivo."
+        ],
+        "correta": 1,
+        "explicacao": "Retoma o antecedente 'pessoa'."
+      },
+      {
+        "enunciado": "Na oração 'Não sei QUE fazer', o 'que' é:",
+        "opcoes": [
+          "Pronome interrogativo.",
+          "Interjeição.",
+          "Conjunção condicional.",
+          "Advérbio de intensidade."
+        ],
+        "correta": 0,
+        "explicacao": "O 'que' tem valor interrogativo indireto (não sei o que)."
+      },
+      {
+        "enunciado": "Em 'Ele falou tanto QUE ficou rouco', o 'que' é:",
+        "opcoes": [
+          "Pronome relativo.",
+          "Conjunção subordinativa consecutiva.",
+          "Partícula expletiva.",
+          "Preposição."
+        ],
+        "correta": 1,
+        "explicacao": "O 'que' introduz a consequência da ação de falar muito (tanto que)."
+      },
+      {
+        "enunciado": "Em 'Que seja feliz!', o 'que' é:",
+        "opcoes": [
+          "Conjunção subordinativa integrante.",
+          "Partícula de realce.",
+          "Preposição.",
+          "Advérbio."
+        ],
+        "correta": 0,
+        "explicacao": "Introduz uma oração subordinada substantiva objetiva direta com valor de desejo."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_port_funcoes_se_01",
+    "titulo": "Português - Funções do 'Se'",
+    "tipo": "conteudo",
+    "icone": "🔍",
+    "perguntas": [
+      {
+        "enunciado": "Na tirinha ('Se você quiser, eu posso perguntar...'), o 'se' é uma:",
+        "opcoes": [
+          "Partícula apassivadora.",
+          "Conjunção subordinativa condicional.",
+          "Pronome reflexivo.",
+          "Índice de indeterminação do sujeito."
+        ],
+        "correta": 1,
+        "explicacao": "O 'se' introduz uma condição (se você quiser) para a ação principal."
+      },
+      {
+        "enunciado": "Em 'O indivíduo considerou-se culpado pela confusão', o 'se' é:",
+        "opcoes": [
+          "Conjunção condicional.",
+          "Pronome reflexivo.",
+          "Partícula apassivadora.",
+          "Índice de indeterminação do sujeito."
+        ],
+        "correta": 1,
+        "explicacao": "O sujeito pratica e sofre a ação ao mesmo tempo."
+      },
+      {
+        "enunciado": "Na frase 'Cumprimentaram-se depois da palestra', o 'se' atua como:",
+        "opcoes": [
+          "Pronome recíproco.",
+          "Conjunção integrante.",
+          "Partícula expletiva.",
+          "Índice de indeterminação."
+        ],
+        "correta": 0,
+        "explicacao": "A ação é mútua: um cumprimentou o outro."
+      },
+      {
+        "enunciado": "Em 'Arrependeu-se das decisões que tomou ontem', o 'se' é:",
+        "opcoes": [
+          "Partícula apassivadora.",
+          "Conjunção subordinativa.",
+          "Parte integrante do verbo.",
+          "Pronome reflexivo."
+        ],
+        "correta": 2,
+        "explicacao": "O verbo 'arrepender' é pronominal e exige o 'se'."
+      },
+      {
+        "enunciado": "Em 'Vendem-se picolés', o 'se' é uma:",
+        "opcoes": [
+          "Partícula apassivadora.",
+          "Conjunção condicional.",
+          "Pronome reflexivo.",
+          "Partícula expletiva."
+        ],
+        "correta": 0,
+        "explicacao": "O verbo é transitivo direto e o 'se' transforma a frase na voz passiva sintética."
+      },
+      {
+        "enunciado": "Na oração 'Precisa-se de ajudantes', o 'se' é:",
+        "opcoes": [
+          "Partícula apassivadora.",
+          "Índice de indeterminação do sujeito.",
+          "Pronome reflexivo.",
+          "Conjunção integrante."
+        ],
+        "correta": 1,
+        "explicacao": "O verbo é transitivo indireto, logo o 'se' indetermina o sujeito."
+      },
+      {
+        "enunciado": "Em 'For-se embora para muito longe daqui', o 'se' é:",
+        "opcoes": [
+          "Partícula expletiva ou de realce.",
+          "Conjunção subordinativa.",
+          "Pronome apassivador.",
+          "Índice de indeterminação."
+        ],
+        "correta": 0,
+        "explicacao": "O 'se' pode ser retirado da frase sem prejuízo do sentido."
+      },
+      {
+        "enunciado": "Na frase 'Não sabia se o gerente viria hoje', o 'se' é:",
+        "opcoes": [
+          "Oração adjetiva.",
+          "Oração adverbial condicional.",
+          "Conjunção subordinativa integrante.",
+          "Conjunção coordenada."
+        ],
+        "correta": 2,
+        "explicacao": "O 'se' completa o sentido do verbo 'saber'."
+      },
+      {
+        "enunciado": "Em 'Se todos forem ao evento, precisaremos alugar outro ônibus', o 'se' é:",
+        "opcoes": [
+          "Conjunção subordinativa adverbial condicional.",
+          "Conjunção coordenativa.",
+          "Partícula apassivadora.",
+          "Pronome reflexivo."
+        ],
+        "correta": 0,
+        "explicacao": "O 'se' estabelece uma hipótese/condição."
+      },
+      {
+        "enunciado": "Em 'Ele se cortou ao fazer a barba', o 'se' é:",
+        "opcoes": [
+          "Índice de indeterminação.",
+          "Partícula apassivadora.",
+          "Pronome reflexivo.",
+          "Conjunção."
+        ],
+        "correta": 2,
+        "explicacao": "O sujeito sofre a ação praticada por ele mesmo."
+      },
+      {
+        "enunciado": "Em 'Dorme-se bem aqui', o 'se' é:",
+        "opcoes": [
+          "Pronome reflexivo.",
+          "Índice de indeterminação do sujeito.",
+          "Partícula apassivadora.",
+          "Conjunção condicional."
+        ],
+        "correta": 1,
+        "explicacao": "O verbo é intransitivo, e o 'se' deixa o sujeito indeterminado."
+      },
+      {
+        "enunciado": "Na frase 'Aluga-se casa', o 'se' é:",
+        "opcoes": [
+          "Índice de indeterminação.",
+          "Partícula apassivadora.",
+          "Pronome recíproco.",
+          "Conjunção."
+        ],
+        "correta": 1,
+        "explicacao": "O verbo 'alugar' é transitivo direto, e a frase equivale a 'Casa é alugada'."
+      },
+      {
+        "enunciado": "Em 'Se ele estudasse, passaria', o 'se' é:",
+        "opcoes": [
+          "Conjunção condicional.",
+          "Partícula expletiva.",
+          "Conjunção integrante.",
+          "Pronome."
+        ],
+        "correta": 0,
+        "explicacao": "Indica uma condição para que a ação principal ocorra."
+      },
+      {
+        "enunciado": "Em 'Ela se olhou no espelho', o 'se' é:",
+        "opcoes": [
+          "Índice de indeterminação.",
+          "Partícula apassivadora.",
+          "Pronome reflexivo.",
+          "Conjunção."
+        ],
+        "correta": 2,
+        "explicacao": "A ação é refletida na própria pessoa que a pratica."
+      },
+      {
+        "enunciado": "Na frase 'Abraçaram-se emocionados', o 'se' é:",
+        "opcoes": [
+          "Partícula expletiva.",
+          "Pronome recíproco.",
+          "Conjunção.",
+          "Índice de indeterminação."
+        ],
+        "correta": 1,
+        "explicacao": "A ação é mútua (um abraçou o outro)."
+      },
+      {
+        "enunciado": "Em 'Ele queixou-se do barulho', o 'se' é:",
+        "opcoes": [
+          "Parte integrante do verbo.",
+          "Conjunção condicional.",
+          "Partícula apassivadora.",
+          "Pronome reflexivo."
+        ],
+        "correta": 0,
+        "explicacao": "O verbo 'queixar' exige o pronome."
+      },
+      {
+        "enunciado": "Na oração 'Trabalha-se muito aqui', o 'se' é:",
+        "opcoes": [
+          "Partícula apassivadora.",
+          "Índice de indeterminação do sujeito.",
+          "Pronome reflexivo.",
+          "Conjunção integrante."
+        ],
+        "correta": 1,
+        "explicacao": "O verbo é intransitivo, e não há um sujeito determinado."
+      },
+      {
+        "enunciado": "Na frase 'Consertam-se relógios', o 'se' é:",
+        "opcoes": [
+          "Índice de indeterminação.",
+          "Partícula apassivadora.",
+          "Pronome recíproco.",
+          "Conjunção."
+        ],
+        "correta": 1,
+        "explicacao": "Voz passiva sintética; equivalente a 'Relógios são consertados'."
+      },
+      {
+        "enunciado": "Em 'Se você não for, eu também não vou', o 'se' indica:",
+        "opcoes": [
+          "Causa.",
+          "Condição.",
+          "Concessão.",
+          "Tempo."
+        ],
+        "correta": 1,
+        "explicacao": "O 'se' estabelece uma condição hipotética."
+      },
+      {
+        "enunciado": "Em 'Ainda se ouvem os gritos da torcida', o 'se' é:",
+        "opcoes": [
+          "Índice de indeterminação.",
+          "Partícula apassivadora.",
+          "Pronome reflexivo.",
+          "Conjunção."
+        ],
+        "correta": 1,
+        "explicacao": "O verbo 'ouvir' é transitivo direto, e a frase equivale a 'Os gritos são ouvidos'."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_port_dramatico_01",
+    "titulo": "Português - Texto Dramático",
+    "tipo": "conteudo",
+    "icone": "🎭",
+    "perguntas": [
+      {
+        "enunciado": "Qual é a principal característica do texto dramático?",
+        "opcoes": [
+          "É escrito em versos e rimas.",
+          "É composto apenas por descrições de paisagens.",
+          "É composto principalmente pelas falas das personagens e pelas rubricas.",
+          "É um texto jornalístico com opinião do autor."
+        ],
+        "correta": 2,
+        "explicacao": "O texto dramático baseia-se no diálogo entre as personagens e nas indicações cênicas (rubricas)."
+      },
+      {
+        "enunciado": "O que são as 'rubricas' em um texto dramático?",
+        "opcoes": [
+          "As falas principais das personagens.",
+          "As indicações cênicas e didascálias (orientações sobre a cena).",
+          "O título da peça.",
+          "Os nomes dos atores."
+        ],
+        "correta": 1,
+        "explicacao": "As rubricas são instruções para a montagem da peça, geralmente em itálico."
+      },
+      {
+        "enunciado": "No texto teatral, o que indica o discurso de uma única personagem falando sozinha em cena?",
+        "opcoes": [
+          "Diálogo.",
+          "Monólogo.",
+          "Rubrica.",
+          "Didascália."
+        ],
+        "correta": 1,
+        "explicacao": "O monólogo é a fala de uma personagem para si mesma ou para o público."
+      },
+      {
+        "enunciado": "Segundo o texto sobre O Bem-Amado, qual é a função do personagem 'Zelão' na trama?",
+        "opcoes": [
+          "Ele é o prefeito da cidade.",
+          "Ele é o coveiro que deseja que as pessoas morram para ter trabalho.",
+          "Ele é o jornalista que cobre as notícias.",
+          "Ele é o médico da cidade."
+        ],
+        "correta": 1,
+        "explicacao": "Zelão é o coveiro de Sucupira e sua motivação é enterrar gente para ter lucro."
+      },
+      {
+        "enunciado": "Nas peças de teatro, a ação dramática é geralmente dividida em:",
+        "opcoes": [
+          "Introdução, desenvolvimento e conclusão.",
+          "Atos e cenas.",
+          "Estrofes e versos.",
+          "Parágrafos e capítulos."
+        ],
+        "correta": 1,
+        "explicacao": "A estrutura clássica do teatro divide a peça em atos e cenas."
+      },
+      {
+        "enunciado": "Na peça O Bem-Amado, o que o personagem Odorico pede a Zelão no primeiro quadro?",
+        "opcoes": [
+          "Para cuidar das plantas da prefeitura.",
+          "Para gramar três léguas de terra e construir um cemitério.",
+          "Para escrever um discurso político para ele.",
+          "Para limpar a praça principal da cidade."
+        ],
+        "correta": 1,
+        "explicacao": "Odorico quer construir um cemitério para a cidade."
+      },
+      {
+        "enunciado": "Qual é o gênero literário que se destina à representação no palco?",
+        "opcoes": [
+          "Lírico.",
+          "Épico.",
+          "Dramático.",
+          "Didático."
+        ],
+        "correta": 2,
+        "explicacao": "O gênero dramático é feito para ser encenado."
+      },
+      {
+        "enunciado": "O que o personagem Odorico promete a Zelão para conseguir as terras?",
+        "opcoes": [
+          "Um emprego na prefeitura.",
+          "Muito bem.",
+          "Uma casa nova.",
+          "Dinheiro vivo."
+        ],
+        "correta": 1,
+        "explicacao": "Odorico diz 'Muito bem! Muito bem!' para tentar convencer Zelão."
+      },
+      {
+        "enunciado": "Como é chamada a pessoa que escreve peças de teatro?",
+        "opcoes": [
+          "Romancista.",
+          "Dramaturgo.",
+          "Cronista.",
+          "Poeta."
+        ],
+        "correta": 1,
+        "explicacao": "Dramaturgo é o autor de textos dramáticos."
+      },
+      {
+        "enunciado": "A peça O Bem-Amado é uma obra de qual autor brasileiro?",
+        "opcoes": [
+          "Dias Gomes.",
+          "Jorge Amado.",
+          "Nelson Rodrigues.",
+          "Ariano Suassuna."
+        ],
+        "correta": 0,
+        "explicacao": "Dias Gomes é o autor de O Bem-Amado, uma famosa peça e novela brasileira."
+      },
+      {
+        "enunciado": "Qual é a principal diferença entre o texto dramático e o texto narrativo?",
+        "opcoes": [
+          "O dramático tem narrador, o narrativo não.",
+          "O dramático é feito para ser encenado, o narrativo para ser lido.",
+          "O dramático é sempre em versos.",
+          "Não há diferença."
+        ],
+        "correta": 1,
+        "explicacao": "O texto dramático é construído para a representação teatral."
+      },
+      {
+        "enunciado": "As falas das personagens no texto dramático são geralmente introduzidas por:",
+        "opcoes": [
+          "Travessão.",
+          "Aspas.",
+          "Parênteses.",
+          "Colchetes."
+        ],
+        "correta": 0,
+        "explicacao": "O travessão é o sinal gráfico mais comum para indicar a fala de personagens."
+      },
+      {
+        "enunciado": "Em O Bem-Amado, a cidade fictícia onde se passa a história é:",
+        "opcoes": [
+          "Sucupira.",
+          "Itabira.",
+          "Bacurau.",
+          "Vila Nova."
+        ],
+        "correta": 0,
+        "explicacao": "A trama se passa na cidade de Sucupira."
+      },
+      {
+        "enunciado": "No teatro, o que é um 'ato'?",
+        "opcoes": [
+          "Uma ação rápida.",
+          "Uma grande divisão da peça.",
+          "Uma fala curta.",
+          "Um tipo de personagem."
+        ],
+        "correta": 1,
+        "explicacao": "O ato é a divisão principal de uma peça teatral."
+      },
+      {
+        "enunciado": "O que as rubricas geralmente indicam?",
+        "opcoes": [
+          "Apenas o que os personagens devem falar.",
+          "O tom de voz, os gestos, a iluminação e o cenário.",
+          "O preço dos ingressos.",
+          "A opinião do crítico."
+        ],
+        "correta": 1,
+        "explicacao": "As rubricas orientam a encenação (tom, gestos, cenário)."
+      },
+      {
+        "enunciado": "A fala de uma personagem que fica sozinha no palco, expressando seus pensamentos, é chamada de:",
+        "opcoes": [
+          "Diálogo.",
+          "Rubrica.",
+          "Monólogo.",
+          "Ato."
+        ],
+        "correta": 2,
+        "explicacao": "O monólogo é a fala solitária da personagem."
+      },
+      {
+        "enunciado": "O que caracteriza a 'comédia' como gênero dramático?",
+        "opcoes": [
+          "Causar tristeza e reflexão profunda.",
+          "Retratar situações engraçadas e satirizar comportamentos.",
+          "Ser sempre escrita em versos.",
+          "Ter um final trágico."
+        ],
+        "correta": 1,
+        "explicacao": "A comédia busca o riso e a crítica por meio do humor."
+      },
+      {
+        "enunciado": "O gênero dramático 'tragédia' é marcado por:",
+        "opcoes": [
+          "Finais felizes.",
+          "Humor e sátira.",
+          "Conflitos graves e desfechos infelizes.",
+          "Danças e músicas."
+        ],
+        "correta": 2,
+        "explicacao": "A tragédia aborda conflitos sérios e, geralmente, finais catastróficos."
+      },
+      {
+        "enunciado": "Em uma peça, o 'cenário' refere-se a:",
+        "opcoes": [
+          "O conjunto de atores.",
+          "A história contada.",
+          "O espaço físico e os objetos que compõem o ambiente da cena.",
+          "O roteiro."
+        ],
+        "correta": 2,
+        "explicacao": "O cenário é o ambiente visual montado para a peça."
+      },
+      {
+        "enunciado": "Na obra O Bem-Amado, a sátira principal é direcionada a:",
+        "opcoes": [
+          "Aos professores.",
+          "Aos políticos e à corrupção.",
+          "Aos estudantes.",
+          "Aos artistas de TV."
+        ],
+        "correta": 1,
+        "explicacao": "A peça satiriza a política e os políticos brasileiros."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_port_oracoes_reduzidas_01",
+    "titulo": "Português - Orações Reduzidas",
+    "tipo": "conteudo",
+    "icone": "⚙️",
+    "perguntas": [
+      {
+        "enunciado": "O que caracteriza uma 'oração reduzida'?",
+        "opcoes": [
+          "Ela não possui sujeito.",
+          "Ela é introduzida por conjunção.",
+          "Não é introduzida por conjunção e tem verbo no infinitivo, gerúndio ou particípio.",
+          "Ela é sempre coordenada."
+        ],
+        "correta": 2,
+        "explicacao": "As orações reduzidas usam formas nominais e não são ligadas por conectivos."
+      },
+      {
+        "enunciado": "Na frase 'Ao sair de casa, o telefone tocou', a oração destacada é reduzida de:",
+        "opcoes": [
+          "Particípio.",
+          "Infinitivo.",
+          "Gerúndio.",
+          "Presente do indicativo."
+        ],
+        "correta": 1,
+        "explicacao": "O verbo 'sair' está no infinitivo, introduzido pela preposição 'ao'."
+      },
+      {
+        "enunciado": "Em 'Terminando as compras, voltei para casa', a oração é reduzida de:",
+        "opcoes": [
+          "Gerúndio.",
+          "Particípio.",
+          "Infinitivo.",
+          "Subjuntivo."
+        ],
+        "correta": 0,
+        "explicacao": "O verbo 'terminando' está no gerúndio."
+      },
+      {
+        "enunciado": "Na oração 'Preocupado com a mãe, o filho ligou para ela', a oração é reduzida de:",
+        "opcoes": [
+          "Infinitivo.",
+          "Gerúndio.",
+          "Particípio.",
+          "Subjuntivo."
+        ],
+        "correta": 2,
+        "explicacao": "O adjetivo 'preocupado' funciona como particípio."
+      },
+      {
+        "enunciado": "A oração 'Tendo algum problema, não hesite em ligar' é subordinada adverbial:",
+        "opcoes": [
+          "Causal.",
+          "Condicional.",
+          "Concessiva.",
+          "Temporal."
+        ],
+        "correta": 1,
+        "explicacao": "Ela expressa uma condição (caso tenha algum problema)."
+      },
+      {
+        "enunciado": "Em 'Achando o tênis caro, resolveu não comprá-lo', qual é o tipo de oração reduzida?",
+        "opcoes": [
+          "Particípio.",
+          "Gerúndio com valor causal.",
+          "Infinitivo.",
+          "Coordenada aditiva."
+        ],
+        "correta": 1,
+        "explicacao": "O gerúndio 'achando' indica a causa da ação principal."
+      },
+      {
+        "enunciado": "Ao transformar 'Ao terminar o trabalho, saiu' para forma desenvolvida, teríamos:",
+        "opcoes": [
+          "Quando terminou o trabalho, saiu.",
+          "Terminou o trabalho, mas saiu.",
+          "Embora termine o trabalho, saiu.",
+          "Se terminar o trabalho, saiu."
+        ],
+        "correta": 0,
+        "explicacao": "A reduzida 'Ao terminar' equivale a 'Quando terminou'."
+      },
+      {
+        "enunciado": "Em 'Feito o pedido, aguardamos a entrega', a oração é reduzida de:",
+        "opcoes": [
+          "Infinitivo.",
+          "Gerúndio.",
+          "Particípio.",
+          "Subjuntivo."
+        ],
+        "correta": 2,
+        "explicacao": "O verbo 'feito' está no particípio."
+      },
+      {
+        "enunciado": "'Para passar no vestibular, estudou muito' é uma oração reduzida de:",
+        "opcoes": [
+          "Gerúndio.",
+          "Particípio.",
+          "Infinitivo.",
+          "Presente."
+        ],
+        "correta": 2,
+        "explicacao": "O verbo 'passar' está no infinitivo."
+      },
+      {
+        "enunciado": "Em 'Vendo o amigo, correu para abraçá-lo', qual é o valor da oração reduzida?",
+        "opcoes": [
+          "Causal.",
+          "Concessiva.",
+          "Temporal.",
+          "Condicional."
+        ],
+        "correta": 2,
+        "explicacao": "Indica o momento (quando viu o amigo)."
+      },
+      {
+        "enunciado": "A oração 'Terminada a aula, os alunos saíram' é reduzida de:",
+        "opcoes": [
+          "Gerúndio.",
+          "Particípio.",
+          "Infinitivo.",
+          "Indicativo."
+        ],
+        "correta": 1,
+        "explicacao": "O verbo 'terminada' está no particípio."
+      },
+      {
+        "enunciado": "'Apesar de estar cansado, continuou trabalhando'. A oração destacada é reduzida de:",
+        "opcoes": [
+          "Particípio.",
+          "Infinitivo.",
+          "Gerúndio.",
+          "Subjuntivo."
+        ],
+        "correta": 1,
+        "explicacao": "O verbo 'estar' está no infinitivo."
+      },
+      {
+        "enunciado": "Qual das opções abaixo é uma oração reduzida de gerúndio?",
+        "opcoes": [
+          "Ao chegar, avise-me.",
+          "Chegando a casa, avise-me.",
+          "Chegado a casa, avise-me.",
+          "Quando chegar, avise-me."
+        ],
+        "correta": 1,
+        "explicacao": "O gerúndio é marcado pela terminação -ndo."
+      },
+      {
+        "enunciado": "Qual das opções é uma oração reduzida de particípio?",
+        "opcoes": [
+          "Ao sair, fechou a porta.",
+          "Saindo, fechou a porta.",
+          "Saído, fechou a porta.",
+          "Saiu e fechou a porta."
+        ],
+        "correta": 2,
+        "explicacao": "O particípio é marcado pelas terminações -ado, -ido."
+      },
+      {
+        "enunciado": "Em 'É preciso estudar para aprender', há quantas orações reduzidas de infinitivo?",
+        "opcoes": [
+          "Uma.",
+          "Duas.",
+          "Três.",
+          "Nenhuma."
+        ],
+        "correta": 1,
+        "explicacao": "Há duas: 'estudar' e 'aprender'."
+      },
+      {
+        "enunciado": "'Não tendo dinheiro, não comprou o carro'. A oração reduzida expressa ideia de:",
+        "opcoes": [
+          "Consequência.",
+          "Causa.",
+          "Finalidade.",
+          "Tempo."
+        ],
+        "correta": 1,
+        "explicacao": "Indica a causa de não ter comprado o carro."
+      },
+      {
+        "enunciado": "As orações reduzidas podem ser classificadas como:",
+        "opcoes": [
+          "Apenas substantivas.",
+          "Apenas adjetivas.",
+          "Substantivas, adjetivas ou adverbiais.",
+          "Apenas coordenadas."
+        ],
+        "correta": 2,
+        "explicacao": "Elas podem exercer as três funções, assim como as desenvolvidas."
+      },
+      {
+        "enunciado": "Qual é a forma desenvolvida da oração 'Ao amanhecer, partimos'?",
+        "opcoes": [
+          "Quando amanheceu, partimos.",
+          "Se amanhecer, partimos.",
+          "Porque amanheceu, partimos.",
+          "Embora amanheça, partimos."
+        ],
+        "correta": 0,
+        "explicacao": "Indica tempo, equivalendo a 'Quando amanheceu'."
+      },
+      {
+        "enunciado": "'Para não errar, releu o texto'. A oração reduzida expressa:",
+        "opcoes": [
+          "Causa.",
+          "Condição.",
+          "Finalidade.",
+          "Tempo."
+        ],
+        "correta": 2,
+        "explicacao": "Indica o objetivo/finalidade de reler o texto."
+      },
+      {
+        "enunciado": "Em 'Chegando os convidados, a festa começou', o gerúndio tem valor:",
+        "opcoes": [
+          "Temporal.",
+          "Causal.",
+          "Condicional.",
+          "Concessivo."
+        ],
+        "correta": 0,
+        "explicacao": "Indica o momento em que a festa começou."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_port_coesao_paralelismo_01",
+    "titulo": "Português - Coesão e Paralelismo",
+    "tipo": "conteudo",
+    "icone": "🔗",
+    "perguntas": [
+      {
+        "enunciado": "O que é a 'coesão sequencial' em um texto?",
+        "opcoes": [
+          "A repetição de palavras para confundir.",
+          "A relação lógica entre as partes, garantindo a progressão das ideias.",
+          "O uso exclusivo de sinônimos.",
+          "A divisão em parágrafos."
+        ],
+        "correta": 1,
+        "explicacao": "A coesão sequencial conecta as ideias de forma lógica."
+      },
+      {
+        "enunciado": "O que caracteriza o 'paralelismo sintático'?",
+        "opcoes": [
+          "Misturar tempos verbais.",
+          "Repetir estruturas gramaticais semelhantes em sequência.",
+          "Usar rimas.",
+          "Não usar pontuação."
+        ],
+        "correta": 1,
+        "explicacao": "O paralelismo sintático é a simetria nas estruturas das orações."
+      },
+      {
+        "enunciado": "Na frase 'Ele gosta de ler, de escrever e de estudar', a coesão é garantida pelo:",
+        "opcoes": [
+          "Paralelismo semântico.",
+          "Paralelismo sintático (repetição do 'de').",
+          "Uso de antônimos.",
+          "Excesso de adjetivos."
+        ],
+        "correta": 1,
+        "explicacao": "A repetição da preposição 'de' cria simetria sintática."
+      },
+      {
+        "enunciado": "A frase 'Ou você estuda, ou você trabalha' apresenta:",
+        "opcoes": [
+          "Coesão referencial.",
+          "Paralelismo com conjunções alternativas.",
+          "Metáfora.",
+          "Falta de coesão."
+        ],
+        "correta": 1,
+        "explicacao": "Há repetição da estrutura e uso de 'ou... ou'."
+      },
+      {
+        "enunciado": "Quando um texto usa 'não só... mas também', ele estabelece:",
+        "opcoes": [
+          "Causa e consequência.",
+          "Adição e paralelismo.",
+          "Oposição.",
+          "Conclusão."
+        ],
+        "correta": 1,
+        "explicacao": "Essas estruturas somam informações mantendo o paralelismo."
+      },
+      {
+        "enunciado": "Em 'Quanto mais estudo, mais aprendo', a coesão é estabelecida por:",
+        "opcoes": [
+          "Conjunção condicional.",
+          "Estrutura de proporcionalidade.",
+          "Pronome relativo.",
+          "Metáfora."
+        ],
+        "correta": 1,
+        "explicacao": "A estrutura 'quanto mais... mais...' cria proporção."
+      },
+      {
+        "enunciado": "O que é a 'coesão referencial'?",
+        "opcoes": [
+          "A conexão entre as ideias por meio de conectivos.",
+          "A retomada de termos já citados por meio de pronomes ou sinônimos.",
+          "A repetição de parágrafos.",
+          "O uso de rimas."
+        ],
+        "correta": 1,
+        "explicacao": "A coesão referencial evita repetições desnecessárias retomando termos."
+      },
+      {
+        "enunciado": "Na frase 'Comprei um livro. Ele é muito bom.', o pronome 'ele':",
+        "opcoes": [
+          "Estabelece uma relação de causa.",
+          "Retoma o termo 'livro', contribuindo para a coesão referencial.",
+          "É um erro de coesão.",
+          "Indica um novo personagem."
+        ],
+        "correta": 1,
+        "explicacao": "O pronome retoma o antecedente 'livro'."
+      },
+      {
+        "enunciado": "Qual opção NÃO apresenta paralelismo sintático?",
+        "opcoes": [
+          "Ele canta, dança e atua.",
+          "Ele canta, dançou e vai atuar.",
+          "Ele gosta de cantar, de dançar e de atuar.",
+          "Ele é alto, magro e inteligente."
+        ],
+        "correta": 1,
+        "explicacao": "Há mistura de tempos verbais (presente, passado e futuro), quebrando o paralelismo."
+      },
+      {
+        "enunciado": "O uso de conectivos como 'portanto', 'logo' e 'assim' indica:",
+        "opcoes": [
+          "Causa.",
+          "Conclusão.",
+          "Oposição.",
+          "Adição."
+        ],
+        "correta": 1,
+        "explicacao": "São conectivos que expressam conclusão lógica."
+      },
+      {
+        "enunciado": "Os conectivos 'mas', 'porém', 'contudo' expressam:",
+        "opcoes": [
+          "Adição.",
+          "Oposição.",
+          "Conclusão.",
+          "Explicação."
+        ],
+        "correta": 1,
+        "explicacao": "São conjunções adversativas, que expressam oposição."
+      },
+      {
+        "enunciado": "Em 'Não fui à escola porque chovia', o conectivo 'porque' indica:",
+        "opcoes": [
+          "Conclusão.",
+          "Causa.",
+          "Condição.",
+          "Finalidade."
+        ],
+        "correta": 1,
+        "explicacao": "Indica o motivo da ação (causa)."
+      },
+      {
+        "enunciado": "Qual frase respeita o paralelismo semântico?",
+        "opcoes": [
+          "Ele é bonito, inteligente e chove.",
+          "Ele é bonito, inteligente e simpático.",
+          "Ele é bonito, inteligente e rápido.",
+          "Ele é bonito, inteligente e ligou."
+        ],
+        "correta": 1,
+        "explicacao": "A opção 1 mantém a sequência de adjetivos (paralelismo semântico)."
+      },
+      {
+        "enunciado": "O que é a 'coesão lexical'?",
+        "opcoes": [
+          "O uso de elementos gramaticais para conectar as ideias.",
+          "A repetição de palavras para enfatizar.",
+          "O uso de sinônimos, hiperônimos ou repetições para retomar termos.",
+          "A divisão do texto em capítulos."
+        ],
+        "correta": 2,
+        "explicacao": "A coesão lexical trata da retomada por meio de palavras (sinônimos, etc.)."
+      },
+      {
+        "enunciado": "Em 'O carro chegou. O veículo estava sujo', a coesão é feita por:",
+        "opcoes": [
+          "Repetição.",
+          "Sinonímia ('veículo' retoma 'carro').",
+          "Antonímia.",
+          "Conjunção."
+        ],
+        "correta": 1,
+        "explicacao": "O termo 'veículo' retoma 'carro' por meio da sinonímia."
+      },
+      {
+        "enunciado": "O que pode prejudicar a coesão de um texto?",
+        "opcoes": [
+          "O uso de conectivos variados.",
+          "O uso de sinônimos.",
+          "A falta de conexão lógica entre as ideias.",
+          "A repetição intencional de palavras."
+        ],
+        "correta": 2,
+        "explicacao": "A falta de conexão lógica quebra a coesão."
+      },
+      {
+        "enunciado": "Os conectivos 'primeiramente', 'em seguida' e 'por fim' são usados para indicar:",
+        "opcoes": [
+          "Oposição.",
+          "Causa.",
+          "Sequência temporal e ordem de ideias.",
+          "Conclusão."
+        ],
+        "correta": 2,
+        "explicacao": "Organizam a sequência e a ordem lógica das ideias."
+      },
+      {
+        "enunciado": "Em 'Estudou muito, logo passou', o conectivo 'logo' indica:",
+        "opcoes": [
+          "Causa.",
+          "Conclusão.",
+          "Oposição.",
+          "Finalidade."
+        ],
+        "correta": 1,
+        "explicacao": "Expressa a conclusão lógica da ação de estudar."
+      },
+      {
+        "enunciado": "A repetição da estrutura 'Um homem vai devagar. Um cachorro vai devagar' é um exemplo de:",
+        "opcoes": [
+          "Falta de coesão.",
+          "Paralelismo sintático (e também anáfora).",
+          "Conclusão.",
+          "Conjunção adversativa."
+        ],
+        "correta": 1,
+        "explicacao": "A estrutura simétrica é um exemplo de paralelismo."
+      },
+      {
+        "enunciado": "As conjunções 'e', 'nem', 'também' são classificadas como:",
+        "opcoes": [
+          "Adversativas.",
+          "Aditivas.",
+          "Alternativas.",
+          "Explicativas."
+        ],
+        "correta": 1,
+        "explicacao": "São conjunções coordenativas aditivas, que somam ideias."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_port_figuras_01",
+    "titulo": "Português - Figuras de Linguagem",
+    "tipo": "conteudo",
+    "icone": "🎨",
+    "perguntas": [
+      {
+        "enunciado": "O que é a 'anáfora'?",
+        "opcoes": [
+          "Repetição de uma palavra ou expressão no início de versos ou orações.",
+          "Inversão da ordem da frase.",
+          "Suavização de uma ideia desagradável.",
+          "Personificação de objetos."
+        ],
+        "correta": 0,
+        "explicacao": "Anáfora é a repetição de termos no início de enunciados sucessivos."
+      },
+      {
+        "enunciado": "No poema 'Um homem vai devagar. Um cachorro vai devagar. Um burro vai devagar', a figura é:",
+        "opcoes": [
+          "Polissíndeto.",
+          "Anáfora.",
+          "Metonímia.",
+          "Antítese."
+        ],
+        "correta": 1,
+        "explicacao": "Há repetição da palavra 'devagar' e da estrutura 'Um... vai'."
+      },
+      {
+        "enunciado": "O que caracteriza o 'polissíndeto'?",
+        "opcoes": [
+          "Uso de adjetivos em excesso.",
+          "Uso repetido de conjunções coordenativas (geralmente o 'e').",
+          "Omissão de termos da frase.",
+          "Repetição de sons consonantais."
+        ],
+        "correta": 1,
+        "explicacao": "O polissíndeto repete conjunções para dar ênfase."
+      },
+      {
+        "enunciado": "O poeta Olavo Bilac usa o polissíndeto para criar um efeito de:",
+        "opcoes": [
+          "Confusão.",
+          "Ritmo lento e enfático, aumentando a expressividade.",
+          "Tristeza.",
+          "Ironia."
+        ],
+        "correta": 1,
+        "explicacao": "A repetição do 'e' dá cadência e ênfase aos versos."
+      },
+      {
+        "enunciado": "No verso 'E a força e a graça na simplicidade', qual figura se destaca?",
+        "opcoes": [
+          "Anáfora.",
+          "Polissíndeto (repetição do 'e').",
+          "Pleonasmo.",
+          "Hipérbole."
+        ],
+        "correta": 1,
+        "explicacao": "A repetição do 'e' é a marca do polissíndeto."
+      },
+      {
+        "enunciado": "Na frase 'Ele é forte como um touro', qual figura de linguagem foi usada?",
+        "opcoes": [
+          "Metáfora.",
+          "Comparação (ou símile).",
+          "Metonímia.",
+          "Antítese."
+        ],
+        "correta": 1,
+        "explicacao": "Há o uso do conectivo comparativo 'como'."
+      },
+      {
+        "enunciado": "Em 'Meu coração é um deserto', temos uma:",
+        "opcoes": [
+          "Metáfora.",
+          "Comparação.",
+          "Hipérbole.",
+          "Metonímia."
+        ],
+        "correta": 0,
+        "explicacao": "Há uma comparação implícita, sem o uso de 'como' (metáfora)."
+      },
+      {
+        "enunciado": "O que é a 'hipérbole'?",
+        "opcoes": [
+          "A suavização de uma ideia.",
+          "A repetição de palavras.",
+          "O exagero intencional para enfatizar uma ideia.",
+          "A inversão da ordem da frase."
+        ],
+        "correta": 2,
+        "explicacao": "A hipérbole é o exagero, como 'Chorei rios de lágrimas'."
+      },
+      {
+        "enunciado": "'Estou morrendo de fome' é um exemplo de:",
+        "opcoes": [
+          "Metáfora.",
+          "Hipérbole.",
+          "Eufemismo.",
+          "Antítese."
+        ],
+        "correta": 1,
+        "explicacao": "É um exagero intencional (ninguém morre literalmente de fome ao dizer isso)."
+      },
+      {
+        "enunciado": "O que é 'eufemismo'?",
+        "opcoes": [
+          "Um exagero.",
+          "Uma repetição.",
+          "Uma forma mais suave de dizer algo desagradável.",
+          "Uma comparação."
+        ],
+        "correta": 2,
+        "explicacao": "Eufemismo suaviza termos como 'ele faltou com a verdade' (em vez de 'mentiu')."
+      },
+      {
+        "enunciado": "'Ele foi morar com Deus' é um exemplo de:",
+        "opcoes": [
+          "Hipérbole.",
+          "Eufemismo.",
+          "Metáfora.",
+          "Anáfora."
+        ],
+        "correta": 1,
+        "explicacao": "É uma forma suave de falar sobre a morte."
+      },
+      {
+        "enunciado": "O que caracteriza a 'antítese'?",
+        "opcoes": [
+          "A repetição de palavras.",
+          "A aproximação de ideias opostas.",
+          "O exagero.",
+          "A suavização."
+        ],
+        "correta": 1,
+        "explicacao": "Antítese é a aproximação de termos ou ideias contrárias."
+      },
+      {
+        "enunciado": "'O ódio e o amor caminham juntos' é um exemplo de:",
+        "opcoes": [
+          "Metáfora.",
+          "Antítese.",
+          "Anáfora.",
+          "Polissíndeto."
+        ],
+        "correta": 1,
+        "explicacao": "Há a presença de ideias opostas (ódio x amor)."
+      },
+      {
+        "enunciado": "O que é 'personificação' ou 'prosopopeia'?",
+        "opcoes": [
+          "Atribuir características humanas a seres inanimados ou irracionais.",
+          "Repetir palavras no início dos versos.",
+          "Exagerar nas descrições.",
+          "Suavizar uma ideia."
+        ],
+        "correta": 0,
+        "explicacao": "É dar vida ou sentimentos humanos a objetos, como 'O vento sussurrou'."
+      },
+      {
+        "enunciado": "'A lua sorriu para mim' é um exemplo de:",
+        "opcoes": [
+          "Hipérbole.",
+          "Personificação.",
+          "Eufemismo.",
+          "Metonímia."
+        ],
+        "correta": 1,
+        "explicacao": "Atribui-se a ação humana de sorrir a um ser inanimado."
+      },
+      {
+        "enunciado": "O que é 'pleonasmo'?",
+        "opcoes": [
+          "A repetição de uma ideia desnecessária para enfatizar.",
+          "A oposição de ideias.",
+          "O exagero.",
+          "A suavização."
+        ],
+        "correta": 0,
+        "explicacao": "Pleonasmo é a redundância, como 'subir para cima'."
+      },
+      {
+        "enunciado": "'Entrar para dentro' é um exemplo de:",
+        "opcoes": [
+          "Pleonasmo.",
+          "Antítese.",
+          "Metáfora.",
+          "Anáfora."
+        ],
+        "correta": 0,
+        "explicacao": "É uma repetição de sentido desnecessária."
+      },
+      {
+        "enunciado": "O que é 'ironia'?",
+        "opcoes": [
+          "Dizer o contrário do que se quer expressar, com tom de deboche.",
+          "Repetir palavras.",
+          "Exagerar nas ideias.",
+          "Suavizar uma expressão."
+        ],
+        "correta": 0,
+        "explicacao": "A ironia consiste em dizer o oposto do que se pretende comunicar."
+      },
+      {
+        "enunciado": "'Que belo serviço!', dito após um trabalho mal feito, é um exemplo de:",
+        "opcoes": [
+          "Anáfora.",
+          "Ironia.",
+          "Metáfora.",
+          "Hipérbole."
+        ],
+        "correta": 1,
+        "explicacao": "A frase expressa o contrário do que se quer dizer."
+      },
+      {
+        "enunciado": "Qual figura de linguagem está presente em 'Seus olhos são duas estrelas'?",
+        "opcoes": [
+          "Metáfora.",
+          "Antítese.",
+          "Anáfora.",
+          "Polissíndeto."
+        ],
+        "correta": 0,
+        "explicacao": "Há uma comparação implícita (seus olhos brilham como estrelas)."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_port_poema_narrativo_01",
+    "titulo": "Português - Poema Narrativo e Fábula",
+    "tipo": "conteudo",
+    "icone": "📜",
+    "perguntas": [
+      {
+        "enunciado": "O que caracteriza um 'poema narrativo'?",
+        "opcoes": [
+          "Ausência de rimas.",
+          "Presença de uma história contada em versos, com personagens e ações.",
+          "Apenas a expressão de sentimentos do eu-lírico.",
+          "Presença de diálogos teatrais."
+        ],
+        "correta": 1,
+        "explicacao": "O poema narrativo conta uma história utilizando a estrutura versificada."
+      },
+      {
+        "enunciado": "Quem foram os precursores da literatura ocidental com poemas épicos?",
+        "opcoes": [
+          "Shakespeare e Machado de Assis.",
+          "Homero e Virgílio.",
+          "Olavo Bilac e Carlos Drummond.",
+          "Gonçalves Dias e Castro Alves."
+        ],
+        "correta": 1,
+        "explicacao": "Homero (com a Ilíada e a Odisseia) e Virgílio (com a Eneida) são os grandes nomes da épica clássica."
+      },
+      {
+        "enunciado": "A Ilíada, de Homero, narra qual evento?",
+        "opcoes": [
+          "A fundação de Roma.",
+          "A Guerra de Troia.",
+          "A Guerra do Peloponeso.",
+          "As viagens de Ulisses."
+        ],
+        "correta": 1,
+        "explicacao": "A Ilíada conta parte dos últimos dias da Guerra de Troia."
+      },
+      {
+        "enunciado": "No poema 'A Cachoeira e o Lírio', de Gonçalves Dias, o que a cachoeira representa?",
+        "opcoes": [
+          "Fragilidade da vida.",
+          "Força bruta e destruição.",
+          "Beleza e pureza.",
+          "Sabedoria dos antigos."
+        ],
+        "correta": 1,
+        "explicacao": "A cachoeira simboliza a força da natureza e a destruição."
+      },
+      {
+        "enunciado": "Qual é a principal característica das fábulas?",
+        "opcoes": [
+          "Contar histórias de heróis da mitologia.",
+          "Trazer animais que representam comportamentos humanos e uma moral.",
+          "Serem escritas apenas em prosa.",
+          "Não terem um narrador."
+        ],
+        "correta": 1,
+        "explicacao": "As fábulas usam animais para criticar comportamentos humanos."
+      },
+      {
+        "enunciado": "O que é uma 'epopeia'?",
+        "opcoes": [
+          "Um poema longo que narra feitos heroicos.",
+          "Um poema curto de amor.",
+          "Uma peça de teatro.",
+          "Uma fábula em prosa."
+        ],
+        "correta": 0,
+        "explicacao": "A epopeia é um poema narrativo longo sobre heróis."
+      },
+      {
+        "enunciado": "Qual é o nome do autor da obra Os Lusíadas?",
+        "opcoes": [
+          "Camões.",
+          "Fernando Pessoa.",
+          "Bocage.",
+          "Eça de Queirós."
+        ],
+        "correta": 0,
+        "explicacao": "Luís de Camões escreveu Os Lusíadas, uma epopeia portuguesa."
+      },
+      {
+        "enunciado": "A Odisseia narra as aventuras de qual herói?",
+        "opcoes": [
+          "Aquiles.",
+          "Ulisses (Odisseu).",
+          "Heitor.",
+          "Enéias."
+        ],
+        "correta": 1,
+        "explicacao": "A Odisseia narra o retorno de Ulisses para casa após a Guerra de Troia."
+      },
+      {
+        "enunciado": "Qual destes é um exemplo de poema narrativo brasileiro?",
+        "opcoes": [
+          "I-Juca-Pirama, de Gonçalves Dias.",
+          "Soneto de Fidelidade, de Vinicius de Moraes.",
+          "Vou-me Embora pra Pasárgada, de Manuel Bandeira.",
+          "No Meio do Caminho, de Drummond."
+        ],
+        "correta": 0,
+        "explicacao": "I-Juca-Pirama é um poema narrativo que conta a história de um guerreiro tupi."
+      },
+      {
+        "enunciado": "O que é a 'moral' em uma fábula?",
+        "opcoes": [
+          "A descrição do cenário.",
+          "A lição ou ensinamento transmitido pela história.",
+          "O nome dos personagens.",
+          "O número de versos."
+        ],
+        "correta": 1,
+        "explicacao": "A moral é o ensinamento que a fábula quer transmitir."
+      },
+      {
+        "enunciado": "As fábulas de Esopo são famosas por:",
+        "opcoes": [
+          "Serem escritas em latim.",
+          "Usarem animais para ensinar lições de sabedoria.",
+          "Terem heróis da mitologia.",
+          "Serem peças de teatro."
+        ],
+        "correta": 1,
+        "explicacao": "Esopo é o mais famoso fabulista da Antiguidade."
+      },
+      {
+        "enunciado": "O que é um 'eu-lírico'?",
+        "opcoes": [
+          "O autor do poema.",
+          "A voz que fala no poema, representando os sentimentos expressos.",
+          "O narrador de uma história em prosa.",
+          "O personagem principal de uma peça."
+        ],
+        "correta": 1,
+        "explicacao": "O eu-lírico é a voz poética criada pelo autor."
+      },
+      {
+        "enunciado": "Os poemas narrativos geralmente apresentam:",
+        "opcoes": [
+          "Apenas sentimentos.",
+          "Narrador, personagens, tempo e espaço.",
+          "Somente diálogos.",
+          "Apenas descrições."
+        ],
+        "correta": 1,
+        "explicacao": "Os elementos da narrativa (personagens, tempo, espaço, narrador) estão presentes."
+      },
+      {
+        "enunciado": "O que é 'versificação'?",
+        "opcoes": [
+          "A arte de escrever versos.",
+          "A divisão do texto em parágrafos.",
+          "O uso de rimas.",
+          "A contagem de letras."
+        ],
+        "correta": 0,
+        "explicacao": "Versificação é a técnica de compor versos."
+      },
+      {
+        "enunciado": "O que são 'versos brancos'?",
+        "opcoes": [
+          "Versos sem sentido.",
+          "Versos que não têm rima, mas mantêm o ritmo.",
+          "Versos escritos em branco.",
+          "Versos com rima apenas no final."
+        ],
+        "correta": 1,
+        "explicacao": "Versos brancos ou soltos não possuem rima."
+      },
+      {
+        "enunciado": "O que é 'estrofe'?",
+        "opcoes": [
+          "O conjunto de versos que formam uma unidade no poema.",
+          "Um único verso.",
+          "O título do poema.",
+          "A moral da fábula."
+        ],
+        "correta": 0,
+        "explicacao": "A estrofe é o agrupamento de versos."
+      },
+      {
+        "enunciado": "Qual desses autores é famoso por escrever poemas narrativos de temática indígena?",
+        "opcoes": [
+          "Gonçalves Dias.",
+          "Vinicius de Moraes.",
+          "Cecília Meireles.",
+          "Adélia Prado."
+        ],
+        "correta": 0,
+        "explicacao": "Gonçalves Dias tem obras como I-Juca-Pirama e Marabá."
+      },
+      {
+        "enunciado": "A Ilíada se passa durante qual conflito?",
+        "opcoes": [
+          "Guerra dos Cem Anos.",
+          "Guerra de Troia.",
+          "Guerra do Peloponeso.",
+          "Guerra Púnica."
+        ],
+        "correta": 1,
+        "explicacao": "O cenário é a Guerra de Troia."
+      },
+      {
+        "enunciado": "O que é a 'epopeia' Os Lusíadas?",
+        "opcoes": [
+          "Uma fábula portuguesa.",
+          "Um poema épico que narra as navegações de Vasco da Gama.",
+          "Um romance de cavalaria.",
+          "Uma peça teatral."
+        ],
+        "correta": 1,
+        "explicacao": "Os Lusíadas exaltam os feitos dos navegadores portugueses."
+      },
+      {
+        "enunciado": "Qual é a função das fábulas na literatura?",
+        "opcoes": [
+          "Entreter sem ensinar nada.",
+          "Transmitir valores e lições de moral por meio de histórias simples.",
+          "Descrever paisagens.",
+          "Criticar apenas a política."
+        ],
+        "correta": 1,
+        "explicacao": "As fábulas ensinam valores e comportamentos por meio das histórias."
+      }
+    ]
+  }
+]
