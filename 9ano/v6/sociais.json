@@ -1,0 +1,1118 @@
+[
+  {
+    "id": "9ano_v6_soc_natureza_humana_01",
+    "titulo": "Ciências Sociais - Natureza Humana e Sociedade",
+    "tipo": "conteudo",
+    "icone": "🤔",
+    "perguntas": [
+      {
+        "enunciado": "O que a Filosofia Política investiga?",
+        "opcoes": [
+          "Apenas as leis de um país.",
+          "A vida humana organizada em sociedades regidas por alguma forma de governo.",
+          "A natureza física dos seres vivos.",
+          "A economia global."
+        ],
+        "correta": 1,
+        "explicacao": "A Filosofia Política estuda as questões relacionadas à organização da vida humana em sociedade."
+      },
+      {
+        "enunciado": "Qual é a principal pergunta da Antropologia Filosófica?",
+        "opcoes": [
+          "O que é o universo?",
+          "O que é ser humano?",
+          "Como funciona a mente?",
+          "O que é a matéria?"
+        ],
+        "correta": 1,
+        "explicacao": "A Antropologia Filosófica busca compreender a essência e a natureza humana."
+      },
+      {
+        "enunciado": "O que significa dizer que a natureza humana é 'fixa e imutável'?",
+        "opcoes": [
+          "Que ela muda com o tempo.",
+          "Que ela não se modifica com o passar do tempo nem por questões geográficas ou culturais.",
+          "Que ela é diferente para cada pessoa.",
+          "Que ela não existe."
+        ],
+        "correta": 1,
+        "explicacao": "Para alguns filósofos, a essência humana é a mesma em todas as épocas e lugares."
+      },
+      {
+        "enunciado": "O que é a 'sociedade política'?",
+        "opcoes": [
+          "Um grupo de amigos.",
+          "Uma comunidade organizada regida por leis e um poder governamental.",
+          "Uma empresa privada.",
+          "Um clube esportivo."
+        ],
+        "correta": 1,
+        "explicacao": "A sociedade política é a organização da vida em comum regida por regras e poder."
+      },
+      {
+        "enunciado": "Qual é o conceito de 'imanente' na Filosofia?",
+        "opcoes": [
+          "Algo que está fora da realidade.",
+          "Aspecto essencial de algo; elemento inseparável da natureza de um ser.",
+          "Algo que foi criado artificialmente.",
+          "Uma regra imposta."
+        ],
+        "correta": 1,
+        "explicacao": "Imanente é o que é inerente, inseparável da natureza de algo."
+      },
+      {
+        "enunciado": "Qual é a diferença entre a visão de Aristóteles e a dos contratualistas sobre a sociedade política?",
+        "opcoes": [
+          "Aristóteles acha que é natural; os contratualistas acham que é artificial (criada por acordo).",
+          "Aristóteles acha que é artificial; os contratualistas acham que é natural.",
+          "Ambos acham que é natural.",
+          "Ambos acham que é artificial."
+        ],
+        "correta": 0,
+        "explicacao": "Aristóteles defendia a sociabilidade natural; os contratualistas defendiam a criação por contrato."
+      },
+      {
+        "enunciado": "O que é a 'prescrição' no contexto filosófico?",
+        "opcoes": [
+          "Uma ordem ou determinação da natureza.",
+          "Uma receita médica.",
+          "Uma lei criada pelos homens.",
+          "Uma sugestão."
+        ],
+        "correta": 0,
+        "explicacao": "Prescrição é uma ordem ou determinação que vem da natureza ou de uma regra."
+      },
+      {
+        "enunciado": "O que é 'convenção'?",
+        "opcoes": [
+          "Uma lei natural.",
+          "Um acordo ou pacto estabelecido pelos seres humanos.",
+          "Uma imposição divina.",
+          "Uma regra imutável."
+        ],
+        "correta": 1,
+        "explicacao": "Convenção é algo estabelecido por acordo entre as pessoas."
+      },
+      {
+        "enunciado": "Para Aristóteles, o ser humano é um 'animal político'. O que isso significa?",
+        "opcoes": [
+          "Que ele vive isolado.",
+          "Que ele é naturalmente inclinado a viver em sociedade.",
+          "Que ele é um animal selvagem.",
+          "Que ele não precisa de regras."
+        ],
+        "correta": 1,
+        "explicacao": "O ser humano é sociopolítico por natureza, segundo Aristóteles."
+      },
+      {
+        "enunciado": "O que é 'Teleologia' na filosofia aristotélica?",
+        "opcoes": [
+          "O estudo do fim, das finalidades.",
+          "O estudo da matéria.",
+          "O estudo da mente.",
+          "O estudo da política."
+        ],
+        "correta": 0,
+        "explicacao": "Teleologia é a doutrina que estuda as causas finais e as finalidades das coisas."
+      },
+      {
+        "enunciado": "Segundo Aristóteles, qual é a finalidade natural do ser humano?",
+        "opcoes": [
+          "A riqueza.",
+          "O poder.",
+          "A felicidade (vida racional e virtuosa).",
+          "A fama."
+        ],
+        "correta": 2,
+        "explicacao": "A felicidade é a meta natural dos seres humanos na filosofia aristotélica."
+      },
+      {
+        "enunciado": "Para Aristóteles, a felicidade é um 'bem excelente'. O que isso significa?",
+        "opcoes": [
+          "Que ela é um meio para outra coisa.",
+          "Que ela é autossuficiente e um fim em si mesma.",
+          "Que ela depende de bens materiais.",
+          "Que ela é passageira."
+        ],
+        "correta": 1,
+        "explicacao": "A felicidade é um fim em si mesma, não um meio para outro propósito."
+      },
+      {
+        "enunciado": "O que é a 'autossuficiência' para Aristóteles?",
+        "opcoes": [
+          "Depender dos outros.",
+          "Ser plenamente autônomo, não precisar de nada.",
+          "Viver isolado.",
+          "Ser rico."
+        ],
+        "correta": 1,
+        "explicacao": "A autossuficiência é a capacidade de bastar-se a si mesmo."
+      },
+      {
+        "enunciado": "Segundo Aristóteles, onde a humanidade se realiza plenamente?",
+        "opcoes": [
+          "No isolamento.",
+          "Na sociedade política.",
+          "Na família.",
+          "Na escola."
+        ],
+        "correta": 1,
+        "explicacao": "É na sociedade política que o ser humano se realiza como ser racional e virtuoso."
+      },
+      {
+        "enunciado": "O que é o 'poder político' para Aristóteles?",
+        "opcoes": [
+          "Um poder absoluto e arbitrário.",
+          "Um poder natural e necessário para a vida em sociedade.",
+          "Uma criação artificial dos homens.",
+          "Um poder apenas militar."
+        ],
+        "correta": 1,
+        "explicacao": "O poder político é uma necessidade natural para organizar a vida comum."
+      },
+      {
+        "enunciado": "O que é a 'felicidade' para Aristóteles?",
+        "opcoes": [
+          "Prazeres do corpo.",
+          "A posse de riquezas.",
+          "A atividade racional e virtuosa.",
+          "O prestígio social."
+        ],
+        "correta": 2,
+        "explicacao": "A felicidade está na atividade racional e virtuosa, não nos prazeres ou riquezas."
+      },
+      {
+        "enunciado": "Segundo a visão aristotélica, a sociedade política é:",
+        "opcoes": [
+          "Uma criação artificial.",
+          "Uma realidade natural.",
+          "Um mal necessário.",
+          "Uma invenção divina."
+        ],
+        "correta": 1,
+        "explicacao": "Para Aristóteles, a sociedade política é uma criação da natureza."
+      },
+      {
+        "enunciado": "O que é a 'antropologia filosófica'?",
+        "opcoes": [
+          "O estudo das culturas.",
+          "A reflexão filosófica sobre a natureza humana.",
+          "O estudo dos fósseis.",
+          "O estudo da política."
+        ],
+        "correta": 1,
+        "explicacao": "A antropologia filosófica investiga a essência do ser humano."
+      },
+      {
+        "enunciado": "Qual é a diferença entre 'antropologia filosófica' e 'antropologia como ciência social'?",
+        "opcoes": [
+          "A filosófica estuda a essência; a social estuda a diversidade cultural.",
+          "A filosófica estuda a cultura; a social estuda a essência.",
+          "São a mesma coisa.",
+          "A filosófica estuda a biologia."
+        ],
+        "correta": 0,
+        "explicacao": "A filosófica busca a essência; a social estuda as culturas e suas diversidades."
+      },
+      {
+        "enunciado": "Para Aristóteles, o que é mais importante: o indivíduo ou a sociedade política?",
+        "opcoes": [
+          "O indivíduo.",
+          "A sociedade política (o todo é anterior às partes).",
+          "Ambos são iguais.",
+          "Nenhum dos dois."
+        ],
+        "correta": 1,
+        "explicacao": "Para Aristóteles, o todo (sociedade) é anterior às partes (indivíduos)."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_soc_hobbes_01",
+    "titulo": "Ciências Sociais - Thomas Hobbes e o Contrato Social",
+    "tipo": "conteudo",
+    "icone": "🐺",
+    "perguntas": [
+      {
+        "enunciado": "Quem foi Thomas Hobbes?",
+        "opcoes": [
+          "Um filósofo grego.",
+          "Um filósofo inglês contratualista.",
+          "Um imperador romano.",
+          "Um cientista."
+        ],
+        "correta": 1,
+        "explicacao": "Hobbes foi um dos principais teóricos do contratualismo."
+      },
+      {
+        "enunciado": "Qual é a obra mais famosa de Thomas Hobbes?",
+        "opcoes": ["A República", "O Leviatã", "A Política", "O Contrato Social"],
+        "correta": 1,
+        "explicacao": "O Leviatã é a principal obra de Hobbes sobre filosofia política."
+      },
+      {
+        "enunciado": "O que é o 'estado de natureza' para Hobbes?",
+        "opcoes": [
+          "Um paraíso.",
+          "Uma condição de guerra de todos contra todos.",
+          "Um estado de paz.",
+          "Uma sociedade organizada."
+        ],
+        "correta": 1,
+        "explicacao": "Hobbes via o estado de natureza como uma guerra generalizada."
+      },
+      {
+        "enunciado": "Como Hobbes descreve a natureza humana?",
+        "opcoes": [
+          "Naturalmente boa.",
+          "Naturalmente egoísta e agressiva.",
+          "Naturalmente pacífica.",
+          "Naturalmente cooperativa."
+        ],
+        "correta": 1,
+        "explicacao": "Para Hobbes, o ser humano é naturalmente egoísta e busca o próprio interesse."
+      },
+      {
+        "enunciado": "O que significa a expressão 'guerra de todos contra todos'?",
+        "opcoes": [
+          "Uma guerra entre países.",
+          "Uma condição em que cada indivíduo está em conflito com todos os outros.",
+          "Uma guerra civil.",
+          "Uma batalha militar."
+        ],
+        "correta": 1,
+        "explicacao": "É a condição de conflito generalizado no estado de natureza."
+      },
+      {
+        "enunciado": "Por que Hobbes afirma que o estado de natureza é insuportável?",
+        "opcoes": [
+          "Porque há muita riqueza.",
+          "Porque a vida é 'solitária, pobre, embrutecida e curta'.",
+          "Porque há muita paz.",
+          "Porque há muitas leis."
+        ],
+        "correta": 1,
+        "explicacao": "Hobbes descreve a vida no estado de natureza como miserável e breve."
+      },
+      {
+        "enunciado": "O que é o 'contrato social' para Hobbes?",
+        "opcoes": [
+          "Um acordo em que os homens renunciam à sua liberdade em favor de um soberano para garantir a segurança.",
+          "Um acordo comercial.",
+          "Um tratado de paz entre países.",
+          "Uma lei divina."
+        ],
+        "correta": 0,
+        "explicacao": "O contrato social é um pacto para transferir poder a um soberano."
+      },
+      {
+        "enunciado": "Para Hobbes, qual é o papel do Estado?",
+        "opcoes": [
+          "Garantir a liberdade total.",
+          "Garantir a segurança e a ordem.",
+          "Promover a igualdade econômica.",
+          "Garantir a democracia."
+        ],
+        "correta": 1,
+        "explicacao": "O Estado é criado para garantir a segurança e evitar a guerra de todos contra todos."
+      },
+      {
+        "enunciado": "O que Hobbes defende em relação à forma de governo?",
+        "opcoes": [
+          "A democracia.",
+          "A monarquia absolutista.",
+          "O socialismo.",
+          "O anarquismo."
+        ],
+        "correta": 1,
+        "explicacao": "Hobbes defendia o poder absoluto do Estado, que poderia ser a monarquia."
+      },
+      {
+        "enunciado": "O que significa o 'poder absoluto' do Estado para Hobbes?",
+        "opcoes": [
+          "Um poder limitado pela lei.",
+          "Um poder incontestável e ilimitado do soberano.",
+          "Um poder dividido.",
+          "Um poder apenas simbólico."
+        ],
+        "correta": 1,
+        "explicacao": "O poder do soberano é absoluto para garantir a ordem."
+      },
+      {
+        "enunciado": "Por que Hobbes justifica a renúncia da liberdade em favor do Estado?",
+        "opcoes": [
+          "Para evitar a guerra de todos contra todos.",
+          "Para enriquecer.",
+          "Para ter mais prazeres.",
+          "Para viajar."
+        ],
+        "correta": 0,
+        "explicacao": "A renúncia é justificada pelo medo da morte violenta e pela busca de segurança."
+      },
+      {
+        "enunciado": "O que é o 'Leviatã' na obra de Hobbes?",
+        "opcoes": [
+          "Um monstro marinho.",
+          "Uma metáfora para o Estado todo-poderoso.",
+          "Um personagem bíblico.",
+          "Um livro."
+        ],
+        "correta": 1,
+        "explicacao": "O Leviatã é uma metáfora para o poder absoluto do Estado."
+      },
+      {
+        "enunciado": "Hobbes acreditava que os seres humanos são naturalmente iguais?",
+        "opcoes": [
+          "Sim, em capacidade e direitos.",
+          "Não, uns são superiores aos outros.",
+          "Sim, mas apenas fisicamente.",
+          "Não, a igualdade é artificial."
+        ],
+        "correta": 0,
+        "explicacao": "Hobbes dizia que os homens são iguais em corpo e mente, e que as diferenças são pequenas."
+      },
+      {
+        "enunciado": "Qual é a relação entre a igualdade natural e o conflito, segundo Hobbes?",
+        "opcoes": [
+          "A igualdade gera cooperação.",
+          "A igualdade gera a busca por poder e, consequentemente, conflitos.",
+          "A igualdade não influencia o conflito.",
+          "A igualdade é impossível."
+        ],
+        "correta": 1,
+        "explicacao": "Como todos são iguais, todos desejam as mesmas coisas, gerando conflito."
+      },
+      {
+        "enunciado": "O que é a 'liberdade' para Hobbes no estado de natureza?",
+        "opcoes": [
+          "A ausência de impedimentos à satisfação dos desejos.",
+          "A obediência às leis.",
+          "A participação política.",
+          "A igualdade econômica."
+        ],
+        "correta": 0,
+        "explicacao": "No estado de natureza, a liberdade é ilimitada, sem regras."
+      },
+      {
+        "enunciado": "O que Hobbes pensa sobre o direito de resistência ao soberano?",
+        "opcoes": [
+          "É um direito fundamental.",
+          "Não é permitido, exceto para preservar a própria vida.",
+          "É incentivado.",
+          "É inútil."
+        ],
+        "correta": 1,
+        "explicacao": "Hobbes defende que o súdito deve obedecer ao soberano para manter a ordem, salvo para autopreservação."
+      },
+      {
+        "enunciado": "Qual é a principal diferença entre Hobbes e os defensores da democracia?",
+        "opcoes": [
+          "Hobbes acredita que o poder deve ser dividido.",
+          "Hobbes defende o poder absoluto e a monarquia.",
+          "Hobbes defende a participação popular.",
+          "Hobbes defende a liberdade total."
+        ],
+        "correta": 1,
+        "explicacao": "Hobbes defendia a monarquia absolutista, ao contrário dos democratas."
+      },
+      {
+        "enunciado": "Hobbes foi influenciado pelo contexto histórico de qual país?",
+        "opcoes": ["França", "Inglaterra", "Alemanha", "Itália"],
+        "correta": 1,
+        "explicacao": "Hobbes viveu na Inglaterra durante a guerra civil."
+      },
+      {
+        "enunciado": "Qual era o contexto histórico em que Hobbes escreveu o Leviatã?",
+        "opcoes": [
+          "A Revolução Industrial.",
+          "A guerra civil inglesa.",
+          "A Revolução Francesa.",
+          "A Primeira Guerra Mundial."
+        ],
+        "correta": 1,
+        "explicacao": "A guerra civil inglesa influenciou Hobbes a pensar sobre a ordem e o poder."
+      },
+      {
+        "enunciado": "A teoria de Hobbes é uma teoria 'contratualista' porque:",
+        "opcoes": [
+          "Baseia-se em um contrato natural.",
+          "Baseia-se na ideia de que a sociedade é criada por um acordo (contrato social).",
+          "Defende a criação divina da sociedade.",
+          "Defende o poder absoluto."
+        ],
+        "correta": 1,
+        "explicacao": "O contratualismo sustenta que a sociedade se origina de um contrato."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_soc_locke_01",
+    "titulo": "Ciências Sociais - John Locke e a Propriedade",
+    "tipo": "conteudo",
+    "icone": "📜",
+    "perguntas": [
+      {
+        "enunciado": "Quem foi John Locke?",
+        "opcoes": [
+          "Um filósofo inglês contratualista.",
+          "Um militar.",
+          "Um imperador.",
+          "Um teólogo alemão."
+        ],
+        "correta": 0,
+        "explicacao": "Locke foi um dos grandes teóricos do contratualismo."
+      },
+      {
+        "enunciado": "Qual é a principal obra de Locke sobre política?",
+        "opcoes": ["O Leviatã", "A República", "Dois tratados sobre o governo", "A Política"],
+        "correta": 2,
+        "explicacao": "Locke escreveu os 'Dois tratados sobre o governo'."
+      },
+      {
+        "enunciado": "Como Locke concebe a natureza humana no estado de natureza?",
+        "opcoes": [
+          "Como naturalmente egoísta e agressiva.",
+          "Como essencialmente livre e igual, capaz de governar a si mesmo.",
+          "Como naturalmente má.",
+          "Como incapaz de viver em sociedade."
+        ],
+        "correta": 1,
+        "explicacao": "Locke via o ser humano como livre e igual, não como egoísta."
+      },
+      {
+        "enunciado": "O que é a 'propriedade de si' para Locke?",
+        "opcoes": [
+          "A posse de riquezas.",
+          "O direito natural que cada um tem sobre seu próprio corpo e suas capacidades.",
+          "A posse de terras.",
+          "Uma invenção do Estado."
+        ],
+        "correta": 1,
+        "explicacao": "Locke dizia que cada pessoa tem a propriedade de seu próprio corpo."
+      },
+      {
+        "enunciado": "Como Locke justifica a propriedade privada?",
+        "opcoes": [
+          "Pela hereditariedade.",
+          "Pela lei divina.",
+          "Pelo trabalho: o ser humano, ao trabalhar a natureza, transforma o que era comum em sua propriedade.",
+          "Pelo poder do Estado."
+        ],
+        "correta": 2,
+        "explicacao": "O trabalho é o que legitima a propriedade privada para Locke."
+      },
+      {
+        "enunciado": "O que é o 'estado de natureza' para Locke?",
+        "opcoes": [
+          "Um estado de guerra.",
+          "Um estado de paz, liberdade e igualdade, mas inseguro por não haver leis claras.",
+          "Um paraíso.",
+          "Um estado de tirania."
+        ],
+        "correta": 1,
+        "explicacao": "O estado de natureza em Locke é relativamente pacífico, mas instável."
+      },
+      {
+        "enunciado": "Para Locke, qual é a principal função do Estado?",
+        "opcoes": [
+          "Garantir a igualdade econômica.",
+          "Proteger a propriedade e a liberdade dos indivíduos.",
+          "Promover a religião.",
+          "Impedir a propriedade privada."
+        ],
+        "correta": 1,
+        "explicacao": "O Estado é criado para proteger a vida, a liberdade e a propriedade."
+      },
+      {
+        "enunciado": "Locke defende o direito de resistência ao governo?",
+        "opcoes": [
+          "Não, nunca.",
+          "Sim, quando o governo não cumpre seu papel ou viola os direitos naturais.",
+          "Sim, sempre que quiser.",
+          "Não, a resistência é impossível."
+        ],
+        "correta": 1,
+        "explicacao": "Locke defendia o direito de rebelião contra governos tiranos."
+      },
+      {
+        "enunciado": "Qual é a relação entre Locke e a democracia moderna?",
+        "opcoes": [
+          "Não há relação.",
+          "Locke é considerado um dos pais do liberalismo e da democracia moderna.",
+          "Locke era monarquista.",
+          "Locke era socialista."
+        ],
+        "correta": 1,
+        "explicacao": "Locke influenciou o liberalismo e a democracia."
+      },
+      {
+        "enunciado": "O que é o direito natural à vida, à liberdade e à propriedade?",
+        "opcoes": [
+          "Direitos concedidos pelo Estado.",
+          "Direitos inalienáveis, que todo ser humano possui ao nascer.",
+          "Direitos apenas para os ricos.",
+          "Direitos que podem ser tirados pelo governo."
+        ],
+        "correta": 1,
+        "explicacao": "São direitos naturais e inalienáveis, que não podem ser tirados."
+      },
+      {
+        "enunciado": "Locke defende que o poder político deve ser absoluto?",
+        "opcoes": [
+          "Sim, como Hobbes.",
+          "Não, o poder deve ser limitado e dividido.",
+          "Sim, mas apenas em tempos de guerra.",
+          "Não, o poder não deve existir."
+        ],
+        "correta": 1,
+        "explicacao": "Locke defendia a limitação e a divisão do poder."
+      },
+      {
+        "enunciado": "Qual é o papel da lei para Locke?",
+        "opcoes": [
+          "Restringir a liberdade.",
+          "Garantir a liberdade e a segurança.",
+          "Impedir a propriedade.",
+          "Limitar o trabalho."
+        ],
+        "correta": 1,
+        "explicacao": "A lei, para Locke, protege a liberdade e os direitos naturais."
+      },
+      {
+        "enunciado": "O que é a 'sociedade civil' para Locke?",
+        "opcoes": [
+          "Um estado de natureza.",
+          "A sociedade política organizada por um contrato.",
+          "Um grupo militar.",
+          "Uma empresa."
+        ],
+        "correta": 1,
+        "explicacao": "A sociedade civil é a sociedade organizada por leis e pelo Estado."
+      },
+      {
+        "enunciado": "Locke acredita que o povo tem poder sobre o governo?",
+        "opcoes": [
+          "Não, o governo tem poder absoluto.",
+          "Sim, o governo existe para servir ao povo e pode ser destituído se falhar.",
+          "Sim, mas o povo não pode votar.",
+          "Não, o povo não tem direitos."
+        ],
+        "correta": 1,
+        "explicacao": "O poder do governo deriva do consentimento do povo."
+      },
+      {
+        "enunciado": "Qual é a influência de Locke na Revolução Americana?",
+        "opcoes": [
+          "Nenhuma.",
+          "Locke influenciou a Declaração de Independência dos EUA com seus ideais de liberdade e propriedade.",
+          "Locke era contra a independência.",
+          "Locke era americano."
+        ],
+        "correta": 1,
+        "explicacao": "Os ideais de Locke foram fundamentais para a Revolução Americana."
+      },
+      {
+        "enunciado": "Locke e Hobbes têm a mesma visão sobre a natureza humana?",
+        "opcoes": [
+          "Sim, ambos acham o homem mau.",
+          "Não, Locke tem uma visão mais otimista e Hobbes mais pessimista.",
+          "Sim, ambos acham o homem bom.",
+          "Não, Locke acha o homem mau e Hobbes bom."
+        ],
+        "correta": 1,
+        "explicacao": "Locke via o homem como naturalmente bom; Hobbes como egoísta."
+      },
+      {
+        "enunciado": "Para Locke, a propriedade privada é um direito natural?",
+        "opcoes": [
+          "Não, é uma invenção do Estado.",
+          "Sim, é um direito natural que surge do trabalho.",
+          "Sim, mas só para os nobres.",
+          "Não, a propriedade deve ser coletiva."
+        ],
+        "correta": 1,
+        "explicacao": "Locke defendia a propriedade como um direito natural."
+      },
+      {
+        "enunciado": "Locke defende a separação entre Igreja e Estado?",
+        "opcoes": [
+          "Não, ele defendia a união.",
+          "Sim, ele defendia a tolerância religiosa e a separação.",
+          "Não, ele era um teólogo.",
+          "Sim, mas apenas para os cristãos."
+        ],
+        "correta": 1,
+        "explicacao": "Locke foi um dos primeiros a defender a tolerância e a separação."
+      },
+      {
+        "enunciado": "A teoria de Locke é chamada de 'liberalismo' porque:",
+        "opcoes": [
+          "Defende o poder absoluto.",
+          "Defende a liberdade individual, a propriedade e a limitação do poder do Estado.",
+          "Defende a igualdade econômica.",
+          "Defende o Estado forte."
+        ],
+        "correta": 1,
+        "explicacao": "O liberalismo de Locke valoriza a liberdade e a propriedade."
+      },
+      {
+        "enunciado": "Locke acreditava que o conhecimento vem da experiência?",
+        "opcoes": [
+          "Sim, ele era um empirista.",
+          "Não, ele era racionalista.",
+          "Não, ele não estudou o conhecimento.",
+          "Sim, mas ele era também idealista."
+        ],
+        "correta": 0,
+        "explicacao": "Locke foi um dos fundadores do empirismo."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_soc_rousseau_01",
+    "titulo": "Ciências Sociais - Jean-Jacques Rousseau",
+    "tipo": "conteudo",
+    "icone": "🌿",
+    "perguntas": [
+      {
+        "enunciado": "Quem foi Jean-Jacques Rousseau?",
+        "opcoes": [
+          "Um filósofo suíço-francês contratualista.",
+          "Um rei francês.",
+          "Um militar.",
+          "Um cientista."
+        ],
+        "correta": 0,
+        "explicacao": "Rousseau foi um importante filósofo do Iluminismo."
+      },
+      {
+        "enunciado": "Qual é a principal obra política de Rousseau?",
+        "opcoes": ["O Leviatã", "A República", "O Contrato Social", "A Política"],
+        "correta": 2,
+        "explicacao": "O Contrato Social é sua obra mais famosa sobre política."
+      },
+      {
+        "enunciado": "Como Rousseau descreve o ser humano no estado de natureza?",
+        "opcoes": [
+          "Como naturalmente mau.",
+          "Como naturalmente bom e livre.",
+          "Como egoísta.",
+          "Como violento."
+        ],
+        "correta": 1,
+        "explicacao": "Rousseau acreditava que o ser humano nasce bom, mas a sociedade o corrompe."
+      },
+      {
+        "enunciado": "Para Rousseau, o que corrompe o ser humano?",
+        "opcoes": [
+          "A natureza.",
+          "A sociedade (a propriedade privada, o egoísmo).",
+          "O Estado.",
+          "A educação."
+        ],
+        "correta": 1,
+        "explicacao": "Rousseau via a sociedade e a propriedade privada como fontes de corrupção."
+      },
+      {
+        "enunciado": "O que é o 'bom selvagem' na filosofia de Rousseau?",
+        "opcoes": [
+          "Um indígena violento.",
+          "A ideia de que o ser humano em seu estado natural é bom e livre.",
+          "Um selvagem que vive isolado.",
+          "Um animal."
+        ],
+        "correta": 1,
+        "explicacao": "O 'bom selvagem' é a metáfora do ser humano naturalmente bom."
+      },
+      {
+        "enunciado": "O que é o 'estado de natureza' para Rousseau?",
+        "opcoes": [
+          "Um estado de guerra.",
+          "Um estado de liberdade e igualdade, onde o homem vivia isolado e feliz.",
+          "Um paraíso urbano.",
+          "Um estado de tirania."
+        ],
+        "correta": 1,
+        "explicacao": "O estado de natureza em Rousseau é um estado de liberdade e bondade natural."
+      },
+      {
+        "enunciado": "Por que, para Rousseau, o ser humano deixou o estado de natureza?",
+        "opcoes": [
+          "Porque queria poder.",
+          "Porque os obstáculos naturais se tornaram maiores que as forças individuais.",
+          "Porque foi expulso.",
+          "Porque queria riqueza."
+        ],
+        "correta": 1,
+        "explicacao": "A necessidade de sobrevivência levou os homens a se associarem."
+      },
+      {
+        "enunciado": "O que é o 'contrato social' para Rousseau?",
+        "opcoes": [
+          "Um acordo em que os homens se submetem a um soberano absoluto.",
+          "Um acordo em que os homens se unem para formar uma vontade geral e o bem comum.",
+          "Uma imposição da natureza.",
+          "Uma lei divina."
+        ],
+        "correta": 1,
+        "explicacao": "O contrato social busca a vontade geral e o bem comum."
+      },
+      {
+        "enunciado": "O que é a 'vontade geral' para Rousseau?",
+        "opcoes": [
+          "A soma dos interesses particulares.",
+          "A vontade do povo como um todo, visando o bem comum.",
+          "A vontade do rei.",
+          "A vontade de uma minoria."
+        ],
+        "correta": 1,
+        "explicacao": "A vontade geral é a vontade do povo soberano, voltada ao bem comum."
+      },
+      {
+        "enunciado": "Rousseau defendia a soberania popular. O que isso significa?",
+        "opcoes": [
+          "O poder pertence ao povo.",
+          "O poder pertence ao rei.",
+          "O poder pertence ao parlamento.",
+          "O poder pertence aos ricos."
+        ],
+        "correta": 0,
+        "explicacao": "A soberania popular é o poder do povo."
+      },
+      {
+        "enunciado": "Rousseau defendia a democracia direta?",
+        "opcoes": [
+          "Sim, o povo deve participar diretamente das decisões.",
+          "Não, defendia a monarquia.",
+          "Sim, mas apenas para os ricos.",
+          "Não, defendia a aristocracia."
+        ],
+        "correta": 0,
+        "explicacao": "Rousseau foi um defensor da democracia direta."
+      },
+      {
+        "enunciado": "Qual é a principal diferença entre Rousseau e Hobbes?",
+        "opcoes": [
+          "Rousseau acha o homem bom; Hobbes acha o homem mau.",
+          "Rousseau acha o homem mau; Hobbes acha o homem bom.",
+          "Ambos acham o homem bom.",
+          "Ambos acham o homem mau."
+        ],
+        "correta": 0,
+        "explicacao": "Rousseau tem uma visão otimista; Hobbes uma visão pessimista."
+      },
+      {
+        "enunciado": "Qual é a diferença entre Rousseau e Locke em relação à propriedade?",
+        "opcoes": [
+          "Rousseau defende a propriedade privada como natural; Locke critica.",
+          "Locke defende a propriedade privada como natural; Rousseau a vê como fonte de desigualdade.",
+          "Ambos defendem a propriedade privada.",
+          "Ambos criticam a propriedade privada."
+        ],
+        "correta": 1,
+        "explicacao": "Locke legitimava a propriedade; Rousseau a criticava."
+      },
+      {
+        "enunciado": "Para Rousseau, a educação deve:",
+        "opcoes": [
+          "Moldar o indivíduo para a sociedade.",
+          "Desenvolver a bondade natural do indivíduo.",
+          "Ensinar apenas habilidades técnicas.",
+          "Preparar para a guerra."
+        ],
+        "correta": 1,
+        "explicacao": "Rousseau defendia uma educação que preserve a bondade natural."
+      },
+      {
+        "enunciado": "Rousseau influenciou qual movimento histórico?",
+        "opcoes": [
+          "A Revolução Industrial.",
+          "A Revolução Francesa.",
+          "A Revolução Russa.",
+          "A Revolução Americana."
+        ],
+        "correta": 1,
+        "explicacao": "Os ideais de Rousseau influenciaram a Revolução Francesa."
+      },
+      {
+        "enunciado": "O que é a 'liberdade' para Rousseau?",
+        "opcoes": [
+          "Fazer o que quiser.",
+          "Obedecer à lei que o próprio povo criou (autonomia).",
+          "Não ter leis.",
+          "Ser rico."
+        ],
+        "correta": 1,
+        "explicacao": "A liberdade é a obediência à vontade geral."
+      },
+      {
+        "enunciado": "Segundo Rousseau, o homem nasce livre, mas:",
+        "opcoes": [
+          "Morre livre.",
+          "Vive em sociedade e perde a liberdade natural.",
+          "Nunca é livre.",
+          "É sempre livre."
+        ],
+        "correta": 1,
+        "explicacao": "A sociedade corrompe a liberdade natural."
+      },
+      {
+        "enunciado": "Rousseau critica a sociedade de seu tempo porque:",
+        "opcoes": [
+          "Era muito igualitária.",
+          "Era marcada pela desigualdade e pela hipocrisia.",
+          "Era muito simples.",
+          "Não tinha propriedade privada."
+        ],
+        "correta": 1,
+        "explicacao": "Rousseau criticava a desigualdade e a falsidade da sociedade."
+      },
+      {
+        "enunciado": "O que é a 'perfectibilidade' para Rousseau?",
+        "opcoes": [
+          "A capacidade humana de se aperfeiçoar.",
+          "A perfeição divina.",
+          "A capacidade de ser mau.",
+          "A imutabilidade humana."
+        ],
+        "correta": 0,
+        "explicacao": "A perfectibilidade é a capacidade de se desenvolver e mudar."
+      },
+      {
+        "enunciado": "Rousseau defende que a sociedade ideal deve ser baseada:",
+        "opcoes": [
+          "Na riqueza.",
+          "Na igualdade e na liberdade.",
+          "Na força.",
+          "Na tradição."
+        ],
+        "correta": 1,
+        "explicacao": "A sociedade ideal busca a igualdade e a liberdade."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_soc_contratualismo_01",
+    "titulo": "Ciências Sociais - Teorias Contratualistas",
+    "tipo": "conteudo",
+    "icone": "🤝",
+    "perguntas": [
+      {
+        "enunciado": "O que é o contratualismo?",
+        "opcoes": [
+          "Uma teoria que defende a origem divina do poder.",
+          "Uma teoria que defende que a sociedade e o Estado surgem de um contrato (acordo) entre os homens.",
+          "Uma teoria que nega a existência da sociedade.",
+          "Uma teoria militar."
+        ],
+        "correta": 1,
+        "explicacao": "O contratualismo explica a origem da sociedade pelo pacto social."
+      },
+      {
+        "enunciado": "Quais são os três principais filósofos contratualistas?",
+        "opcoes": ["Aristóteles, Platão e Sócrates", "Hobbes, Locke e Rousseau", "Descartes, Kant e Hegel", "Marx, Weber e Durkheim"],
+        "correta": 1,
+        "explicacao": "Hobbes, Locke e Rousseau são os grandes nomes do contratualismo."
+      },
+      {
+        "enunciado": "O que é o 'estado de natureza' na teoria contratualista?",
+        "opcoes": [
+          "Uma condição hipotética anterior à sociedade política.",
+          "Uma floresta.",
+          "Uma utopia.",
+          "Um governo.",
+          "Um país."
+        ],
+        "correta": 0,
+        "explicacao": "O estado de natureza é uma condição hipotética, anterior à sociedade organizada."
+      },
+      {
+        "enunciado": "Por que os contratualistas usam a ideia de 'estado de natureza'?",
+        "opcoes": [
+          "Para explicar como a sociedade se formou.",
+          "Para defender a monarquia.",
+          "Para negar a política.",
+          "Para justificar a guerra."
+        ],
+        "correta": 0,
+        "explicacao": "É uma ferramenta teórica para explicar a origem da sociedade."
+      },
+      {
+        "enunciado": "O que é o 'contrato social'?",
+        "opcoes": [
+          "Um acordo entre os indivíduos para criar a sociedade e o poder político.",
+          "Um documento jurídico.",
+          "Uma lei natural.",
+          "Um acordo comercial."
+        ],
+        "correta": 0,
+        "explicacao": "O contrato social é o pacto que cria a sociedade política."
+      },
+      {
+        "enunciado": "Para Hobbes, qual é o objetivo do contrato social?",
+        "opcoes": [
+          "Garantir a liberdade.",
+          "Garantir a segurança e evitar a guerra de todos contra todos.",
+          "Promover a igualdade.",
+          "Aumentar a riqueza."
+        ],
+        "correta": 1,
+        "explicacao": "Hobbes busca a segurança e a ordem."
+      },
+      {
+        "enunciado": "Para Locke, qual é o objetivo do contrato social?",
+        "opcoes": [
+          "Garantir a segurança apenas.",
+          "Proteger a propriedade e os direitos naturais.",
+          "Promover a igualdade econômica.",
+          "Instaurar a monarquia."
+        ],
+        "correta": 1,
+        "explicacao": "Locke busca proteger a vida, a liberdade e a propriedade."
+      },
+      {
+        "enunciado": "Para Rousseau, qual é o objetivo do contrato social?",
+        "opcoes": [
+          "Garantir a segurança.",
+          "Proteger a propriedade.",
+          "Criar uma sociedade baseada na vontade geral e no bem comum.",
+          "Instaurar a monarquia."
+        ],
+        "correta": 2,
+        "explicacao": "Rousseau busca a vontade geral e o bem comum."
+      },
+      {
+        "enunciado": "Qual é a visão de Hobbes sobre o poder do Estado?",
+        "opcoes": [
+          "Limitado.",
+          "Absoluto e incontestável.",
+          "Dividido.",
+          "Inexistente."
+        ],
+        "correta": 1,
+        "explicacao": "Hobbes defende o poder absoluto do Estado."
+      },
+      {
+        "enunciado": "Qual é a visão de Locke sobre o poder do Estado?",
+        "opcoes": [
+          "Absoluto.",
+          "Limitado e dividido.",
+          "Inexistente.",
+          "Desnecessário."
+        ],
+        "correta": 1,
+        "explicacao": "Locke defende a limitação do poder."
+      },
+      {
+        "enunciado": "Qual é a visão de Rousseau sobre o poder do Estado?",
+        "opcoes": [
+          "Absoluto.",
+          "O poder pertence ao povo (soberania popular).",
+          "Limitado apenas pela lei.",
+          "Poder do rei."
+        ],
+        "correta": 1,
+        "explicacao": "Rousseau defende a soberania popular."
+      },
+      {
+        "enunciado": "O que é a 'vontade geral' para Rousseau?",
+        "opcoes": [
+          "A soma das vontades individuais.",
+          "A vontade do povo como um todo, voltada para o bem comum.",
+          "A vontade do rei.",
+          "A vontade da maioria."
+        ],
+        "correta": 1,
+        "explicacao": "A vontade geral é a vontade coletiva voltada ao bem comum."
+      },
+      {
+        "enunciado": "O que é a 'propriedade privada' para Locke?",
+        "opcoes": [
+          "Um direito natural que surge do trabalho.",
+          "Uma invenção do Estado.",
+          "Uma fonte de desigualdade.",
+          "Um mal necessário."
+        ],
+        "correta": 0,
+        "explicacao": "Locke via a propriedade como um direito natural."
+      },
+      {
+        "enunciado": "O que é a 'propriedade privada' para Rousseau?",
+        "opcoes": [
+          "Um direito natural.",
+          "A fonte da desigualdade e da corrupção.",
+          "Uma invenção do Estado.",
+          "Um bem comum."
+        ],
+        "correta": 1,
+        "explicacao": "Rousseau criticava a propriedade privada como fonte de desigualdade."
+      },
+      {
+        "enunciado": "O que é a 'liberdade' para Hobbes no estado de natureza?",
+        "opcoes": [
+          "A ausência de impedimentos.",
+          "A obediência às leis.",
+          "A participação política.",
+          "A igualdade econômica."
+        ],
+        "correta": 0,
+        "explicacao": "No estado de natureza, a liberdade é ilimitada."
+      },
+      {
+        "enunciado": "O que é a 'liberdade' para Rousseau?",
+        "opcoes": [
+          "Fazer o que quiser.",
+          "Obedecer à lei que o próprio povo criou (autonomia).",
+          "Não ter leis.",
+          "Ser rico."
+        ],
+        "correta": 1,
+        "explicacao": "A liberdade é a obediência à vontade geral."
+      },
+      {
+        "enunciado": "O contratualismo influenciou qual documento histórico?",
+        "opcoes": [
+          "A Declaração de Independência dos EUA.",
+          "A Carta Magna.",
+          "O Código de Hamurabi.",
+          "A Constituição brasileira de 1988."
+        ],
+        "correta": 0,
+        "explicacao": "Os ideais contratualistas influenciaram a Declaração de Independência dos EUA."
+      },
+      {
+        "enunciado": "Qual é a principal crítica ao contratualismo?",
+        "opcoes": [
+          "A falta de lógica.",
+          "A ideia de um estado de natureza hipotético.",
+          "A defesa da monarquia.",
+          "A defesa da igualdade."
+        ],
+        "correta": 1,
+        "explicacao": "Críticos argumentam que o estado de natureza é uma ficção teórica."
+      },
+      {
+        "enunciado": "Qual é a diferença entre Hobbes e Rousseau em relação à natureza humana?",
+        "opcoes": [
+          "Hobbes acha o homem bom; Rousseau acha mau.",
+          "Hobbes acha o homem mau; Rousseau acha bom.",
+          "Ambos acham o homem bom.",
+          "Ambos acham o homem mau."
+        ],
+        "correta": 1,
+        "explicacao": "Hobbes tem uma visão pessimista; Rousseau uma visão otimista."
+      },
+      {
+        "enunciado": "O contratualismo é uma teoria que valoriza:",
+        "opcoes": [
+          "A tradição.",
+          "A razão e o acordo entre os indivíduos.",
+          "A força.",
+          "A religião."
+        ],
+        "correta": 1,
+        "explicacao": "O contratualismo baseia-se na razão e no pacto social."
+      }
+    ]
+  }
+]
