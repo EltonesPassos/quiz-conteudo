@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "9ano_v6_art_contemporanea_01",
+    "titulo": "Arte - Introdução à Arte Contemporânea",
+    "tipo": "conteudo",
+    "icone": "🎨",
+    "perguntas": [
+      {
+        "enunciado": "O que caracteriza a Arte Contemporânea?",
+        "opcoes": [
+          "A busca pela perfeição técnica na representação da realidade.",
+          "A valorização das ideias, do conceito e da experimentação, rompendo com padrões tradicionais.",
+          "O uso exclusivo de tintas a óleo sobre tela.",
+          "A produção de obras apenas com temas religiosos."
+        ],
+        "correta": 1,
+        "explicacao": "A arte contemporânea prioriza o conceito e a inovação, muitas vezes questionando o que é arte."
+      },
+      {
+        "enunciado": "A partir de qual década a Arte Contemporânea começou a se destacar?",
+        "opcoes": ["Anos 1920", "Anos 1950", "Anos 1980", "Anos 2000"],
+        "correta": 1,
+        "explicacao": "A partir dos anos 1950, a arte passou por transformações significativas."
+      },
+      {
+        "enunciado": "Qual é a principal diferença entre Arte Moderna e Arte Contemporânea?",
+        "opcoes": [
+          "A Arte Moderna foca na técnica; a Contemporânea foca no conceito.",
+          "A Arte Moderna é mais recente que a Contemporânea.",
+          "A Arte Contemporânea só usa materiais tradicionais.",
+          "Não há diferença."
+        ],
+        "correta": 0,
+        "explicacao": "A arte contemporânea valoriza mais o conceito do que a técnica (habilidade manual)."
+      },
+      {
+        "enunciado": "O que a pergunta 'Isso é arte?' representa no contexto da Arte Contemporânea?",
+        "opcoes": [
+          "Uma dúvida dos artistas iniciantes.",
+          "Um questionamento sobre os limites e as definições do que pode ser considerado arte.",
+          "Uma crítica à Arte Moderna.",
+          "Uma regra imposta pelos museus."
+        ],
+        "correta": 1,
+        "explicacao": "A arte contemporânea expande os limites do que é arte."
+      },
+      {
+        "enunciado": "Quem foi Marcel Duchamp e qual sua importância?",
+        "opcoes": [
+          "Um pintor renascentista.",
+          "Um artista que revolucionou a arte ao propor que a ideia do artista define o que é arte.",
+          "Um escultor grego.",
+          "Um crítico de arte americano."
+        ],
+        "correta": 1,
+        "explicacao": "Duchamp é um dos precursores da arte conceitual."
+      },
+      {
+        "enunciado": "O que é a Arte Conceitual?",
+        "opcoes": [
+          "Arte que valoriza a habilidade manual.",
+          "Arte em que a ideia (conceito) é mais importante do que a técnica ou o objeto final.",
+          "Arte feita apenas com tinta.",
+          "Arte tradicional."
+        ],
+        "correta": 1,
+        "explicacao": "Na arte conceitual, o conceito é a parte principal da obra."
+      },
+      {
+        "enunciado": "Qual artista italiano é famoso por criar a obra 'Merda d'artista' (1961), composta por latas com fezes?",
+        "opcoes": ["Piero Manzoni", "Yoko Ono", "Marina Abramovic", "Arman"],
+        "correta": 0,
+        "explicacao": "Manzoni criou essa obra para questionar o mercado de arte e o valor da obra."
+      },
+      {
+        "enunciado": "O que a obra 'Merda d'artista' de Piero Manzoni buscava questionar?",
+        "opcoes": [
+          "A fome no mundo.",
+          "A comercialização e a idolatria criadas sobre a arte e o artista.",
+          "A beleza da arte.",
+          "A política italiana."
+        ],
+        "correta": 1,
+        "explicacao": "A obra critica a transformação da arte em mercadoria."
+      },
+      {
+        "enunciado": "O que é um 'happening'?",
+        "opcoes": [
+          "Um tipo de pintura.",
+          "Uma forma de arte que envolve a participação do público e a improvisação.",
+          "Uma escultura tradicional.",
+          "Um festival de música."
+        ],
+        "correta": 1,
+        "explicacao": "O happening é um evento artístico que envolve ação e participação."
+      },
+      {
+        "enunciado": "Quem foi Yoko Ono?",
+        "opcoes": [
+          "Uma cantora de ópera.",
+          "Uma artista contemporânea conhecida por suas obras interativas e por seu ativismo pela paz.",
+          "Uma pintora renascentista.",
+          "Uma dançarina."
+        ],
+        "correta": 1,
+        "explicacao": "Yoko Ono é uma artista multimídia e ativista."
+      },
+      {
+        "enunciado": "Qual é a obra mais famosa de Yoko Ono que convida o público a escrever desejos em papeizinhos?",
+        "opcoes": ["Merda d'artista", "Árvore dos Desejos", "O Vazio", "A Fonte"],
+        "correta": 1,
+        "explicacao": "A 'Árvore dos Desejos' é uma obra interativa da artista."
+      },
+      {
+        "enunciado": "O que a obra 'Árvore dos Desejos' de Yoko Ono propõe?",
+        "opcoes": [
+          "Uma reflexão sobre o consumismo.",
+          "Uma reflexão sobre a paz e os desejos individuais e coletivos.",
+          "Uma crítica à natureza.",
+          "Uma celebração da tecnologia."
+        ],
+        "correta": 1,
+        "explicacao": "A obra busca refletir sobre a paz e os desejos das pessoas."
+      },
+      {
+        "enunciado": "O que é a 'performance' na arte?",
+        "opcoes": [
+          "Uma apresentação teatral tradicional.",
+          "Uma forma de arte em que o artista usa o próprio corpo e ações ao vivo como suporte.",
+          "Um tipo de escultura.",
+          "Uma técnica de pintura."
+        ],
+        "correta": 1,
+        "explicacao": "A performance é uma arte ao vivo, centrada na ação do artista."
+      },
+      {
+        "enunciado": "Quem é considerada a 'madrinha da performance'?",
+        "opcoes": ["Yoko Ono", "Marina Abramovic", "Niki de Saint Phalle", "Tarsila do Amaral"],
+        "correta": 1,
+        "explicacao": "Marina Abramovic é uma das principais artistas de performance."
+      },
+      {
+        "enunciado": "Qual é o nome da famosa performance de Marina Abramovic em que ela ficou sentada em silêncio por três meses?",
+        "opcoes": ["The Artist is Present", "Merda d'artista", "A Fonte", "O Vazio"],
+        "correta": 0,
+        "explicacao": "Na performance 'The Artist is Present', ela ficou sentada em uma cadeira em silêncio."
+      },
+      {
+        "enunciado": "Qual foi a grande surpresa na performance 'The Artist is Present' de Marina Abramovic?",
+        "opcoes": [
+          "A presença de seu ex-marido Ulay, que se sentou à sua frente.",
+          "A presença de Yoko Ono.",
+          "A presença do presidente dos EUA.",
+          "A presença de muitos turistas."
+        ],
+        "correta": 0,
+        "explicacao": "O reencontro com Ulay emocionou a artista e o público."
+      },
+      {
+        "enunciado": "O que é o 'Novo Realismo'?",
+        "opcoes": [
+          "Um movimento artístico que buscava retratar a realidade de forma idealizada.",
+          "Um movimento artístico francês que criticava a cultura do consumismo e do sonho americano.",
+          "Um movimento da arte renascentista.",
+          "Um movimento musical."
+        ],
+        "correta": 1,
+        "explicacao": "O Novo Realismo surgiu como reação à cultura consumista."
+      },
+      {
+        "enunciado": "Qual artista do Novo Realismo é conhecido por criar esculturas com acúmulo de objetos (como a 'Long term parking')?",
+        "opcoes": ["Piero Manzoni", "Yoko Ono", "Arman", "Niki de Saint Phalle"],
+        "correta": 2,
+        "explicacao": "Arman criou obras acumulando objetos."
+      },
+      {
+        "enunciado": "Quem foi Niki de Saint Phalle?",
+        "opcoes": [
+          "Uma artista francesa que criticava o consumismo e a objetificação da mulher.",
+          "Uma pintora renascentista.",
+          "Uma escultora grega.",
+          "Uma cantora pop."
+        ],
+        "correta": 0,
+        "explicacao": "Niki criticava os padrões de beleza e a sociedade de consumo."
+      },
+      {
+        "enunciado": "O que caracteriza as obras de Niki de Saint Phalle?",
+        "opcoes": [
+          "Pinturas suaves e delicadas.",
+          "O uso de tinta spray e tiros de espingarda sobre a tela, criando cores vibrantes.",
+          "Esculturas de mármore.",
+          "Desenhos a lápis."
+        ],
+        "correta": 1,
+        "explicacao": "Suas obras eram feitas com tiros de espingarda e tintas."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_art_artistas_01",
+    "titulo": "Arte - Artistas e Obras Contemporâneas",
+    "tipo": "conteudo",
+    "icone": "🖼️",
+    "perguntas": [
+      {
+        "enunciado": "Qual artista criou a obra 'Merda d'artista'?",
+        "opcoes": ["Piero Manzoni", "Yoko Ono", "Marina Abramovic", "Arman"],
+        "correta": 0,
+        "explicacao": "Piero Manzoni criou a obra em 1961."
+      },
+      {
+        "enunciado": "Qual é o nome da artista que criou a 'Árvore dos Desejos'?",
+        "opcoes": ["Marina Abramovic", "Yoko Ono", "Niki de Saint Phalle", "Tarsila do Amaral"],
+        "correta": 1,
+        "explicacao": "Yoko Ono criou a 'Árvore dos Desejos'."
+      },
+      {
+        "enunciado": "Quem é a artista que fez a performance 'The Artist is Present'?",
+        "opcoes": ["Marina Abramovic", "Yoko Ono", "Niki de Saint Phalle", "Frida Kahlo"],
+        "correta": 0,
+        "explicacao": "Marina Abramovic realizou essa performance em 2010."
+      },
+      {
+        "enunciado": "Qual artista é conhecido por acumular objetos em suas obras (como carros empilhados)?",
+        "opcoes": ["Arman", "Piero Manzoni", "Yoko Ono", "Marina Abramovic"],
+        "correta": 0,
+        "explicacao": "Arman criou obras com acúmulo de objetos."
+      },
+      {
+        "enunciado": "Quem foi Niki de Saint Phalle e qual sua principal característica artística?",
+        "opcoes": [
+          "Uma pintora tradicional.",
+          "Uma artista que usava tiros de espingarda e tintas para criar obras.",
+          "Uma escultora de mármore.",
+          "Uma artista de rua."
+        ],
+        "correta": 1,
+        "explicacao": "Niki usava tiros para criar suas obras."
+      },
+      {
+        "enunciado": "O que a obra 'Long term parking' de Arman representa?",
+        "opcoes": [
+          "Uma crítica ao consumismo e ao acúmulo de bens.",
+          "Uma celebração da natureza.",
+          "Uma pintura abstrata.",
+          "Uma escultura de mármore."
+        ],
+        "correta": 0,
+        "explicacao": "A obra mostra o acúmulo de carros, criticando o consumismo."
+      },
+      {
+        "enunciado": "Qual artista fez uma exposição enchendo uma galeria de objetos até o teto, chamada 'Le Plein' (O Cheio)?",
+        "opcoes": ["Piero Manzoni", "Arman", "Yves Klein", "Niki de Saint Phalle"],
+        "correta": 1,
+        "explicacao": "Arman criou a obra 'Le Plein'."
+      },
+      {
+        "enunciado": "Qual artista fez uma exposição com uma galeria vazia chamada 'Le Vide' (O Vazio)?",
+        "opcoes": ["Yves Klein", "Arman", "Piero Manzoni", "Yoko Ono"],
+        "correta": 0,
+        "explicacao": "Yves Klein criou a obra 'Le Vide'."
+      },
+      {
+        "enunciado": "Qual é a principal característica das obras de Yoko Ono?",
+        "opcoes": [
+          "A interatividade e o convite ao público para refletir sobre a paz e as relações.",
+          "O uso exclusivo de tintas a óleo.",
+          "A produção de esculturas de mármore.",
+          "A representação de paisagens realistas."
+        ],
+        "correta": 0,
+        "explicacao": "As obras de Yoko Ono são interativas e focadas na paz."
+      },
+      {
+        "enunciado": "Qual artista fez uma exposição na qual o público podia atirar em sacos de tinta?",
+        "opcoes": ["Niki de Saint Phalle", "Yoko Ono", "Marina Abramovic", "Piero Manzoni"],
+        "correta": 0,
+        "explicacao": "Niki criava obras com tiros de espingarda em sacos de tinta."
+      },
+      {
+        "enunciado": "Qual artista se sentou em silêncio por três meses no MoMA (Nova York) em 2010?",
+        "opcoes": ["Yoko Ono", "Marina Abramovic", "Niki de Saint Phalle", "Tarsila do Amaral"],
+        "correta": 1,
+        "explicacao": "Marina Abramovic realizou essa performance."
+      },
+      {
+        "enunciado": "O que a obra 'Árvore dos Desejos' de Yoko Ono pede ao público?",
+        "opcoes": [
+          "Que escrevam seus desejos em papeizinhos e os pendurem na árvore.",
+          "Que pintem a árvore.",
+          "Que cortem a árvore.",
+          "Que cantem para a árvore."
+        ],
+        "correta": 0,
+        "explicacao": "O público escreve desejos em papeizinhos e os pendura."
+      },
+      {
+        "enunciado": "Qual artista criou a obra 'Fonte', que era um urinol assinado?",
+        "opcoes": ["Marcel Duchamp", "Piero Manzoni", "Arman", "Yoko Ono"],
+        "correta": 0,
+        "explicacao": "Duchamp criou a obra 'Fonte', um dos marcos da arte conceitual."
+      },
+      {
+        "enunciado": "Qual é a diferença entre a arte tradicional e a arte contemporânea em relação ao objeto final?",
+        "opcoes": [
+          "A arte tradicional valoriza a habilidade manual; a contemporânea pode ser apenas uma ideia.",
+          "A arte tradicional não tem objeto; a contemporânea só tem objeto.",
+          "Não há diferença.",
+          "A arte contemporânea não tem arte."
+        ],
+        "correta": 0,
+        "explicacao": "A arte contemporânea pode ser apenas uma ideia (conceito)."
+      },
+      {
+        "enunciado": "O que a obra 'Merda d'artista' de Manzoni questiona?",
+        "opcoes": [
+          "A política.",
+          "O valor da arte e o mercado de arte.",
+          "A religião.",
+          "A ciência."
+        ],
+        "correta": 1,
+        "explicacao": "A obra critica o mercado e a comercialização da arte."
+      },
+      {
+        "enunciado": "Qual artista fez uma exposição na qual o público podia participar ativamente (happening)?",
+        "opcoes": ["Niki de Saint Phalle", "Yoko Ono", "Marina Abramovic", "Todas as anteriores"],
+        "correta": 3,
+        "explicacao": "Todas essas artistas trabalharam com a participação do público."
+      },
+      {
+        "enunciado": "O que é um 'happening'?",
+        "opcoes": [
+          "Uma exposição de pinturas.",
+          "Um evento artístico com participação do público e improvisação.",
+          "Uma escultura tradicional.",
+          "Um festival de música."
+        ],
+        "correta": 1,
+        "explicacao": "O happening é uma forma de arte interativa e improvisada."
+      },
+      {
+        "enunciado": "Qual artista fez uma exposição com o tema 'Em vivo contato' em 2008, na Bienal de São Paulo?",
+        "opcoes": ["Yoko Ono", "Marina Abramovic", "Niki de Saint Phalle", "Piero Manzoni"],
+        "correta": 0,
+        "explicacao": "Yoko Ono participou da Bienal de São Paulo em 2008."
+      },
+      {
+        "enunciado": "Qual é o nome da obra de Yoko Ono que homenageia John Lennon e a música 'Imagine'?",
+        "opcoes": ["Imagine Peace Tower", "Árvore dos Desejos", "A Fonte", "Merda d'artista"],
+        "correta": 0,
+        "explicacao": "A 'Imagine Peace Tower' é uma homenagem a John Lennon."
+      },
+      {
+        "enunciado": "Qual é a principal crítica feita pela arte contemporânea?",
+        "opcoes": [
+          "A beleza da arte.",
+          "O consumismo, a desigualdade e os padrões impostos pela sociedade.",
+          "A política.",
+          "A religião."
+        ],
+        "correta": 1,
+        "explicacao": "A arte contemporânea frequentemente critica a sociedade de consumo."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_art_conceitual_01",
+    "titulo": "Arte - Arte Conceitual e Performática",
+    "tipo": "conteudo",
+    "icone": "💡",
+    "perguntas": [
+      {
+        "enunciado": "O que é a Arte Conceitual?",
+        "opcoes": [
+          "Arte que valoriza apenas a beleza estética.",
+          "Arte em que a ideia (conceito) é mais importante do que a técnica ou a obra final.",
+          "Arte com técnicas tradicionais.",
+          "Arte feita apenas com tintas."
+        ],
+        "correta": 1,
+        "explicacao": "A arte conceitual prioriza a ideia sobre a técnica."
+      },
+      {
+        "enunciado": "Qual é a principal característica da Arte Conceitual?",
+        "opcoes": [
+          "A beleza visual.",
+          "O questionamento sobre o que é arte e o valor da obra.",
+          "A habilidade manual do artista.",
+          "O uso de tintas a óleo."
+        ],
+        "correta": 1,
+        "explicacao": "A arte conceitual questiona a própria definição de arte."
+      },
+      {
+        "enunciado": "Quem foi um dos precursores da Arte Conceitual?",
+        "opcoes": ["Marcel Duchamp", "Piero Manzoni", "Yoko Ono", "Arman"],
+        "correta": 0,
+        "explicacao": "Duchamp é um dos precursores da arte conceitual."
+      },
+      {
+        "enunciado": "O que a obra 'Fonte' de Duchamp representou para a arte?",
+        "opcoes": [
+          "Uma nova técnica de pintura.",
+          "Um marco na arte conceitual, mostrando que qualquer objeto pode ser arte se o artista assim o definir.",
+          "Uma escultura de mármore.",
+          "Uma crítica à política."
+        ],
+        "correta": 1,
+        "explicacao": "A 'Fonte' mostrou que o conceito do artista é o que define a arte."
+      },
+      {
+        "enunciado": "O que é uma 'performance' na arte?",
+        "opcoes": [
+          "Uma peça de teatro.",
+          "Uma manifestação artística em que o artista usa o próprio corpo e ações ao vivo.",
+          "Uma escultura.",
+          "Uma pintura."
+        ],
+        "correta": 1,
+        "explicacao": "A performance é uma arte ao vivo, centrada na ação do artista."
+      },
+      {
+        "enunciado": "Quem é considerada a 'madrinha da performance'?",
+        "opcoes": ["Yoko Ono", "Marina Abramovic", "Niki de Saint Phalle", "Frida Kahlo"],
+        "correta": 1,
+        "explicacao": "Marina Abramovic é uma das principais artistas de performance."
+      },
+      {
+        "enunciado": "Qual é a principal característica das performances de Marina Abramovic?",
+        "opcoes": [
+          "O uso de tintas.",
+          "O silêncio, a resistência física e a interação com o público.",
+          "A dança.",
+          "A música."
+        ],
+        "correta": 1,
+        "explicacao": "Abramovic explora os limites do corpo e da mente."
+      },
+      {
+        "enunciado": "O que a performance 'The Artist is Present' de Marina Abramovic propôs?",
+        "opcoes": [
+          "Uma exposição de pinturas.",
+          "Um encontro silencioso entre a artista e o público.",
+          "Uma peça de teatro.",
+          "Um show musical."
+        ],
+        "correta": 1,
+        "explicacao": "A performance propôs um encontro silencioso e introspectivo."
+      },
+      {
+        "enunciado": "O que é um 'happening'?",
+        "opcoes": [
+          "Uma forma de arte que envolve a participação do público e a improvisação.",
+          "Uma escultura.",
+          "Uma pintura.",
+          "Um festival de música."
+        ],
+        "correta": 0,
+        "explicacao": "O happening é uma arte interativa e improvisada."
+      },
+      {
+        "enunciado": "Qual artista do Novo Realismo criou a obra 'Le Plein' (O Cheio), enchendo uma galeria de objetos?",
+        "opcoes": ["Piero Manzoni", "Arman", "Yves Klein", "Niki de Saint Phalle"],
+        "correta": 1,
+        "explicacao": "Arman criou a obra 'Le Plein'."
+      },
+      {
+        "enunciado": "Qual artista do Novo Realismo criou a obra 'Le Vide' (O Vazio), com uma galeria vazia?",
+        "opcoes": ["Yves Klein", "Arman", "Piero Manzoni", "Niki de Saint Phalle"],
+        "correta": 0,
+        "explicacao": "Yves Klein criou a obra 'Le Vide'."
+      },
+      {
+        "enunciado": "O que a obra 'Merda d'artista' de Piero Manzoni questiona?",
+        "opcoes": [
+          "A política.",
+          "O mercado de arte e o valor da obra.",
+          "A religião.",
+          "A ciência."
+        ],
+        "correta": 1,
+        "explicacao": "A obra critica a comercialização da arte."
+      },
+      {
+        "enunciado": "Qual artista do Novo Realismo usava tiros de espingarda para criar suas obras?",
+        "opcoes": ["Niki de Saint Phalle", "Yoko Ono", "Marina Abramovic", "Piero Manzoni"],
+        "correta": 0,
+        "explicacao": "Niki criava obras com tiros de espingarda."
+      },
+      {
+        "enunciado": "O que as obras de Niki de Saint Phalle criticavam?",
+        "opcoes": [
+          "A beleza da arte.",
+          "O consumismo e a objetificação da mulher.",
+          "A política.",
+          "A religião."
+        ],
+        "correta": 1,
+        "explicacao": "Niki criticava o consumismo e os padrões de beleza."
+      },
+      {
+        "enunciado": "Qual artista fez a 'Árvore dos Desejos', uma obra interativa?",
+        "opcoes": ["Yoko Ono", "Marina Abramovic", "Niki de Saint Phalle", "Piero Manzoni"],
+        "correta": 0,
+        "explicacao": "Yoko Ono criou a 'Árvore dos Desejos'."
+      },
+      {
+        "enunciado": "Qual é o tema principal das obras de Yoko Ono?",
+        "opcoes": [
+          "A guerra e a violência.",
+          "A paz e a reflexão sobre as relações humanas.",
+          "O consumismo.",
+          "A política."
+        ],
+        "correta": 1,
+        "explicacao": "Yoko Ono foca na paz e nas relações humanas."
+      },
+      {
+        "enunciado": "Qual artista fez uma exposição com o tema 'Em vivo contato' na Bienal de São Paulo em 2008?",
+        "opcoes": ["Yoko Ono", "Marina Abramovic", "Niki de Saint Phalle", "Piero Manzoni"],
+        "correta": 0,
+        "explicacao": "Yoko Ono participou da Bienal de São Paulo em 2008."
+      },
+      {
+        "enunciado": "O que a obra 'Imagine Peace Tower' de Yoko Ono homenageia?",
+        "opcoes": [
+          "John Lennon e a paz mundial.",
+          "A cidade de São Paulo.",
+          "O consumismo.",
+          "A arte tradicional."
+        ],
+        "correta": 0,
+        "explicacao": "A obra homenageia John Lennon e a paz."
+      },
+      {
+        "enunciado": "O que a arte contemporânea busca provocar no público?",
+        "opcoes": [
+          "Apenas admiração estética.",
+          "Reflexão, questionamento e participação.",
+          "Tristeza.",
+          "Alegria."
+        ],
+        "correta": 1,
+        "explicacao": "A arte contemporânea busca provocar reflexão e participação."
+      },
+      {
+        "enunciado": "Qual é a importância da arte contemporânea para a sociedade?",
+        "opcoes": [
+          "Apenas decorar ambientes.",
+          "Questionar padrões, provocar reflexões e ampliar a visão de mundo.",
+          "Vender produtos.",
+          "Não tem importância."
+        ],
+        "correta": 1,
+        "explicacao": "A arte contemporânea provoca reflexões e questionamentos."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_art_novo_realismo_01",
+    "titulo": "Arte - Novo Realismo Francês",
+    "tipo": "conteudo",
+    "icone": "🛠️",
+    "perguntas": [
+      {
+        "enunciado": "O que foi o Novo Realismo?",
+        "opcoes": [
+          "Um movimento artístico que buscava retratar a realidade de forma idealizada.",
+          "Um movimento artístico francês que criticava a cultura do consumismo.",
+          "Um movimento da arte renascentista.",
+          "Um movimento musical."
+        ],
+        "correta": 1,
+        "explicacao": "O Novo Realismo surgiu como reação à cultura consumista."
+      },
+      {
+        "enunciado": "Em qual país surgiu o Novo Realismo?",
+        "opcoes": ["EUA", "França", "Itália", "Alemanha"],
+        "correta": 1,
+        "explicacao": "O Novo Realismo surgiu na França."
+      },
+      {
+        "enunciado": "Qual era o principal objetivo do Novo Realismo?",
+        "opcoes": [
+          "Criticar a cultura do consumo e o sonho americano.",
+          "Celebrar o consumismo.",
+          "Criar obras de arte tradicionais.",
+          "Representar paisagens."
+        ],
+        "correta": 0,
+        "explicacao": "O Novo Realismo criticava o consumismo e a cultura de massa."
+      },
+      {
+        "enunciado": "Quem foi um dos principais artistas do Novo Realismo, conhecido por acumular objetos?",
+        "opcoes": ["Piero Manzoni", "Arman", "Yoko Ono", "Niki de Saint Phalle"],
+        "correta": 1,
+        "explicacao": "Arman criou obras com acúmulo de objetos."
+      },
+      {
+        "enunciado": "Qual é o nome da obra de Arman que consiste em uma torre de carros empilhados?",
+        "opcoes": ["Long term parking", "Le Plein", "Le Vide", "Merda d'artista"],
+        "correta": 0,
+        "explicacao": "A obra 'Long term parking' é uma torre de carros empilhados."
+      },
+      {
+        "enunciado": "Qual artista do Novo Realismo fez uma exposição com uma galeria vazia chamada 'Le Vide' (O Vazio)?",
+        "opcoes": ["Yves Klein", "Arman", "Piero Manzoni", "Niki de Saint Phalle"],
+        "correta": 0,
+        "explicacao": "Yves Klein criou a obra 'Le Vide'."
+      },
+      {
+        "enunciado": "Qual artista do Novo Realismo fez uma exposição com uma galeria cheia de objetos chamada 'Le Plein' (O Cheio)?",
+        "opcoes": ["Arman", "Yves Klein", "Piero Manzoni", "Niki de Saint Phalle"],
+        "correta": 0,
+        "explicacao": "Arman criou a obra 'Le Plein'."
+      },
+      {
+        "enunciado": "Quem foi Niki de Saint Phalle?",
+        "opcoes": [
+          "Uma artista francesa que criticava o consumismo e a objetificação da mulher.",
+          "Uma pintora renascentista.",
+          "Uma escultora grega.",
+          "Uma cantora pop."
+        ],
+        "correta": 0,
+        "explicacao": "Niki criticava os padrões de beleza e a sociedade de consumo."
+      },
+      {
+        "enunciado": "Qual é a principal característica das obras de Niki de Saint Phalle?",
+        "opcoes": [
+          "Pinturas suaves e delicadas.",
+          "O uso de tinta spray e tiros de espingarda sobre a tela.",
+          "Esculturas de mármore.",
+          "Desenhos a lápis."
+        ],
+        "correta": 1,
+        "explicacao": "Suas obras eram feitas com tiros de espingarda e tintas."
+      },
+      {
+        "enunciado": "O que as obras de Niki de Saint Phalle criticavam?",
+        "opcoes": [
+          "A beleza da arte.",
+          "O consumismo, a objetificação da mulher e os padrões de beleza.",
+          "A política.",
+          "A religião."
+        ],
+        "correta": 1,
+        "explicacao": "Niki criticava o consumismo e os padrões de beleza."
+      },
+      {
+        "enunciado": "O que a obra 'Le Plein' (O Cheio) de Arman representa?",
+        "opcoes": [
+          "Uma crítica ao consumismo e ao acúmulo de bens.",
+          "Uma celebração da natureza.",
+          "Uma pintura abstrata.",
+          "Uma escultura de mármore."
+        ],
+        "correta": 0,
+        "explicacao": "A obra critica o consumismo e o acúmulo de objetos."
+      },
+      {
+        "enunciado": "O que a obra 'Le Vide' (O Vazio) de Yves Klein representa?",
+        "opcoes": [
+          "Uma crítica ao consumismo e ao vazio da sociedade de consumo.",
+          "Uma celebração da natureza.",
+          "Uma pintura abstrata.",
+          "Uma escultura de mármore."
+        ],
+        "correta": 0,
+        "explicacao": "A obra critica o vazio da sociedade de consumo."
+      },
+      {
+        "enunciado": "Qual é a importância do Novo Realismo para a arte contemporânea?",
+        "opcoes": [
+          "Trouxe uma nova forma de fazer arte, usando objetos do cotidiano e criticando a sociedade.",
+          "Trouxe técnicas tradicionais.",
+          "Não teve importância.",
+          "Focou apenas na pintura."
+        ],
+        "correta": 0,
+        "explicacao": "O Novo Realismo inovou ao usar objetos do cotidiano e criticar a sociedade."
+      },
+      {
+        "enunciado": "Qual artista do Novo Realismo usava tiros de espingarda em suas performances?",
+        "opcoes": ["Niki de Saint Phalle", "Yoko Ono", "Marina Abramovic", "Piero Manzoni"],
+        "correta": 0,
+        "explicacao": "Niki usava tiros de espingarda em suas performances."
+      },
+      {
+        "enunciado": "O que a obra 'Merda d'artista' de Piero Manzoni, mesmo não sendo do Novo Realismo, questiona em comum com esse movimento?",
+        "opcoes": [
+          "A política.",
+          "O valor da arte e o mercado de arte.",
+          "A religião.",
+          "A ciência."
+        ],
+        "correta": 1,
+        "explicacao": "A obra critica o mercado e a comercialização da arte."
+      },
+      {
+        "enunciado": "O que é a 'sociedade de consumo' criticada pelo Novo Realismo?",
+        "opcoes": [
+          "Uma sociedade que valoriza o consumo excessivo e o ter.",
+          "Uma sociedade que valoriza a arte.",
+          "Uma sociedade igualitária.",
+          "Uma sociedade rural."
+        ],
+        "correta": 0,
+        "explicacao": "A sociedade de consumo valoriza o excesso de bens materiais."
+      },
+      {
+        "enunciado": "Qual é a relação entre o Novo Realismo e a cultura americana dos anos 1950?",
+        "opcoes": [
+          "O movimento surgiu como uma crítica à influência da cultura americana e ao consumismo.",
+          "O movimento celebrou a cultura americana.",
+          "Não há relação.",
+          "O movimento foi criado nos EUA."
+        ],
+        "correta": 0,
+        "explicacao": "O Novo Realismo foi uma reação crítica à cultura americana."
+      },
+      {
+        "enunciado": "Qual é o nome do movimento artístico francês que criticava a cultura do consumo e o sonho americano?",
+        "opcoes": ["Novo Realismo", "Arte Conceitual", "Performance", "Arte Moderna"],
+        "correta": 0,
+        "explicacao": "O Novo Realismo criticava a cultura do consumo."
+      },
+      {
+        "enunciado": "Qual artista do Novo Realismo fez uma obra com carros empilhados?",
+        "opcoes": ["Arman", "Niki de Saint Phalle", "Yves Klein", "Piero Manzoni"],
+        "correta": 0,
+        "explicacao": "Arman fez a obra 'Long term parking'."
+      },
+      {
+        "enunciado": "O que o Novo Realismo propunha em relação à arte?",
+        "opcoes": [
+          "Uma arte mais próxima da realidade cotidiana e crítica à sociedade.",
+          "Uma arte puramente estética.",
+          "Uma arte tradicional.",
+          "Uma arte religiosa."
+        ],
+        "correta": 0,
+        "explicacao": "O Novo Realismo propunha uma arte mais próxima da realidade e crítica."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_art_museus_01",
+    "titulo": "Arte - Museus e Espaços Culturais",
+    "tipo": "conteudo",
+    "icone": "🏛️",
+    "perguntas": [
+      {
+        "enunciado": "Qual é o museu mais famoso e visitado do mundo, localizado em Paris?",
+        "opcoes": ["Museu do Prado", "Museu do Louvre", "Museu Britânico", "Museu do Vaticano"],
+        "correta": 1,
+        "explicacao": "O Museu do Louvre é o mais famoso e visitado do mundo."
+      },
+      {
+        "enunciado": "Qual é a obra mais famosa do Museu do Louvre?",
+        "opcoes": ["A Noite Estrelada", "Mona Lisa", "O Grito", "A Última Ceia"],
+        "correta": 1,
+        "explicacao": "A Mona Lisa, de Leonardo da Vinci, é a obra mais famosa do Louvre."
+      },
+      {
+        "enunciado": "Além do Louvre, qual outro museu europeu é conhecido por suas obras de arte?",
+        "opcoes": ["Museu do Prado", "Museu de Arte Moderna", "Museu Afro Brasil", "Pinacoteca"],
+        "correta": 0,
+        "explicacao": "O Museu do Prado, na Espanha, é um dos mais importantes da Europa."
+      },
+      {
+        "enunciado": "Qual é o nome do museu brasileiro localizado em São Paulo que abriga obras de artistas europeus e brasileiros, como Almeida Júnior e Tarsila do Amaral?",
+        "opcoes": ["Museu Afro Brasil", "Pinacoteca do Estado de São Paulo", "Museu do Louvre", "MASP"],
+        "correta": 1,
+        "explicacao": "A Pinacoteca do Estado de São Paulo abriga um rico acervo de arte brasileira."
+      },
+      {
+        "enunciado": "Qual é a principal característica da Pinacoteca do Estado de São Paulo?",
+        "opcoes": [
+          "Um edifício histórico com um rico acervo de pinturas e esculturas.",
+          "Uma construção moderna e minimalista.",
+          "Um museu ao ar livre.",
+          "Uma galeria comercial."
+        ],
+        "correta": 0,
+        "explicacao": "A Pinacoteca é um edifício histórico com um rico acervo."
+      },
+      {
+        "enunciado": "Qual é o museu brasileiro que conserva cerca de seis mil obras, com foco na cultura afro-brasileira?",
+        "opcoes": ["Pinacoteca", "MASP", "Museu Afro Brasil", "Museu do Louvre"],
+        "correta": 2,
+        "explicacao": "O Museu Afro Brasil é dedicado à cultura afro-brasileira."
+      },
+      {
+        "enunciado": "O que é a curadoria de uma exposição?",
+        "opcoes": [
+          "A atividade de selecionar artistas, obras e determinar o conceito do evento.",
+          "A limpeza do museu.",
+          "A venda de ingressos.",
+          "A segurança do museu."
+        ],
+        "correta": 0,
+        "explicacao": "A curadoria é responsável pela seleção e organização da exposição."
+      },
+      {
+        "enunciado": "O que é uma bienal?",
+        "opcoes": [
+          "Um evento que ocorre a cada dois anos.",
+          "Um evento que ocorre a cada ano.",
+          "Um evento que ocorre a cada mês.",
+          "Um evento único."
+        ],
+        "correta": 0,
+        "explicacao": "Bienal é um evento que ocorre a cada dois anos."
+      },
+      {
+        "enunciado": "Qual é o nome da importante bienal de arte realizada em São Paulo?",
+        "opcoes": ["Bienal de Veneza", "Bienal de São Paulo", "Bienal de Paris", "Bienal de Nova York"],
+        "correta": 1,
+        "explicacao": "A Bienal de São Paulo é uma das mais importantes do mundo."
+      },
+      {
+        "enunciado": "O que aconteceu na Bienal de São Paulo de 2008, que ficou conhecida como 'Bienal do Vazio'?",
+        "opcoes": [
+          "O pavilhão foi deixado vazio e depois foi pichado por um grupo.",
+          "Não houve exposição.",
+          "Apenas pinturas foram expostas.",
+          "O evento foi cancelado."
+        ],
+        "correta": 0,
+        "explicacao": "O pavilhão vazio foi pichado, gerando polêmica."
+      },
+      {
+        "enunciado": "O que é o MASP?",
+        "opcoes": [
+          "Museu de Arte de São Paulo.",
+          "Museu de Arte Moderna.",
+          "Museu Afro Brasil.",
+          "Pinacoteca."
+        ],
+        "correta": 0,
+        "explicacao": "O MASP é o Museu de Arte de São Paulo."
+      },
+      {
+        "enunciado": "Qual é a principal característica do edifício do MASP?",
+        "opcoes": [
+          "Um prédio histórico.",
+          "Um vão livre e estrutura de concreto.",
+          "Uma construção de madeira.",
+          "Uma igreja."
+        ],
+        "correta": 1,
+        "explicacao": "O MASP é famoso por seu vão livre e estrutura moderna."
+      },
+      {
+        "enunciado": "O que é o 'tombamento' de um patrimônio?",
+        "opcoes": [
+          "A destruição de um patrimônio.",
+          "A ação do poder público para preservar um patrimônio.",
+          "A venda de um patrimônio.",
+          "A construção de um patrimônio."
+        ],
+        "correta": 1,
+        "explicacao": "O tombamento é uma forma de preservar o patrimônio."
+      },
+      {
+        "enunciado": "Qual é o nome do museu que abriga a Mona Lisa?",
+        "opcoes": ["Museu do Prado", "Museu do Louvre", "Museu Britânico", "Museu do Vaticano"],
+        "correta": 1,
+        "explicacao": "A Mona Lisa está no Museu do Louvre."
+      },
+      {
+        "enunciado": "Qual é o nome do museu que abriga a obra 'O Pensador', de Auguste Rodin?",
+        "opcoes": ["Museu do Louvre", "Museu Rodin", "Museu do Prado", "Museu Britânico"],
+        "correta": 1,
+        "explicacao": "O Museu Rodin, em Paris, abriga obras de Rodin."
+      },
+      {
+        "enunciado": "Qual é o papel dos museus na sociedade?",
+        "opcoes": [
+          "Apenas guardar objetos antigos.",
+          "Preservar a cultura, educar e promover o acesso à arte.",
+          "Vender produtos.",
+          "Não têm papel social."
+        ],
+        "correta": 1,
+        "explicacao": "Os museus preservam a cultura e promovem a educação."
+      },
+      {
+        "enunciado": "O que é a arte contemporânea?",
+        "opcoes": [
+          "Arte feita no século XIX.",
+          "Arte produzida a partir da década de 1950.",
+          "Arte feita apenas no século XXI.",
+          "Arte renascentista."
+        ],
+        "correta": 1,
+        "explicacao": "A arte contemporânea é a arte produzida a partir dos anos 1950."
+      },
+      {
+        "enunciado": "Qual é a principal crítica feita pela arte contemporânea?",
+        "opcoes": [
+          "A beleza da arte.",
+          "O consumismo, a desigualdade e os padrões impostos pela sociedade.",
+          "A política.",
+          "A religião."
+        ],
+        "correta": 1,
+        "explicacao": "A arte contemporânea frequentemente critica a sociedade de consumo."
+      },
+      {
+        "enunciado": "O que a obra 'Merda d'artista' de Piero Manzoni questiona?",
+        "opcoes": [
+          "A política.",
+          "O valor da arte e o mercado de arte.",
+          "A religião.",
+          "A ciência."
+        ],
+        "correta": 1,
+        "explicacao": "A obra critica o mercado e a comercialização da arte."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_art_espacos_01",
+    "titulo": "Arte - Festivais, Bienais e Espaços de Arte",
+    "tipo": "conteudo",
+    "icone": "🎪",
+    "perguntas": [
+      {
+        "enunciado": "O que é uma bienal de arte?",
+        "opcoes": [
+          "Um evento que ocorre a cada dois anos.",
+          "Um evento que ocorre a cada ano.",
+          "Um evento que ocorre a cada mês.",
+          "Um evento único."
+        ],
+        "correta": 0,
+        "explicacao": "Bienal é um evento que ocorre a cada dois anos."
+      },
+      {
+        "enunciado": "Qual é o nome da importante bienal de arte realizada em São Paulo?",
+        "opcoes": ["Bienal de Veneza", "Bienal de São Paulo", "Bienal de Paris", "Bienal de Nova York"],
+        "correta": 1,
+        "explicacao": "A Bienal de São Paulo é uma das mais importantes do mundo."
+      },
+      {
+        "enunciado": "O que aconteceu na Bienal de São Paulo de 2008, que ficou conhecida como 'Bienal do Vazio'?",
+        "opcoes": [
+          "O pavilhão foi deixado vazio e depois foi pichado por um grupo.",
+          "Não houve exposição.",
+          "Apenas pinturas foram expostas.",
+          "O evento foi cancelado."
+        ],
+        "correta": 0,
+        "explicacao": "O pavilhão vazio foi pichado, gerando polêmica."
+      },
+      {
+        "enunciado": "O que é um 'festival de arte'?",
+        "opcoes": [
+          "Um evento que reúne diversas manifestações artísticas.",
+          "Uma exposição de pinturas.",
+          "Uma feira de livros.",
+          "Um show musical."
+        ],
+        "correta": 0,
+        "explicacao": "O festival de arte reúne diversas manifestações artísticas."
+      },
+      {
+        "enunciado": "Qual é o nome do museu brasileiro que abriga obras de arte afro-brasileira?",
+        "opcoes": ["Pinacoteca", "MASP", "Museu Afro Brasil", "Museu do Louvre"],
+        "correta": 2,
+        "explicacao": "O Museu Afro Brasil é dedicado à cultura afro-brasileira."
+      },
+      {
+        "enunciado": "O que é a curadoria de uma exposição?",
+        "opcoes": [
+          "A atividade de selecionar artistas, obras e determinar o conceito do evento.",
+          "A limpeza do museu.",
+          "A venda de ingressos.",
+          "A segurança do museu."
+        ],
+        "correta": 0,
+        "explicacao": "A curadoria é responsável pela seleção e organização da exposição."
+      },
+      {
+        "enunciado": "Qual é o papel dos museus na sociedade?",
+        "opcoes": [
+          "Apenas guardar objetos antigos.",
+          "Preservar a cultura, educar e promover o acesso à arte.",
+          "Vender produtos.",
+          "Não têm papel social."
+        ],
+        "correta": 1,
+        "explicacao": "Os museus preservam a cultura e promovem a educação."
+      },
+      {
+        "enunciado": "O que é o 'tombamento' de um patrimônio?",
+        "opcoes": [
+          "A destruição de um patrimônio.",
+          "A ação do poder público para preservar um patrimônio.",
+          "A venda de um patrimônio.",
+          "A construção de um patrimônio."
+        ],
+        "correta": 1,
+        "explicacao": "O tombamento é uma forma de preservar o patrimônio."
+      },
+      {
+        "enunciado": "Qual é o nome do museu que abriga a Mona Lisa?",
+        "opcoes": ["Museu do Prado", "Museu do Louvre", "Museu Britânico", "Museu do Vaticano"],
+        "correta": 1,
+        "explicacao": "A Mona Lisa está no Museu do Louvre."
+      },
+      {
+        "enunciado": "Qual é o nome do museu que abriga a obra 'O Pensador', de Auguste Rodin?",
+        "opcoes": ["Museu do Louvre", "Museu Rodin", "Museu do Prado", "Museu Britânico"],
+        "correta": 1,
+        "explicacao": "O Museu Rodin, em Paris, abriga obras de Rodin."
+      },
+      {
+        "enunciado": "Qual é a importância da arte contemporânea?",
+        "opcoes": [
+          "Apenas decorar ambientes.",
+          "Questionar padrões, provocar reflexões e ampliar a visão de mundo.",
+          "Vender produtos.",
+          "Não tem importância."
+        ],
+        "correta": 1,
+        "explicacao": "A arte contemporânea provoca reflexões e questionamentos."
+      },
+      {
+        "enunciado": "O que é a arte conceitual?",
+        "opcoes": [
+          "Arte que valoriza apenas a beleza estética.",
+          "Arte em que a ideia (conceito) é mais importante do que a técnica ou a obra final.",
+          "Arte com técnicas tradicionais.",
+          "Arte feita apenas com tintas."
+        ],
+        "correta": 1,
+        "explicacao": "A arte conceitual prioriza a ideia sobre a técnica."
+      },
+      {
+        "enunciado": "Quem foi um dos precursores da Arte Conceitual?",
+        "opcoes": ["Marcel Duchamp", "Piero Manzoni", "Yoko Ono", "Arman"],
+        "correta": 0,
+        "explicacao": "Duchamp é um dos precursores da arte conceitual."
+      },
+      {
+        "enunciado": "O que a obra 'Fonte' de Duchamp representou para a arte?",
+        "opcoes": [
+          "Uma nova técnica de pintura.",
+          "Um marco na arte conceitual, mostrando que qualquer objeto pode ser arte se o artista assim o definir.",
+          "Uma escultura de mármore.",
+          "Uma crítica à política."
+        ],
+        "correta": 1,
+        "explicacao": "A 'Fonte' mostrou que o conceito do artista é o que define a arte."
+      },
+      {
+        "enunciado": "O que é uma 'performance' na arte?",
+        "opcoes": [
+          "Uma peça de teatro.",
+          "Uma manifestação artística em que o artista usa o próprio corpo e ações ao vivo.",
+          "Uma escultura.",
+          "Uma pintura."
+        ],
+        "correta": 1,
+        "explicacao": "A performance é uma arte ao vivo, centrada na ação do artista."
+      },
+      {
+        "enunciado": "Quem é considerada a 'madrinha da performance'?",
+        "opcoes": ["Yoko Ono", "Marina Abramovic", "Niki de Saint Phalle", "Frida Kahlo"],
+        "correta": 1,
+        "explicacao": "Marina Abramovic é uma das principais artistas de performance."
+      },
+      {
+        "enunciado": "Qual é a principal característica das performances de Marina Abramovic?",
+        "opcoes": [
+          "O uso de tintas.",
+          "O silêncio, a resistência física e a interação com o público.",
+          "A dança.",
+          "A música."
+        ],
+        "correta": 1,
+        "explicacao": "Abramovic explora os limites do corpo e da mente."
+      },
+      {
+        "enunciado": "O que a performance 'The Artist is Present' de Marina Abramovic propôs?",
+        "opcoes": [
+          "Uma exposição de pinturas.",
+          "Um encontro silencioso entre a artista e o público.",
+          "Uma peça de teatro.",
+          "Um show musical."
+        ],
+        "correta": 1,
+        "explicacao": "A performance propôs um encontro silencioso e introspectivo."
+      },
+      {
+        "enunciado": "O que é um 'happening'?",
+        "opcoes": [
+          "Uma forma de arte que envolve a participação do público e a improvisação.",
+          "Uma escultura.",
+          "Uma pintura.",
+          "Um festival de música."
+        ],
+        "correta": 0,
+        "explicacao": "O happening é uma arte interativa e improvisada."
+      },
+      {
+        "enunciado": "Qual artista do Novo Realismo criou a obra 'Le Plein' (O Cheio), enchendo uma galeria de objetos?",
+        "opcoes": ["Piero Manzoni", "Arman", "Yves Klein", "Niki de Saint Phalle"],
+        "correta": 1,
+        "explicacao": "Arman criou a obra 'Le Plein'."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_art_curiosidades_01",
+    "titulo": "Arte - Curiosidades e Grandes Nomes",
+    "tipo": "conteudo",
+    "icone": "✨",
+    "perguntas": [
+      {
+        "enunciado": "Quem pintou a Mona Lisa?",
+        "opcoes": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh", "Michelangelo"],
+        "correta": 1,
+        "explicacao": "A Mona Lisa foi pintada por Leonardo da Vinci."
+      },
+      {
+        "enunciado": "Qual é o nome do quadro mais famoso de Van Gogh, pintado enquanto ele estava em um hospital psiquiátrico?",
+        "opcoes": ["A Noite Estrelada", "Os Girassóis", "A Cadeira", "O Grito"],
+        "correta": 0,
+        "explicacao": "A Noite Estrelada foi pintada por Van Gogh."
+      },
+      {
+        "enunciado": "Quem pintou 'O Grito'?",
+        "opcoes": ["Edvard Munch", "Pablo Picasso", "Salvador Dalí", "Claude Monet"],
+        "correta": 0,
+        "explicacao": "O Grito é uma obra de Edvard Munch."
+      },
+      {
+        "enunciado": "Qual é o nome do movimento artístico que valoriza a representação da luz e das cores, com pinceladas rápidas?",
+        "opcoes": ["Impressionismo", "Cubismo", "Surrealismo", "Expressionismo"],
+        "correta": 0,
+        "explicacao": "O Impressionismo focava na luz e nas cores."
+      },
+      {
+        "enunciado": "Quem foi um dos principais artistas do Cubismo?",
+        "opcoes": ["Pablo Picasso", "Salvador Dalí", "Vincent van Gogh", "Claude Monet"],
+        "correta": 0,
+        "explicacao": "Picasso foi um dos fundadores do Cubismo."
+      },
+      {
+        "enunciado": "Qual é o nome do movimento artístico que buscava representar o inconsciente e os sonhos?",
+        "opcoes": ["Surrealismo", "Cubismo", "Impressionismo", "Expressionismo"],
+        "correta": 0,
+        "explicacao": "O Surrealismo explorava o inconsciente e os sonhos."
+      },
+      {
+        "enunciado": "Quem pintou 'A Persistência da Memória', com relógios derretendo?",
+        "opcoes": ["Salvador Dalí", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+        "correta": 0,
+        "explicacao": "Dalí pintou 'A Persistência da Memória'."
+      },
+      {
+        "enunciado": "Qual é o nome da artista mexicana famosa por suas obras autobiográficas e por suas sobrancelhas marcantes?",
+        "opcoes": ["Frida Kahlo", "Tarsila do Amaral", "Yoko Ono", "Marina Abramovic"],
+        "correta": 0,
+        "explicacao": "Frida Kahlo é famosa por suas obras autobiográficas."
+      },
+      {
+        "enunciado": "Quem foi Tarsila do Amaral?",
+        "opcoes": [
+          "Uma artista brasileira modernista.",
+          "Uma artista renascentista.",
+          "Uma artista contemporânea.",
+          "Uma artista francesa."
+        ],
+        "correta": 0,
+        "explicacao": "Tarsila do Amaral foi uma importante artista modernista brasileira."
+      },
+      {
+        "enunciado": "Qual é o nome da obra mais famosa de Tarsila do Amaral?",
+        "opcoes": ["Abaporu", "Operários", "A Carteira", "O Lavrador de Café"],
+        "correta": 0,
+        "explicacao": "Abaporu é a obra mais famosa de Tarsila."
+      },
+      {
+        "enunciado": "O que é o 'Modernismo' no Brasil?",
+        "opcoes": [
+          "Um movimento artístico e cultural que buscou valorizar a identidade brasileira.",
+          "Um movimento europeu.",
+          "Uma escola de pintura.",
+          "Um movimento político."
+        ],
+        "correta": 0,
+        "explicacao": "O Modernismo brasileiro valorizou a identidade nacional."
+      },
+      {
+        "enunciado": "Qual evento marcou o início do Modernismo no Brasil?",
+        "opcoes": ["Semana de Arte Moderna de 1922", "Independência do Brasil", "Proclamação da República", "Revolução de 1930"],
+        "correta": 0,
+        "explicacao": "A Semana de Arte Moderna de 1922 marcou o início do Modernismo."
+      },
+      {
+        "enunciado": "Qual artista brasileiro criou a obra 'Operários', que retrata a diversidade do povo brasileiro?",
+        "opcoes": ["Tarsila do Amaral", "Anita Malfatti", "Di Cavalcanti", "Candido Portinari"],
+        "correta": 0,
+        "explicacao": "Tarsila do Amaral criou a obra 'Operários'."
+      },
+      {
+        "enunciado": "Qual é o nome do artista brasileiro conhecido por suas obras que retratam a vida e o povo brasileiro, como 'Café'?",
+        "opcoes": ["Portinari", "Tarsila do Amaral", "Di Cavalcanti", "Anita Malfatti"],
+        "correta": 0,
+        "explicacao": "Portinari é conhecido por retratar a vida e o povo brasileiro."
+      },
+      {
+        "enunciado": "O que é a arte contemporânea?",
+        "opcoes": [
+          "Arte feita no século XIX.",
+          "Arte produzida a partir da década de 1950.",
+          "Arte feita apenas no século XXI.",
+          "Arte renascentista."
+        ],
+        "correta": 1,
+        "explicacao": "A arte contemporânea é a arte produzida a partir dos anos 1950."
+      },
+      {
+        "enunciado": "Qual é a principal crítica feita pela arte contemporânea?",
+        "opcoes": [
+          "A beleza da arte.",
+          "O consumismo, a desigualdade e os padrões impostos pela sociedade.",
+          "A política.",
+          "A religião."
+        ],
+        "correta": 1,
+        "explicacao": "A arte contemporânea frequentemente critica a sociedade de consumo."
+      },
+      {
+        "enunciado": "O que a obra 'Merda d'artista' de Piero Manzoni questiona?",
+        "opcoes": [
+          "A política.",
+          "O valor da arte e o mercado de arte.",
+          "A religião.",
+          "A ciência."
+        ],
+        "correta": 1,
+        "explicacao": "A obra critica o mercado e a comercialização da arte."
+      },
+      {
+        "enunciado": "Quem foi um dos precursores da Arte Conceitual?",
+        "opcoes": ["Marcel Duchamp", "Piero Manzoni", "Yoko Ono", "Arman"],
+        "correta": 0,
+        "explicacao": "Duchamp é um dos precursores da arte conceitual."
+      },
+      {
+        "enunciado": "O que a obra 'Fonte' de Duchamp representou para a arte?",
+        "opcoes": [
+          "Uma nova técnica de pintura.",
+          "Um marco na arte conceitual, mostrando que qualquer objeto pode ser arte se o artista assim o definir.",
+          "Uma escultura de mármore.",
+          "Uma crítica à política."
+        ],
+        "correta": 1,
+        "explicacao": "A 'Fonte' mostrou que o conceito do artista é o que define a arte."
+      },
+      {
+        "enunciado": "O que é uma 'performance' na arte?",
+        "opcoes": [
+          "Uma peça de teatro.",
+          "Uma manifestação artística em que o artista usa o próprio corpo e ações ao vivo.",
+          "Uma escultura.",
+          "Uma pintura."
+        ],
+        "correta": 1,
+        "explicacao": "A performance é uma arte ao vivo, centrada na ação do artista."
+      }
+    ]
+  }
+]
