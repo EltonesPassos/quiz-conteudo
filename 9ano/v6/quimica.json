@@ -1,0 +1,1587 @@
+[
+  {
+    "id": "9ano_v6_qui_introducao_01",
+    "titulo": "Química - Introdução aos Ácidos",
+    "tipo": "conteudo",
+    "icone": "⚗️",
+    "perguntas": [
+      {
+        "enunciado": "Qual é a definição de ácido segundo Arrhenius?",
+        "opcoes": [
+          "Toda substância que libera íons OH- em solução aquosa.",
+          "Toda substância que libera íons H+ (ou H3O+) em solução aquosa.",
+          "Toda substância que recebe prótons.",
+          "Toda substância que não conduz eletricidade."
+        ],
+        "correta": 1,
+        "explicacao": "Para Arrhenius, ácido é toda substância que, em água, sofre ionização liberando o cátion hidrogênio (H+)."
+      },
+      {
+        "enunciado": "Qual das opções abaixo é uma característica organoléptica dos ácidos?",
+        "opcoes": [
+          "Sabor adstringente.",
+          "Sabor azedo.",
+          "Sabor amargo.",
+          "Ausência de sabor."
+        ],
+        "correta": 1,
+        "explicacao": "Os ácidos apresentam sabor azedo (como o limão e o vinagre). O sabor adstringente é das bases."
+      },
+      {
+        "enunciado": "Qual dos itens a seguir NÃO é um ácido comum no nosso cotidiano?",
+        "opcoes": [
+          "Vinagre (ácido acético).",
+          "Limão (ácido cítrico).",
+          "Leite de magnésia (hidróxido de magnésio).",
+          "Refrigerante (ácido carbônico)."
+        ],
+        "correta": 2,
+        "explicacao": "O leite de magnésia é uma base, não um ácido."
+      },
+      {
+        "enunciado": "Os ácidos, em solução aquosa, conduzem corrente elétrica. Isso ocorre porque:",
+        "opcoes": [
+          "Suas moléculas são neutras.",
+          "Eles sofrem ionização, liberando íons livres na solução.",
+          "Eles liberam elétrons.",
+          "Eles não reagem com a água."
+        ],
+        "correta": 1,
+        "explicacao": "A presença de íons na solução permite a passagem de corrente elétrica (eletrólitos)."
+      },
+      {
+        "enunciado": "Qual é a escala utilizada para medir a acidez ou basicidade de uma solução?",
+        "opcoes": [
+          "Escala de Kelvin.",
+          "Escala de pH.",
+          "Escala Richter.",
+          "Escala de Beaufort."
+        ],
+        "correta": 1,
+        "explicacao": "A escala de pH (potencial hidrogeniônico) varia de 0 a 14."
+      },
+      {
+        "enunciado": "Na escala de pH, uma solução com pH menor que 7 é considerada:",
+        "opcoes": [
+          "Ácida.",
+          "Básica.",
+          "Neutra.",
+          "Alcalina."
+        ],
+        "correta": 0,
+        "explicacao": "Valores de pH abaixo de 7 indicam soluções ácidas."
+      },
+      {
+        "enunciado": "Na escala de pH, uma solução com pH maior que 7 é considerada:",
+        "opcoes": [
+          "Ácida.",
+          "Básica (alcalina).",
+          "Neutra.",
+          "Oxidante."
+        ],
+        "correta": 1,
+        "explicacao": "Valores de pH acima de 7 indicam soluções básicas ou alcalinas."
+      },
+      {
+        "enunciado": "Uma solução com pH igual a 7 é considerada:",
+        "opcoes": [
+          "Ácida.",
+          "Básica.",
+          "Neutra.",
+          "Instável."
+        ],
+        "correta": 2,
+        "explicacao": "O pH 7 é neutro, como a água pura."
+      },
+      {
+        "enunciado": "O indicador fenolftaleína fica com qual cor em meio ácido?",
+        "opcoes": [
+          "Rosa.",
+          "Azul.",
+          "Vermelho.",
+          "Incolor."
+        ],
+        "correta": 3,
+        "explicacao": "Em meio ácido ou neutro, a fenolftaleína é incolor."
+      },
+      {
+        "enunciado": "O indicador fenolftaleína fica com qual cor em meio básico?",
+        "opcoes": [
+          "Rosa.",
+          "Azul.",
+          "Vermelho.",
+          "Incolor."
+        ],
+        "correta": 0,
+        "explicacao": "Em meio básico, a fenolftaleína adquire coloração rósea/avermelhada."
+      },
+      {
+        "enunciado": "O papel de tornassol azul, ao ser mergulhado em uma solução ácida, fica:",
+        "opcoes": [
+          "Mais azul.",
+          "Vermelho.",
+          "Incolor.",
+          "Verde."
+        ],
+        "correta": 1,
+        "explicacao": "O papel de tornassol azul fica vermelho em contato com ácidos."
+      },
+      {
+        "enunciado": "O papel de tornassol vermelho, ao ser mergulhado em uma solução básica, fica:",
+        "opcoes": [
+          "Mais vermelho.",
+          "Azul.",
+          "Incolor.",
+          "Rosa."
+        ],
+        "correta": 1,
+        "explicacao": "O papel de tornassol vermelho fica azul em contato com bases."
+      },
+      {
+        "enunciado": "Quem foi o químico sueco que propôs as definições de ácidos e bases em 1884?",
+        "opcoes": [
+          "Lavoisier.",
+          "Svante August Arrhenius.",
+          "John Dalton.",
+          "Ernest Rutherford."
+        ],
+        "correta": 1,
+        "explicacao": "Arrhenius foi o responsável pela teoria da dissociação iônica."
+      },
+      {
+        "enunciado": "Quando um ácido é colocado em água, ele sofre:",
+        "opcoes": [
+          "Dissociação iônica.",
+          "Ionização.",
+          "Precipitação.",
+          "Solidificação."
+        ],
+        "correta": 1,
+        "explicacao": "A ionização é o processo onde moléculas de ácidos covalentes reagem com a água para formar íons."
+      },
+      {
+        "enunciado": "Qual é o único cátion formado na ionização de um ácido?",
+        "opcoes": [
+          "OH-",
+          "H+ (ou H3O+)",
+          "Cl-",
+          "Na+"
+        ],
+        "correta": 1,
+        "explicacao": "A definição de Arrhenius para ácido baseia-se na liberação de H+."
+      },
+      {
+        "enunciado": "O que é o íon hidrônio (H3O+)?",
+        "opcoes": [
+          "Um elétron livre na água.",
+          "O resultado da junção de um íon H+ com uma molécula de água.",
+          "Um tipo de base forte.",
+          "O mesmo que hidroxila."
+        ],
+        "correta": 1,
+        "explicacao": "O próton H+ não fica sozinho na água, ele se liga a uma molécula de H2O formando H3O+."
+      },
+      {
+        "enunciado": "O ácido clorídrico (HCl) é encontrado naturalmente em qual parte do corpo humano?",
+        "opcoes": [
+          "Na saliva.",
+          "No suor.",
+          "No suco gástrico do estômago.",
+          "No sangue."
+        ],
+        "correta": 2,
+        "explicacao": "O HCl é essencial para a digestão dos alimentos no estômago."
+      },
+      {
+        "enunciado": "Qual é a fórmula molecular do ácido sulfúrico?",
+        "opcoes": [
+          "HCl",
+          "H2SO4",
+          "HNO3",
+          "H2CO3"
+        ],
+        "correta": 1,
+        "explicacao": "H2SO4 é a fórmula do ácido sulfúrico."
+      },
+      {
+        "enunciado": "Qual é a fórmula molecular do ácido carbônico, presente em refrigerantes?",
+        "opcoes": [
+          "HCl",
+          "H2SO4",
+          "HNO3",
+          "H2CO3"
+        ],
+        "correta": 3,
+        "explicacao": "H2CO3 é o ácido carbônico, que se decompõe em água e gás carbônico."
+      },
+      {
+        "enunciado": "Ácidos inorgânicos são substâncias que:",
+        "opcoes": [
+          "Possuem carbono em sua estrutura principal.",
+          "Não possuem cadeias de carbono em sua estrutura, geralmente de origem mineral.",
+          "Só existem em seres vivos.",
+          "Não reagem com a água."
+        ],
+        "correta": 1,
+        "explicacao": "Os ácidos inorgânicos são de origem mineral (ex: HCl, H2SO4)."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_qui_classificacao_01",
+    "titulo": "Química - Classificação dos Ácidos",
+    "tipo": "conteudo",
+    "icone": "🧪",
+    "perguntas": [
+      {
+        "enunciado": "Como são chamados os ácidos que NÃO possuem oxigênio em sua estrutura?",
+        "opcoes": [
+          "Oxiácidos.",
+          "Hidrácidos.",
+          "Hidróxidos.",
+          "Sais."
+        ],
+        "correta": 1,
+        "explicacao": "Hidrácidos são ácidos sem oxigênio, como HCl, HBr, HCN."
+      },
+      {
+        "enunciado": "Como são chamados os ácidos que POSSUEM oxigênio em sua estrutura?",
+        "opcoes": [
+          "Oxiácidos.",
+          "Hidrácidos.",
+          "Hidróxidos.",
+          "Sais."
+        ],
+        "correta": 0,
+        "explicacao": "Oxiácidos são ácidos com oxigênio, como H2SO4, HNO3."
+      },
+      {
+        "enunciado": "Qual das opções abaixo é um exemplo de hidrácido?",
+        "opcoes": [
+          "H2SO4",
+          "HNO3",
+          "HCl",
+          "H3PO4"
+        ],
+        "correta": 2,
+        "explicacao": "O HCl é um hidrácido, pois não possui oxigênio."
+      },
+      {
+        "enunciado": "Qual das opções abaixo é um exemplo de oxiácido?",
+        "opcoes": [
+          "HCl",
+          "HCN",
+          "H2S",
+          "HNO3"
+        ],
+        "correta": 3,
+        "explicacao": "O HNO3 possui oxigênio, logo é um oxiácido."
+      },
+      {
+        "enunciado": "Quanto ao número de hidrogênios ionizáveis, um ácido que libera apenas um H+ é chamado de:",
+        "opcoes": [
+          "Monoácido.",
+          "Diácido.",
+          "Triácido.",
+          "Tetrácido."
+        ],
+        "correta": 0,
+        "explicacao": "Monoácido libera 1 H+ por molécula."
+      },
+      {
+        "enunciado": "O ácido sulfúrico (H2SO4) é classificado como um:",
+        "opcoes": [
+          "Monoácido.",
+          "Diácido.",
+          "Triácido.",
+          "Tetrácido."
+        ],
+        "correta": 1,
+        "explicacao": "Ele libera 2 íons H+ na ionização."
+      },
+      {
+        "enunciado": "O ácido fosfórico (H3PO4) é classificado como um:",
+        "opcoes": [
+          "Monoácido.",
+          "Diácido.",
+          "Triácido.",
+          "Tetrácido."
+        ],
+        "correta": 2,
+        "explicacao": "Ele libera 3 íons H+ na ionização."
+      },
+      {
+        "enunciado": "No ácido acético (H4C2O2 ou CH3COOH), quantos hidrogênios são considerados ionizáveis?",
+        "opcoes": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ],
+        "correta": 1,
+        "explicacao": "Apenas o hidrogênio ligado ao oxigênio (grupo -COOH) é ionizável. Os hidrogênios ligados ao carbono não são."
+      },
+      {
+        "enunciado": "Quanto à força, a força de um hidrácido é dada pelo seu grau de ionização (α). Se α < 5%, o ácido é:",
+        "opcoes": [
+          "Forte.",
+          "Moderado.",
+          "Fraco.",
+          "Instável."
+        ],
+        "correta": 2,
+        "explicacao": "α menor que 5% indica um ácido fraco, que se ioniza pouco."
+      },
+      {
+        "enunciado": "Um ácido com grau de ionização α > 50% é considerado:",
+        "opcoes": [
+          "Forte.",
+          "Moderado.",
+          "Fraco.",
+          "Neutro."
+        ],
+        "correta": 0,
+        "explicacao": "α maior que 50% indica um ácido forte, como o HCl."
+      },
+      {
+        "enunciado": "O ácido clorídrico (HCl) é classificado quanto à força como:",
+        "opcoes": [
+          "Forte.",
+          "Moderado.",
+          "Fraco.",
+          "Superácido."
+        ],
+        "correta": 0,
+        "explicacao": "O HCl é um dos hidrácidos mais fortes."
+      },
+      {
+        "enunciado": "O ácido fluorídrico (HF) é classificado quanto à força como:",
+        "opcoes": [
+          "Forte.",
+          "Moderado.",
+          "Fraco.",
+          "Instável."
+        ],
+        "correta": 2,
+        "explicacao": "Embora seja um hidrácido, o HF é fraco e corrosivo."
+      },
+      {
+        "enunciado": "Para os oxiácidos, a força pode ser determinada pela diferença entre o número de oxigênios e o número de hidrogênios ionizáveis (m - n). Se a diferença for 0, o ácido é:",
+        "opcoes": [
+          "Forte.",
+          "Moderado.",
+          "Fraco.",
+          "Instável."
+        ],
+        "correta": 2,
+        "explicacao": "Exemplo: HClO (1 O - 1 H = 0), é um ácido fraco."
+      },
+      {
+        "enunciado": "Se a diferença (m - n) em um oxiácido for 2 ou 3, ele é considerado:",
+        "opcoes": [
+          "Forte.",
+          "Moderado.",
+          "Fraco.",
+          "Neutro."
+        ],
+        "correta": 0,
+        "explicacao": "Exemplo: H2SO4 (4 O - 2 H = 2), é um ácido forte."
+      },
+      {
+        "enunciado": "Qual o grau de ionização (α) do ácido sulfúrico (H2SO4) em relação à sua força?",
+        "opcoes": [
+          "Forte (α > 50%)",
+          "Fraco (α < 5%)",
+          "Moderado",
+          "Não se aplica"
+        ],
+        "correta": 0,
+        "explicacao": "O H2SO4 é um ácido forte."
+      },
+      {
+        "enunciado": "Ácidos voláteis são aqueles que:",
+        "opcoes": [
+          "Possuem alto ponto de ebulição e não evaporam facilmente.",
+          "Possuem baixo ponto de ebulição e evaporam facilmente.",
+          "Não possuem cheiro.",
+          "São sólidos."
+        ],
+        "correta": 1,
+        "explicacao": "A volatilidade indica a facilidade de passar para o estado gasoso."
+      },
+      {
+        "enunciado": "Qual das opções abaixo é um exemplo de ácido fixo (não volátil)?",
+        "opcoes": [
+          "HCl",
+          "HNO3",
+          "H2SO4",
+          "HCN"
+        ],
+        "correta": 2,
+        "explicacao": "O H2SO4 possui alto ponto de ebulição, sendo fixo."
+      },
+      {
+        "enunciado": "O ácido carbônico (H2CO3) é um exemplo de ácido:",
+        "opcoes": [
+          "Forte e estável.",
+          "Fraco e instável (decompõe-se facilmente).",
+          "Forte e volátil.",
+          "Moderado."
+        ],
+        "correta": 1,
+        "explicacao": "O H2CO3 se decompõe facilmente em água e gás carbônico."
+      },
+      {
+        "enunciado": "Quanto à presença de oxigênio, o ácido cianídrico (HCN) é:",
+        "opcoes": [
+          "Oxiácido.",
+          "Hidrácido.",
+          "Hidróxido.",
+          "Sal."
+        ],
+        "correta": 1,
+        "explicacao": "Como não tem oxigênio, é um hidrácido."
+      },
+      {
+        "enunciado": "Qual das alternativas apresenta apenas hidrácidos?",
+        "opcoes": [
+          "HCl, HBr, HF.",
+          "H2SO4, HNO3, HClO.",
+          "H2O, H2S, HCN.",
+          "H3PO4, H2CO3, HCN."
+        ],
+        "correta": 0,
+        "explicacao": "São todos ácidos sem oxigênio."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_qui_nomenclatura_acidos_01",
+    "titulo": "Química - Nomenclatura de Ácidos",
+    "tipo": "conteudo",
+    "icone": "🔤",
+    "perguntas": [
+      {
+        "enunciado": "Como é formada a nomenclatura dos hidrácidos?",
+        "opcoes": [
+          "Ácido + nome do elemento + sufixo 'ico'",
+          "Ácido + nome do elemento + sufixo 'ídrico'",
+          "Ácido + nome do elemento + sufixo 'oso'",
+          "Hidróxido + nome do elemento"
+        ],
+        "correta": 1,
+        "explicacao": "Exemplo: HCl = Ácido clor + ídrico."
+      },
+      {
+        "enunciado": "Qual é o nome do ácido HCl?",
+        "opcoes": [
+          "Ácido cloroso.",
+          "Ácido clórico.",
+          "Ácido clorídrico.",
+          "Ácido perclórico."
+        ],
+        "correta": 2,
+        "explicacao": "HCl é o ácido clorídrico."
+      },
+      {
+        "enunciado": "Qual é o nome do ácido HBr?",
+        "opcoes": [
+          "Ácido bromídrico.",
+          "Ácido brômico.",
+          "Ácido bromoso.",
+          "Ácido perbrômico."
+        ],
+        "correta": 0,
+        "explicacao": "HBr é o ácido bromídrico (terminação ídrico para hidrácidos)."
+      },
+      {
+        "enunciado": "Qual é o nome do ácido H2S?",
+        "opcoes": [
+          "Ácido sulfúrico.",
+          "Ácido sulfídrico.",
+          "Ácido sulfuroso.",
+          "Ácido persulfúrico."
+        ],
+        "correta": 1,
+        "explicacao": "H2S é o ácido sulfídrico."
+      },
+      {
+        "enunciado": "Qual é o nome do ácido HCN?",
+        "opcoes": [
+          "Ácido cianídrico.",
+          "Ácido ciânico.",
+          "Ácido carbônico.",
+          "Ácido clorídrico."
+        ],
+        "correta": 0,
+        "explicacao": "HCN é o ácido cianídrico."
+      },
+      {
+        "enunciado": "Para os oxiácidos que possuem apenas 1 oxigênio a mais que o ácido padrão, usa-se o sufixo:",
+        "opcoes": [
+          "per...ico",
+          "...ico",
+          "...oso",
+          "hipo...oso"
+        ],
+        "correta": 1,
+        "explicacao": "O padrão termina em 'ico'."
+      },
+      {
+        "enunciado": "Para os oxiácidos com menor quantidade de oxigênio que o padrão, usa-se o sufixo:",
+        "opcoes": [
+          "per...ico",
+          "...ico",
+          "...oso",
+          "ídrico"
+        ],
+        "correta": 2,
+        "explicacao": "Quando o oxigênio diminui, o sufixo muda de 'ico' para 'oso'."
+      },
+      {
+        "enunciado": "Qual é o nome do ácido H2SO4?",
+        "opcoes": [
+          "Ácido sulfuroso.",
+          "Ácido sulfúrico.",
+          "Ácido persulfúrico.",
+          "Ácido sulfídrico."
+        ],
+        "correta": 1,
+        "explicacao": "H2SO4 é o ácido sulfúrico (oxigênio padrão)."
+      },
+      {
+        "enunciado": "Qual é o nome do ácido H2SO3?",
+        "opcoes": [
+          "Ácido sulfuroso.",
+          "Ácido sulfúrico.",
+          "Ácido persulfúrico.",
+          "Ácido sulfídrico."
+        ],
+        "correta": 0,
+        "explicacao": "Possui um oxigênio a menos que o padrão, logo é sulfuroso."
+      },
+      {
+        "enunciado": "Qual é o nome do ácido HNO3?",
+        "opcoes": [
+          "Ácido nitroso.",
+          "Ácido nítrico.",
+          "Ácido pernítrico.",
+          "Ácido hiponitroso."
+        ],
+        "correta": 1,
+        "explicacao": "HNO3 é o ácido nítrico (oxigênio padrão)."
+      },
+      {
+        "enunciado": "Qual é o nome do ácido HNO2?",
+        "opcoes": [
+          "Ácido nitroso.",
+          "Ácido nítrico.",
+          "Ácido pernítrico.",
+          "Ácido hiponitroso."
+        ],
+        "correta": 0,
+        "explicacao": "Possui um oxigênio a menos que o padrão, logo é nitroso."
+      },
+      {
+        "enunciado": "Qual é o nome do ácido H3PO4?",
+        "opcoes": [
+          "Ácido fosforoso.",
+          "Ácido fosfórico.",
+          "Ácido perfosfórico.",
+          "Ácido hipofosforoso."
+        ],
+        "correta": 1,
+        "explicacao": "H3PO4 é o ácido fosfórico."
+      },
+      {
+        "enunciado": "Qual é o nome do ácido H3PO3?",
+        "opcoes": [
+          "Ácido fosforoso.",
+          "Ácido fosfórico.",
+          "Ácido perfosfórico.",
+          "Ácido hipofosforoso."
+        ],
+        "correta": 0,
+        "explicacao": "Possui um oxigênio a menos, logo é fosforoso."
+      },
+      {
+        "enunciado": "Qual é o nome do ácido HClO4?",
+        "opcoes": [
+          "Ácido cloroso.",
+          "Ácido clórico.",
+          "Ácido perclórico.",
+          "Ácido hipocloroso."
+        ],
+        "correta": 2,
+        "explicacao": "Possui um oxigênio a mais que o padrão (clórico), logo usa-se o prefixo 'per' e sufixo 'ico'."
+      },
+      {
+        "enunciado": "Qual é o nome do ácido HClO3?",
+        "opcoes": [
+          "Ácido cloroso.",
+          "Ácido clórico.",
+          "Ácido perclórico.",
+          "Ácido hipocloroso."
+        ],
+        "correta": 1,
+        "explicacao": "HClO3 é o ácido clórico (padrão)."
+      },
+      {
+        "enunciado": "Qual é o nome do ácido HClO2?",
+        "opcoes": [
+          "Ácido cloroso.",
+          "Ácido clórico.",
+          "Ácido perclórico.",
+          "Ácido hipocloroso."
+        ],
+        "correta": 0,
+        "explicacao": "Possui um oxigênio a menos, logo é cloroso."
+      },
+      {
+        "enunciado": "Qual é o nome do ácido HClO?",
+        "opcoes": [
+          "Ácido cloroso.",
+          "Ácido clórico.",
+          "Ácido perclórico.",
+          "Ácido hipocloroso."
+        ],
+        "correta": 3,
+        "explicacao": "Possui dois oxigênios a menos que o padrão, usando 'hipo' e 'oso'."
+      },
+      {
+        "enunciado": "Qual é o nome do ácido H2CO3?",
+        "opcoes": [
+          "Ácido carbônico.",
+          "Ácido carbonoso.",
+          "Ácido perclórico.",
+          "Ácido cianídrico."
+        ],
+        "correta": 0,
+        "explicacao": "H2CO3 é o ácido carbônico."
+      },
+      {
+        "enunciado": "O ácido HBrO3 é o padrão da família do bromo. Seu nome é:",
+        "opcoes": [
+          "Ácido bromídrico.",
+          "Ácido brômico.",
+          "Ácido bromoso.",
+          "Ácido hipobromoso."
+        ],
+        "correta": 1,
+        "explicacao": "Terminação ico para o padrão."
+      },
+      {
+        "enunciado": "O ácido HBrO tem dois oxigênios a menos que o padrão. Seu nome é:",
+        "opcoes": [
+          "Ácido bromídrico.",
+          "Ácido brômico.",
+          "Ácido bromoso.",
+          "Ácido hipobromoso."
+        ],
+        "correta": 3,
+        "explicacao": "Usa-se o prefixo 'hipo' e o sufixo 'oso'."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_qui_aplicacoes_acidos_01",
+    "titulo": "Química - Aplicações dos Ácidos",
+    "tipo": "conteudo",
+    "icone": "🏭",
+    "perguntas": [
+      {
+        "enunciado": "O ácido clorídrico (HCl), quando vendido comercialmente para limpeza pesada, é conhecido como:",
+        "opcoes": [
+          "Ácido muriático.",
+          "Ácido sulfúrico.",
+          "Água régia.",
+          "Ácido de bateria."
+        ],
+        "correta": 0,
+        "explicacao": "O ácido muriático é uma solução impura de HCl usada na limpeza de pedras."
+      },
+      {
+        "enunciado": "O ácido sulfúrico (H2SO4) é muito utilizado em baterias de carro. Qual é a sua principal característica de risco?",
+        "opcoes": [
+          "É inofensivo à pele.",
+          "É altamente corrosivo e desidratante (carboniza tecidos).",
+          "É inflamável.",
+          "Não reage com metais."
+        ],
+        "correta": 1,
+        "explicacao": "O H2SO4 concentrado é extremamente corrosivo e queima a pele."
+      },
+      {
+        "enunciado": "O ácido fluorídrico (HF) é utilizado em qual indústria devido à sua propriedade de atacar o vidro?",
+        "opcoes": [
+          "Indústria alimentícia.",
+          "Indústria de gravação em vidros.",
+          "Indústria têxtil.",
+          "Indústria automotiva."
+        ],
+        "correta": 1,
+        "explicacao": "O HF reage com a sílica do vidro, sendo usado para gravações e corrosões."
+      },
+      {
+        "enunciado": "O ácido nítrico (HNO3) era conhecido pelos alquimistas como:",
+        "opcoes": [
+          "Água forte (aqua fortis).",
+          "Água régia.",
+          "Água benta.",
+          "Sangue do diabo."
+        ],
+        "correta": 0,
+        "explicacao": "Aqua fortis (água forte) é o nome antigo do HNO3."
+      },
+      {
+        "enunciado": "Qual ácido é muito utilizado na fabricação de fertilizantes, explosivos e corantes?",
+        "opcoes": [
+          "Ácido clorídrico.",
+          "Ácido nítrico.",
+          "Ácido carbônico.",
+          "Ácido fluorídrico."
+        ],
+        "correta": 1,
+        "explicacao": "O HNO3 é essencial na indústria química, incluindo fertilizantes e explosivos."
+      },
+      {
+        "enunciado": "O ácido carbônico (H2CO3) é um dos principais componentes de qual bebida?",
+        "opcoes": [
+          "Sucos naturais.",
+          "Refrigerantes e água gaseificada.",
+          "Leite.",
+          "Café."
+        ],
+        "correta": 1,
+        "explicacao": "O H2CO3 se forma pela dissolução do CO2 na água, dando o 'gás' aos refrigerantes."
+      },
+      {
+        "enunciado": "Por que o ácido carbônico é considerado instável?",
+        "opcoes": [
+          "Porque explode facilmente.",
+          "Porque se decompõe rapidamente em água (H2O) e gás carbônico (CO2).",
+          "Porque não reage com nada.",
+          "Porque queima a pele."
+        ],
+        "correta": 1,
+        "explicacao": "O equilíbrio H2CO3 <-> H2O + CO2 é facilmente deslocado, liberando gás."
+      },
+      {
+        "enunciado": "O ácido ascórbico é popularmente conhecido como:",
+        "opcoes": [
+          "Vitamina A.",
+          "Vitamina B12.",
+          "Vitamina C.",
+          "Vitamina D."
+        ],
+        "correta": 2,
+        "explicacao": "O ácido ascórbico é a Vitamina C, importante para a imunidade."
+      },
+      {
+        "enunciado": "Qual ácido está presente no vinagre e é usado como tempero e conservante?",
+        "opcoes": [
+          "Ácido cítrico.",
+          "Ácido acético.",
+          "Ácido lático.",
+          "Ácido tartárico."
+        ],
+        "correta": 1,
+        "explicacao": "O vinagre é uma solução de ácido acético (CH3COOH)."
+      },
+      {
+        "enunciado": "Qual ácido é encontrado em frutas cítricas como o limão e a laranja?",
+        "opcoes": [
+          "Ácido acético.",
+          "Ácido cítrico.",
+          "Ácido carbônico.",
+          "Ácido clorídrico."
+        ],
+        "correta": 1,
+        "explicacao": "O ácido cítrico é o principal responsável pelo sabor azedo das frutas cítricas."
+      },
+      {
+        "enunciado": "O ácido clorídrico presente no nosso estômago tem a função de:",
+        "opcoes": [
+          "Apenas dar sabor aos alimentos.",
+          "Ajudar na digestão dos alimentos e destruir bactérias.",
+          "Regular a temperatura corporal.",
+          "Produzir muco."
+        ],
+        "correta": 1,
+        "explicacao": "O HCl estomacal ativa enzimas digestivas e atua na defesa do organismo."
+      },
+      {
+        "enunciado": "A chuva ácida é um problema ambiental causado principalmente pela emissão de quais gases na atmosfera?",
+        "opcoes": [
+          "Gás oxigênio e gás nitrogênio.",
+          "Óxidos de enxofre e óxidos de nitrogênio.",
+          "Gás carbônico e metano.",
+          "Gás nobre e vapor d'água."
+        ],
+        "correta": 1,
+        "explicacao": "Esses óxidos reagem com a água da chuva formando ácidos como o sulfúrico e nítrico."
+      },
+      {
+        "enunciado": "A reação entre um ácido e um metal geralmente produz:",
+        "opcoes": [
+          "Sal e água.",
+          "Gás hidrogênio e um sal.",
+          "Gás oxigênio.",
+          "Apenas água."
+        ],
+        "correta": 1,
+        "explicacao": "Exemplo: Zn + 2HCl -> ZnCl2 + H2 (gás hidrogênio)."
+      },
+      {
+        "enunciado": "Qual ácido é usado na indústria como decapante para remover impurezas do ferro e do aço antes da galvanização?",
+        "opcoes": [
+          "Ácido acético.",
+          "Ácido sulfúrico.",
+          "Ácido cítrico.",
+          "Ácido carbônico."
+        ],
+        "correta": 1,
+        "explicacao": "O ácido sulfúrico é muito usado na limpeza de superfícies metálicas."
+      },
+      {
+        "enunciado": "O ácido sulfídrico (H2S) é responsável pelo cheiro característico de:",
+        "opcoes": [
+          "Ovos podres.",
+          "Frutas cítricas.",
+          "Vinagre.",
+          "Cloro de piscina."
+        ],
+        "correta": 0,
+        "explicacao": "O H2S tem um odor forte e desagradável, lembrando ovos podres."
+      },
+      {
+        "enunciado": "Qual é o nome do ácido presente na bateria do carro, que é formado por chumbo e óxido de chumbo?",
+        "opcoes": [
+          "Ácido nítrico.",
+          "Ácido clorídrico.",
+          "Ácido sulfúrico.",
+          "Ácido fosfórico."
+        ],
+        "correta": 2,
+        "explicacao": "A bateria automotiva contém uma solução de ácido sulfúrico (H2SO4)."
+      },
+      {
+        "enunciado": "A substância conhecida como 'ácido muriático' é uma solução de:",
+        "opcoes": [
+          "Ácido sulfúrico.",
+          "Ácido clorídrico.",
+          "Ácido nítrico.",
+          "Ácido fosfórico."
+        ],
+        "correta": 1,
+        "explicacao": "O ácido muriático é uma versão comercial e impura do ácido clorídrico."
+      },
+      {
+        "enunciado": "O ácido fosfórico (H3PO4) é muito utilizado na indústria de alimentos como:",
+        "opcoes": [
+          "Corante.",
+          "Conservante e acidulante (ex: em refrigerantes tipo cola).",
+          "Espessante.",
+          "Adoçante."
+        ],
+        "correta": 1,
+        "explicacao": "O H3PO4 é um acidulante comum em bebidas industrializadas."
+      },
+      {
+        "enunciado": "O ácido nítrico é utilizado no teste de presença de qual substância na urina?",
+        "opcoes": [
+          "Glicose.",
+          "Cálcio.",
+          "Albumina (proteínas).",
+          "Ureia."
+        ],
+        "correta": 2,
+        "explicacao": "O HNO3 é usado para detectar a presença de albumina na urina."
+      },
+      {
+        "enunciado": "Qual das alternativas abaixo NÃO é uma aplicação do ácido clorídrico?",
+        "opcoes": [
+          "Limpeza de pedras (como mármore).",
+          "Galvanização de metais.",
+          "Produção de refrigerantes.",
+          "Digestão estomacal."
+        ],
+        "correta": 2,
+        "explicacao": "A produção de refrigerantes utiliza ácido fosfórico ou carbônico, não o clorídrico."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_qui_bases_introducao_01",
+    "titulo": "Química - Introdução às Bases",
+    "tipo": "conteudo",
+    "icone": "🧼",
+    "perguntas": [
+      {
+        "enunciado": "Qual é a definição de base (ou álcali) segundo Arrhenius?",
+        "opcoes": [
+          "Toda substância que em água libera íons H+.",
+          "Toda substância que em água libera exclusivamente íons OH- (hidroxila).",
+          "Toda substância que recebe elétrons.",
+          "Toda substância que possui sabor azedo."
+        ],
+        "correta": 1,
+        "explicacao": "Para Arrhenius, base é o composto que sofre dissociação iônica e libera OH- em solução aquosa."
+      },
+      {
+        "enunciado": "Qual é a característica organoléptica marcante das bases?",
+        "opcoes": [
+          "Sabor azedo.",
+          "Sabor adstringente (amarra a boca).",
+          "Sabor doce.",
+          "Ausência de sabor."
+        ],
+        "correta": 1,
+        "explicacao": "As bases têm sabor adstringente, como a banana verde ou o leite de magnésia."
+      },
+      {
+        "enunciado": "Ao contrário dos ácidos, as bases são formadas por estruturas:",
+        "opcoes": [
+          "Covalentes (moleculares).",
+          "Iônicas.",
+          "Metálicas.",
+          "Radioativas."
+        ],
+        "correta": 1,
+        "explicacao": "As bases são compostos iônicos formados por um cátion metálico e um ânion hidroxila (OH-)."
+      },
+      {
+        "enunciado": "Em solução aquosa, as bases sofrem qual processo?",
+        "opcoes": [
+          "Ionização.",
+          "Dissociação iônica (separação dos íons).",
+          "Fissão nuclear.",
+          "Sublimação."
+        ],
+        "correta": 1,
+        "explicacao": "O retículo cristalino da base se desfaz na água, separando os íons (dissociação)."
+      },
+      {
+        "enunciado": "Qual indicador fica com coloração rosa/vermelha em meio básico?",
+        "opcoes": [
+          "Papel de tornassol azul.",
+          "Papel de tornassol vermelho.",
+          "Fenolftaleína.",
+          "Alaranjado de metila."
+        ],
+        "correta": 2,
+        "explicacao": "A fenolftaleína é incolor em ácido e rosa em base."
+      },
+      {
+        "enunciado": "O papel de tornassol vermelho, em contato com uma base, adquire qual cor?",
+        "opcoes": [
+          "Vermelho mais forte.",
+          "Azul.",
+          "Incolor.",
+          "Amarelo."
+        ],
+        "correta": 1,
+        "explicacao": "O tornassol vermelho muda para azul em meio básico."
+      },
+      {
+        "enunciado": "O hidróxido de sódio (NaOH), vendido comercialmente, é popularmente conhecido como:",
+        "opcoes": [
+          "Soda cáustica.",
+          "Ácido muriático.",
+          "Água sanitária.",
+          "Leite de magnésia."
+        ],
+        "correta": 0,
+        "explicacao": "O NaOH é a soda cáustica, muito usada na limpeza e fabricação de sabão."
+      },
+      {
+        "enunciado": "Qual base é utilizada como antiácido estomacal e é conhecida como 'leite de magnésia'?",
+        "opcoes": [
+          "Hidróxido de sódio.",
+          "Hidróxido de cálcio.",
+          "Hidróxido de magnésio.",
+          "Hidróxido de amônio."
+        ],
+        "correta": 2,
+        "explicacao": "O hidróxido de magnésio (Mg(OH)2) é o princípio ativo do leite de magnésia."
+      },
+      {
+        "enunciado": "O hidróxido de cálcio (Ca(OH)2) é muito utilizado em qual setor?",
+        "opcoes": [
+          "Construção civil (preparação de argamassa).",
+          "Indústria de refrigerantes.",
+          "Farmácia (produção de aspirina).",
+          "Baterias de carro."
+        ],
+        "correta": 0,
+        "explicacao": "A cal hidratada (Ca(OH)2) é usada para fazer argamassa na construção."
+      },
+      {
+        "enunciado": "Qual base é utilizada na fabricação de sabões e detergentes e é altamente corrosiva à pele?",
+        "opcoes": [
+          "Hidróxido de amônio.",
+          "Hidróxido de sódio (NaOH).",
+          "Hidróxido de magnésio.",
+          "Hidróxido de cálcio."
+        ],
+        "correta": 1,
+        "explicacao": "O NaOH é a base forte típica usada na saponificação (fabricação de sabão)."
+      },
+      {
+        "enunciado": "O hidróxido de amônio (NH4OH) na verdade é uma solução de amônia (NH3) em água. Ele é usado em:",
+        "opcoes": [
+          "Fertilizantes e produtos de limpeza.",
+          "Construção de pontes.",
+          "Fabricação de vidros.",
+          "Combustível de foguetes."
+        ],
+        "correta": 0,
+        "explicacao": "O NH4OH é volátil e usado em limpeza doméstica e na produção de sais de amônio (fertilizantes)."
+      },
+      {
+        "enunciado": "A dissociação de uma base forte em água, como o NaOH, libera:",
+        "opcoes": [
+          "Apenas cátions H+.",
+          "Um cátion metálico (Na+) e um ânion hidroxila (OH-).",
+          "Apenas ânions.",
+          "Elétrons livres."
+        ],
+        "correta": 1,
+        "explicacao": "NaOH -> Na+ + OH-."
+      },
+      {
+        "enunciado": "Quanto ao número de hidroxilas (OH-), o NaOH é classificado como:",
+        "opcoes": [
+          "Monobase.",
+          "Dibase.",
+          "Tribase.",
+          "Tetrabase."
+        ],
+        "correta": 0,
+        "explicacao": "Libera apenas 1 OH- por fórmula."
+      },
+      {
+        "enunciado": "Quanto ao número de hidroxilas, o Ca(OH)2 é classificado como:",
+        "opcoes": [
+          "Monobase.",
+          "Dibase.",
+          "Tribase.",
+          "Tetrabase."
+        ],
+        "correta": 1,
+        "explicacao": "Libera 2 OH- por fórmula."
+      },
+      {
+        "enunciado": "Quanto ao número de hidroxilas, o Al(OH)3 é classificado como:",
+        "opcoes": [
+          "Monobase.",
+          "Dibase.",
+          "Tribase.",
+          "Tetrabase."
+        ],
+        "correta": 2,
+        "explicacao": "Libera 3 OH- por fórmula."
+      },
+      {
+        "enunciado": "As bases que são totalmente dissolvidas na água (100% dissociadas) são chamadas de bases:",
+        "opcoes": [
+          "Fracas.",
+          "Fortes.",
+          "Moderadas.",
+          "Insolúveis."
+        ],
+        "correta": 1,
+        "explicacao": "Bases fortes são as dos metais alcalinos e alcalinoterrosos, com exceção do magnésio."
+      },
+      {
+        "enunciado": "Uma base com grau de dissociação menor que 5% (α < 5%) é considerada:",
+        "opcoes": [
+          "Forte.",
+          "Fraca.",
+          "Moderada.",
+          "Neutra."
+        ],
+        "correta": 1,
+        "explicacao": "Bases fracas se dissociam pouco, como o NH4OH."
+      },
+      {
+        "enunciado": "Quais bases são consideradas solúveis em água?",
+        "opcoes": [
+          "As de metais alcalinos (família IA) e o hidróxido de amônio (NH4OH).",
+          "Todas as bases são insolúveis.",
+          "As de metais de transição.",
+          "Apenas as de metais alcalinoterrosos."
+        ],
+        "correta": 0,
+        "explicacao": "As bases da família IA e o NH4OH são as principais solúveis."
+      },
+      {
+        "enunciado": "O que acontece com a maioria das bases quando são aquecidas a altas temperaturas?",
+        "opcoes": [
+          "Elas explodem.",
+          "Elas se fundem (passam para o estado líquido) e se decompõem.",
+          "Elas evaporam rapidamente.",
+          "Elas se transformam em ácidos."
+        ],
+        "correta": 1,
+        "explicacao": "As bases são sólidas à temperatura ambiente e, ao serem aquecidas, fundem-se e sofrem decomposição."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_qui_classificacao_bases_01",
+    "titulo": "Química - Classificação e Nomenclatura de Bases",
+    "tipo": "conteudo",
+    "icone": "🧪",
+    "perguntas": [
+      {
+        "enunciado": "Como são chamadas as bases que possuem apenas 1 hidroxila (OH-)?",
+        "opcoes": [
+          "Monobases.",
+          "Dibases.",
+          "Tribases.",
+          "Tetrabases."
+        ],
+        "correta": 0,
+        "explicacao": "Monobases possuem apenas um grupo OH-."
+      },
+      {
+        "enunciado": "Qual das bases abaixo é uma dibase?",
+        "opcoes": [
+          "NaOH",
+          "Ca(OH)2",
+          "Al(OH)3",
+          "NH4OH"
+        ],
+        "correta": 1,
+        "explicacao": "O Ca(OH)2 possui duas hidroxilas."
+      },
+      {
+        "enunciado": "O hidróxido de alumínio, Al(OH)3, é classificado como:",
+        "opcoes": [
+          "Monobase.",
+          "Dibase.",
+          "Tribase.",
+          "Tetrabase."
+        ],
+        "correta": 2,
+        "explicacao": "Possui três grupos OH-."
+      },
+      {
+        "enunciado": "Qual das bases abaixo é uma tetrabase?",
+        "opcoes": [
+          "NaOH",
+          "Ca(OH)2",
+          "Al(OH)3",
+          "Pb(OH)4"
+        ],
+        "correta": 3,
+        "explicacao": "O Pb(OH)4 possui quatro grupos OH-."
+      },
+      {
+        "enunciado": "O que define a força de uma base?",
+        "opcoes": [
+          "A quantidade de hidrogênios.",
+          "O seu grau de dissociação em água.",
+          "A sua cor.",
+          "O seu ponto de fusão."
+        ],
+        "correta": 1,
+        "explicacao": "A força indica o quanto a base se dissocia na água (α)."
+      },
+      {
+        "enunciado": "As bases fortes são aquelas que possuem:",
+        "opcoes": [
+          "Grau de dissociação alto (praticamente 100%).",
+          "Grau de dissociação baixo.",
+          "Apenas uma hidroxila.",
+          "Apenas elementos não-metais."
+        ],
+        "correta": 0,
+        "explicacao": "Bases fortes estão totalmente dissociadas em solução."
+      },
+      {
+        "enunciado": "Qual é a única base forte da família dos metais alcalinoterrosos (exceto o magnésio)?",
+        "opcoes": [
+          "Hidróxido de magnésio.",
+          "Hidróxido de cálcio (Ca(OH)2).",
+          "Hidróxido de amônio.",
+          "Hidróxido de alumínio."
+        ],
+        "correta": 1,
+        "explicacao": "As bases de metais alcalinoterrosos são fortes, com exceção do Mg(OH)2. O Ca(OH)2 é uma delas."
+      },
+      {
+        "enunciado": "O hidróxido de amônio (NH4OH) é uma base considerada:",
+        "opcoes": [
+          "Forte.",
+          "Fraca.",
+          "Moderada.",
+          "Neutra."
+        ],
+        "correta": 1,
+        "explicacao": "É uma base fraca, com baixo grau de dissociação."
+      },
+      {
+        "enunciado": "Qual das alternativas contém apenas bases fortes?",
+        "opcoes": [
+          "NaOH e KOH.",
+          "NH4OH e Mg(OH)2.",
+          "Ca(OH)2 e Al(OH)3.",
+          "Fe(OH)2 e AgOH."
+        ],
+        "correta": 0,
+        "explicacao": "Bases de metais alcalinos são fortes."
+      },
+      {
+        "enunciado": "Segundo as regras de nomenclatura, o nome da base NaOH é:",
+        "opcoes": [
+          "Hidróxido de sódio.",
+          "Hidróxido de sódico.",
+          "Óxido de sódio.",
+          "Sódio de hidrogênio."
+        ],
+        "correta": 0,
+        "explicacao": "A regra geral é: Hidróxido de + nome do cátion (elemento)."
+      },
+      {
+        "enunciado": "Qual é a nomenclatura da base Ca(OH)2?",
+        "opcoes": [
+          "Hidróxido de carbono.",
+          "Hidróxido de cálcio.",
+          "Hidróxido de cálcico.",
+          "Hidróxido de cal."
+        ],
+        "correta": 1,
+        "explicacao": "Nomeia-se o cátion de cálcio."
+      },
+      {
+        "enunciado": "Qual é a nomenclatura da base NH4OH?",
+        "opcoes": [
+          "Hidróxido de nitrogênio.",
+          "Hidróxido de amônio.",
+          "Hidróxido de amônia.",
+          "Hidróxido de hidrogênio."
+        ],
+        "correta": 1,
+        "explicacao": "O cátion NH4+ é o amônio."
+      },
+      {
+        "enunciado": "Para metais que possuem dois números de oxidação (como o Ferro), a nomenclatura oficial (IUPAC) usa:",
+        "opcoes": [
+          "Os sufixos 'oso' e 'ico'.",
+          "Algarismos romanos indicando a carga (ex: ferro II, ferro III).",
+          "Letras do alfabeto.",
+          "Não há regra para esses metais."
+        ],
+        "correta": 1,
+        "explicacao": "A IUPAC indica a carga com algarismos romanos (ex: Fe(OH)2 = hidróxido de ferro II)."
+      },
+      {
+        "enunciado": "O Fe(OH)2 (onde o Fe tem carga +2) é chamado de:",
+        "opcoes": [
+          "Hidróxido de ferro II.",
+          "Hidróxido de ferro III.",
+          "Hidróxido férrico.",
+          "Hidróxido ferroso."
+        ],
+        "correta": 0,
+        "explicacao": "A nomenclatura oficial usa algarismos romanos."
+      },
+      {
+        "enunciado": "Alternativamente à IUPAC, o Fe(OH)2 pode ser chamado de:",
+        "opcoes": [
+          "Hidróxido ferroso.",
+          "Hidróxido férrico.",
+          "Hidróxido de ferro.",
+          "Hidróxido de ferro II."
+        ],
+        "correta": 0,
+        "explicacao": "O sufixo 'oso' indica o menor número de oxidação (neste caso, +2)."
+      },
+      {
+        "enunciado": "O Fe(OH)3 (onde o Fe tem carga +3) é chamado de:",
+        "opcoes": [
+          "Hidróxido ferroso.",
+          "Hidróxido férrico.",
+          "Hidróxido de ferro II.",
+          "Hidróxido de ferro."
+        ],
+        "correta": 1,
+        "explicacao": "O sufixo 'ico' indica o maior número de oxidação (neste caso, +3)."
+      },
+      {
+        "enunciado": "Qual é a nomenclatura da base Mg(OH)2?",
+        "opcoes": [
+          "Hidróxido de magnésio.",
+          "Hidróxido de magnésico.",
+          "Hidróxido de manganês.",
+          "Hidróxido de manganésio."
+        ],
+        "correta": 0,
+        "explicacao": "Mg é o magnésio."
+      },
+      {
+        "enunciado": "Qual é a nomenclatura da base KOH?",
+        "opcoes": [
+          "Hidróxido de potássio.",
+          "Hidróxido de potássico.",
+          "Hidróxido de cobre.",
+          "Hidróxido de cálcio."
+        ],
+        "correta": 0,
+        "explicacao": "K é o potássio."
+      },
+      {
+        "enunciado": "Os metais alcalinos (Li, Na, K, Rb, Cs, Fr) possuem qual carga fixa em suas bases?",
+        "opcoes": [
+          "+1",
+          "+2",
+          "+3",
+          "-1"
+        ],
+        "correta": 0,
+        "explicacao": "Os metais da família IA têm nox fixo +1, logo não precisam de numeral romano."
+      },
+      {
+        "enunciado": "O íon amônio (NH4+) é um cátion que tem carga:",
+        "opcoes": [
+          "+1",
+          "+2",
+          "-1",
+          "0"
+        ],
+        "correta": 0,
+        "explicacao": "A carga +1 é a característica do íon amônio."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_qui_exercicios_gerais_01",
+    "titulo": "Química - Exercícios de Fixação (Ácidos e Bases)",
+    "tipo": "conteudo",
+    "icone": "📝",
+    "perguntas": [
+      {
+        "enunciado": "Qual a diferença entre ionização e dissociação?",
+        "opcoes": [
+          "Ionização ocorre com compostos iônicos (bases); dissociação com moleculares (ácidos).",
+          "Ionização ocorre com compostos moleculares (ácidos); dissociação com compostos iônicos (bases).",
+          "São a mesma coisa.",
+          "Ambas ocorrem apenas em ácidos."
+        ],
+        "correta": 1,
+        "explicacao": "Ácidos são moleculares e sofrem ionização. Bases são iônicas e sofrem dissociação."
+      },
+      {
+        "enunciado": "A fórmula H2SO4 representa qual ácido?",
+        "opcoes": [
+          "Sulfídrico.",
+          "Sulfuroso.",
+          "Sulfúrico.",
+          "Persulfúrico."
+        ],
+        "correta": 2,
+        "explicacao": "H2SO4 é o ácido sulfúrico."
+      },
+      {
+        "enunciado": "O ácido fosfórico (H3PO4) é classificado como triácido porque:",
+        "opcoes": [
+          "Possui 3 átomos de oxigênio.",
+          "Libera 3 íons H+ na ionização.",
+          "Possui 3 átomos de fósforo.",
+          "Reage com 3 metais."
+        ],
+        "correta": 1,
+        "explicacao": "Triácido refere-se ao número de hidrogênios ionizáveis (3)."
+      },
+      {
+        "enunciado": "O leite de magnésia é uma base utilizada para combater a azia. Sua fórmula é:",
+        "opcoes": [
+          "NaOH",
+          "Mg(OH)2",
+          "Ca(OH)2",
+          "Al(OH)3"
+        ],
+        "correta": 1,
+        "explicacao": "Mg(OH)2 é o hidróxido de magnésio."
+      },
+      {
+        "enunciado": "Quando um ácido reage com uma base, ocorre uma reação de:",
+        "opcoes": [
+          "Combustão.",
+          "Neutralização (formando sal e água).",
+          "Sublimação.",
+          "Precipitação."
+        ],
+        "correta": 1,
+        "explicacao": "A neutralização é a reação típica entre ácido e base."
+      },
+      {
+        "enunciado": "A fenolftaleína em solução básica fica:",
+        "opcoes": [
+          "Incolor.",
+          "Azul.",
+          "Rosa.",
+          "Amarela."
+        ],
+        "correta": 2,
+        "explicacao": "O meio básico torna a fenolftaleína rosa."
+      },
+      {
+        "enunciado": "O ácido nítrico tem a fórmula HNO3. Ele é classificado como:",
+        "opcoes": [
+          "Hidrácido.",
+          "Monoácido.",
+          "Diácido.",
+          "Base."
+        ],
+        "correta": 1,
+        "explicacao": "Como possui apenas 1 H ionizável, é um monoácido."
+      },
+      {
+        "enunciado": "Qual das substâncias abaixo é uma base forte?",
+        "opcoes": [
+          "NH4OH",
+          "Fe(OH)3",
+          "KOH",
+          "Al(OH)3"
+        ],
+        "correta": 2,
+        "explicacao": "O KOH (hidróxido de potássio) é uma base forte de metal alcalino."
+      },
+      {
+        "enunciado": "O ácido usado na limpeza de pedras, conhecido como ácido muriático, é o:",
+        "opcoes": [
+          "H2SO4",
+          "HNO3",
+          "HCl",
+          "H3PO4"
+        ],
+        "correta": 2,
+        "explicacao": "O ácido muriático é uma solução de HCl."
+      },
+      {
+        "enunciado": "O hidróxido de sódio (NaOH) é popularmente chamado de:",
+        "opcoes": [
+          "Cal.",
+          "Soda cáustica.",
+          "Amoníaco.",
+          "Ácido acético."
+        ],
+        "correta": 1,
+        "explicacao": "NaOH é a soda cáustica."
+      },
+      {
+        "enunciado": "Um ácido com fórmula H2S tem o nome de:",
+        "opcoes": [
+          "Ácido sulfúrico.",
+          "Ácido sulfuroso.",
+          "Ácido sulfídrico.",
+          "Ácido persulfúrico."
+        ],
+        "correta": 2,
+        "explicacao": "Terminação 'ídrico' para hidrácidos."
+      },
+      {
+        "enunciado": "As bases possuem sabor:",
+        "opcoes": [
+          "Azedo.",
+          "Doce.",
+          "Amargo.",
+          "Adstringente."
+        ],
+        "correta": 3,
+        "explicacao": "O sabor adstringente (amarra a boca) é característico das bases."
+      },
+      {
+        "enunciado": "O pH de uma solução neutra é:",
+        "opcoes": [
+          "0",
+          "7",
+          "14",
+          "1"
+        ],
+        "correta": 1,
+        "explicacao": "pH 7 é neutro."
+      },
+      {
+        "enunciado": "A escala de pH varia de:",
+        "opcoes": [
+          "0 a 7",
+          "7 a 14",
+          "0 a 14",
+          "1 a 10"
+        ],
+        "correta": 2,
+        "explicacao": "A escala vai de 0 (muito ácido) a 14 (muito básico)."
+      },
+      {
+        "enunciado": "Qual indicador muda de incolor para rosa?",
+        "opcoes": [
+          "Tornassol.",
+          "Fenolftaleína.",
+          "Alaranjado de metila.",
+          "Azul de bromotimol."
+        ],
+        "correta": 1,
+        "explicacao": "A fenolftaleína é o indicador clássico para esse teste."
+      },
+      {
+        "enunciado": "A chuva ácida é formada por ácidos como:",
+        "opcoes": [
+          "H2SO4 e HNO3.",
+          "HCl e NaOH.",
+          "H2CO3 e Ca(OH)2.",
+          "H3PO4 e NH4OH."
+        ],
+        "correta": 0,
+        "explicacao": "O H2SO4 e o HNO3 são formados por poluentes industriais."
+      },
+      {
+        "enunciado": "O HCl é muito importante no corpo humano porque atua:",
+        "opcoes": [
+          "Na digestão estomacal.",
+          "Na coagulação do sangue.",
+          "No transporte de oxigênio.",
+          "Na formação dos ossos."
+        ],
+        "correta": 0,
+        "explicacao": "O ácido clorídrico é o suco gástrico do estômago."
+      },
+      {
+        "enunciado": "O ácido carbônico (H2CO3) é instável e se transforma em:",
+        "opcoes": [
+          "Ácido nítrico e água.",
+          "Água e gás carbônico (CO2).",
+          "Hidrogênio e oxigênio.",
+          "Hidróxido de sódio."
+        ],
+        "correta": 1,
+        "explicacao": "O H2CO3 se decompõe em H2O e CO2, como nos refrigerantes."
+      },
+      {
+        "enunciado": "O ácido cítrico é encontrado em qual fruta?",
+        "opcoes": [
+          "Maçã.",
+          "Limão.",
+          "Uva.",
+          "Banana."
+        ],
+        "correta": 1,
+        "explicacao": "O limão é rico em ácido cítrico."
+      },
+      {
+        "enunciado": "Na fórmula do ácido sulfúrico (H2SO4), qual é o número de hidrogênios ionizáveis?",
+        "opcoes": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correta": 1,
+        "explicacao": "Ambos os hidrogênios estão ligados ao oxigênio e são ionizáveis."
+      }
+    ]
+  }
+]
