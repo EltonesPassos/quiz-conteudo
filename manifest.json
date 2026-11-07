@@ -2,6 +2,7 @@
   "bancos": [
     "https://raw.githubusercontent.com/EltonESPassos/quiz-conteudo/main/8ano/v1/portugues.json",
     "https://raw.githubusercontent.com/EltonESPassos/quiz-conteudo/main/8ano/v1/matematica.json",
-    "https://raw.githubusercontent.com/EltonESPassos/quiz-conteudo/main/9ano/v6/portugues.json"
+    "https://raw.githubusercontent.com/EltonESPassos/quiz-conteudo/main/9ano/v6/portugues.json",
+    "https://raw.githubusercontent.com/EltonESPassos/quiz-conteudo/main/9ano/v6/matematica.json"
   ]
 }
