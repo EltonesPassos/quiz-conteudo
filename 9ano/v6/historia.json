@@ -1,469 +1,469 @@
 [
-{
-"id": "9ano_v6_hist_era_vargas_01",
-"titulo": "História - A Era Vargas e o Populismo",
-"tipo": "conteudo",
-"icone": "🏛️",
-"perguntas": [
-{
-"enunciado": "O período que se estende de 1945 a 1964 na história do Brasil é conhecido como República Populista. Qual era a principal característica do populismo?",
-"opcoes": [
-"A ausência total de participação popular nas decisões políticas.",
-"A implementação de um regime comunista alinhado à URSS.",
-"A relação direta entre o líder carismático e as massas urbanas, muitas vezes contornando instituições tradicionais.",
-"O controle absoluto do Estado pela elite agrária exportadora de café."
-],
-"correta": 2,
-"explicacao": "O populismo caracterizava-se pela relação direta entre o líder e o povo, especialmente as massas urbanas, com promessas de benefícios sociais e controle sobre os sindicatos."
-},
-{
-"enunciado": "Qual foi o desfecho do Estado Novo em 1945, que marcou o fim da ditadura de Getúlio Vargas?",
-"opcoes": [
-"Vargas renunciou espontaneamente após uma crise econômica.",
-"Vargas foi deposto por um golpe militar que temia sua aproximação com os trabalhadores e comunistas.",
-"Vargas foi eleito democraticamente em uma eleição direta.",
-"Vargas foi assassinado durante um comício no Rio de Janeiro."
-],
-"correta": 1,
-"explicacao": "Vargas foi deposto em 29 de outubro de 1945 por um golpe militar, motivado pelo receio de que ele pudesse continuar no poder com apoio popular e dos trabalhadores."
-},
-{
-"enunciado": "Qual foi o principal partido de oposição a Getúlio Vargas durante a República Populista, que representava setores conservadores e a elite agrária?",
-"opcoes": [
-"PTB (Partido Trabalhista Brasileiro).",
-"PSD (Partido Social Democrático).",
-"PCB (Partido Comunista Brasileiro).",
-"UDN (União Democrática Nacional)."
-],
-"correta": 3,
-"explicacao": "A UDN era o principal partido de oposição a Vargas, representando setores conservadores, liberais e a elite agrária."
-},
-{
-"enunciado": "Em 1951, Vargas retornou ao poder pelo voto popular. Qual foi o principal desafio econômico e político do seu novo governo?",
-"opcoes": [
-"A implementação do socialismo no Brasil.",
-"A luta contra a inflação e a pressão de setores conservadores, enquanto tentava promover o desenvolvimento industrial.",
-"A privatização de todas as empresas estatais.",
-"A entrega do poder aos militares."
-],
-"correta": 1,
-"explicacao": "Vargas enfrentou inflação e a oposição da UDN, que o acusava de promover um governo populista e corrupto, além de não conseguir governar com estabilidade."
-},
-{
-"enunciado": "Qual foi o motivo do suicídio de Getúlio Vargas em 24 de agosto de 1954?",
-"opcoes": [
-"Uma doença terminal que o impedia de governar.",
-"A pressão de setores militares e da oposição (UDN) que exigiam sua renúncia, culminando na crise política após o atentado da Rua Tonelero.",
-"A derrota em uma guerra contra a Argentina.",
-"A perda de apoio popular devido à criação do Plano Real."
-],
-"correta": 1,
-"explicacao": "Vargas suicidou-se devido à forte pressão política e militar após o atentado contra Carlos Lacerda, que exigia sua renúncia."
-},
-{
-"enunciado": "O que foi o Plano de Metas, implementado por Juscelino Kubitschek (1956-1961)?",
-"opcoes": [
-"Um programa de reforma agrária que visava distribuir terras.",
-"Um conjunto de 31 metas para impulsionar o desenvolvimento econômico, com destaque para os setores de energia, transporte e indústria.",
-"Um plano para reduzir a dívida externa e combater a inflação.",
-"Uma reforma educacional para acabar com o analfabetismo."
-],
-"correta": 1,
-"explicacao": "O Plano de Metas tinha 31 objetivos, com o famoso slogan '50 anos em 5', focando em energia, transporte, indústria, alimentação e educação."
-},
-{
-"enunciado": "Qual foi a principal realização do governo de Juscelino Kubitschek que se tornou um símbolo do seu desenvolvimento?",
-"opcoes": [
-"A construção de Brasília, a nova capital federal.",
-"A criação da Petrobras.",
-"A nacionalização das empresas de energia elétrica.",
-"A implementação do monopólio do petróleo."
-],
-"correta": 0,
-"explicacao": "A construção de Brasília, inaugurada em 1960, foi a principal obra do governo JK e símbolo do seu lema de desenvolvimento."
-},
-{
-"enunciado": "Qual foi a principal característica do governo de Jânio Quadros (1961)?",
-"opcoes": [
-"A implementação de um rigoroso plano econômico.",
-"Um estilo excêntrico, com medidas populistas e a promessa de combater a corrupção, além de uma política externa independente.",
-"A aliança com os Estados Unidos e o rompimento com Cuba.",
-"A entrega do poder aos militares para garantir a ordem."
-],
-"correta": 1,
-"explicacao": "Jânio Quadros ficou marcado por seu estilo populista e excêntrico, com medidas como a proibição do uso de biquínis e a condecoração de Che Guevara."
-},
-{
-"enunciado": "Qual foi o motivo da renúncia de Jânio Quadros em agosto de 1961?",
-"opcoes": [
-"Um golpe militar que o forçou a deixar o poder.",
-"A pressão da opinião pública e a falta de apoio do Congresso, que não aceitou sua política de 'varrer' a corrupção.",
-"A derrota em uma eleição para governador de São Paulo.",
-"A assinatura de um tratado de paz com a União Soviética."
-],
-"correta": 1,
-"explicacao": "Jânio renunciou alegando pressões de forças ocultas, mas a falta de apoio político e a crise institucional foram os principais fatores."
-},
-{
-"enunciado": "Qual foi o desfecho da crise política após a renúncia de Jânio Quadros?",
-"opcoes": [
-"O vice-presidente João Goulart assumiu, mas foi impedido pelos militares, gerando uma crise que culminou no Golpe de 1964.",
-"Os militares assumiram o poder e instauraram uma ditadura militar imediatamente.",
-"O Congresso Nacional elegeu um novo presidente em eleições diretas.",
-"O Brasil entrou em uma guerra civil."
-],
-"correta": 0,
-"explicacao": "A renúncia de Jânio gerou uma crise que resultou na Campanha da Legalidade, liderada por Leonel Brizola, e na posse de João Goulart."
-},
-{
-"enunciado": "O que foi o Plano Trienal, proposto por João Goulart em 1963?",
-"opcoes": [
-"Um plano de reformas de base, incluindo a reforma agrária e a nacionalização de empresas.",
-"Um plano econômico para combater a inflação e promover o desenvolvimento, mas que não conseguiu apoio político.",
-"Um plano para a construção de Brasília.",
-"Um plano para a criação da Petrobras."
-],
-"correta": 1,
-"explicacao": "O Plano Trienal visava combater a inflação e promover reformas, mas foi abandonado devido à oposição política."
-},
-{
-"enunciado": "Qual foi a principal bandeira de João Goulart (Jango) que gerou grande oposição dos militares e da elite conservadora?",
-"opcoes": [
-"A privatização da Petrobras.",
-"A implementação de um regime comunista no Brasil.",
-"As Reformas de Base, que incluíam a reforma agrária, urbana, educacional e tributária.",
-"A entrada do Brasil na Segunda Guerra Mundial."
-],
-"correta": 2,
-"explicacao": "As Reformas de Base eram vistas como uma ameaça à ordem social e econômica pelas elites conservadoras e pelos militares."
-},
-{
-"enunciado": "Qual foi o evento que serviu como estopim para o Golpe Militar de 1964?",
-"opcoes": [
-"A renúncia de Jânio Quadros.",
-"O comício da Central do Brasil, em 13 de março de 1964, onde Jango defendeu as Reformas de Base.",
-"A morte de Getúlio Vargas.",
-"A eleição de Juscelino Kubitschek."
-],
-"correta": 1,
-"explicacao": "O Comício da Central do Brasil, que reuniu cerca de 150 mil pessoas e anunciou as Reformas de Base, foi o estopim para a oposição militar e conservadora."
-},
-{
-"enunciado": "Qual foi o desfecho do governo de João Goulart em 31 de março de 1964?",
-"opcoes": [
-"Goulart foi eleito democraticamente para um novo mandato.",
-"Goulart foi deposto por um golpe militar que instaurou a ditadura no Brasil.",
-"Goulart renunciou e foi substituído por Juscelino Kubitschek.",
-"Goulart foi assassinado durante um comício."
-],
-"correta": 1,
-"explicacao": "O golpe militar de 31 de março de 1964 depôs João Goulart e instaurou o regime militar que durou até 1985."
-},
-{
-"enunciado": "O que foi a Campanha da Legalidade, liderada por Leonel Brizola em 1961?",
-"opcoes": [
-"Uma campanha para a eleição de Jânio Quadros.",
-"Uma campanha para garantir a posse de João Goulart, que estava sendo impedido de assumir a presidência.",
-"Uma campanha contra a construção de Brasília.",
-"Uma campanha para a privatização da Petrobras."
-],
-"correta": 1,
-"explicacao": "A Campanha da Legalidade foi um movimento liderado por Brizola para garantir que João Goulart assumisse a presidência após a renúncia de Jânio Quadros."
-},
-{
-"enunciado": "Qual foi a política econômica de Juscelino Kubitschek que atraiu capital estrangeiro para o Brasil?",
-"opcoes": [
-"O fechamento da economia ao capital estrangeiro.",
-"A abertura para o capital internacional, com incentivos para a instalação de empresas multinacionais.",
-"A nacionalização de todas as empresas estrangeiras.",
-"A criação de um monopólio estatal sobre o comércio exterior."
-],
-"correta": 1,
-"explicacao": "JK incentivou a entrada de capital estrangeiro, especialmente nos setores de bens de consumo duráveis, como a indústria automobilística."
-},
-{
-"enunciado": "Qual foi a principal característica do governo de Getúlio Vargas durante o Estado Novo (1937-1945)?",
-"opcoes": [
-"A democracia plena e a liberdade de imprensa.",
-"A ditadura, a centralização do poder e o controle sobre os sindicatos e a imprensa.",
-"A implementação de um regime comunista.",
-"A descentralização do poder e o fortalecimento dos estados."
-],
-"correta": 1,
-"explicacao": "O Estado Novo foi um período ditatorial, com censura, controle dos sindicatos e centralização do poder."
-},
-{
-"enunciado": "Qual foi a principal realização do governo de Eurico Gaspar Dutra (1946-1951)?",
-"opcoes": [
-"A criação da Petrobras.",
-"A implementação do Plano de Metas.",
-"A promulgação da Constituição de 1946 e a abertura do país ao capital estrangeiro.",
-"A construção de Brasília."
-],
-"correta": 2,
-"explicacao": "O governo Dutra promulgou a Constituição de 1946, que redemocratizou o país, e alinhou-se aos EUA na Guerra Fria."
-},
-{
-"enunciado": "O que foi o Plano SALTE, implementado no governo de Eurico Gaspar Dutra?",
-"opcoes": [
-"Um plano econômico para o desenvolvimento da saúde, alimentação, transporte e energia.",
-"Um plano para a reforma agrária.",
-"Um plano para a criação da Universidade de Brasília.",
-"Um plano para a nacionalização das empresas de petróleo."
-],
-"correta": 0,
-"explicacao": "O Plano SALTE visava investimentos em Saúde, Alimentação, Transporte e Energia, mas não foi totalmente implementado."
-},
-{
-"enunciado": "Qual foi o impacto da renúncia de Jânio Quadros para a política brasileira?",
-"opcoes": [
-"A estabilidade política e o fim dos conflitos.",
-"Uma crise institucional que levou à Campanha da Legalidade e à posse de João Goulart.",
-"A instauração imediata da ditadura militar.",
-"A eleição de Juscelino Kubitschek para um novo mandato."
-],
-"correta": 1,
-"explicacao": "A renúncia de Jânio Quadros gerou uma crise que culminou na Campanha da Legalidade e na posse de Jango, mas o país permaneceu instável até 1964."
-}
-]
-},
-{
-"id": "9ano_v6_hist_guerra_fria_02",
-"titulo": "História - Guerra Fria e Conflitos Globais",
-"tipo": "conteudo",
-"icone": "🌍",
-"perguntas": [
-{
-"enunciado": "O que foi a Guerra Fria?",
-"opcoes": [
-"Um conflito militar direto entre Estados Unidos e União Soviética.",
-"Uma disputa ideológica, política e econômica entre os blocos capitalista (liderado pelos EUA) e socialista (liderado pela URSS).",
-"Uma guerra entre o Brasil e a Argentina pelo controle da América do Sul.",
-"Um conflito entre a China e o Japão pelo controle do Pacífico."
-],
-"correta": 1,
-"explicacao": "A Guerra Fria foi uma disputa entre os EUA e a URSS pela hegemonia mundial, sem confronto militar direto entre as duas potências."
-},
-{
-"enunciado": "Qual foi o principal objetivo da OTAN (Organização do Tratado do Atlântico Norte), criada em 1949?",
-"opcoes": [
-"Promover a expansão do socialismo na Europa.",
-"Aliança militar defensiva liderada pelos EUA para conter a influência soviética na Europa.",
-"Criar um mercado comum entre os países da América Latina.",
-"Fortalecer a ONU na resolução de conflitos."
-],
-"correta": 1,
-"explicacao": "A OTAN foi criada como uma aliança militar defensiva liderada pelos EUA para conter a expansão do bloco soviético."
-},
-{
-"enunciado": "O que foi o Plano Marshall?",
-"opcoes": [
-"Um programa de ajuda econômica dos EUA para a reconstrução da Europa Ocidental após a Segunda Guerra.",
-"Um plano militar para invadir a União Soviética.",
-"Um acordo de paz entre os EUA e a URSS.",
-"Um plano para a criação da ONU."
-],
-"correta": 0,
-"explicacao": "O Plano Marshall foi um programa de ajuda econômica dos EUA para reconstruir a Europa e conter a influência comunista."
-},
-{
-"enunciado": "Qual foi a principal consequência da Guerra da Coreia (1950-1953)?",
-"opcoes": [
-"A unificação das Coreias sob um governo comunista.",
-"A divisão da Coreia em duas nações: Coreia do Norte (socialista) e Coreia do Sul (capitalista), mantendo a tensão até hoje.",
-"A vitória dos EUA e a anexação da Coreia do Norte pela China.",
-"O fim da Guerra Fria."
-],
-"correta": 1,
-"explicacao": "A Guerra da Coreia terminou com um armistício, mantendo a divisão entre Coreia do Norte e Coreia do Sul, com tensões até os dias atuais."
-},
-{
-"enunciado": "O que foi a Crise dos Mísseis de Cuba em 1962?",
-"opcoes": [
-"Um confronto direto entre EUA e URSS que quase levou a uma guerra nuclear, após a URSS instalar mísseis em Cuba.",
-"Um acordo comercial entre Cuba e os EUA.",
-"Uma invasão dos EUA a Cuba para derrubar Fidel Castro.",
-"Um tratado de paz entre Cuba e a União Soviética."
-],
-"correta": 0,
-"explicacao": "A Crise dos Mísseis foi um dos momentos mais tensos da Guerra Fria, quando a URSS instalou mísseis em Cuba e os EUA impuseram um bloqueio naval."
-},
-{
-"enunciado": "Qual foi o principal objetivo da Aliança para o Progresso, lançada por John F. Kennedy em 1961?",
-"opcoes": [
-"Promover a reforma agrária e o desenvolvimento econômico na América Latina, para evitar a expansão do comunismo.",
-"Criar uma aliança militar contra a URSS.",
-"Financiar a construção do Muro de Berlim.",
-"Apoiar a independência das colônias africanas."
-],
-"correta": 0,
-"explicacao": "A Aliança para o Progresso foi um programa de ajuda econômica e social para a América Latina, com o objetivo de conter a influência comunista."
-},
-{
-"enunciado": "O que foi o Muro de Berlim, construído em 1961?",
-"opcoes": [
-"Uma barreira física que dividiu a cidade de Berlim em duas partes, simbolizando a divisão da Europa entre os blocos capitalista e socialista.",
-"Um monumento em homenagem à paz mundial.",
-"Uma fortaleza militar construída pelos EUA para se defender da URSS.",
-"Um muro que separava a Alemanha Ocidental da França."
-],
-"correta": 0,
-"explicacao": "O Muro de Berlim foi construído pela Alemanha Oriental (URSS) para impedir a fuga de seus cidadãos para Berlim Ocidental."
-},
-{
-"enunciado": "Qual foi o desfecho da Guerra do Vietnã (1955-1975)?",
-"opcoes": [
-"A vitória dos EUA e a unificação do Vietnã sob um governo capitalista.",
-"A vitória do Vietnã do Norte (comunista) e a unificação do país sob o regime socialista.",
-"A divisão permanente do Vietnã em dois países.",
-"A intervenção da ONU para pacificar a região."
-],
-"correta": 1,
-"explicacao": "A Guerra do Vietnã terminou com a vitória do Vietnã do Norte comunista e a unificação do país em 1975."
-},
-{
-"enunciado": "O que foi a Doutrina Truman, anunciada em 1947?",
-"opcoes": [
-"Uma política dos EUA de apoio aos povos que resistiam à subjugação por minorias armadas ou por pressões externas, visando conter o comunismo.",
-"Um plano para a reconstrução da Europa.",
-"Uma aliança militar entre EUA e URSS.",
-"Um acordo para a divisão da Alemanha."
-],
-"correta": 0,
-"explicacao": "A Doutrina Truman foi a política externa dos EUA de contenção do comunismo, oferecendo apoio militar e econômico aos países ameaçados."
-},
-{
-"enunciado": "Qual foi o principal objetivo do Pacto de Varsóvia, criado em 1955?",
-"opcoes": [
-"Aliança militar defensiva dos países do bloco socialista, liderada pela URSS, em resposta à OTAN.",
-"Promover a cooperação econômica entre os países da Europa Oriental.",
-"Criar um mercado comum entre os países socialistas.",
-"Fortalecer a ONU na resolução de conflitos."
-],
-"correta": 0,
-"explicacao": "O Pacto de Varsóvia foi uma aliança militar dos países socialistas liderada pela URSS, criada em resposta à OTAN."
-},
-{
-"enunciado": "O que foi a Revolução Cubana, liderada por Fidel Castro em 1959?",
-"opcoes": [
-"Um movimento que derrubou o ditador Fulgêncio Batista e instaurou um governo socialista em Cuba.",
-"Uma invasão dos EUA a Cuba.",
-"Um acordo comercial entre Cuba e os EUA.",
-"Uma revolta popular que resultou na independência de Cuba."
-],
-"correta": 0,
-"explicacao": "A Revolução Cubana derrubou Batista e instalou um governo socialista, alinhando Cuba à URSS."
-},
-{
-"enunciado": "Qual foi o principal objetivo da Invasão da Baía dos Porcos, em 1961?",
-"opcoes": [
-"Derrubar o governo de Fidel Castro em Cuba, com apoio dos EUA.",
-"Invadir a União Soviética.",
-"Apoiar a independência de Porto Rico.",
-"Criar uma base militar dos EUA em Cuba."
-],
-"correta": 0,
-"explicacao": "A Invasão da Baía dos Porcos foi uma tentativa frustrada dos EUA de derrubar Fidel Castro, com exilados cubanos."
-},
-{
-"enunciado": "O que foi o Programa Aliança para o Progresso?",
-"opcoes": [
-"Um programa de ajuda econômica dos EUA para a América Latina, com o objetivo de conter a influência comunista.",
-"Um programa de ajuda militar da URSS para Cuba.",
-"Um acordo de paz entre os países da América Latina.",
-"Um plano para a criação da OEA."
-],
-"correta": 0,
-"explicacao": "A Aliança para o Progresso foi um programa de ajuda dos EUA para a América Latina, visando o desenvolvimento e a contenção do comunismo."
-},
-{
-"enunciado": "Qual foi o principal conflito da Guerra Fria que ocorreu na Ásia e envolveu diretamente os EUA?",
-"opcoes": [
-"A Guerra da Coreia.",
-"A Guerra do Vietnã.",
-"A Guerra Sino-Japonesa.",
-"A Guerra do Afeganistão."
-],
-"correta": 1,
-"explicacao": "A Guerra do Vietnã foi o conflito mais longo e polêmico da Guerra Fria, com participação direta dos EUA."
-},
-{
-"enunciado": "O que foi a chamada 'Cortina de Ferro'?",
-"opcoes": [
-"Uma barreira física que dividia a Europa entre os blocos capitalista e socialista.",
-"Uma linha de trem que ligava a Europa à Ásia.",
-"Um acordo comercial entre os países europeus.",
-"Uma aliança militar entre os países da Europa Ocidental."
-],
-"correta": 0,
-"explicacao": "A Cortina de Ferro foi uma expressão usada para descrever a divisão da Europa entre os blocos ocidental e soviético."
-},
-{
-"enunciado": "Qual foi o papel do Brasil na Guerra Fria?",
-"opcoes": [
-"O Brasil manteve-se neutro durante todo o conflito.",
-"O Brasil alinhou-se aos EUA, rompendo relações com a URSS e Cuba, e participando de acordos militares.",
-"O Brasil alinhou-se à URSS e enviou tropas para a Coreia.",
-"O Brasil liderou o Movimento dos Não-Alinhados."
-],
-"correta": 1,
-"explicacao": "O Brasil alinhou-se aos EUA, especialmente durante o governo Dutra, rompendo relações com a URSS e Cuba."
-},
-{
-"enunciado": "O que foi a corrida espacial durante a Guerra Fria?",
-"opcoes": [
-"Uma competição entre EUA e URSS para explorar o espaço, com lançamento de satélites e missões tripuladas.",
-"Uma competição entre empresas privadas para explorar a Lua.",
-"Um programa de cooperação entre EUA e URSS para a exploração espacial.",
-"Uma corrida armamentista para a construção de mísseis."
-],
-"correta": 0,
-"explicacao": "A corrida espacial foi uma das principais frentes da Guerra Fria, com a URSS lançando o Sputnik e os EUA chegando à Lua."
-},
-{
-"enunciado": "Qual foi o principal resultado da Conferência de Yalta, em 1945?",
-"opcoes": [
-"A divisão da Alemanha em zonas de ocupação e a criação da ONU.",
-"A criação da OTAN.",
-"A independência das colônias africanas.",
-"O fim da Guerra Fria."
-],
-"correta": 0,
-"explicacao": "Em Yalta, os líderes dos EUA, URSS e Reino Unido decidiram a divisão da Alemanha e a criação da ONU."
-},
-{
-"enunciado": "O que foi a Doutrina de Segurança Nacional, adotada por vários países latino-americanos durante a Guerra Fria?",
-"opcoes": [
-"Uma política de defesa contra a ameaça comunista, que justificou golpes militares e a repressão política.",
-"Um programa de ajuda econômica dos EUA para a América Latina.",
-"Uma aliança militar entre os países da América Latina.",
-"Um acordo de paz entre os países da região."
-],
-"correta": 0,
-"explicacao": "A Doutrina de Segurança Nacional foi uma política dos EUA para a América Latina, que justificou a repressão e os golpes militares."
-},
-{
-"enunciado": "Qual foi o principal objetivo da criação da ONU em 1945?",
-"opcoes": [
-"Manter a paz e a segurança internacional, promover a cooperação e os direitos humanos.",
-"Criar uma aliança militar contra a URSS.",
-"Promover a expansão do capitalismo no mundo.",
-"Administrar as colônias europeias na África."
-],
-"correta": 0,
-"explicacao": "A ONU foi criada para manter a paz mundial e promover a cooperação internacional, substituindo a Liga das Nações."
-},
-{
-"enunciado": "O que foi o Movimento dos Não-Alinhados, surgido durante a Guerra Fria?",
-"opcoes": [
-"Um grupo de países que buscavam manter-se neutros em relação aos blocos capitalista e socialista.",
-"Uma aliança militar liderada pela China.",
-"Um bloco econômico de países africanos.",
-"Uma organização terrorista internacional."
-],
-"correta": 0,
-"explicacao": "O Movimento dos Não-Alinhados reuniu países que não queriam se alinhar nem aos EUA nem à URSS, buscando uma terceira via."
-}
-]
-}
+  {
+    "id": "9ano_v6_hist_era_vargas_01",
+    "titulo": "História - A Era Vargas e o Populismo",
+    "tipo": "conteudo",
+    "icone": "🏛️",
+    "perguntas": [
+      {
+        "enunciado": "O período que se estende de 1945 a 1964 na história do Brasil é conhecido como República Populista. Qual era a principal característica do populismo?",
+        "opcoes": [
+          "A ausência total de participação popular nas decisões políticas.",
+          "A implementação de um regime comunista alinhado à URSS.",
+          "A relação direta entre o líder carismático e as massas urbanas, muitas vezes contornando instituições tradicionais.",
+          "O controle absoluto do Estado pela elite agrária exportadora de café."
+        ],
+        "correta": 2,
+        "explicacao": "O populismo caracterizava-se pela relação direta entre o líder e o povo, especialmente as massas urbanas, com promessas de benefícios sociais e controle sobre os sindicatos."
+      },
+      {
+        "enunciado": "Qual foi o desfecho do Estado Novo em 1945, que marcou o fim da ditadura de Getúlio Vargas?",
+        "opcoes": [
+          "Vargas renunciou espontaneamente após uma crise econômica.",
+          "Vargas foi deposto por um golpe militar que temia sua aproximação com os trabalhadores e comunistas.",
+          "Vargas foi eleito democraticamente em uma eleição direta.",
+          "Vargas foi assassinado durante um comício no Rio de Janeiro."
+        ],
+        "correta": 1,
+        "explicacao": "Vargas foi deposto em 29 de outubro de 1945 por um golpe militar, motivado pelo receio de que ele pudesse continuar no poder com apoio popular e dos trabalhadores."
+      },
+      {
+        "enunciado": "Qual foi o principal partido de oposição a Getúlio Vargas durante a República Populista, que representava setores conservadores e a elite agrária?",
+        "opcoes": [
+          "PTB (Partido Trabalhista Brasileiro).",
+          "PSD (Partido Social Democrático).",
+          "PCB (Partido Comunista Brasileiro).",
+          "UDN (União Democrática Nacional)."
+        ],
+        "correta": 3,
+        "explicacao": "A UDN era o principal partido de oposição a Vargas, representando setores conservadores, liberais e a elite agrária."
+      },
+      {
+        "enunciado": "Em 1951, Vargas retornou ao poder pelo voto popular. Qual foi o principal desafio econômico e político do seu novo governo?",
+        "opcoes": [
+          "A implementação do socialismo no Brasil.",
+          "A luta contra a inflação e a pressão de setores conservadores, enquanto tentava promover o desenvolvimento industrial.",
+          "A privatização de todas as empresas estatais.",
+          "A entrega do poder aos militares."
+        ],
+        "correta": 1,
+        "explicacao": "Vargas enfrentou inflação e a oposição da UDN, que o acusava de promover um governo populista e corrupto, além de não conseguir governar com estabilidade."
+      },
+      {
+        "enunciado": "Qual foi o motivo do suicídio de Getúlio Vargas em 24 de agosto de 1954?",
+        "opcoes": [
+          "Uma doença terminal que o impedia de governar.",
+          "A pressão de setores militares e da oposição (UDN) que exigiam sua renúncia, culminando na crise política após o atentado da Rua Tonelero.",
+          "A derrota em uma guerra contra a Argentina.",
+          "A perda de apoio popular devido à criação do Plano Real."
+        ],
+        "correta": 1,
+        "explicacao": "Vargas suicidou-se devido à forte pressão política e militar após o atentado contra Carlos Lacerda, que exigia sua renúncia."
+      },
+      {
+        "enunciado": "O que foi o Plano de Metas, implementado por Juscelino Kubitschek (1956-1961)?",
+        "opcoes": [
+          "Um programa de reforma agrária que visava distribuir terras.",
+          "Um conjunto de 31 metas para impulsionar o desenvolvimento econômico, com destaque para os setores de energia, transporte e indústria.",
+          "Um plano para reduzir a dívida externa e combater a inflação.",
+          "Uma reforma educacional para acabar com o analfabetismo."
+        ],
+        "correta": 1,
+        "explicacao": "O Plano de Metas tinha 31 objetivos, com o famoso slogan '50 anos em 5', focando em energia, transporte, indústria, alimentação e educação."
+      },
+      {
+        "enunciado": "Qual foi a principal realização do governo de Juscelino Kubitschek que se tornou um símbolo do seu desenvolvimento?",
+        "opcoes": [
+          "A construção de Brasília, a nova capital federal.",
+          "A criação da Petrobras.",
+          "A nacionalização das empresas de energia elétrica.",
+          "A implementação do monopólio do petróleo."
+        ],
+        "correta": 0,
+        "explicacao": "A construção de Brasília, inaugurada em 1960, foi a principal obra do governo JK e símbolo do seu lema de desenvolvimento."
+      },
+      {
+        "enunciado": "Qual foi a principal característica do governo de Jânio Quadros (1961)?",
+        "opcoes": [
+          "A implementação de um rigoroso plano econômico.",
+          "Um estilo excêntrico, com medidas populistas e a promessa de combater a corrupção, além de uma política externa independente.",
+          "A aliança com os Estados Unidos e o rompimento com Cuba.",
+          "A entrega do poder aos militares para garantir a ordem."
+        ],
+        "correta": 1,
+        "explicacao": "Jânio Quadros ficou marcado por seu estilo populista e excêntrico, com medidas como a proibição do uso de biquínis e a condecoração de Che Guevara."
+      },
+      {
+        "enunciado": "Qual foi o motivo da renúncia de Jânio Quadros em agosto de 1961?",
+        "opcoes": [
+          "Um golpe militar que o forçou a deixar o poder.",
+          "A pressão da opinião pública e a falta de apoio do Congresso, que não aceitou sua política de 'varrer' a corrupção.",
+          "A derrota em uma eleição para governador de São Paulo.",
+          "A assinatura de um tratado de paz com a União Soviética."
+        ],
+        "correta": 1,
+        "explicacao": "Jânio renunciou alegando pressões de forças ocultas, mas a falta de apoio político e a crise institucional foram os principais fatores."
+      },
+      {
+        "enunciado": "Qual foi o desfecho da crise política após a renúncia de Jânio Quadros?",
+        "opcoes": [
+          "O vice-presidente João Goulart assumiu, mas foi impedido pelos militares, gerando uma crise que culminou no Golpe de 1964.",
+          "Os militares assumiram o poder e instauraram uma ditadura militar imediatamente.",
+          "O Congresso Nacional elegeu um novo presidente em eleições diretas.",
+          "O Brasil entrou em uma guerra civil."
+        ],
+        "correta": 0,
+        "explicacao": "A renúncia de Jânio gerou uma crise que resultou na Campanha da Legalidade, liderada por Leonel Brizola, e na posse de João Goulart."
+      },
+      {
+        "enunciado": "O que foi o Plano Trienal, proposto por João Goulart em 1963?",
+        "opcoes": [
+          "Um plano de reformas de base, incluindo a reforma agrária e a nacionalização de empresas.",
+          "Um plano econômico para combater a inflação e promover o desenvolvimento, mas que não conseguiu apoio político.",
+          "Um plano para a construção de Brasília.",
+          "Um plano para a criação da Petrobras."
+        ],
+        "correta": 1,
+        "explicacao": "O Plano Trienal visava combater a inflação e promover reformas, mas foi abandonado devido à oposição política."
+      },
+      {
+        "enunciado": "Qual foi a principal bandeira de João Goulart (Jango) que gerou grande oposição dos militares e da elite conservadora?",
+        "opcoes": [
+          "A privatização da Petrobras.",
+          "A implementação de um regime comunista no Brasil.",
+          "As Reformas de Base, que incluíam a reforma agrária, urbana, educacional e tributária.",
+          "A entrada do Brasil na Segunda Guerra Mundial."
+        ],
+        "correta": 2,
+        "explicacao": "As Reformas de Base eram vistas como uma ameaça à ordem social e econômica pelas elites conservadoras e pelos militares."
+      },
+      {
+        "enunciado": "Qual foi o evento que serviu como estopim para o Golpe Militar de 1964?",
+        "opcoes": [
+          "A renúncia de Jânio Quadros.",
+          "O comício da Central do Brasil, em 13 de março de 1964, onde Jango defendeu as Reformas de Base.",
+          "A morte de Getúlio Vargas.",
+          "A eleição de Juscelino Kubitschek."
+        ],
+        "correta": 1,
+        "explicacao": "O Comício da Central do Brasil, que reuniu cerca de 150 mil pessoas e anunciou as Reformas de Base, foi o estopim para a oposição militar e conservadora."
+      },
+      {
+        "enunciado": "Qual foi o desfecho do governo de João Goulart em 31 de março de 1964?",
+        "opcoes": [
+          "Goulart foi eleito democraticamente para um novo mandato.",
+          "Goulart foi deposto por um golpe militar que instaurou a ditadura no Brasil.",
+          "Goulart renunciou e foi substituído por Juscelino Kubitschek.",
+          "Goulart foi assassinado durante um comício."
+        ],
+        "correta": 1,
+        "explicacao": "O golpe militar de 31 de março de 1964 depôs João Goulart e instaurou o regime militar que durou até 1985."
+      },
+      {
+        "enunciado": "O que foi a Campanha da Legalidade, liderada por Leonel Brizola em 1961?",
+        "opcoes": [
+          "Uma campanha para a eleição de Jânio Quadros.",
+          "Uma campanha para garantir a posse de João Goulart, que estava sendo impedido de assumir a presidência.",
+          "Uma campanha contra a construção de Brasília.",
+          "Uma campanha para a privatização da Petrobras."
+        ],
+        "correta": 1,
+        "explicacao": "A Campanha da Legalidade foi um movimento liderado por Brizola para garantir que João Goulart assumisse a presidência após a renúncia de Jânio Quadros."
+      },
+      {
+        "enunciado": "Qual foi a política econômica de Juscelino Kubitschek que atraiu capital estrangeiro para o Brasil?",
+        "opcoes": [
+          "O fechamento da economia ao capital estrangeiro.",
+          "A abertura para o capital internacional, com incentivos para a instalação de empresas multinacionais.",
+          "A nacionalização de todas as empresas estrangeiras.",
+          "A criação de um monopólio estatal sobre o comércio exterior."
+        ],
+        "correta": 1,
+        "explicacao": "JK incentivou a entrada de capital estrangeiro, especialmente nos setores de bens de consumo duráveis, como a indústria automobilística."
+      },
+      {
+        "enunciado": "Qual foi a principal característica do governo de Getúlio Vargas durante o Estado Novo (1937-1945)?",
+        "opcoes": [
+          "A democracia plena e a liberdade de imprensa.",
+          "A ditadura, a centralização do poder e o controle sobre os sindicatos e a imprensa.",
+          "A implementação de um regime comunista.",
+          "A descentralização do poder e o fortalecimento dos estados."
+        ],
+        "correta": 1,
+        "explicacao": "O Estado Novo foi um período ditatorial, com censura, controle dos sindicatos e centralização do poder."
+      },
+      {
+        "enunciado": "Qual foi a principal realização do governo de Eurico Gaspar Dutra (1946-1951)?",
+        "opcoes": [
+          "A criação da Petrobras.",
+          "A implementação do Plano de Metas.",
+          "A promulgação da Constituição de 1946 e a abertura do país ao capital estrangeiro.",
+          "A construção de Brasília."
+        ],
+        "correta": 2,
+        "explicacao": "O governo Dutra promulgou a Constituição de 1946, que redemocratizou o país, e alinhou-se aos EUA na Guerra Fria."
+      },
+      {
+        "enunciado": "O que foi o Plano SALTE, implementado no governo de Eurico Gaspar Dutra?",
+        "opcoes": [
+          "Um plano econômico para o desenvolvimento da saúde, alimentação, transporte e energia.",
+          "Um plano para a reforma agrária.",
+          "Um plano para a criação da Universidade de Brasília.",
+          "Um plano para a nacionalização das empresas de petróleo."
+        ],
+        "correta": 0,
+        "explicacao": "O Plano SALTE visava investimentos em Saúde, Alimentação, Transporte e Energia, mas não foi totalmente implementado."
+      },
+      {
+        "enunciado": "Qual foi o impacto da renúncia de Jânio Quadros para a política brasileira?",
+        "opcoes": [
+          "A estabilidade política e o fim dos conflitos.",
+          "Uma crise institucional que levou à Campanha da Legalidade e à posse de João Goulart.",
+          "A instauração imediata da ditadura militar.",
+          "A eleição de Juscelino Kubitschek para um novo mandato."
+        ],
+        "correta": 1,
+        "explicacao": "A renúncia de Jânio Quadros gerou uma crise que culminou na Campanha da Legalidade e na posse de Jango, mas o país permaneceu instável até 1964."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_hist_guerra_fria_02",
+    "titulo": "História - Guerra Fria e Conflitos Globais",
+    "tipo": "conteudo",
+    "icone": "🌍",
+    "perguntas": [
+      {
+        "enunciado": "O que foi a Guerra Fria?",
+        "opcoes": [
+          "Um conflito militar direto entre Estados Unidos e União Soviética.",
+          "Uma disputa ideológica, política e econômica entre os blocos capitalista (liderado pelos EUA) e socialista (liderado pela URSS).",
+          "Uma guerra entre o Brasil e a Argentina pelo controle da América do Sul.",
+          "Um conflito entre a China e o Japão pelo controle do Pacífico."
+        ],
+        "correta": 1,
+        "explicacao": "A Guerra Fria foi uma disputa entre os EUA e a URSS pela hegemonia mundial, sem confronto militar direto entre as duas potências."
+      },
+      {
+        "enunciado": "Qual foi o principal objetivo da OTAN (Organização do Tratado do Atlântico Norte), criada em 1949?",
+        "opcoes": [
+          "Promover a expansão do socialismo na Europa.",
+          "Aliança militar defensiva liderada pelos EUA para conter a influência soviética na Europa.",
+          "Criar um mercado comum entre os países da América Latina.",
+          "Fortalecer a ONU na resolução de conflitos."
+        ],
+        "correta": 1,
+        "explicacao": "A OTAN foi criada como uma aliança militar defensiva liderada pelos EUA para conter a expansão do bloco soviético."
+      },
+      {
+        "enunciado": "O que foi o Plano Marshall?",
+        "opcoes": [
+          "Um programa de ajuda econômica dos EUA para a reconstrução da Europa Ocidental após a Segunda Guerra.",
+          "Um plano militar para invadir a União Soviética.",
+          "Um acordo de paz entre os EUA e a URSS.",
+          "Um plano para a criação da ONU."
+        ],
+        "correta": 0,
+        "explicacao": "O Plano Marshall foi um programa de ajuda econômica dos EUA para reconstruir a Europa e conter a influência comunista."
+      },
+      {
+        "enunciado": "Qual foi a principal consequência da Guerra da Coreia (1950-1953)?",
+        "opcoes": [
+          "A unificação das Coreias sob um governo comunista.",
+          "A divisão da Coreia em duas nações: Coreia do Norte (socialista) e Coreia do Sul (capitalista), mantendo a tensão até hoje.",
+          "A vitória dos EUA e a anexação da Coreia do Norte pela China.",
+          "O fim da Guerra Fria."
+        ],
+        "correta": 1,
+        "explicacao": "A Guerra da Coreia terminou com um armistício, mantendo a divisão entre Coreia do Norte e Coreia do Sul, com tensões até os dias atuais."
+      },
+      {
+        "enunciado": "O que foi a Crise dos Mísseis de Cuba em 1962?",
+        "opcoes": [
+          "Um confronto direto entre EUA e URSS que quase levou a uma guerra nuclear, após a URSS instalar mísseis em Cuba.",
+          "Um acordo comercial entre Cuba e os EUA.",
+          "Uma invasão dos EUA a Cuba para derrubar Fidel Castro.",
+          "Um tratado de paz entre Cuba e a União Soviética."
+        ],
+        "correta": 0,
+        "explicacao": "A Crise dos Mísseis foi um dos momentos mais tensos da Guerra Fria, quando a URSS instalou mísseis em Cuba e os EUA impuseram um bloqueio naval."
+      },
+      {
+        "enunciado": "Qual foi o principal objetivo da Aliança para o Progresso, lançada por John F. Kennedy em 1961?",
+        "opcoes": [
+          "Promover a reforma agrária e o desenvolvimento econômico na América Latina, para evitar a expansão do comunismo.",
+          "Criar uma aliança militar contra a URSS.",
+          "Financiar a construção do Muro de Berlim.",
+          "Apoiar a independência das colônias africanas."
+        ],
+        "correta": 0,
+        "explicacao": "A Aliança para o Progresso foi um programa de ajuda econômica e social para a América Latina, com o objetivo de conter a influência comunista."
+      },
+      {
+        "enunciado": "O que foi o Muro de Berlim, construído em 1961?",
+        "opcoes": [
+          "Uma barreira física que dividiu a cidade de Berlim em duas partes, simbolizando a divisão da Europa entre os blocos capitalista e socialista.",
+          "Um monumento em homenagem à paz mundial.",
+          "Uma fortaleza militar construída pelos EUA para se defender da URSS.",
+          "Um muro que separava a Alemanha Ocidental da França."
+        ],
+        "correta": 0,
+        "explicacao": "O Muro de Berlim foi construído pela Alemanha Oriental (URSS) para impedir a fuga de seus cidadãos para Berlim Ocidental."
+      },
+      {
+        "enunciado": "Qual foi o desfecho da Guerra do Vietnã (1955-1975)?",
+        "opcoes": [
+          "A vitória dos EUA e a unificação do Vietnã sob um governo capitalista.",
+          "A vitória do Vietnã do Norte (comunista) e a unificação do país sob o regime socialista.",
+          "A divisão permanente do Vietnã em dois países.",
+          "A intervenção da ONU para pacificar a região."
+        ],
+        "correta": 1,
+        "explicacao": "A Guerra do Vietnã terminou com a vitória do Vietnã do Norte comunista e a unificação do país em 1975."
+      },
+      {
+        "enunciado": "O que foi a Doutrina Truman, anunciada em 1947?",
+        "opcoes": [
+          "Uma política dos EUA de apoio aos povos que resistiam à subjugação por minorias armadas ou por pressões externas, visando conter o comunismo.",
+          "Um plano para a reconstrução da Europa.",
+          "Uma aliança militar entre EUA e URSS.",
+          "Um acordo para a divisão da Alemanha."
+        ],
+        "correta": 0,
+        "explicacao": "A Doutrina Truman foi a política externa dos EUA de contenção do comunismo, oferecendo apoio militar e econômico aos países ameaçados."
+      },
+      {
+        "enunciado": "Qual foi o principal objetivo do Pacto de Varsóvia, criado em 1955?",
+        "opcoes": [
+          "Aliança militar defensiva dos países do bloco socialista, liderada pela URSS, em resposta à OTAN.",
+          "Promover a cooperação econômica entre os países da Europa Oriental.",
+          "Criar um mercado comum entre os países socialistas.",
+          "Fortalecer a ONU na resolução de conflitos."
+        ],
+        "correta": 0,
+        "explicacao": "O Pacto de Varsóvia foi uma aliança militar dos países socialistas liderada pela URSS, criada em resposta à OTAN."
+      },
+      {
+        "enunciado": "O que foi a Revolução Cubana, liderada por Fidel Castro em 1959?",
+        "opcoes": [
+          "Um movimento que derrubou o ditador Fulgêncio Batista e instaurou um governo socialista em Cuba.",
+          "Uma invasão dos EUA a Cuba.",
+          "Um acordo comercial entre Cuba e os EUA.",
+          "Uma revolta popular que resultou na independência de Cuba."
+        ],
+        "correta": 0,
+        "explicacao": "A Revolução Cubana derrubou Batista e instalou um governo socialista, alinhando Cuba à URSS."
+      },
+      {
+        "enunciado": "Qual foi o principal objetivo da Invasão da Baía dos Porcos, em 1961?",
+        "opcoes": [
+          "Derrubar o governo de Fidel Castro em Cuba, com apoio dos EUA.",
+          "Invadir a União Soviética.",
+          "Apoiar a independência de Porto Rico.",
+          "Criar uma base militar dos EUA em Cuba."
+        ],
+        "correta": 0,
+        "explicacao": "A Invasão da Baía dos Porcos foi uma tentativa frustrada dos EUA de derrubar Fidel Castro, com exilados cubanos."
+      },
+      {
+        "enunciado": "O que foi o Programa Aliança para o Progresso?",
+        "opcoes": [
+          "Um programa de ajuda econômica dos EUA para a América Latina, com o objetivo de conter a influência comunista.",
+          "Um programa de ajuda militar da URSS para Cuba.",
+          "Um acordo de paz entre os países da América Latina.",
+          "Um plano para a criação da OEA."
+        ],
+        "correta": 0,
+        "explicacao": "A Aliança para o Progresso foi um programa de ajuda dos EUA para a América Latina, visando o desenvolvimento e a contenção do comunismo."
+      },
+      {
+        "enunciado": "Qual foi o principal conflito da Guerra Fria que ocorreu na Ásia e envolveu diretamente os EUA?",
+        "opcoes": [
+          "A Guerra da Coreia.",
+          "A Guerra do Vietnã.",
+          "A Guerra Sino-Japonesa.",
+          "A Guerra do Afeganistão."
+        ],
+        "correta": 1,
+        "explicacao": "A Guerra do Vietnã foi o conflito mais longo e polêmico da Guerra Fria, com participação direta dos EUA."
+      },
+      {
+        "enunciado": "O que foi a chamada 'Cortina de Ferro'?",
+        "opcoes": [
+          "Uma barreira física que dividia a Europa entre os blocos capitalista e socialista.",
+          "Uma linha de trem que ligava a Europa à Ásia.",
+          "Um acordo comercial entre os países europeus.",
+          "Uma aliança militar entre os países da Europa Ocidental."
+        ],
+        "correta": 0,
+        "explicacao": "A Cortina de Ferro foi uma expressão usada para descrever a divisão da Europa entre os blocos ocidental e soviético."
+      },
+      {
+        "enunciado": "Qual foi o papel do Brasil na Guerra Fria?",
+        "opcoes": [
+          "O Brasil manteve-se neutro durante todo o conflito.",
+          "O Brasil alinhou-se aos EUA, rompendo relações com a URSS e Cuba, e participando de acordos militares.",
+          "O Brasil alinhou-se à URSS e enviou tropas para a Coreia.",
+          "O Brasil liderou o Movimento dos Não-Alinhados."
+        ],
+        "correta": 1,
+        "explicacao": "O Brasil alinhou-se aos EUA, especialmente durante o governo Dutra, rompendo relações com a URSS e Cuba."
+      },
+      {
+        "enunciado": "O que foi a corrida espacial durante a Guerra Fria?",
+        "opcoes": [
+          "Uma competição entre EUA e URSS para explorar o espaço, com lançamento de satélites e missões tripuladas.",
+          "Uma competição entre empresas privadas para explorar a Lua.",
+          "Um programa de cooperação entre EUA e URSS para a exploração espacial.",
+          "Uma corrida armamentista para a construção de mísseis."
+        ],
+        "correta": 0,
+        "explicacao": "A corrida espacial foi uma das principais frentes da Guerra Fria, com a URSS lançando o Sputnik e os EUA chegando à Lua."
+      },
+      {
+        "enunciado": "Qual foi o principal resultado da Conferência de Yalta, em 1945?",
+        "opcoes": [
+          "A divisão da Alemanha em zonas de ocupação e a criação da ONU.",
+          "A criação da OTAN.",
+          "A independência das colônias africanas.",
+          "O fim da Guerra Fria."
+        ],
+        "correta": 0,
+        "explicacao": "Em Yalta, os líderes dos EUA, URSS e Reino Unido decidiram a divisão da Alemanha e a criação da ONU."
+      },
+      {
+        "enunciado": "O que foi a Doutrina de Segurança Nacional, adotada por vários países latino-americanos durante a Guerra Fria?",
+        "opcoes": [
+          "Uma política de defesa contra a ameaça comunista, que justificou golpes militares e a repressão política.",
+          "Um programa de ajuda econômica dos EUA para a América Latina.",
+          "Uma aliança militar entre os países da América Latina.",
+          "Um acordo de paz entre os países da região."
+        ],
+        "correta": 0,
+        "explicacao": "A Doutrina de Segurança Nacional foi uma política dos EUA para a América Latina, que justificou a repressão e os golpes militares."
+      },
+      {
+        "enunciado": "Qual foi o principal objetivo da criação da ONU em 1945?",
+        "opcoes": [
+          "Manter a paz e a segurança internacional, promover a cooperação e os direitos humanos.",
+          "Criar uma aliança militar contra a URSS.",
+          "Promover a expansão do capitalismo no mundo.",
+          "Administrar as colônias europeias na África."
+        ],
+        "correta": 0,
+        "explicacao": "A ONU foi criada para manter a paz mundial e promover a cooperação internacional, substituindo a Liga das Nações."
+      },
+      {
+        "enunciado": "O que foi o Movimento dos Não-Alinhados, surgido durante a Guerra Fria?",
+        "opcoes": [
+          "Um grupo de países que buscavam manter-se neutros em relação aos blocos capitalista e socialista.",
+          "Uma aliança militar liderada pela China.",
+          "Um bloco econômico de países africanos.",
+          "Uma organização terrorista internacional."
+        ],
+        "correta": 0,
+        "explicacao": "O Movimento dos Não-Alinhados reuniu países que não queriam se alinhar nem aos EUA nem à URSS, buscando uma terceira via."
+      }
+    ]
+  }
 ]
