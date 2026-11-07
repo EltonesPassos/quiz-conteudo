@@ -1,0 +1,1296 @@
+[
+  {
+    "id": "9ano_v6_edf_esportes_rede_01",
+    "titulo": "Educação Física - Esportes de Rede e Rebote",
+    "tipo": "conteudo",
+    "icone": "🏐",
+    "perguntas": [
+      {
+        "enunciado": "O que são esportes de rede divisória ou parede de rebote?",
+        "opcoes": [
+          "Esportes em que os participantes têm contato direto com o adversário.",
+          "Esportes em que o objetivo é lançar, arremessar ou rebater um objeto em direção ao espaço adversário, sem contato direto.",
+          "Esportes apenas individuais.",
+          "Esportes aquáticos."
+        ],
+        "correta": 1,
+        "explicacao": "Nesses esportes, não há contato físico direto; o objetivo é dificultar a resposta do oponente."
+      },
+      {
+        "enunciado": "Qual é a finalidade principal dos esportes de rede?",
+        "opcoes": [
+          "Atingir o chão da quadra do adversário ou forçar o erro do oponente.",
+          "Empurrar o adversário.",
+          "Fazer pontos apenas com a mão.",
+          "Jogar a bola para fora da quadra."
+        ],
+        "correta": 0,
+        "explicacao": "O objetivo é fazer a bola/peteca tocar o chão no lado do adversário."
+      },
+      {
+        "enunciado": "Quais são exemplos de esportes de rede olímpicos citados no texto?",
+        "opcoes": [
+          "Vôlei de quadra, vôlei de areia, tênis de campo e badminton.",
+          "Futebol, basquete e handebol.",
+          "Natação, atletismo e ciclismo.",
+          "Judô, boxe e esgrima."
+        ],
+        "correta": 0,
+        "explicacao": "Esses são os esportes de rede mais conhecidos no quadro olímpico."
+      },
+      {
+        "enunciado": "O que são esportes 'alternados diretos'?",
+        "opcoes": [
+          "Aqueles em que a bola deve ser diretamente devolvida para o outro lado da quadra.",
+          "Aqueles em que a bola pode quicar antes de ser devolvida.",
+          "Aqueles em que se joga em equipe.",
+          "Aqueles que não têm rede."
+        ],
+        "correta": 0,
+        "explicacao": "Exemplos: peteca, tênis de mesa e badminton."
+      },
+      {
+        "enunciado": "O que são esportes 'alternados indiretos'?",
+        "opcoes": [
+          "Aqueles em que a bola deve ser devolvida diretamente.",
+          "Aqueles em que a bola pode quicar antes de ser devolvida.",
+          "Aqueles em que a bola não pode quicar.",
+          "Aqueles em que se joga sozinho."
+        ],
+        "correta": 1,
+        "explicacao": "Exemplos: tênis de campo e o vôlei."
+      },
+      {
+        "enunciado": "Qual é o principal objetivo tático em esportes de rede?",
+        "opcoes": [
+          "Apenas acertar a quadra adversária.",
+          "Forçar o erro do adversário e interceptar a trajetória do objeto.",
+          "Empurrar o adversário.",
+          "Não deixar a bola cair."
+        ],
+        "correta": 1,
+        "explicacao": "A tática envolve dificultar a resposta do oponente e defender."
+      },
+      {
+        "enunciado": "O vôlei de quadra é um exemplo de qual tipo de esporte?",
+        "opcoes": ["Rede de rebote alternado indireto", "Rede de rebote alternado direto", "Esporte de invasão", "Esporte de combate"],
+        "correta": 0,
+        "explicacao": "No vôlei, a bola pode ser tocada várias vezes antes de ir para o outro lado."
+      },
+      {
+        "enunciado": "O tênis de campo é um exemplo de qual tipo de esporte?",
+        "opcoes": ["Rede de rebote alternado indireto", "Rede de rebote alternado direto", "Esporte de invasão", "Esporte de combate"],
+        "correta": 0,
+        "explicacao": "No tênis, a bola quica antes de ser rebatida."
+      },
+      {
+        "enunciado": "O badminton é um exemplo de qual tipo de esporte?",
+        "opcoes": ["Rede de rebote alternado indireto", "Rede de rebote alternado direto", "Esporte de invasão", "Esporte de combate"],
+        "correta": 1,
+        "explicacao": "No badminton, a peteca deve ser rebatida diretamente."
+      },
+      {
+        "enunciado": "A peteca é um esporte de rede?",
+        "opcoes": ["Sim", "Não", "Apenas em duplas", "Apenas individual"],
+        "correta": 0,
+        "explicacao": "A peteca é um esporte de rede popular."
+      },
+      {
+        "enunciado": "Quais são os esportes de rede citados no texto?",
+        "opcoes": [
+          "Vôlei, tênis, badminton e peteca.",
+          "Futebol, basquete e vôlei.",
+          "Natação e atletismo.",
+          "Judô e boxe."
+        ],
+        "correta": 0,
+        "explicacao": "O texto cita vários esportes de rede, incluindo esses."
+      },
+      {
+        "enunciado": "O que é um 'esporte de rebote'?",
+        "opcoes": [
+          "Um esporte em que a bola é rebatida.",
+          "Um esporte em que a bola é lançada.",
+          "Um esporte de contato.",
+          "Um esporte aquático."
+        ],
+        "correta": 0,
+        "explicacao": "O rebote é a ação de rebater o objeto."
+      },
+      {
+        "enunciado": "Qual é a principal característica dos esportes de rede?",
+        "opcoes": [
+          "A ausência de contato físico direto.",
+          "O contato físico direto.",
+          "A violência.",
+          "O uso de armas."
+        ],
+        "correta": 0,
+        "explicacao": "Não há contato físico direto entre os adversários."
+      },
+      {
+        "enunciado": "O que é o 'rebote'?",
+        "opcoes": [
+          "A ação de rebater o objeto.",
+          "A ação de lançar o objeto.",
+          "A ação de chutar o objeto.",
+          "A ação de pegar o objeto."
+        ],
+        "correta": 0,
+        "explicacao": "Rebote é a ação de rebater."
+      },
+      {
+        "enunciado": "O que é a 'rede divisória'?",
+        "opcoes": [
+          "Uma rede que divide a quadra.",
+          "Uma rede de pesca.",
+          "Uma rede de proteção.",
+          "Um tipo de bola."
+        ],
+        "correta": 0,
+        "explicacao": "A rede divide a quadra entre os adversários."
+      },
+      {
+        "enunciado": "Quais são os esportes de rede mais populares no Brasil?",
+        "opcoes": [
+          "Vôlei, futevôlei, peteca e tênis.",
+          "Futebol e basquete.",
+          "Natação e atletismo.",
+          "Judô e boxe."
+        ],
+        "correta": 0,
+        "explicacao": "Esses esportes são muito populares no Brasil."
+      },
+      {
+        "enunciado": "Quais são os esportes de rede menos difundidos?",
+        "opcoes": [
+          "Badminton e squash.",
+          "Vôlei e tênis.",
+          "Futebol e basquete.",
+          "Natação e atletismo."
+        ],
+        "correta": 0,
+        "explicacao": "São menos difundidos no Brasil."
+      },
+      {
+        "enunciado": "O que são esportes 'de invasão'?",
+        "opcoes": [
+          "Esportes em que os jogadores invadem o campo adversário.",
+          "Esportes de rede.",
+          "Esportes de rebote.",
+          "Esportes aquáticos."
+        ],
+        "correta": 0,
+        "explicacao": "São esportes em que há contato físico direto."
+      },
+      {
+        "enunciado": "Qual é a principal diferença entre esportes de rede e esportes de invasão?",
+        "opcoes": [
+          "A presença ou ausência de contato físico.",
+          "O tamanho da bola.",
+          "O tipo de rede.",
+          "O número de jogadores."
+        ],
+        "correta": 0,
+        "explicacao": "Nos esportes de rede não há contato físico direto; nos de invasão, sim."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_edf_tenis_campo_01",
+    "titulo": "Educação Física - Tênis de Campo",
+    "tipo": "conteudo",
+    "icone": "🎾",
+    "perguntas": [
+      {
+        "enunciado": "Onde e quando surgiu o tênis de campo?",
+        "opcoes": [
+          "Na França, no século XII.",
+          "No Brasil, no século XX.",
+          "Na Grécia Antiga.",
+          "Nos Estados Unidos."
+        ],
+        "correta": 0,
+        "explicacao": "O tênis de campo surgiu na França, no século XII."
+      },
+      {
+        "enunciado": "Qual era o nome original do tênis de campo na França?",
+        "opcoes": ["Tenez", "Pingue-pongue", "Badminton", "Vôlei"],
+        "correta": 0,
+        "explicacao": "O nome 'tenez' significa 'receba'."
+      },
+      {
+        "enunciado": "Quando e onde foi realizado o primeiro torneio de tênis de campo?",
+        "opcoes": [
+          "Em 1877, em Wimbledon, na Inglaterra.",
+          "Em 1896, em Atenas, na Grécia.",
+          "Em 1900, em Paris, na França.",
+          "Em 1988, em Seul, na Coreia do Sul."
+        ],
+        "correta": 0,
+        "explicacao": "O torneio de Wimbledon foi o primeiro e é o mais tradicional."
+      },
+      {
+        "enunciado": "Quais são os quatro torneios do Grand Slam (majors) no tênis de campo?",
+        "opcoes": [
+          "Wimbledon, Australian Open, Roland-Garros (Roland-Garros, ou Aberto da França) e US Open.",
+          "Wimbledon, Copa Davis, Roland-Garros e US Open.",
+          "Australian Open, Copa do Mundo, Roland-Garros e US Open.",
+          "Wimbledon, ATP Finals, Roland-Garros e US Open."
+        ],
+        "correta": 0,
+        "explicacao": "Esses são os quatro torneios mais importantes do tênis."
+      },
+      {
+        "enunciado": "O que é o 'Grand Slam' no tênis?",
+        "opcoes": [
+          "Os quatro principais torneios de tênis do mundo.",
+          "Um único torneio.",
+          "Um tipo de quadra.",
+          "Um tipo de raquete."
+        ],
+        "correta": 0,
+        "explicacao": "O Grand Slam é composto pelos quatro torneios mais importantes."
+      },
+      {
+        "enunciado": "Em que ano o tênis de campo foi introduzido nos Jogos Olímpicos?",
+        "opcoes": ["1896", "1924", "1988", "2000"],
+        "correta": 0,
+        "explicacao": "O tênis foi introduzido em 1896."
+      },
+      {
+        "enunciado": "Em que ano o tênis de campo voltou ao quadro olímpico?",
+        "opcoes": ["1896", "1924", "1988", "2000"],
+        "correta": 2,
+        "explicacao": "O tênis voltou em 1988, nos Jogos de Seul."
+      },
+      {
+        "enunciado": "Qual é o objetivo do jogo de tênis de campo?",
+        "opcoes": [
+          "Fazer a bola tocar o chão na quadra do adversário.",
+          "Empurrar o adversário.",
+          "Apenas rebater a bola.",
+          "Fazer pontos com a mão."
+        ],
+        "correta": 0,
+        "explicacao": "O objetivo é fazer a bola quicar na quadra adversária."
+      },
+      {
+        "enunciado": "Quais são as medidas de uma quadra de tênis para simples?",
+        "opcoes": ["23,77 m x 8,23 m", "23,77 m x 10,97 m", "13,40 m x 5,18 m", "10 m x 5 m"],
+        "correta": 0,
+        "explicacao": "As medidas para simples são 23,77 m de comprimento e 8,23 m de largura."
+      },
+      {
+        "enunciado": "Quais são as medidas de uma quadra de tênis para duplas?",
+        "opcoes": ["23,77 m x 8,23 m", "23,77 m x 10,97 m", "13,40 m x 5,18 m", "10 m x 5 m"],
+        "correta": 1,
+        "explicacao": "As medidas para duplas são 23,77 m x 10,97 m."
+      },
+      {
+        "enunciado": "Qual é a altura da rede de tênis de campo?",
+        "opcoes": ["1,06 m", "1,50 m", "2,00 m", "1,20 m"],
+        "correta": 0,
+        "explicacao": "A rede tem 1,06 m de altura."
+      },
+      {
+        "enunciado": "Quais são os tipos de quadra de tênis de campo?",
+        "opcoes": ["Grama, saibro, piso duro e carpete.", "Apenas grama.", "Apenas saibro.", "Apenas piso duro."],
+        "correta": 0,
+        "explicacao": "Existem vários tipos de quadra, com características diferentes."
+      },
+      {
+        "enunciado": "Qual é a principal característica da quadra de grama?",
+        "opcoes": [
+          "Jogos mais rápidos.",
+          "Jogos mais lentos.",
+          "Jogos de defesa.",
+          "Jogos com bolas mais altas."
+        ],
+        "correta": 0,
+        "explicacao": "A grama favorece jogos rápidos e saques potentes."
+      },
+      {
+        "enunciado": "Qual é a principal característica da quadra de saibro?",
+        "opcoes": [
+          "Jogos mais lentos e de defesa.",
+          "Jogos mais rápidos.",
+          "Jogos de ataque.",
+          "Jogos com menos quiques."
+        ],
+        "correta": 0,
+        "explicacao": "O saibro deixa o jogo mais lento e favorece a defesa."
+      },
+      {
+        "enunciado": "Como é feita a contagem de pontos no tênis de campo?",
+        "opcoes": [
+          "15, 30, 40 e game.",
+          "1, 2, 3 e 4.",
+          "10, 20, 30 e 40.",
+          "5, 10, 15 e 20."
+        ],
+        "correta": 0,
+        "explicacao": "A contagem é 15, 30, 40 e game."
+      },
+      {
+        "enunciado": "O que é um 'set' no tênis de campo?",
+        "opcoes": [
+          "Um conjunto de games.",
+          "Um conjunto de pontos.",
+          "Uma jogada.",
+          "Um tipo de saque."
+        ],
+        "correta": 0,
+        "explicacao": "O set é um conjunto de games."
+      },
+      {
+        "enunciado": "Quantos sets são necessários para vencer uma partida de tênis de campo (em torneios masculinos de Grand Slam)?",
+        "opcoes": ["1", "2", "3", "5"],
+        "correta": 3,
+        "explicacao": "Em Grand Slams masculinos, são 5 sets."
+      },
+      {
+        "enunciado": "Quem foi Guga (Gustavo Kuerten) e qual sua importância para o tênis brasileiro?",
+        "opcoes": [
+          "Um tenista brasileiro com maiores conquistas no tênis de campo.",
+          "Um jogador de futebol.",
+          "Um técnico de tênis.",
+          "Um comentarista esportivo."
+        ],
+        "correta": 0,
+        "explicacao": "Guga é o maior tenista brasileiro de todos os tempos."
+      },
+      {
+        "enunciado": "Quantas vezes Guga venceu o torneio de Roland-Garros?",
+        "opcoes": ["1", "2", "3", "4"],
+        "correta": 2,
+        "explicacao": "Guga venceu Roland-Garros três vezes."
+      },
+      {
+        "enunciado": "O que é o 'tie-break' no tênis de campo?",
+        "opcoes": [
+          "Um desempate para o set.",
+          "Um tipo de saque.",
+          "Um tipo de quadra.",
+          "Uma jogada."
+        ],
+        "correta": 0,
+        "explicacao": "O tie-break é um desempate para definir o set."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_edf_tenis_mesa_01",
+    "titulo": "Educação Física - Tênis de Mesa",
+    "tipo": "conteudo",
+    "icone": "🏓",
+    "perguntas": [
+      {
+        "enunciado": "Como surgiu o tênis de mesa?",
+        "opcoes": [
+          "Como uma adaptação do tênis de campo em ambiente reduzido.",
+          "Como um esporte criado na China.",
+          "Como um esporte de praia.",
+          "Como uma variação do vôlei."
+        ],
+        "correta": 0,
+        "explicacao": "O tênis de mesa surgiu como uma adaptação do tênis em ambiente reduzido."
+      },
+      {
+        "enunciado": "Onde o tênis de mesa se popularizou no século XIX?",
+        "opcoes": ["Inglaterra", "China", "Japão", "EUA"],
+        "correta": 0,
+        "explicacao": "O tênis de mesa se popularizou na Inglaterra."
+      },
+      {
+        "enunciado": "Qual era o nome original do tênis de mesa?",
+        "opcoes": ["Pingue-pongue", "Tênis de campo", "Badminton", "Poona"],
+        "correta": 0,
+        "explicacao": "O tênis de mesa era chamado de 'pingue-pongue'."
+      },
+      {
+        "enunciado": "De onde vem o nome 'pingue-pongue'?",
+        "opcoes": [
+          "Do som que a bola fazia ao bater na mesa.",
+          "Do nome do criador.",
+          "Do nome do país de origem.",
+          "Do tipo de raquete."
+        ],
+        "correta": 0,
+        "explicacao": "O nome vem do som característico da bola."
+      },
+      {
+        "enunciado": "Quando o tênis de mesa foi reconhecido oficialmente?",
+        "opcoes": ["1926", "1896", "1904", "1988"],
+        "correta": 0,
+        "explicacao": "O esporte foi reconhecido oficialmente em 1926."
+      },
+      {
+        "enunciado": "Em que ano o tênis de mesa foi incluído nos Jogos Olímpicos?",
+        "opcoes": ["1926", "1896", "1988", "2000"],
+        "correta": 2,
+        "explicacao": "O tênis de mesa entrou nas Olimpíadas em 1988."
+      },
+      {
+        "enunciado": "Qual é o objetivo do tênis de mesa?",
+        "opcoes": [
+          "Fazer a bola tocar o chão na quadra do adversário.",
+          "Fazer pontos com a mão.",
+          "Empurrar o adversário.",
+          "Apenas rebater a bola."
+        ],
+        "correta": 0,
+        "explicacao": "O objetivo é fazer a bola tocar o lado adversário da mesa."
+      },
+      {
+        "enunciado": "Qual é o material da bola de tênis de mesa?",
+        "opcoes": ["Celuloide", "Borracha", "Couro", "Madeira"],
+        "correta": 0,
+        "explicacao": "A bola é feita de celuloide (ou plástico)."
+      },
+      {
+        "enunciado": "Quais são as medidas de uma mesa de tênis de mesa?",
+        "opcoes": ["2,74 m x 1,52 m", "2,00 m x 1,00 m", "3,00 m x 2,00 m", "1,50 m x 1,00 m"],
+        "correta": 0,
+        "explicacao": "As medidas oficiais são 2,74 m x 1,52 m."
+      },
+      {
+        "enunciado": "Qual é a altura da rede de tênis de mesa?",
+        "opcoes": ["15,25 cm", "10 cm", "20 cm", "25 cm"],
+        "correta": 0,
+        "explicacao": "A rede tem 15,25 cm de altura."
+      },
+      {
+        "enunciado": "Como é feita a contagem de pontos no tênis de mesa?",
+        "opcoes": [
+          "Até 11 pontos, com vantagem de 2 pontos.",
+          "Até 21 pontos, com vantagem de 2 pontos.",
+          "Até 15 pontos.",
+          "Até 10 pontos."
+        ],
+        "correta": 0,
+        "explicacao": "O jogo vai até 11 pontos, com vantagem de 2 pontos."
+      },
+      {
+        "enunciado": "Quantos sets são necessários para vencer uma partida de tênis de mesa?",
+        "opcoes": ["2", "3", "4", "5"],
+        "correta": 1,
+        "explicacao": "Em partidas oficiais, são 3 sets."
+      },
+      {
+        "enunciado": "Quais são os tipos de empunhadura no tênis de mesa?",
+        "opcoes": [
+          "Clássica (ou ortodoxa) e caneta.",
+          "Clássica e invertida.",
+          "Caneta e invertida.",
+          "Clássica e lateral."
+        ],
+        "correta": 0,
+        "explicacao": "As duas empunhaduras principais são a clássica e a caneta."
+      },
+      {
+        "enunciado": "O que é a empunhadura 'clássica' no tênis de mesa?",
+        "opcoes": [
+          "Segurar a raquete como se fosse cumprimentar alguém.",
+          "Segurar a raquete como uma caneta.",
+          "Segurar a raquete com as duas mãos.",
+          "Não segurar a raquete."
+        ],
+        "correta": 0,
+        "explicacao": "A empunhadura clássica é a mais comum."
+      },
+      {
+        "enunciado": "O que é a empunhadura 'caneta' no tênis de mesa?",
+        "opcoes": [
+          "Segurar a raquete como uma caneta.",
+          "Segurar a raquete como um martelo.",
+          "Segurar a raquete com as duas mãos.",
+          "Não segurar a raquete."
+        ],
+        "correta": 0,
+        "explicacao": "A empunhadura caneta é comum em países asiáticos."
+      },
+      {
+        "enunciado": "Quais são os tipos de borracha usadas nas raquetes de tênis de mesa?",
+        "opcoes": ["Lisa e rugosa", "Lisa e áspera", "Lisa e lisa", "Lisa e invertida"],
+        "correta": 0,
+        "explicacao": "As borrachas podem ser lisas ou rugosas."
+      },
+      {
+        "enunciado": "Qual é a função da borracha lisa no tênis de mesa?",
+        "opcoes": [
+          "Aumentar a velocidade e o efeito.",
+          "Diminuir a velocidade.",
+          "Aumentar o controle.",
+          "Não tem função."
+        ],
+        "correta": 0,
+        "explicacao": "A borracha lisa aumenta a velocidade e o efeito."
+      },
+      {
+        "enunciado": "Qual é a função da borracha rugosa no tênis de mesa?",
+        "opcoes": [
+          "Aumentar o controle e diminuir a velocidade.",
+          "Aumentar a velocidade.",
+          "Aumentar o efeito.",
+          "Não tem função."
+        ],
+        "correta": 0,
+        "explicacao": "A borracha rugosa aumenta o controle."
+      },
+      {
+        "enunciado": "O que é o 'saque' no tênis de mesa?",
+        "opcoes": [
+          "O primeiro toque na bola para iniciar o ponto.",
+          "Um tipo de raquete.",
+          "Um tipo de mesa.",
+          "Uma jogada."
+        ],
+        "correta": 0,
+        "explicacao": "O saque é o primeiro toque na bola."
+      },
+      {
+        "enunciado": "Quem foi um dos maiores jogadores de tênis de mesa do Brasil?",
+        "opcoes": ["Hugo Calderano", "Guga", "Neymar", "Ronaldinho"],
+        "correta": 0,
+        "explicacao": "Hugo Calderano é o maior jogador brasileiro de tênis de mesa."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_edf_badminton_01",
+    "titulo": "Educação Física - Badminton",
+    "tipo": "conteudo",
+    "icone": "🏸",
+    "perguntas": [
+      {
+        "enunciado": "O que é o badminton?",
+        "opcoes": [
+          "Um esporte que mistura tênis e peteca.",
+          "Um esporte de contato.",
+          "Um esporte aquático.",
+          "Um esporte de combate."
+        ],
+        "correta": 0,
+        "explicacao": "O badminton mistura tênis e peteca."
+      },
+      {
+        "enunciado": "Qual é o objeto utilizado no badminton no lugar da bola?",
+        "opcoes": ["Volante", "Peteca", "Bola", "Disco"],
+        "correta": 0,
+        "explicacao": "O objeto é chamado de volante."
+      },
+      {
+        "enunciado": "Qual é o nome original do badminton?",
+        "opcoes": ["Poona", "Pingue-pongue", "Tênis", "Peteca"],
+        "correta": 0,
+        "explicacao": "O badminton era chamado de poona na Índia."
+      },
+      {
+        "enunciado": "Onde surgiu o badminton?",
+        "opcoes": ["Índia", "Inglaterra", "França", "China"],
+        "correta": 0,
+        "explicacao": "O badminton surgiu na Índia, como poona."
+      },
+      {
+        "enunciado": "Onde o badminton foi aperfeiçoado e ganhou seu nome atual?",
+        "opcoes": ["Inglaterra", "Índia", "França", "China"],
+        "correta": 0,
+        "explicacao": "O badminton foi aperfeiçoado na Inglaterra."
+      },
+      {
+        "enunciado": "Em que ano o badminton foi incluído nos Jogos Olímpicos?",
+        "opcoes": ["1992", "1988", "2000", "1896"],
+        "correta": 0,
+        "explicacao": "O badminton entrou nas Olimpíadas em 1992."
+      },
+      {
+        "enunciado": "Quais são as medidas da quadra de badminton?",
+        "opcoes": ["13,40 m x 5,18 m", "13,40 m x 6,10 m", "15 m x 5 m", "10 m x 5 m"],
+        "correta": 0,
+        "explicacao": "As medidas oficiais são 13,40 m x 5,18 m (para simples) e 6,10 m (para duplas)."
+      },
+      {
+        "enunciado": "Qual é o material do volante (peteca) de badminton?",
+        "opcoes": [
+          "Penas de ganso e cortiça.",
+          "Borracha.",
+          "Couro.",
+          "Plástico."
+        ],
+        "correta": 0,
+        "explicacao": "O volante é feito de penas de ganso e cortiça."
+      },
+      {
+        "enunciado": "Qual é o peso aproximado do volante de badminton?",
+        "opcoes": ["6 g", "10 g", "50 g", "100 g"],
+        "correta": 0,
+        "explicacao": "O volante pesa cerca de 6 g."
+      },
+      {
+        "enunciado": "Como é feita a contagem de pontos no badminton?",
+        "opcoes": [
+          "Até 21 pontos, com vantagem de 2 pontos.",
+          "Até 11 pontos.",
+          "Até 15 pontos.",
+          "Até 10 pontos."
+        ],
+        "correta": 0,
+        "explicacao": "A partida vai até 21 pontos, com vantagem de 2 pontos."
+      },
+      {
+        "enunciado": "Quantos sets são necessários para vencer uma partida de badminton?",
+        "opcoes": ["2", "3", "4", "5"],
+        "correta": 1,
+        "explicacao": "São 3 sets."
+      },
+      {
+        "enunciado": "O que é o 'ponto dourado' no badminton?",
+        "opcoes": [
+          "O ponto que decide a partida em caso de empate.",
+          "Um ponto extra.",
+          "Um ponto de saque.",
+          "Um ponto de defesa."
+        ],
+        "correta": 0,
+        "explicacao": "O ponto dourado é o ponto decisivo em caso de empate."
+      },
+      {
+        "enunciado": "Como é feito o saque no badminton?",
+        "opcoes": [
+          "Com um dos pés no chão e a raquete abaixo da cintura.",
+          "Com os dois pés no chão.",
+          "Com a raquete acima da cabeça.",
+          "Com a mão."
+        ],
+        "correta": 0,
+        "explicacao": "O saque deve ser feito com um pé no chão e a raquete abaixo da cintura."
+      },
+      {
+        "enunciado": "Quais são os tipos de saque no badminton?",
+        "opcoes": [
+          "Saque curto e saque longo.",
+          "Saque alto e saque baixo.",
+          "Saque forte e saque fraco.",
+          "Saque lateral e saque central."
+        ],
+        "correta": 0,
+        "explicacao": "Os saques podem ser curtos ou longos."
+      },
+      {
+        "enunciado": "O que é o 'drive' no badminton?",
+        "opcoes": [
+          "Uma rebatida lateral.",
+          "Uma rebatida por baixo.",
+          "Uma rebatida por cima.",
+          "Uma rebatida de saque."
+        ],
+        "correta": 0,
+        "explicacao": "O drive é uma rebatida lateral."
+      },
+      {
+        "enunciado": "O que é o 'lob' no badminton?",
+        "opcoes": [
+          "Uma rebatida por baixo.",
+          "Uma rebatida por cima.",
+          "Uma rebatida lateral.",
+          "Uma rebatida de saque."
+        ],
+        "correta": 0,
+        "explicacao": "O lob é uma rebatida por baixo."
+      },
+      {
+        "enunciado": "O que é o 'clear' no badminton?",
+        "opcoes": [
+          "Uma rebatida por cima.",
+          "Uma rebatida por baixo.",
+          "Uma rebatida lateral.",
+          "Uma rebatida de saque."
+        ],
+        "correta": 0,
+        "explicacao": "O clear é uma rebatida por cima."
+      },
+      {
+        "enunciado": "O que é o 'smash' no badminton?",
+        "opcoes": [
+          "Uma rebatida de ataque.",
+          "Uma rebatida de defesa.",
+          "Uma rebatida lateral.",
+          "Uma rebatida de saque."
+        ],
+        "correta": 0,
+        "explicacao": "O smash é uma rebatida de ataque."
+      },
+      {
+        "enunciado": "Quem é um dos maiores jogadores de badminton do mundo?",
+        "opcoes": ["Lin Dan", "Guga", "Hugo Calderano", "Neymar"],
+        "correta": 0,
+        "explicacao": "Lin Dan é um dos maiores jogadores de badminton."
+      },
+      {
+        "enunciado": "Quais são os tipos de quadra de badminton?",
+        "opcoes": [
+          "Simples e duplas.",
+          "Apenas simples.",
+          "Apenas duplas.",
+          "Não há diferença."
+        ],
+        "correta": 0,
+        "explicacao": "Existem quadras para simples e para duplas."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_edf_tenis_cadeira_01",
+    "titulo": "Educação Física - Tênis em Cadeira de Rodas",
+    "tipo": "conteudo",
+    "icone": "♿",
+    "perguntas": [
+      {
+        "enunciado": "Em que ano e país surgiu o tênis em cadeira de rodas?",
+        "opcoes": [
+          "Em 1976, nos EUA.",
+          "Em 1980, na Inglaterra.",
+          "Em 1988, na Coreia do Sul.",
+          "Em 1992, na Espanha."
+        ],
+        "correta": 0,
+        "explicacao": "O tênis em cadeira de rodas surgiu nos EUA em 1976."
+      },
+      {
+        "enunciado": "Quem são considerados os criadores do tênis em cadeira de rodas?",
+        "opcoes": ["Jeff Minnenbraker e Brad Parks", "Guga e Roger Federer", "Neymar e Ronaldinho", "Hugo Calderano e Lin Dan"],
+        "correta": 0,
+        "explicacao": "Eles adaptaram o tênis de campo para cadeirantes."
+      },
+      {
+        "enunciado": "Quando ocorreu a primeira competição de tênis em cadeira de rodas?",
+        "opcoes": ["1977", "1980", "1988", "1992"],
+        "correta": 0,
+        "explicacao": "A primeira competição foi em 1977, na Califórnia."
+      },
+      {
+        "enunciado": "Em que ano o tênis em cadeira de rodas foi incluído nos Jogos Paraolímpicos?",
+        "opcoes": ["1988 (Seul)", "1992 (Barcelona)", "1996 (Atlanta)", "2000 (Sydney)"],
+        "correta": 1,
+        "explicacao": "O esporte entrou nas Paraolimpíadas em 1992."
+      },
+      {
+        "enunciado": "Em que ano o tênis em cadeira de rodas foi incorporado pela Federação Internacional de Tênis?",
+        "opcoes": ["1988", "1991", "1992", "2000"],
+        "correta": 1,
+        "explicacao": "A federação incorporou o esporte em 1991."
+      },
+      {
+        "enunciado": "Quantas categorias existem no tênis em cadeira de rodas?",
+        "opcoes": ["1", "2", "3", "4"],
+        "correta": 0,
+        "explicacao": "Existe apenas uma categoria, que inclui jogadores com deficiência de locomoção."
+      },
+      {
+        "enunciado": "Qual é a principal adaptação do tênis em cadeira de rodas em relação ao tênis de campo?",
+        "opcoes": [
+          "A permissão para a bola quicar duas vezes antes de ser rebatida.",
+          "O uso de raquetes maiores.",
+          "A rede mais baixa.",
+          "A quadra maior."
+        ],
+        "correta": 0,
+        "explicacao": "A bola pode quicar duas vezes antes de ser rebatida."
+      },
+      {
+        "enunciado": "Quais são os primeiros representantes do Brasil no tênis em cadeira de rodas em nível paraolímpico?",
+        "opcoes": ["José Carlos Morais e Francisco Reis Júnior", "Guga e Hugo Calderano", "Neymar e Ronaldinho", "Lin Dan e Roger Federer"],
+        "correta": 0,
+        "explicacao": "Eles participaram dos Jogos de Atlanta em 1996."
+      },
+      {
+        "enunciado": "Em que ano o Brasil participou pela primeira vez dos Jogos Paraolímpicos no tênis em cadeira de rodas?",
+        "opcoes": ["1996 (Atlanta)", "1992 (Barcelona)", "2000 (Sydney)", "2004 (Atenas)"],
+        "correta": 0,
+        "explicacao": "O Brasil participou pela primeira vez em Atlanta (1996)."
+      },
+      {
+        "enunciado": "O Brasil já ganhou medalhas paraolímpicas no tênis em cadeira de rodas?",
+        "opcoes": ["Sim", "Não", "Apenas uma", "Apenas em duplas"],
+        "correta": 1,
+        "explicacao": "O Brasil não tem medalhas paraolímpicas na modalidade."
+      },
+      {
+        "enunciado": "Qual é o principal objetivo do tênis em cadeira de rodas?",
+        "opcoes": [
+          "Promover a inclusão de pessoas com deficiência por meio do esporte.",
+          "Apenas competir.",
+          "Apenas ganhar dinheiro.",
+          "Apenas se divertir."
+        ],
+        "correta": 0,
+        "explicacao": "O esporte promove a inclusão e a qualidade de vida."
+      },
+      {
+        "enunciado": "Quem foi um dos primeiros jogadores brasileiros a se destacar no tênis em cadeira de rodas?",
+        "opcoes": ["José Carlos Morais", "Guga", "Hugo Calderano", "Neymar"],
+        "correta": 0,
+        "explicacao": "José Carlos Morais foi um dos pioneiros no Brasil."
+      },
+      {
+        "enunciado": "O que é a Federação Internacional de Tênis em Cadeira de Rodas?",
+        "opcoes": [
+          "A entidade que organiza e regulamenta o esporte no mundo.",
+          "Uma empresa de raquetes.",
+          "Um clube de tênis.",
+          "Uma escola de tênis."
+        ],
+        "correta": 0,
+        "explicacao": "A federação é responsável por organizar o esporte."
+      },
+      {
+        "enunciado": "Quais são os benefícios do tênis em cadeira de rodas para as pessoas com deficiência?",
+        "opcoes": [
+          "Melhora da saúde física e mental, além da inclusão social.",
+          "Apenas diversão.",
+          "Apenas competição.",
+          "Apenas ganhar dinheiro."
+        ],
+        "correta": 0,
+        "explicacao": "O esporte traz benefícios físicos, mentais e sociais."
+      },
+      {
+        "enunciado": "O que é a 'categoria única' no tênis em cadeira de rodas?",
+        "opcoes": [
+          "Uma categoria que inclui todos os jogadores com deficiência de locomoção.",
+          "Uma categoria apenas para homens.",
+          "Uma categoria apenas para mulheres.",
+          "Uma categoria apenas para iniciantes."
+        ],
+        "correta": 0,
+        "explicacao": "A categoria única inclui jogadores com diferentes tipos de deficiência."
+      },
+      {
+        "enunciado": "Qual é o principal desafio do tênis em cadeira de rodas no Brasil?",
+        "opcoes": [
+          "A falta de incentivo e de estrutura para a prática.",
+          "A falta de jogadores.",
+          "A falta de quadras.",
+          "A falta de raquetes."
+        ],
+        "correta": 0,
+        "explicacao": "O esporte ainda carece de incentivo e estrutura no Brasil."
+      },
+      {
+        "enunciado": "Qual é a importância da Federação Internacional de Tênis em Cadeira de Rodas?",
+        "opcoes": [
+          "Organizar e regulamentar o esporte em todo o mundo.",
+          "Vender raquetes.",
+          "Construir quadras.",
+          "Patrocinar jogadores."
+        ],
+        "correta": 0,
+        "explicacao": "A federação é responsável pela organização e regulamentação."
+      },
+      {
+        "enunciado": "O que é a 'inclusão social' por meio do esporte?",
+        "opcoes": [
+          "A possibilidade de pessoas com deficiência participarem de atividades esportivas.",
+          "A exclusão de pessoas com deficiência.",
+          "Apenas a competição.",
+          "Apenas o lazer."
+        ],
+        "correta": 0,
+        "explicacao": "A inclusão social permite a participação de todos."
+      },
+      {
+        "enunciado": "Qual é a principal característica do tênis em cadeira de rodas?",
+        "opcoes": [
+          "A adaptação das regras para permitir a participação de cadeirantes.",
+          "A exclusão de cadeirantes.",
+          "Apenas competição.",
+          "Apenas lazer."
+        ],
+        "correta": 0,
+        "explicacao": "As regras são adaptadas para garantir a participação."
+      },
+      {
+        "enunciado": "O que é a 'paraolimpíada'?",
+        "opcoes": [
+          "Um evento esportivo para pessoas com deficiência.",
+          "Um evento esportivo para pessoas sem deficiência.",
+          "Uma competição de tênis.",
+          "Uma competição de vôlei."
+        ],
+        "correta": 0,
+        "explicacao": "A paraolimpíada é o maior evento esportivo para pessoas com deficiência."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_edf_tenis_mesa_adaptado_01",
+    "titulo": "Educação Física - Tênis de Mesa Adaptado",
+    "tipo": "conteudo",
+    "icone": "🏓",
+    "perguntas": [
+      {
+        "enunciado": "Quando o tênis de mesa foi adaptado para as Paraolimpíadas?",
+        "opcoes": [
+          "Em 1960, em Roma.",
+          "Em 1972, em Heidelberg.",
+          "Em 1988, em Seul.",
+          "Em 2004, em Atenas."
+        ],
+        "correta": 0,
+        "explicacao": "A adaptação ocorreu a partir de 1960, em Roma."
+      },
+      {
+        "enunciado": "Em qual Paraolimpíada o tênis de mesa adaptado teve sua primeira disputa por equipes?",
+        "opcoes": ["Heidelberg (1972)", "Roma (1960)", "Seul (1988)", "Atenas (2004)"],
+        "correta": 0,
+        "explicacao": "As disputas por equipes começaram em Heidelberg (1972)."
+      },
+      {
+        "enunciado": "Quantas categorias existem no tênis de mesa paraolímpico?",
+        "opcoes": ["5", "8", "11", "15"],
+        "correta": 2,
+        "explicacao": "Existem 11 categorias, com subdivisões."
+      },
+      {
+        "enunciado": "Quais são as subdivisões das categorias no tênis de mesa paraolímpico?",
+        "opcoes": [
+          "Cadeirantes (TT1-TT5), andantes (TT6-TT10) e intelectual (TT11).",
+          "Cadeirantes (TT1-TT3), andantes (TT4-TT8) e intelectual (TT9).",
+          "Apenas cadeirantes.",
+          "Apenas andantes."
+        ],
+        "correta": 0,
+        "explicacao": "As categorias se subdividem em cadeirantes, andantes e intelectual."
+      },
+      {
+        "enunciado": "O que significam as siglas TT1 a TT5 no tênis de mesa paraolímpico?",
+        "opcoes": [
+          "Categorias para cadeirantes.",
+          "Categorias para andantes.",
+          "Categorias para pessoas com deficiência intelectual.",
+          "Categorias para iniciantes."
+        ],
+        "correta": 0,
+        "explicacao": "TT1 a TT5 são categorias para cadeirantes."
+      },
+      {
+        "enunciado": "O que significam as siglas TT6 a TT10 no tênis de mesa paraolímpico?",
+        "opcoes": [
+          "Categorias para andantes.",
+          "Categorias para cadeirantes.",
+          "Categorias para pessoas com deficiência intelectual.",
+          "Categorias para iniciantes."
+        ],
+        "correta": 0,
+        "explicacao": "TT6 a TT10 são categorias para andantes."
+      },
+      {
+        "enunciado": "O que significa a sigla TT11 no tênis de mesa paraolímpico?",
+        "opcoes": [
+          "Categoria para pessoas com deficiência intelectual.",
+          "Categoria para cadeirantes.",
+          "Categoria para andantes.",
+          "Categoria para iniciantes."
+        ],
+        "correta": 0,
+        "explicacao": "TT11 é a categoria para pessoas com deficiência intelectual."
+      },
+      {
+        "enunciado": "Quanto maior o número da categoria no tênis de mesa paraolímpico, o que isso significa?",
+        "opcoes": [
+          "Menor é o comprometimento motor do atleta.",
+          "Maior é o comprometimento motor do atleta.",
+          "A categoria é mais difícil.",
+          "A categoria é mais fácil."
+        ],
+        "correta": 0,
+        "explicacao": "Quanto maior o número, menor o comprometimento motor."
+      },
+      {
+        "enunciado": "Quais são os critérios usados para classificar os atletas no tênis de mesa paraolímpico?",
+        "opcoes": [
+          "Alcance do movimento, força, restrição locomotora, equilíbrio e habilidade de segurar a raquete.",
+          "Apenas a força.",
+          "Apenas o equilíbrio.",
+          "Apenas a idade."
+        ],
+        "correta": 0,
+        "explicacao": "A classificação considera vários critérios motores."
+      },
+      {
+        "enunciado": "Em qual Paraolimpíada o Brasil conquistou suas primeiras medalhas no tênis de mesa?",
+        "opcoes": ["Pequim (2008)", "Atenas (2004)", "Seul (1988)", "Roma (1960)"],
+        "correta": 0,
+        "explicacao": "As primeiras medalhas foram em Pequim (2008)."
+      },
+      {
+        "enunciado": "Quem foi o primeiro atleta brasileiro a conquistar uma medalha paraolímpica no tênis de mesa?",
+        "opcoes": ["Bruna Alexandre", "Israel Stroh", "Catia Oliveira", "Hugo Calderano"],
+        "correta": 0,
+        "explicacao": "Bruna Alexandre conquistou medalhas para o Brasil."
+      },
+      {
+        "enunciado": "Quais medalhas o Brasil conquistou no tênis de mesa paraolímpico no Rio de Janeiro (2016)?",
+        "opcoes": [
+          "Bronze por equipe, bronze por duplas e bronze individual.",
+          "Apenas ouro.",
+          "Apenas prata.",
+          "Nenhuma."
+        ],
+        "correta": 0,
+        "explicacao": "O Brasil conquistou três bronzes no Rio."
+      },
+      {
+        "enunciado": "Quais medalhas o Brasil conquistou no tênis de mesa paraolímpico em Tóquio (2020)?",
+        "opcoes": [
+          "Prata com Bruna Alexandre e bronze com Catia Oliveira e equipe.",
+          "Apenas ouro.",
+          "Apenas prata.",
+          "Nenhuma."
+        ],
+        "correta": 0,
+        "explicacao": "O Brasil conquistou prata e bronzes em Tóquio."
+      },
+      {
+        "enunciado": "Qual é a importância do tênis de mesa adaptado?",
+        "opcoes": [
+          "Promover a inclusão e a saúde de pessoas com deficiência.",
+          "Apenas competir.",
+          "Apenas ganhar dinheiro.",
+          "Apenas se divertir."
+        ],
+        "correta": 0,
+        "explicacao": "O esporte promove inclusão e saúde."
+      },
+      {
+        "enunciado": "Quais são os principais desafios do tênis de mesa adaptado no Brasil?",
+        "opcoes": [
+          "Falta de estrutura e incentivo.",
+          "Falta de atletas.",
+          "Falta de quadras.",
+          "Falta de raquetes."
+        ],
+        "correta": 0,
+        "explicacao": "O esporte ainda carece de estrutura e incentivo."
+      },
+      {
+        "enunciado": "O que é o Comitê Paraolímpico Brasileiro?",
+        "opcoes": [
+          "A entidade que organiza o esporte paraolímpico no Brasil.",
+          "Uma empresa de raquetes.",
+          "Um clube de tênis.",
+          "Uma escola de tênis."
+        ],
+        "correta": 0,
+        "explicacao": "O Comitê é responsável pelo esporte paraolímpico no Brasil."
+      },
+      {
+        "enunciado": "Qual é a principal diferença entre o tênis de mesa tradicional e o adaptado?",
+        "opcoes": [
+          "As regras são adaptadas para permitir a participação de pessoas com deficiência.",
+          "O tamanho da mesa.",
+          "O tipo de bola.",
+          "A cor da raquete."
+        ],
+        "correta": 0,
+        "explicacao": "As regras são adaptadas para garantir a inclusão."
+      },
+      {
+        "enunciado": "O que é a 'categoria TT11' no tênis de mesa paraolímpico?",
+        "opcoes": [
+          "Categoria para pessoas com deficiência intelectual.",
+          "Categoria para cadeirantes.",
+          "Categoria para andantes.",
+          "Categoria para iniciantes."
+        ],
+        "correta": 0,
+        "explicacao": "TT11 é para pessoas com deficiência intelectual."
+      },
+      {
+        "enunciado": "Qual é a importância da classificação no tênis de mesa paraolímpico?",
+        "opcoes": [
+          "Garantir a equidade nas competições.",
+          "Apenas organizar os atletas.",
+          "Apenas separar por idade.",
+          "Apenas separar por sexo."
+        ],
+        "correta": 0,
+        "explicacao": "A classificação garante competições justas."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_edf_curiosidades_01",
+    "titulo": "Educação Física - Curiosidades e Grandes Nomes",
+    "tipo": "conteudo",
+    "icone": "🏆",
+    "perguntas": [
+      {
+        "enunciado": "Quem foi Guga (Gustavo Kuerten)?",
+        "opcoes": [
+          "Um tenista brasileiro com maiores conquistas no tênis de campo.",
+          "Um jogador de futebol.",
+          "Um técnico de tênis.",
+          "Um comentarista esportivo."
+        ],
+        "correta": 0,
+        "explicacao": "Guga é o maior tenista brasileiro de todos os tempos."
+      },
+      {
+        "enunciado": "Quantas vezes Guga venceu o torneio de Roland-Garros?",
+        "opcoes": ["1", "2", "3", "4"],
+        "correta": 2,
+        "explicacao": "Guga venceu Roland-Garros três vezes."
+      },
+      {
+        "enunciado": "Qual é o nome do instituto criado por Guga para ajudar crianças e adolescentes?",
+        "opcoes": ["Instituto Guga Kuerten", "Instituto Gustavo Kuerten", "Fundação Guga", "Instituto Tênis Brasil"],
+        "correta": 0,
+        "explicacao": "O Instituto Guga Kuerten foi criado em 2000."
+      },
+      {
+        "enunciado": "Quem é o maior jogador de tênis de mesa do Brasil?",
+        "opcoes": ["Hugo Calderano", "Guga", "Neymar", "Ronaldinho"],
+        "correta": 0,
+        "explicacao": "Hugo Calderano é o maior jogador brasileiro de tênis de mesa."
+      },
+      {
+        "enunciado": "Quem é um dos maiores jogadores de badminton do mundo?",
+        "opcoes": ["Lin Dan", "Guga", "Hugo Calderano", "Neymar"],
+        "correta": 0,
+        "explicacao": "Lin Dan é um dos maiores jogadores de badminton."
+      },
+      {
+        "enunciado": "Quem foi a primeira atleta brasileira a conquistar uma medalha paraolímpica no tênis de mesa?",
+        "opcoes": ["Bruna Alexandre", "Israel Stroh", "Catia Oliveira", "Hugo Calderano"],
+        "correta": 0,
+        "explicacao": "Bruna Alexandre foi uma das primeiras a conquistar medalhas."
+      },
+      {
+        "enunciado": "Qual é o nome do principal torneio de tênis de campo do mundo?",
+        "opcoes": ["Wimbledon", "Roland-Garros", "US Open", "Australian Open"],
+        "correta": 0,
+        "explicacao": "Wimbledon é o torneio mais tradicional do tênis."
+      },
+      {
+        "enunciado": "Qual é o nome do torneio de tênis de campo realizado na França?",
+        "opcoes": ["Roland-Garros", "Wimbledon", "US Open", "Australian Open"],
+        "correta": 0,
+        "explicacao": "Roland-Garros é o torneio francês."
+      },
+      {
+        "enunciado": "Qual é o nome do torneio de tênis de campo realizado nos EUA?",
+        "opcoes": ["US Open", "Wimbledon", "Roland-Garros", "Australian Open"],
+        "correta": 0,
+        "explicacao": "O US Open é o torneio americano."
+      },
+      {
+        "enunciado": "Qual é o nome do torneio de tênis de campo realizado na Austrália?",
+        "opcoes": ["Australian Open", "Wimbledon", "Roland-Garros", "US Open"],
+        "correta": 0,
+        "explicacao": "O Australian Open é o torneio australiano."
+      },
+      {
+        "enunciado": "O que é o Grand Slam no tênis?",
+        "opcoes": [
+          "Os quatro principais torneios de tênis do mundo.",
+          "Um único torneio.",
+          "Um tipo de quadra.",
+          "Um tipo de raquete."
+        ],
+        "correta": 0,
+        "explicacao": "O Grand Slam é composto pelos quatro torneios mais importantes."
+      },
+      {
+        "enunciado": "O que é o tie-break no tênis?",
+        "opcoes": [
+          "Um desempate para o set.",
+          "Um tipo de saque.",
+          "Um tipo de quadra.",
+          "Uma jogada."
+        ],
+        "correta": 0,
+        "explicacao": "O tie-break é um desempate para definir o set."
+      },
+      {
+        "enunciado": "O que é a 'categoria única' no tênis em cadeira de rodas?",
+        "opcoes": [
+          "Uma categoria que inclui todos os jogadores com deficiência de locomoção.",
+          "Uma categoria apenas para homens.",
+          "Uma categoria apenas para mulheres.",
+          "Uma categoria apenas para iniciantes."
+        ],
+        "correta": 0,
+        "explicacao": "A categoria única inclui jogadores com diferentes tipos de deficiência."
+      },
+      {
+        "enunciado": "Qual é a importância do esporte para pessoas com deficiência?",
+        "opcoes": [
+          "Promover a inclusão, a saúde e a autoestima.",
+          "Apenas competir.",
+          "Apenas ganhar dinheiro.",
+          "Apenas se divertir."
+        ],
+        "correta": 0,
+        "explicacao": "O esporte traz benefícios físicos, mentais e sociais."
+      },
+      {
+        "enunciado": "O que é a Paraolimpíada?",
+        "opcoes": [
+          "Um evento esportivo para pessoas com deficiência.",
+          "Um evento esportivo para pessoas sem deficiência.",
+          "Uma competição de tênis.",
+          "Uma competição de vôlei."
+        ],
+        "correta": 0,
+        "explicacao": "A Paraolimpíada é o maior evento esportivo para pessoas com deficiência."
+      },
+      {
+        "enunciado": "Quem foi um dos primeiros representantes do Brasil no tênis em cadeira de rodas em nível paraolímpico?",
+        "opcoes": ["José Carlos Morais", "Guga", "Hugo Calderano", "Neymar"],
+        "correta": 0,
+        "explicacao": "José Carlos Morais foi um dos pioneiros no Brasil."
+      },
+      {
+        "enunciado": "Quem foi o criador do tênis em cadeira de rodas?",
+        "opcoes": ["Jeff Minnenbraker e Brad Parks", "Guga e Roger Federer", "Neymar e Ronaldinho", "Hugo Calderano e Lin Dan"],
+        "correta": 0,
+        "explicacao": "Eles adaptaram o tênis de campo para cadeirantes."
+      },
+      {
+        "enunciado": "O que é o 'Instituto Guga Kuerten'?",
+        "opcoes": [
+          "Uma organização sem fins lucrativos para ajudar crianças e adolescentes.",
+          "Uma empresa de raquetes.",
+          "Um clube de tênis.",
+          "Uma escola de tênis."
+        ],
+        "correta": 0,
+        "explicacao": "O instituto ajuda crianças e adolescentes."
+      },
+      {
+        "enunciado": "Qual é a principal diferença entre o tênis de campo e o tênis em cadeira de rodas?",
+        "opcoes": [
+          "A permissão para a bola quicar duas vezes antes de ser rebatida.",
+          "O tamanho da quadra.",
+          "O tipo de bola.",
+          "A cor da raquete."
+        ],
+        "correta": 0,
+        "explicacao": "A bola pode quicar duas vezes antes de ser rebatida."
+      },
+      {
+        "enunciado": "Qual é a principal diferença entre o tênis de mesa tradicional e o adaptado?",
+        "opcoes": [
+          "As regras são adaptadas para permitir a participação de pessoas com deficiência.",
+          "O tamanho da mesa.",
+          "O tipo de bola.",
+          "A cor da raquete."
+        ],
+        "correta": 0,
+        "explicacao": "As regras são adaptadas para garantir a inclusão."
+      }
+    ]
+  }
+]
