@@ -1,0 +1,1359 @@
+[
+  {
+    "id": "9ano_v6_bio_introducao_01",
+    "titulo": "Biologia - Classificação e Diversidade Biológica",
+    "tipo": "conteudo",
+    "icone": "🧬",
+    "perguntas": [
+      {
+        "enunciado": "O que é Taxonomia?",
+        "opcoes": [
+          "O estudo da evolução das espécies.",
+          "A ciência ou técnica de classificação dos seres vivos.",
+          "O estudo das células.",
+          "A ciência que estuda os fósseis."
+        ],
+        "correta": 1,
+        "explicacao": "A Taxonomia é responsável por descrever, identificar e nomear os organismos."
+      },
+      {
+        "enunciado": "Qual filósofo da Grécia Antiga foi pioneiro ao criar um sistema para classificar os seres vivos?",
+        "opcoes": [
+          "Platão.",
+          "Sócrates.",
+          "Aristóteles.",
+          "Pitágoras."
+        ],
+        "correta": 2,
+        "explicacao": "Aristóteles classificou os seres vivos com base em semelhança, tipo de nutrição, forma corporal e local onde vivem."
+      },
+      {
+        "enunciado": "Qual naturalista do século XVIII desenvolveu o sistema de classificação em categorias taxonômicas (táxons)?",
+        "opcoes": [
+          "Charles Darwin.",
+          "Carl von Linné (Lineu).",
+          "Jean-Baptiste Lamarck.",
+          "Ernst Haeckel."
+        ],
+        "correta": 1,
+        "explicacao": "Lineu criou a hierarquia de categorias e a nomenclatura binomial."
+      },
+      {
+        "enunciado": "O que é uma 'filogenia'?",
+        "opcoes": [
+          "O estudo das células.",
+          "A história da ancestralidade comum entre as espécies.",
+          "A classificação por semelhanças físicas apenas.",
+          "O nome científico de uma espécie."
+        ],
+        "correta": 1,
+        "explicacao": "Filogenia é a história evolutiva de um grupo de organismos."
+      },
+      {
+        "enunciado": "Qual é a principal característica da 'Sistemática Filogenética' ou Cladística?",
+        "opcoes": [
+          "Agrupar os seres vivos baseando-se apenas em semelhanças visuais.",
+          "Utilizar caracteres para reconstruir a história evolutiva, buscando ancestralidade comum.",
+          "Classificar os seres em reinos e filos sem considerar a evolução.",
+          "Estudar apenas os seres vivos extintos."
+        ],
+        "correta": 1,
+        "explicacao": "A cladística baseia-se em caracteres compartilhados derivados de um ancestral comum exclusivo."
+      },
+      {
+        "enunciado": "O que é um 'clado'?",
+        "opcoes": [
+          "Um tipo de célula animal.",
+          "Um agrupamento que inclui todos os descendentes e o seu ancestral comum exclusivo.",
+          "Uma estrutura semelhante ao olho.",
+          "A divisão da taxonomia em reinos."
+        ],
+        "correta": 1,
+        "explicacao": "O clado é um grupo monofilético, ou seja, um ancestral e todos os seus descendentes."
+      },
+      {
+        "enunciado": "O que são estruturas homólogas?",
+        "opcoes": [
+          "Estruturas com a mesma função, mas origens diferentes.",
+          "Estruturas com mesma origem embrionária e posição, podendo ter funções diferentes.",
+          "Estruturas que não existem mais nos seres vivos.",
+          "Estruturas que só aparecem em plantas."
+        ],
+        "correta": 1,
+        "explicacao": "As estruturas homólogas indicam um ancestral comum. Ex: asa de morcego e braço humano."
+      },
+      {
+        "enunciado": "O que são estruturas análogas?",
+        "opcoes": [
+          "Estruturas com a mesma origem embrionária.",
+          "Estruturas que desempenham a mesma função, mas têm origens diferentes.",
+          "Estruturas que apontam para parentesco próximo.",
+          "Estruturas que só aparecem em fósseis."
+        ],
+        "correta": 1,
+        "explicacao": "Asas de aves e asas de insetos são exemplos de analogia (convergência evolutiva)."
+      },
+      {
+        "enunciado": "Qual é o nome científico que segue a nomenclatura binomial de Lineu?",
+        "opcoes": [
+          "Canis lupus (lobo).",
+          "Cachorro-lobo.",
+          "Lobo Cinzento.",
+          "Lupus canis."
+        ],
+        "correta": 0,
+        "explicacao": "A nomenclatura binomial usa o gênero (Canis) e a espécie (lupus), em latim."
+      },
+      {
+        "enunciado": "A diversidade biológica é o resultado de qual processo?",
+        "opcoes": [
+          "Evolução e adaptação das espécies ao longo do tempo.",
+          "Criação divina fixa.",
+          "Ação do ser humano.",
+          "Mudanças climáticas recentes apenas."
+        ],
+        "correta": 0,
+        "explicacao": "A diversidade é gerada pela evolução e seleção natural."
+      },
+      {
+        "enunciado": "Qual é a maior categoria taxonômica?",
+        "opcoes": [
+          "Reino.",
+          "Domínio.",
+          "Filo.",
+          "Ordem."
+        ],
+        "correta": 1,
+        "explicacao": "O Domínio está acima do Reino e agrupa os Reinos."
+      },
+      {
+        "enunciado": "Qual é a sequência correta das categorias taxonômicas (do maior para o menor)?",
+        "opcoes": [
+          "Filo, Classe, Ordem, Família, Gênero, Espécie.",
+          "Reino, Filo, Classe, Ordem, Família, Gênero, Espécie.",
+          "Espécie, Gênero, Família, Ordem, Classe, Filo, Reino.",
+          "Reino, Filo, Ordem, Classe, Família, Gênero, Espécie."
+        ],
+        "correta": 1,
+        "explicacao": "Reino > Filo > Classe > Ordem > Família > Gênero > Espécie."
+      },
+      {
+        "enunciado": "Qual é o nome da ciência que estuda as relações de parentesco evolutivo entre os seres vivos?",
+        "opcoes": [
+          "Ecologia.",
+          "Genética.",
+          "Sistemática (ou Filogenia).",
+          "Paleontologia."
+        ],
+        "correta": 2,
+        "explicacao": "A Sistemática estuda a diversidade e as relações evolutivas."
+      },
+      {
+        "enunciado": "O que é um fóssil?",
+        "opcoes": [
+          "Um animal vivo.",
+          "Restos ou vestígios de seres vivos antigos preservados em rochas.",
+          "Uma pedra comum.",
+          "Um tipo de célula."
+        ],
+        "correta": 1,
+        "explicacao": "Fósseis são evidências da vida passada."
+      },
+      {
+        "enunciado": "As estruturas homólogas são cruciais na classificação filogenética porque:",
+        "opcoes": [
+          "Provam que as espécies não evoluíram.",
+          "Mostram quem compartilha um ancestral comum.",
+          "Mostram apenas funções semelhantes.",
+          "São fáceis de encontrar em todos os seres."
+        ],
+        "correta": 1,
+        "explicacao": "Elas são evidências de parentesco evolutivo."
+      },
+      {
+        "enunciado": "O que indica a semelhança embrionária entre diferentes animais?",
+        "opcoes": [
+          "Que eles não têm parentesco.",
+          "Que eles compartilham um ancestral comum.",
+          "Que são da mesma espécie.",
+          "Que são estruturas análogas."
+        ],
+        "correta": 1,
+        "explicacao": "A embriologia comparada mostra semelhanças que evidenciam ancestralidade."
+      },
+      {
+        "enunciado": "Os morcegos, golfinhos e seres humanos são mamíferos. O que os une nessa classificação?",
+        "opcoes": [
+          "Terem asas.",
+          "Amamentarem seus filhotes e possuírem pelos.",
+          "Viverem na água.",
+          "Serem vertebrados."
+        ],
+        "correta": 1,
+        "explicacao": "A presença de glândulas mamárias e pelos é uma característica comum entre mamíferos."
+      },
+      {
+        "enunciado": "A analogia (estruturas análogas) é resultado de qual processo evolutivo?",
+        "opcoes": [
+          "Irradiação adaptativa.",
+          "Convergência evolutiva.",
+          "Deriva genética.",
+          "Hibridação."
+        ],
+        "correta": 1,
+        "explicacao": "A convergência evolutiva ocorre quando espécies não aparentadas desenvolvem estruturas semelhantes por adaptação ao mesmo ambiente."
+      },
+      {
+        "enunciado": "Qual destas estruturas é considerada homóloga à asa de uma ave?",
+        "opcoes": [
+          "A asa de um morcego.",
+          "A asa de um inseto.",
+          "A barbatana de um peixe.",
+          "Os braços de um ser humano."
+        ],
+        "correta": 3,
+        "explicacao": "Os braços humanos e as asas das aves têm a mesma origem embrionária, sendo homólogos."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_bio_arvores_01",
+    "titulo": "Biologia - Árvores Filogenéticas e Cladogramas",
+    "tipo": "conteudo",
+    "icone": "🌳",
+    "perguntas": [
+      {
+        "enunciado": "O que é um cladograma?",
+        "opcoes": [
+          "Uma tabela de classificação de plantas.",
+          "Um diagrama ramificado que representa as relações de parentesco evolutivo.",
+          "Um tipo de célula animal.",
+          "Uma estrutura óssea."
+        ],
+        "correta": 1,
+        "explicacao": "Cladogramas são árvores filogenéticas que mostram os clados."
+      },
+      {
+        "enunciado": "Em um cladograma, a 'raiz' representa:",
+        "opcoes": [
+          "O ancestral comum mais antigo do grupo.",
+          "A espécie mais atual.",
+          "O ambiente onde vivem.",
+          "A maior característica do grupo."
+        ],
+        "correta": 0,
+        "explicacao": "A raiz é a base da árvore, indicando o ancestral mais antigo."
+      },
+      {
+        "enunciado": "Os 'nós' (pontos de bifurcação) em um cladograma representam:",
+        "opcoes": [
+          "A morte das espécies.",
+          "Um ancestral comum hipotético onde uma linhagem se dividiu.",
+          "A falta de informação.",
+          "Uma característica nova."
+        ],
+        "correta": 1,
+        "explicacao": "O nó indica o momento em que um grupo se separou em duas linhagens."
+      },
+      {
+        "enunciado": "O que indica um 'traço' em um cladograma?",
+        "opcoes": [
+          "Uma característica nova que surgiu na linhagem.",
+          "Uma característica que foi perdida.",
+          "O tamanho do animal.",
+          "O tempo exato de evolução."
+        ],
+        "correta": 0,
+        "explicacao": "Os traços marcam o surgimento de características evolutivas (ex: presença de pulmões)."
+      },
+      {
+        "enunciado": "Qual é a principal convenção de leitura de um cladograma em relação ao tempo?",
+        "opcoes": [
+          "O tempo é sempre mostrado nas ramificações.",
+          "O tempo não é representado pela direção das linhas, mas está implícito na ordem de ramificação.",
+          "O tempo não existe na cladística.",
+          "O tamanho do ramo indica a quantidade de tempo."
+        ],
+        "correta": 1,
+        "explicacao": "A direção do tempo (passado para o presente) está implícita, geralmente de baixo para cima."
+      },
+      {
+        "enunciado": "Dois grupos que compartilham um nó (ramificação) muito recente são chamados de:",
+        "opcoes": [
+          "Grupos irmãos.",
+          "Grupos ancestrais.",
+          "Grupos monofiléticos.",
+          "Grupos parafiléticos."
+        ],
+        "correta": 0,
+        "explicacao": "Eles são mais próximos entre si do que de qualquer outro grupo."
+      },
+      {
+        "enunciado": "O que é um grupo monofilético?",
+        "opcoes": [
+          "Um grupo que inclui o ancestral comum e TODOS os seus descendentes.",
+          "Um grupo que exclui alguns descendentes.",
+          "Um grupo com características semelhantes, mas sem ancestral comum.",
+          "Um grupo de espécies extintas."
+        ],
+        "correta": 0,
+        "explicacao": "Também chamado de clado, é o grupo 'natural' na classificação filogenética."
+      },
+      {
+        "enunciado": "O que é um grupo parafilético?",
+        "opcoes": [
+          "Um grupo que inclui todos os descendentes.",
+          "Um grupo que exclui um ou mais descendentes do ancestral comum.",
+          "Um grupo sem ancestral comum.",
+          "Um grupo de espécies que não evoluíram."
+        ],
+        "correta": 1,
+        "explicacao": "Exemplo clássico: os répteis, que excluem as aves (descendentes de um ancestral comum)."
+      },
+      {
+        "enunciado": "Qual é o nome dado aos grupos que não têm valor filogenético, pois não compartilham a mesma origem ancestral?",
+        "opcoes": [
+          "Monofiléticos.",
+          "Parafiléticos.",
+          "Polifiléticos.",
+          "Cladísticos."
+        ],
+        "correta": 2,
+        "explicacao": "Grupos polifiléticos são formados por grupos de origens diferentes, baseados apenas em semelhanças superficiais."
+      },
+      {
+        "enunciado": "Na cladística, as semelhanças usadas para classificar devem ser:",
+        "opcoes": [
+          "Análogas.",
+          "Homólogas.",
+          "Apenas visuais.",
+          "Características que surgiram por acaso."
+        ],
+        "correta": 1,
+        "explicacao": "A classificação baseia-se em homologia (ancestralidade comum), não em analogia (função)."
+      },
+      {
+        "enunciado": "No cladograma dos cordados, qual característica é compartilhada por TODOS os cordados?",
+        "opcoes": [
+          "Presença de mandíbula.",
+          "Presença de notocorda.",
+          "Presença de pulmões.",
+          "Presença de ovos com casca."
+        ],
+        "correta": 1,
+        "explicacao": "A notocorda é a característica que define o filo Chordata na base do cladograma."
+      },
+      {
+        "enunciado": "No cladograma dos vertebrados, a presença de 'quatro membros' (tetrápodes) exclui qual grupo?",
+        "opcoes": [
+          "Aves.",
+          "Mamíferos.",
+          "Répteis.",
+          "Peixes."
+        ],
+        "correta": 3,
+        "explicacao": "Os peixes não possuem quatro membros (patas), logo estão fora do clado dos tetrápodes."
+      },
+      {
+        "enunciado": "Segundo o cladograma, qual grupo é mais próximo das aves?",
+        "opcoes": [
+          "Crocodilos.",
+          "Mamíferos.",
+          "Anfíbios.",
+          "Tubarões."
+        ],
+        "correta": 0,
+        "explicacao": "Crocodilos e aves compartilham um ancestral comum mais recente que com os mamíferos."
+      },
+      {
+        "enunciado": "O que caracteriza o clado Amniota?",
+        "opcoes": [
+          "Presença de ovos com casca.",
+          "Presença de pulmões.",
+          "Presença de mandíbula.",
+          "Ausência de crânio."
+        ],
+        "correta": 0,
+        "explicacao": "O ovo amniótico é a característica que une répteis, aves e mamíferos."
+      },
+      {
+        "enunciado": "A presença de pelos e glândulas mamárias é uma característica exclusiva de qual grupo?",
+        "opcoes": [
+          "Répteis.",
+          "Aves.",
+          "Mamíferos.",
+          "Anfíbios."
+        ],
+        "correta": 2,
+        "explicacao": "São as características que definem o clado Mammalia."
+      },
+      {
+        "enunciado": "Se um grupo é formado por crocodilos, lagartos e tartarugas, mas exclui as aves, esse grupo é:",
+        "opcoes": [
+          "Monofilético.",
+          "Parafilético.",
+          "Polifilético.",
+          "Cladístico."
+        ],
+        "correta": 1,
+        "explicacao": "É o famoso grupo dos 'répteis', que exclui as aves, portanto é parafilético."
+      },
+      {
+        "enunciado": "O que é a 'árvore da vida'?",
+        "opcoes": [
+          "Uma árvore física na floresta.",
+          "A representação da evolução de todas as formas de vida a partir de um ancestral comum.",
+          "O nome do livro de Darwin.",
+          "Um tipo de célula."
+        ],
+        "correta": 1,
+        "explicacao": "É a metáfora usada para a filogenia universal."
+      },
+      {
+        "enunciado": "Quem propôs a primeira representação em forma de árvore para a evolução das espécies, em 1866?",
+        "opcoes": [
+          "Charles Darwin.",
+          "Ernst Haeckel.",
+          "Gregor Mendel.",
+          "Louis Pasteur."
+        ],
+        "correta": 1,
+        "explicacao": "Ernst Haeckel foi um dos primeiros a ilustrar a evolução como uma árvore."
+      },
+      {
+        "enunciado": "No cladograma, quando duas espécies compartilham um 'nó', significa que:",
+        "opcoes": [
+          "Elas são idênticas.",
+          "Elas têm um ancestral comum exclusivo.",
+          "Elas não têm parentesco.",
+          "Uma é mais evoluída que a outra."
+        ],
+        "correta": 1,
+        "explicacao": "O nó é o ponto onde duas linhagens se separam de um ancestral."
+      },
+      {
+        "enunciado": "A classificação filogenética considera que as espécies mais próximas são aquelas que:",
+        "opcoes": [
+          "Se parecem mais fisicamente.",
+          "Compartilham um ancestral comum mais recente.",
+          "Vivem no mesmo ambiente.",
+          "Têm o mesmo tamanho."
+        ],
+        "correta": 1,
+        "explicacao": "O grau de parentesco é medido pelo tempo desde o ancestral comum."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_bio_homologia_01",
+    "titulo": "Biologia - Homologia e Analogia",
+    "tipo": "conteudo",
+    "icone": "🦴",
+    "perguntas": [
+      {
+        "enunciado": "O que são estruturas homólogas?",
+        "opcoes": [
+          "Estruturas com funções diferentes e origens embrionárias diferentes.",
+          "Estruturas com mesma origem embrionária e posição, podendo ter funções diferentes.",
+          "Estruturas que não existem nos seres atuais.",
+          "Estruturas presentes apenas em plantas."
+        ],
+        "correta": 1,
+        "explicacao": "A homologia é a semelhança de origem, não necessariamente de função."
+      },
+      {
+        "enunciado": "Qual é o exemplo clássico de estrutura homóloga?",
+        "opcoes": [
+          "Asa de ave e asa de inseto.",
+          "Braço humano e asa de ave.",
+          "Olho de vertebrado e olho de molusco.",
+          "Nadadeira de peixe e asa de morcego."
+        ],
+        "correta": 1,
+        "explicacao": "O braço humano e a asa de ave têm a mesma origem embrionária e estrutura óssea."
+      },
+      {
+        "enunciado": "O que são estruturas análogas?",
+        "opcoes": [
+          "Estruturas com mesma origem embrionária.",
+          "Estruturas com funções iguais, mas origens embrionárias diferentes.",
+          "Estruturas que só aparecem em fósseis.",
+          "Estruturas com mesma posição no corpo."
+        ],
+        "correta": 1,
+        "explicacao": "A analogia é resultado de convergência evolutiva, não indicando parentesco próximo."
+      },
+      {
+        "enunciado": "Qual é o exemplo clássico de estrutura análoga?",
+        "opcoes": [
+          "Braço humano e asa de morcego.",
+          "Asa de ave e asa de inseto.",
+          "Pata de cavalo e nadadeira de baleia.",
+          "Folha de planta e espinho de cacto."
+        ],
+        "correta": 1,
+        "explicacao": "Ambas as asas servem para voo, mas têm origens diferentes."
+      },
+      {
+        "enunciado": "A asa de um morcego e a asa de uma ave são estruturas:",
+        "opcoes": [
+          "Homólogas.",
+          "Análogas.",
+          "Vestigiais.",
+          "Fósseis."
+        ],
+        "correta": 1,
+        "explicacao": "São adaptações ao voo em grupos diferentes (mamíferos e aves), logo são análogas."
+      },
+      {
+        "enunciado": "A presença de quatro membros (patas) em anfíbios, répteis, aves e mamíferos é uma característica:",
+        "opcoes": [
+          "Análoga.",
+          "Homóloga.",
+          "Vestigial.",
+          "Exclusiva de mamíferos."
+        ],
+        "correta": 1,
+        "explicacao": "Indica que todos os tetrápodes descendem de um mesmo ancestral comum."
+      },
+      {
+        "enunciado": "O que são estruturas vestigiais?",
+        "opcoes": [
+          "Estruturas que desempenham funções essenciais.",
+          "Estruturas que perderam sua função original ao longo da evolução, mas ainda estão presentes.",
+          "Estruturas que surgiram recentemente.",
+          "Estruturas análogas."
+        ],
+        "correta": 1,
+        "explicacao": "O apêndice humano e os ossos pélvicos das baleias são exemplos."
+      },
+      {
+        "enunciado": "O olho de um vertebrado e o olho de um molusco cefalópode (polvo) são estruturas:",
+        "opcoes": [
+          "Homólogas.",
+          "Análogas.",
+          "Vestigiais.",
+          "Idênticas em origem."
+        ],
+        "correta": 1,
+        "explicacao": "Ambos são olhos, mas têm origens embrionárias diferentes, sendo análogos."
+      },
+      {
+        "enunciado": "Por que as estruturas análogas podem causar confusão na classificação?",
+        "opcoes": [
+          "Porque parecem homólogas, mas não indicam parentesco próximo.",
+          "Porque nunca são parecidas.",
+          "Porque só existem em fósseis.",
+          "Porque não têm função."
+        ],
+        "correta": 0,
+        "explicacao": "A semelhança de função pode enganar, mas a origem é diferente."
+      },
+      {
+        "enunciado": "O que indica a presença de pelos e glândulas mamárias em um grupo de animais?",
+        "opcoes": [
+          "Uma analogia.",
+          "Uma característica compartilhada exclusiva (sinapomorfia) dos mamíferos.",
+          "Uma estrutura vestigial.",
+          "Uma adaptação ao voo."
+        ],
+        "correta": 1,
+        "explicacao": "É uma característica derivada compartilhada que define o grupo."
+      },
+      {
+        "enunciado": "A presença de asas em insetos, aves e morcegos é um exemplo de:",
+        "opcoes": [
+          "Homologia.",
+          "Analogia (convergência evolutiva).",
+          "Herança genética.",
+          "Mutação."
+        ],
+        "correta": 1,
+        "explicacao": "Grupos não aparentados desenvolveram asas para a mesma função."
+      },
+      {
+        "enunciado": "A ausência de patas em cobras adultas não impede que elas sejam classificadas como tetrápodes. Por quê?",
+        "opcoes": [
+          "Porque a origem embrionária revela a presença de membros ancestrais.",
+          "Porque todas as cobras têm patas escondidas.",
+          "Porque a classificação é baseada apenas na aparência adulta.",
+          "Porque são anfíbios."
+        ],
+        "correta": 0,
+        "explicacao": "A embriologia mostra que as cobras compartilham o plano corporal de tetrápodes, mesmo que as patas não se desenvolvam."
+      },
+      {
+        "enunciado": "Qual das estruturas abaixo é considerada vestigial no ser humano?",
+        "opcoes": [
+          "O fígado.",
+          "O apêndice cecal.",
+          "O coração.",
+          "Os pulmões."
+        ],
+        "correta": 1,
+        "explicacao": "O apêndice perdeu sua função digestiva principal ao longo da evolução."
+      },
+      {
+        "enunciado": "A homologia é usada como critério de classificação porque:",
+        "opcoes": [
+          "Indica que os organismos têm a mesma função.",
+          "Indica ancestralidade comum.",
+          "Mostra que os organismos vivem no mesmo ambiente.",
+          "É mais fácil de observar."
+        ],
+        "correta": 1,
+        "explicacao": "É a base da sistemática filogenética."
+      },
+      {
+        "enunciado": "As semelhanças anatômicas entre diferentes espécies podem ser resultado de:",
+        "opcoes": [
+          "Apenas homologia.",
+          "Homologia (ancestralidade) ou analogia (convergência).",
+          "Apenas analogia.",
+          "Apenas mutação."
+        ],
+        "correta": 1,
+        "explicacao": "É preciso distinguir se a semelhança vem de um ancestral comum ou de adaptação ao meio."
+      },
+      {
+        "enunciado": "Qual das opções abaixo NÃO é um exemplo de homologia?",
+        "opcoes": [
+          "Braço humano e nadadeira de baleia.",
+          "Pata de cavalo e asa de morcego.",
+          "Asa de ave e asa de inseto.",
+          "Pata de lagarto e braço humano."
+        ],
+        "correta": 2,
+        "explicacao": "A asa de ave e a de inseto são análogas."
+      },
+      {
+        "enunciado": "O estudo de estruturas homólogas é importante para:",
+        "opcoes": [
+          "Entender a fisiologia animal.",
+          "Reconstruir a história evolutiva dos grupos.",
+          "Classificar os animais por tamanho.",
+          "Definir os habitats."
+        ],
+        "correta": 1,
+        "explicacao": "As homologias contam a história da evolução."
+      },
+      {
+        "enunciado": "A convergência evolutiva resulta em:",
+        "opcoes": [
+          "Estruturas homólogas.",
+          "Estruturas análogas.",
+          "Estruturas vestigiais.",
+          "Ausência de estruturas."
+        ],
+        "correta": 1,
+        "explicacao": "Espécies diferentes se adaptam a ambientes semelhantes, gerando analogias."
+      },
+      {
+        "enunciado": "A presença de notocorda em todos os cordados é um exemplo de:",
+        "opcoes": [
+          "Analogia.",
+          "Homologia.",
+          "Estrutura vestigial.",
+          "Mutação."
+        ],
+        "correta": 1,
+        "explicacao": "É uma característica compartilhada por ancestralidade."
+      },
+      {
+        "enunciado": "Qual é a principal diferença entre homologia e analogia?",
+        "opcoes": [
+          "A homologia é baseada na função, a analogia na origem.",
+          "A homologia é baseada na origem embrionária/ancestral, a analogia na função.",
+          "Ambas são baseadas na origem.",
+          "Ambas são baseadas na função."
+        ],
+        "correta": 1,
+        "explicacao": "Homologia = mesma origem; Analogia = mesma função."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_bio_cordados_01",
+    "titulo": "Biologia - Evolução dos Cordados",
+    "tipo": "conteudo",
+    "icone": "🐟",
+    "perguntas": [
+      {
+        "enunciado": "Qual é a característica que define o filo dos Cordados?",
+        "opcoes": [
+          "Presença de pelos.",
+          "Presença de notocorda.",
+          "Presença de asas.",
+          "Presença de pulmões."
+        ],
+        "correta": 1,
+        "explicacao": "A notocorda é uma haste de sustentação presente pelo menos na fase embrionária."
+      },
+      {
+        "enunciado": "No cladograma dos cordados, qual é o primeiro grupo a se separar?",
+        "opcoes": [
+          "Peixes.",
+          "Mamíferos.",
+          "Protocordados.",
+          "Aves."
+        ],
+        "correta": 2,
+        "explicacao": "Os protocordados (ex: anfioxo) são os cordados mais basais."
+      },
+      {
+        "enunciado": "Qual característica permite separar os craniados dos protocordados?",
+        "opcoes": [
+          "Presença de crânio.",
+          "Presença de notocorda.",
+          "Presença de mandíbula.",
+          "Presença de pulmões."
+        ],
+        "correta": 0,
+        "explicacao": "Os craniados possuem crânio protegendo o encéfalo."
+      },
+      {
+        "enunciado": "No cladograma, o que caracteriza o grupo dos Tetrápodes?",
+        "opcoes": [
+          "A presença de quatro membros (patas).",
+          "A presença de ovos com casca.",
+          "A presença de pulmões.",
+          "A presença de glândulas mamárias."
+        ],
+        "correta": 0,
+        "explicacao": "A novidade evolutiva é a presença de quatro membros."
+      },
+      {
+        "enunciado": "Qual grupo é considerado o primeiro a apresentar pulmões no cladograma dos vertebrados?",
+        "opcoes": [
+          "Peixes cartilaginosos.",
+          "Anfíbios.",
+          "Répteis.",
+          "Aves."
+        ],
+        "correta": 1,
+        "explicacao": "Os anfíbios são os primeiros vertebrados a ter respiração pulmonar (além da cutânea)."
+      },
+      {
+        "enunciado": "O que é o âmnion?",
+        "opcoes": [
+          "Uma membrana que protege o embrião e está presente nos ovos de répteis, aves e mamíferos.",
+          "O nome do ancestral comum de todos os vertebrados.",
+          "O crânio dos peixes.",
+          "Uma estrutura da notocorda."
+        ],
+        "correta": 0,
+        "explicacao": "O âmnion é uma membrana que previne a desidratação do embrião, permitindo a vida fora da água."
+      },
+      {
+        "enunciado": "Quais são os três grupos de amniotas?",
+        "opcoes": [
+          "Anfíbios, répteis e aves.",
+          "Peixes, anfíbios e répteis.",
+          "Répteis, aves e mamíferos.",
+          "Protocordados, peixes e aves."
+        ],
+        "correta": 2,
+        "explicacao": "Os amniotas são os répteis, as aves e os mamíferos."
+      },
+      {
+        "enunciado": "No cladograma, qual grupo é mais próximo das aves?",
+        "opcoes": [
+          "Crocodilos.",
+          "Mamíferos.",
+          "Tartarugas.",
+          "Anfíbios."
+        ],
+        "correta": 0,
+        "explicacao": "Aves e crocodilos compartilham um ancestral comum mais recente."
+      },
+      {
+        "enunciado": "A presença de ovos com casca é uma característica compartilhada por:",
+        "opcoes": [
+          "Anfíbios e peixes.",
+          "Répteis, aves e mamíferos (em alguns casos, como o ornitorrinco).",
+          "Apenas répteis.",
+          "Apenas aves."
+        ],
+        "correta": 1,
+        "explicacao": "Faz parte do clado Amniota."
+      },
+      {
+        "enunciado": "Qual das alternativas abaixo NÃO é uma característica dos mamíferos?",
+        "opcoes": [
+          "Presença de glândulas mamárias.",
+          "Presença de pelos.",
+          "Presença de notocorda.",
+          "Presença de asas."
+        ],
+        "correta": 3,
+        "explicacao": "A maioria dos mamíferos não tem asas (apenas os morcegos)."
+      },
+      {
+        "enunciado": "Os répteis, como os lagartos, são considerados:",
+        "opcoes": [
+          "Um grupo monofilético.",
+          "Um grupo parafilético, pois excluem as aves.",
+          "Um grupo polifilético.",
+          "Um grupo sem ancestral comum."
+        ],
+        "correta": 1,
+        "explicacao": "O grupo tradicional 'répteis' não inclui as aves, que também descendem do mesmo ancestral."
+      },
+      {
+        "enunciado": "O que são os peixes cartilaginosos?",
+        "opcoes": [
+          "Peixes com esqueleto ósseo.",
+          "Peixes com esqueleto de cartilagem, como tubarões e raias.",
+          "Animais terrestres.",
+          "Répteis aquáticos."
+        ],
+        "correta": 1,
+        "explicacao": "Tubarões e raias são exemplos de peixes cartilaginosos."
+      },
+      {
+        "enunciado": "No cladograma, qual foi a primeira característica a surgir: mandíbula ou pulmão?",
+        "opcoes": [
+          "Mandíbula.",
+          "Pulmão.",
+          "Surgiram juntos.",
+          "Nenhuma das duas."
+        ],
+        "correta": 0,
+        "explicacao": "A mandíbula surge antes, nos peixes com mandíbula (gnatostomados). Os pulmões surgem depois, nos anfíbios."
+      },
+      {
+        "enunciado": "Qual é a importância da notocorda no desenvolvimento dos cordados?",
+        "opcoes": [
+          "Serve para a respiração.",
+          "Sustenta o corpo e serve como eixo para o desenvolvimento do sistema nervoso.",
+          "Ajuda na digestão.",
+          "Protege o coração."
+        ],
+        "correta": 1,
+        "explicacao": "A notocorda é um eixo de sustentação embrionário."
+      },
+      {
+        "enunciado": "Qual a diferença entre os peixes ósseos e cartilaginosos?",
+        "opcoes": [
+          "O tipo de esqueleto.",
+          "A presença de notocorda.",
+          "A presença de mandíbula.",
+          "O habitat."
+        ],
+        "correta": 0,
+        "explicacao": "Ósseos têm esqueleto de osso, cartilaginosos de cartilagem."
+      },
+      {
+        "enunciado": "No cladograma, o grupo dos amniotas inclui:",
+        "opcoes": [
+          "Apenas os répteis.",
+          "Apenas aves e mamíferos.",
+          "Répteis, aves e mamíferos.",
+          "Anfíbios, répteis e aves."
+        ],
+        "correta": 2,
+        "explicacao": "São os três grupos que possuem o ovo amniótico."
+      },
+      {
+        "enunciado": "A presença de mandíbula permitiu aos vertebrados:",
+        "opcoes": [
+          "Respirar fora da água.",
+          "Alimentar-se de presas maiores e diversificar a dieta.",
+          "Voar.",
+          "Amamentar."
+        ],
+        "correta": 1,
+        "explicacao": "Foi uma inovação evolutiva crucial para a diversificação dos vertebrados."
+      },
+      {
+        "enunciado": "Os anfíbios dependem da água para a reprodução porque:",
+        "opcoes": [
+          "Seus ovos não têm casca protetora e secam no ambiente terrestre.",
+          "Eles não têm pulmões.",
+          "Eles não têm patas.",
+          "Eles são peixes."
+        ],
+        "correta": 0,
+        "explicacao": "Os ovos dos anfíbios são gelatinosos e precisam de umidade."
+      },
+      {
+        "enunciado": "O que diferencia os mamíferos das aves no cladograma?",
+        "opcoes": [
+          "Presença de notocorda.",
+          "Presença de glândulas mamárias e pelos (ausentes nas aves).",
+          "Presença de ovos com casca.",
+          "Presença de quatro membros."
+        ],
+        "correta": 1,
+        "explicacao": "As aves têm penas e ovos com casca; os mamíferos têm pelos e glândulas mamárias."
+      },
+      {
+        "enunciado": "O cladograma dos cordados mostra que a evolução é um processo de:",
+        "opcoes": [
+          "Ramos independentes sem relação.",
+          "Ramos que se separam de um ancestral comum.",
+          "Criação de novas espécies sem parentesco.",
+          "Apenas mudanças genéticas sem morfologia."
+        ],
+        "correta": 1,
+        "explicacao": "A árvore filogenética ilustra a descendência com modificação."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_bio_origem_vida_01",
+    "titulo": "Biologia - Origem e Diversificação da Vida",
+    "tipo": "conteudo",
+    "icone": "🌋",
+    "perguntas": [
+      {
+        "enunciado": "Segundo a hipótese mais aceita, onde a vida teria surgido?",
+        "opcoes": [
+          "Na atmosfera primitiva.",
+          "Nos oceanos primitivos.",
+          "Em cavernas subterrâneas.",
+          "No espaço sideral."
+        ],
+        "correta": 1,
+        "explicacao": "A 'sopa primitiva' teria se formado nos oceanos."
+      },
+      {
+        "enunciado": "O que eram os coacervados?",
+        "opcoes": [
+          "As primeiras células eucariontes.",
+          "Agrupamentos de substâncias orgânicas que formavam estruturas semelhantes a membranas.",
+          "Fósseis de bactérias.",
+          "Moléculas de DNA."
+        ],
+        "correta": 1,
+        "explicacao": "Foram obtidos em laboratório e são considerados precursores das células."
+      },
+      {
+        "enunciado": "Qual foi o principal gás da atmosfera primitiva?",
+        "opcoes": [
+          "Oxigênio.",
+          "Gás carbônico.",
+          "Nitrogênio.",
+          "Metano (e outros gases como amônia)."
+        ],
+        "correta": 3,
+        "explicacao": "A atmosfera primitiva não tinha oxigênio e era rica em metano, amônia e outros gases."
+      },
+      {
+        "enunciado": "O experimento de Miller e Urey (1953) tentou simular as condições da Terra primitiva para obter:",
+        "opcoes": [
+          "Células completas.",
+          "Aminoácidos e outras moléculas orgânicas.",
+          "DNA.",
+          "Bactérias."
+        ],
+        "correta": 1,
+        "explicacao": "Eles conseguiram produzir aminoácidos a partir de gases simples e descargas elétricas."
+      },
+      {
+        "enunciado": "A teoria da abiogênese afirmava que:",
+        "opcoes": [
+          "A vida surge de outros seres vivos.",
+          "A vida surge espontaneamente da matéria inanimada.",
+          "A vida veio do espaço.",
+          "A vida não existe."
+        ],
+        "correta": 1,
+        "explicacao": "A abiogênese (ou geração espontânea) foi derrubada por Pasteur."
+      },
+      {
+        "enunciado": "Qual cientista derrubou a teoria da geração espontânea com seus experimentos com frascos de pescoço de cisne?",
+        "opcoes": [
+          "Charles Darwin.",
+          "Louis Pasteur.",
+          "Lamarck.",
+          "Ernst Haeckel."
+        ],
+        "correta": 1,
+        "explicacao": "Pasteur provou que os micro-organismos vinham do ar, não surgiam do caldo."
+      },
+      {
+        "enunciado": "A hipótese da panspermia defende que:",
+        "opcoes": [
+          "A vida surgiu na Terra primitiva.",
+          "A vida foi trazida de outros planetas por meteoritos ou poeira cósmica.",
+          "A vida surgiu em fontes hidrotermais.",
+          "A vida não existe em outros planetas."
+        ],
+        "correta": 1,
+        "explicacao": "A panspermia cósmica sugere que a vida é originária do espaço."
+      },
+      {
+        "enunciado": "O que é a hipótese da evolução química?",
+        "opcoes": [
+          "A vida surgiu de repente.",
+          "Moléculas inorgânicas se combinaram formando moléculas orgânicas, que originaram os primeiros seres vivos.",
+          "A vida veio do espaço.",
+          "A vida foi criada por Deus."
+        ],
+        "correta": 1,
+        "explicacao": "É a hipótese mais aceita atualmente, baseada em experimentos como o de Miller."
+      },
+      {
+        "enunciado": "Quais eram as condições da Terra primitiva que permitiram a formação de moléculas orgânicas?",
+        "opcoes": [
+          "Temperaturas amenas e presença de oxigênio.",
+          "Altas temperaturas, descargas elétricas e ausência de oxigênio.",
+          "Presença de água líquida e oxigênio.",
+          "Atmosfera rica em oxigênio."
+        ],
+        "correta": 1,
+        "explicacao": "A ausência de oxigênio era crucial, pois ele destruiria as moléculas orgânicas."
+      },
+      {
+        "enunciado": "Qual é a diferença entre a hipótese autotrófica e heterotrófica sobre o primeiro ser vivo?",
+        "opcoes": [
+          "Autotrófica: produzia seu próprio alimento; Heterotrófica: se alimentava de matéria orgânica disponível.",
+          "Autotrófica: dependia de outros; Heterotrófica: independente.",
+          "São a mesma coisa.",
+          "Autotrófica: não respirava; Heterotrófica: respirava."
+        ],
+        "correta": 0,
+        "explicacao": "A hipótese heterotrófica é a mais aceita hoje, mas a autotrófica também tem defensores."
+      },
+      {
+        "enunciado": "A primeira forma de vida na Terra era provavelmente:",
+        "opcoes": [
+          "Um mamífero.",
+          "Uma bactéria anaeróbia (procarionte).",
+          "Um fungo.",
+          "Uma planta."
+        ],
+        "correta": 1,
+        "explicacao": "Os primeiros seres vivos eram procariontes e anaeróbios (sem oxigênio)."
+      },
+      {
+        "enunciado": "O que é a teoria endossimbiótica?",
+        "opcoes": [
+          "Que as células surgiram do espaço.",
+          "Que mitocôndrias e cloroplastos surgiram de bactérias que foram englobadas por células maiores.",
+          "Que os vírus são células.",
+          "Que os fungos são ancestrais das plantas."
+        ],
+        "correta": 1,
+        "explicacao": "Essa teoria explica a origem das organelas nas células eucariontes."
+      },
+      {
+        "enunciado": "Quem propôs a teoria endossimbiótica?",
+        "opcoes": [
+          "Lynn Margulis.",
+          "Charles Darwin.",
+          "Louis Pasteur.",
+          "Ernst Haeckel."
+        ],
+        "correta": 0,
+        "explicacao": "Lynn Margulis foi a principal defensora dessa teoria."
+      },
+      {
+        "enunciado": "Os primeiros seres vivos eram anaeróbios porque:",
+        "opcoes": [
+          "Não havia oxigênio na atmosfera primitiva.",
+          "Eles não precisavam de energia.",
+          "Eles respiravam oxigênio.",
+          "Eles eram fotossintetizantes."
+        ],
+        "correta": 0,
+        "explicacao": "A atmosfera primitiva não tinha oxigênio, então a vida era anaeróbia."
+      },
+      {
+        "enunciado": "O que foi o 'evento de oxigenação' (ou catástrofe do oxigênio)?",
+        "opcoes": [
+          "A extinção dos dinossauros.",
+          "O aumento do oxigênio na atmosfera causado por cianobactérias, causando extinção de muitos anaeróbios.",
+          "O resfriamento da Terra.",
+          "A formação dos oceanos."
+        ],
+        "correta": 1,
+        "explicacao": "A fotossíntese das cianobactérias liberou oxigênio, alterando a atmosfera e a vida."
+      },
+      {
+        "enunciado": "Qual das opções NÃO é uma evidência da teoria endossimbiótica?",
+        "opcoes": [
+          "Mitocôndrias têm DNA circular próprio.",
+          "Mitocôndrias têm ribossomos semelhantes aos de bactérias.",
+          "Mitocôndrias se dividem independentemente da célula.",
+          "Mitocôndrias possuem núcleo."
+        ],
+        "correta": 3,
+        "explicacao": "Mitocôndrias NÃO têm núcleo. Isso é uma característica de células eucariontes, não de bactérias."
+      },
+      {
+        "enunciado": "A vida em células eucariontes surgiu há cerca de:",
+        "opcoes": [
+          "4,5 bilhões de anos.",
+          "3,5 bilhões de anos.",
+          "1,5 a 2 bilhões de anos.",
+          "500 milhões de anos."
+        ],
+        "correta": 2,
+        "explicacao": "As células eucariontes surgiram mais tarde, entre 1,5 e 2 bilhões de anos atrás."
+      },
+      {
+        "enunciado": "Qual é a importância da água líquida para a origem da vida?",
+        "opcoes": [
+          "É um solvente universal, permitindo reações químicas.",
+          "É necessária para a respiração.",
+          "Não tem importância.",
+          "É essencial para a fotossíntese."
+        ],
+        "correta": 0,
+        "explicacao": "A água é o meio onde as reações químicas acontecem."
+      },
+      {
+        "enunciado": "Os vírus são considerados seres vivos por alguns cientistas porque:",
+        "opcoes": [
+          "Têm células.",
+          "Têm material genético e capacidade de se reproduzir (dentro de células hospedeiras).",
+          "Realizam fotossíntese.",
+          "Têm metabolismo próprio."
+        ],
+        "correta": 1,
+        "explicacao": "A capacidade de replicação e o material genético são características dos seres vivos."
+      },
+      {
+        "enunciado": "O que é o 'caldo primordial' ou 'sopa primitiva'?",
+        "opcoes": [
+          "Uma sopa que comemos.",
+          "A solução aquosa nos oceanos primitivos que continha moléculas orgânicas.",
+          "Um experimento de laboratório.",
+          "Uma teoria sobre a origem do universo."
+        ],
+        "correta": 1,
+        "explicacao": "Foi o ambiente onde as primeiras moléculas orgânicas se formaram e acumularam."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v6_bio_termodinamica_01",
+    "titulo": "Biologia - Vida e Termodinâmica",
+    "tipo": "conteudo",
+    "icone": "♻️",
+    "perguntas": [
+      {
+        "enunciado": "O que é a Primeira Lei da Termodinâmica?",
+        "opcoes": [
+          "A energia não é criada nem destruída, apenas transformada.",
+          "A entropia do universo sempre aumenta.",
+          "A energia sempre aumenta.",
+          "A vida viola as leis da física."
+        ],
+        "correta": 0,
+        "explicacao": "Também conhecida como princípio da conservação de energia."
+      },
+      {
+        "enunciado": "O que é a Segunda Lei da Termodinâmica?",
+        "opcoes": [
+          "A energia não pode ser transformada.",
+          "A entropia (desordem) de um sistema isolado tende a aumentar.",
+          "A vida não segue as leis da física.",
+          "O calor não pode ser transferido."
+        ],
+        "correta": 1,
+        "explicacao": "A desordem (entropia) sempre tende a aumentar em sistemas fechados."
+      },
+      {
+        "enunciado": "O que são sistemas abertos?",
+        "opcoes": [
+          "Sistemas que trocam energia, mas não matéria.",
+          "Sistemas que trocam matéria e energia com o ambiente.",
+          "Sistemas que não trocam nada.",
+          "Sistemas que só perdem energia."
+        ],
+        "correta": 1,
+        "explicacao": "Os seres vivos são sistemas abertos, pois trocam matéria e energia com o meio."
+      },
+      {
+        "enunciado": "Como os seres vivos mantêm a organização interna (baixa entropia) contrariando a tendência natural de desordem?",
+        "opcoes": [
+          "Não mantêm, pois violam as leis da física.",
+          "Através do metabolismo, que gasta energia e libera calor (aumentando a entropia do ambiente).",
+          "Ficando imóveis.",
+          "Não precisam de energia."
+        ],
+        "correta": 1,
+        "explicacao": "Os seres vivos mantêm sua organização consumindo energia e aumentando a entropia do ambiente."
+      },
+      {
+        "enunciado": "Qual é a principal fonte de energia para a vida na Terra?",
+        "opcoes": [
+          "A energia nuclear.",
+          "A energia solar.",
+          "A energia geotérmica.",
+          "A energia eólica."
+        ],
+        "correta": 1,
+        "explicacao": "O Sol é a fonte primária de quase toda a energia dos ecossistemas."
+      },
+      {
+        "enunciado": "Qual é a porcentagem da energia solar que é transformada em matéria orgânica pelas plantas (produtores)?",
+        "opcoes": [
+          "Cerca de 100%.",
+          "Cerca de 50%.",
+          "Cerca de 1%.",
+          "Cerca de 10%."
+        ],
+        "correta": 2,
+        "explicacao": "Apenas cerca de 1% da energia solar é aproveitada na fotossíntese."
+      },
+      {
+        "enunciado": "O que é uma cadeia alimentar?",
+        "opcoes": [
+          "Um caminho de energia e matéria que vai dos produtores aos consumidores e decompositores.",
+          "Um tipo de célula.",
+          "Uma classificação de animais.",
+          "Um sistema de respiração."
+        ],
+        "correta": 0,
+        "explicacao": "A cadeia alimentar mostra o fluxo de energia entre os seres vivos."
+      },
+      {
+        "enunciado": "A energia dissipada em cada nível trófico da cadeia alimentar é perdida na forma de:",
+        "opcoes": [
+          "Matéria orgânica.",
+          "Calor.",
+          "Luz.",
+          "Som."
+        ],
+        "correta": 1,
+        "explicacao": "Grande parte da energia é dissipada como calor (aumentando a entropia)."
+      },
+      {
+        "enunciado": "O que é a entropia?",
+        "opcoes": [
+          "A quantidade de energia útil.",
+          "A medida da desordem de um sistema.",
+          "A medida da organização.",
+          "A medida do calor."
+        ],
+        "correta": 1,
+        "explicacao": "Entropia é a medida da desordem das partículas de um sistema."
+      },
+      {
+        "enunciado": "Os seres vivos são considerados sistemas abertos porque:",
+        "opcoes": [
+          "Não trocam nada com o ambiente.",
+          "Trocam matéria e energia com o meio externo.",
+          "São fechados em si mesmos.",
+          "São apenas físicos."
+        ],
+        "correta": 1,
+        "explicacao": "Essa troca contínua é essencial para a vida."
+      },
+      {
+        "enunciado": "O que é metabolismo?",
+        "opcoes": [
+          "O conjunto de reações químicas que ocorrem no organismo.",
+          "A respiração.",
+          "A digestão.",
+          "A reprodução."
+        ],
+        "correta": 0,
+        "explicacao": "O metabolismo inclui anabolismo (construção) e catabolismo (degradação)."
+      },
+      {
+        "enunciado": "Qual é a relação entre a vida e a segunda lei da termodinâmica?",
+        "opcoes": [
+          "A vida viola a segunda lei.",
+          "A vida é compatível com a segunda lei, pois a desordem total do universo aumenta, mesmo que os organismos se organizem.",
+          "A vida não tem relação com a termodinâmica.",
+          "A vida não precisa de energia."
+        ],
+        "correta": 1,
+        "explicacao": "Os organismos aumentam a entropia do ambiente, mantendo a ordem interna."
+      },
+      {
+        "enunciado": "O que são organismos autotróficos?",
+        "opcoes": [
+          "Seres que produzem seu próprio alimento (ex: plantas).",
+          "Seres que se alimentam de outros.",
+          "Seres que não se alimentam.",
+          "Seres que decompõem matéria orgânica."
+        ],
+        "correta": 0,
+        "explicacao": "Autotróficos = produzem seu próprio alimento (fotossíntese/quimiossíntese)."
+      },
+      {
+        "enunciado": "O que são organismos heterotróficos?",
+        "opcoes": [
+          "Seres que produzem seu próprio alimento.",
+          "Seres que se alimentam de outros seres vivos.",
+          "Seres que não precisam de energia.",
+          "Seres que só realizam fotossíntese."
+        ],
+        "correta": 1,
+        "explicacao": "Heterotróficos = obtêm energia consumindo outros organismos."
+      },
+      {
+        "enunciado": "Qual é o papel dos decompositores na cadeia alimentar?",
+        "opcoes": [
+          "Produzir energia.",
+          "Reciclar a matéria orgânica, devolvendo nutrientes ao ambiente.",
+          "Consumir produtores.",
+          "Não participam da cadeia."
+        ],
+        "correta": 1,
+        "explicacao": "Eles quebram a matéria orgânica morta em substâncias inorgânicas."
+      },
+      {
+        "enunciado": "O que é a 'eficiência energética' na cadeia alimentar?",
+        "opcoes": [
+          "A porcentagem de energia que é transferida de um nível trófico para o próximo.",
+          "A quantidade total de energia do Sol.",
+          "A energia perdida como calor.",
+          "A energia produzida pelas plantas."
+        ],
+        "correta": 0,
+        "explicacao": "Geralmente, apenas cerca de 10% da energia é transferida de um nível para outro."
+      },
+      {
+        "enunciado": "O que caracteriza um ecossistema?",
+        "opcoes": [
+          "Apenas os seres vivos.",
+          "Apenas o ambiente físico.",
+          "A interação entre fatores bióticos (seres vivos) e abióticos (físicos e químicos).",
+          "Apenas os produtores."
+        ],
+        "correta": 2,
+        "explicacao": "O ecossistema é a interação entre os seres vivos e o ambiente."
+      },
+      {
+        "enunciado": "Qual é o papel das plantas na cadeia alimentar?",
+        "opcoes": [
+          "São decompositoras.",
+          "São consumidoras primárias.",
+          "São produtoras.",
+          "São consumidoras secundárias."
+        ],
+        "correta": 2,
+        "explicacao": "As plantas são produtoras, transformando energia solar em matéria orgânica."
+      },
+      {
+        "enunciado": "O que é a biomassa?",
+        "opcoes": [
+          "A massa total de seres vivos em um ecossistema.",
+          "A quantidade de energia solar.",
+          "A massa de água.",
+          "O peso dos animais."
+        ],
+        "correta": 0,
+        "explicacao": "Biomassa é a matéria orgânica total dos organismos."
+      },
+      {
+        "enunciado": "O que é a 'entropia' no contexto da vida?",
+        "opcoes": [
+          "A tendência à organização.",
+          "A tendência à desorganização e ao equilíbrio.",
+          "A tendência ao crescimento.",
+          "A tendência à reprodução."
+        ],
+        "correta": 1,
+        "explicacao": "A entropia é a medida da desordem, que sempre aumenta em sistemas isolados."
+      }
+    ]
+  }
+]
