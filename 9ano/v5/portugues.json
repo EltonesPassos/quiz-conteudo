@@ -1,0 +1,1583 @@
+[
+  {
+    "id": "9ano_v5_port_parafrase_citacao_01",
+    "titulo": "Português - Paráfrase e Citação",
+    "tipo": "conteudo",
+    "icone": "📝",
+    "perguntas": [
+      {
+        "enunciado": "O que é a paráfrase?",
+        "opcoes": [
+          "Uma cópia exata de um texto.",
+          "A recriação de um texto, mantendo a essência, mas usando outras palavras.",
+          "Um resumo muito curto.",
+          "Uma crítica a um texto."
+        ],
+        "correta": 1,
+        "explicacao": "A paráfrase reescreve o texto original com palavras diferentes, mantendo a ideia central."
+      },
+      {
+        "enunciado": "Qual é a principal diferença entre paráfrase e citação direta?",
+        "opcoes": [
+          "A paráfrase usa aspas; a citação direta não.",
+          "A citação direta transcreve o texto literalmente, com aspas; a paráfrase usa palavras próprias.",
+          "A paráfrase é mais curta.",
+          "A citação direta não precisa de referência."
+        ],
+        "correta": 1,
+        "explicacao": "A citação direta é literal, enquanto a paráfrase reescreve com outras palavras."
+      },
+      {
+        "enunciado": "O que é uma citação indireta?",
+        "opcoes": [
+          "Uma citação literal do texto.",
+          "Uma paráfrase da ideia do autor, com indicação da fonte.",
+          "Uma citação sem fonte.",
+          "Uma citação de um texto fictício."
+        ],
+        "correta": 1,
+        "explicacao": "A citação indireta reescreve a ideia do autor, mas sem transcrever literalmente."
+      },
+      {
+        "enunciado": "Na citação direta curta (até 3 linhas), como deve ser feita a formatação?",
+        "opcoes": [
+          "Entre aspas, no corpo do texto.",
+          "Em bloco separado, com recuo de 4 cm.",
+          "Sem aspas.",
+          "Em itálico."
+        ],
+        "correta": 0,
+        "explicacao": "Citações curtas ficam entre aspas, no corpo do texto."
+      },
+      {
+        "enunciado": "Na citação direta longa (mais de 3 linhas), como deve ser feita a formatação?",
+        "opcoes": [
+          "Entre aspas.",
+          "Em bloco separado, com recuo de 4 cm e letra menor.",
+          "No corpo do texto, sem aspas.",
+          "Em negrito."
+        ],
+        "correta": 1,
+        "explicacao": "Citações longas são destacadas em bloco, com recuo."
+      },
+      {
+        "enunciado": "O que é a intertextualidade?",
+        "opcoes": [
+          "A relação entre dois ou mais textos.",
+          "A escrita de um texto único.",
+          "A cópia de um texto.",
+          "A tradução de um texto."
+        ],
+        "correta": 0,
+        "explicacao": "A intertextualidade é o diálogo entre textos."
+      },
+      {
+        "enunciado": "Qual é a importância da paráfrase na produção textual?",
+        "opcoes": [
+          "Permite reescrever ideias com palavras próprias, evitando plágio.",
+          "Permite copiar textos.",
+          "Permite escrever mais rápido.",
+          "Permite inventar ideias."
+        ],
+        "correta": 0,
+        "explicacao": "A paráfrase ajuda a evitar plágio e a demonstrar compreensão."
+      },
+      {
+        "enunciado": "Segundo a ABNT, qual é a formatação correta para referências bibliográficas?",
+        "opcoes": [
+          "Sobrenome do autor, nome, título da obra, local, editora, ano.",
+          "Nome do autor, sobrenome, título, ano.",
+          "Título, autor, editora, ano.",
+          "Local, editora, ano, autor."
+        ],
+        "correta": 0,
+        "explicacao": "A ABNT estabelece uma ordem específica para as referências."
+      },
+      {
+        "enunciado": "O que é uma citação direta?",
+        "opcoes": [
+          "Uma transcrição literal do texto do autor.",
+          "Uma reescrita com outras palavras.",
+          "Um resumo.",
+          "Uma crítica."
+        ],
+        "correta": 0,
+        "explicacao": "A citação direta transcreve exatamente as palavras do autor."
+      },
+      {
+        "enunciado": "Quais são os dois tipos de paráfrase citados no texto?",
+        "opcoes": [
+          "Reprodutiva e criativa.",
+          "Curta e longa.",
+          "Direta e indireta.",
+          "Simples e complexa."
+        ],
+        "correta": 0,
+        "explicacao": "A paráfrase pode ser reprodutiva (fiel ao original) ou criativa (recria o texto)."
+      },
+      {
+        "enunciado": "O que caracteriza a paráfrase reprodutiva?",
+        "opcoes": [
+          "Mantém a ideia original, mas reescreve de forma fiel.",
+          "Recria o texto de forma artística.",
+          "Copia o texto.",
+          "Resume o texto."
+        ],
+        "correta": 0,
+        "explicacao": "A paráfrase reprodutiva é fiel ao original, sem criar novas interpretações."
+      },
+      {
+        "enunciado": "O que caracteriza a paráfrase criativa?",
+        "opcoes": [
+          "Recria o texto, indo além da tradução literal.",
+          "Copia o texto.",
+          "Resume o texto.",
+          "Mantém a ideia original."
+        ],
+        "correta": 0,
+        "explicacao": "A paráfrase criativa recria o texto, podendo acrescentar novos elementos."
+      },
+      {
+        "enunciado": "Por que a paráfrase é considerada uma forma de intertextualidade?",
+        "opcoes": [
+          "Porque dialoga com outro texto.",
+          "Porque copia outro texto.",
+          "Porque ignora outro texto.",
+          "Porque resume outro texto."
+        ],
+        "correta": 0,
+        "explicacao": "A paráfrase dialoga com o texto original."
+      },
+      {
+        "enunciado": "O que é a citação?",
+        "opcoes": [
+          "A menção a um texto de outro autor.",
+          "Uma reescrita de um texto.",
+          "Um resumo.",
+          "Uma crítica."
+        ],
+        "correta": 0,
+        "explicacao": "A citação é a menção a um texto de outro autor."
+      },
+      {
+        "enunciado": "Quais são os tipos de citação?",
+        "opcoes": [
+          "Direta e indireta.",
+          "Curta e longa.",
+          "Reprodutiva e criativa.",
+          "Simples e complexa."
+        ],
+        "correta": 0,
+        "explicacao": "A citação pode ser direta ou indireta."
+      },
+      {
+        "enunciado": "O que é a citação direta curta?",
+        "opcoes": [
+          "Uma transcrição literal do texto, entre aspas, no corpo do texto.",
+          "Uma transcrição literal do texto, em bloco, com recuo.",
+          "Uma paráfrase.",
+          "Um resumo."
+        ],
+        "correta": 0,
+        "explicacao": "A citação direta curta é transcrita entre aspas."
+      },
+      {
+        "enunciado": "O que é a citação direta longa?",
+        "opcoes": [
+          "Uma transcrição literal do texto, em bloco, com recuo e letra menor.",
+          "Uma transcrição literal do texto, entre aspas.",
+          "Uma paráfrase.",
+          "Um resumo."
+        ],
+        "correta": 0,
+        "explicacao": "A citação direta longa é destacada em bloco."
+      },
+      {
+        "enunciado": "O que é a citação indireta?",
+        "opcoes": [
+          "Uma paráfrase da ideia do autor, com indicação da fonte.",
+          "Uma transcrição literal do texto.",
+          "Um resumo.",
+          "Uma crítica."
+        ],
+        "correta": 0,
+        "explicacao": "A citação indireta reescreve a ideia do autor, sem transcrever literalmente."
+      },
+      {
+        "enunciado": "Qual é a importância de citar as fontes em um texto?",
+        "opcoes": [
+          "Dar credibilidade ao texto e evitar plágio.",
+          "Deixar o texto mais longo.",
+          "Deixar o texto mais curto.",
+          "Não tem importância."
+        ],
+        "correta": 0,
+        "explicacao": "Citar as fontes dá credibilidade e evita plágio."
+      },
+      {
+        "enunciado": "O que é o plágio?",
+        "opcoes": [
+          "A cópia de um texto sem citar a fonte.",
+          "A paráfrase de um texto.",
+          "A citação de um texto.",
+          "Um resumo."
+        ],
+        "correta": 0,
+        "explicacao": "O plágio é a cópia sem a devida citação da fonte."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v5_port_fracao_periodo_01",
+    "titulo": "Português - Frase, Oração e Período",
+    "tipo": "conteudo",
+    "icone": "📖",
+    "perguntas": [
+      {
+        "enunciado": "O que é uma frase?",
+        "opcoes": [
+          "Uma unidade mínima de comunicação com sentido completo.",
+          "Um conjunto de palavras sem sentido.",
+          "Uma palavra isolada.",
+          "Um texto longo."
+        ],
+        "correta": 0,
+        "explicacao": "A frase é a unidade mínima de comunicação com sentido completo."
+      },
+      {
+        "enunciado": "Qual é a diferença entre frase nominal e frase verbal?",
+        "opcoes": [
+          "A frase nominal não tem verbo; a verbal tem verbo.",
+          "A frase nominal tem verbo; a verbal não tem.",
+          "A frase nominal é mais curta.",
+          "A frase verbal é mais longa."
+        ],
+        "correta": 0,
+        "explicacao": "A frase nominal não apresenta verbo; a verbal apresenta verbo."
+      },
+      {
+        "enunciado": "O que é uma oração?",
+        "opcoes": [
+          "Uma unidade que contém um verbo ou locução verbal.",
+          "Uma unidade sem verbo.",
+          "Um texto longo.",
+          "Uma palavra isolada."
+        ],
+        "correta": 0,
+        "explicacao": "A oração é uma unidade com verbo ou locução verbal."
+      },
+      {
+        "enunciado": "O que é um período?",
+        "opcoes": [
+          "Uma frase constituída de uma ou mais orações.",
+          "Uma frase sem verbo.",
+          "Um texto longo.",
+          "Uma palavra isolada."
+        ],
+        "correta": 0,
+        "explicacao": "O período é uma frase com uma ou mais orações."
+      },
+      {
+        "enunciado": "O que é um período simples?",
+        "opcoes": [
+          "Um período com apenas uma oração.",
+          "Um período com duas ou mais orações.",
+          "Um período sem verbo.",
+          "Um período sem sentido."
+        ],
+        "correta": 0,
+        "explicacao": "O período simples tem apenas uma oração."
+      },
+      {
+        "enunciado": "O que é um período composto?",
+        "opcoes": [
+          "Um período com duas ou mais orações.",
+          "Um período com apenas uma oração.",
+          "Um período sem verbo.",
+          "Um período sem sentido."
+        ],
+        "correta": 0,
+        "explicacao": "O período composto tem duas ou mais orações."
+      },
+      {
+        "enunciado": "Na frase 'Silêncio!', temos um exemplo de:",
+        "opcoes": [
+          "Frase nominal.",
+          "Frase verbal.",
+          "Oração.",
+          "Período composto."
+        ],
+        "correta": 0,
+        "explicacao": "A frase 'Silêncio!' é nominal, pois não tem verbo."
+      },
+      {
+        "enunciado": "Na frase 'As ligações telefônicas internacionais são muito caras.', temos um exemplo de:",
+        "opcoes": [
+          "Frase nominal.",
+          "Frase verbal.",
+          "Oração sem verbo.",
+          "Período composto."
+        ],
+        "correta": 1,
+        "explicacao": "A frase tem verbo, logo é verbal."
+      },
+      {
+        "enunciado": "Quantas orações há no período 'Ele telefonou para o avô e contou a notícia.'?",
+        "opcoes": ["1", "2", "3", "4"],
+        "correta": 1,
+        "explicacao": "Há dois verbos (telefonou e contou), logo duas orações."
+      },
+      {
+        "enunciado": "O que é a locução verbal?",
+        "opcoes": [
+          "Um verbo auxiliar + um verbo principal.",
+          "Um verbo apenas.",
+          "Um substantivo.",
+          "Um adjetivo."
+        ],
+        "correta": 0,
+        "explicacao": "A locução verbal é formada por um verbo auxiliar e um principal."
+      },
+      {
+        "enunciado": "Na frase 'O amigo vai sair da trabalho tarde.', qual é a locução verbal?",
+        "opcoes": ["vai sair", "sair", "vai", "amigo"],
+        "correta": 0,
+        "explicacao": "'Vai sair' é a locução verbal."
+      },
+      {
+        "enunciado": "O que são os termos essenciais da oração?",
+        "opcoes": [
+          "Sujeito e predicado.",
+          "Verbo e objeto.",
+          "Sujeito e objeto.",
+          "Predicado e adjunto."
+        ],
+        "correta": 0,
+        "explicacao": "Os termos essenciais são sujeito e predicado."
+      },
+      {
+        "enunciado": "O que é o sujeito?",
+        "opcoes": [
+          "O termo sobre o qual é feita uma declaração.",
+          "O termo que completa o verbo.",
+          "O termo que indica circunstância.",
+          "O termo que qualifica o substantivo."
+        ],
+        "correta": 0,
+        "explicacao": "O sujeito é o termo sobre o qual se declara algo."
+      },
+      {
+        "enunciado": "O que é o predicado?",
+        "opcoes": [
+          "O que é dito sobre o sujeito.",
+          "O termo que completa o verbo.",
+          "O termo que indica circunstância.",
+          "O termo que qualifica o substantivo."
+        ],
+        "correta": 0,
+        "explicacao": "O predicado é o que se diz sobre o sujeito."
+      },
+      {
+        "enunciado": "Quais são os tipos de sujeito?",
+        "opcoes": [
+          "Simples, composto, oculto, indeterminado e inexistente.",
+          "Simples e composto.",
+          "Oculto e indeterminado.",
+          "Apenas simples."
+        ],
+        "correta": 0,
+        "explicacao": "Existem vários tipos de sujeito."
+      },
+      {
+        "enunciado": "O que é o sujeito simples?",
+        "opcoes": [
+          "Possui apenas um núcleo.",
+          "Possui dois ou mais núcleos.",
+          "Não está explícito.",
+          "Não existe."
+        ],
+        "correta": 0,
+        "explicacao": "O sujeito simples tem apenas um núcleo."
+      },
+      {
+        "enunciado": "O que é o sujeito composto?",
+        "opcoes": [
+          "Possui dois ou mais núcleos.",
+          "Possui apenas um núcleo.",
+          "Não está explícito.",
+          "Não existe."
+        ],
+        "correta": 0,
+        "explicacao": "O sujeito composto tem dois ou mais núcleos."
+      },
+      {
+        "enunciado": "O que é o sujeito oculto?",
+        "opcoes": [
+          "Não está explícito, mas pode ser identificado pela terminação do verbo.",
+          "Não existe.",
+          "Está explícito.",
+          "Possui dois núcleos."
+        ],
+        "correta": 0,
+        "explicacao": "O sujeito oculto não está explícito, mas é identificável."
+      },
+      {
+        "enunciado": "O que é o sujeito indeterminado?",
+        "opcoes": [
+          "Não se sabe quem pratica a ação.",
+          "Está explícito.",
+          "Possui dois núcleos.",
+          "Não existe."
+        ],
+        "correta": 0,
+        "explicacao": "O sujeito indeterminado não é identificado."
+      },
+      {
+        "enunciado": "O que é o sujeito inexistente?",
+        "opcoes": [
+          "Não existe, como em verbos que indicam fenômenos naturais.",
+          "Está explícito.",
+          "Possui dois núcleos.",
+          "Não se sabe quem pratica a ação."
+        ],
+        "correta": 0,
+        "explicacao": "O sujeito inexistente ocorre com verbos como chover, nevar, etc."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v5_port_termos_oracao_01",
+    "titulo": "Português - Termos Integrantes e Acessórios",
+    "tipo": "conteudo",
+    "icone": "🔍",
+    "perguntas": [
+      {
+        "enunciado": "O que são os termos integrantes da oração?",
+        "opcoes": [
+          "Termos que completam o sentido de outros termos.",
+          "Termos que podem ser retirados sem prejuízo.",
+          "Termos essenciais.",
+          "Termos acessórios."
+        ],
+        "correta": 0,
+        "explicacao": "Os termos integrantes completam o sentido de outros termos."
+      },
+      {
+        "enunciado": "O que é o complemento nominal?",
+        "opcoes": [
+          "Termo preposicionado que completa o sentido de substantivos, adjetivos ou advérbios.",
+          "Termo que completa verbos transitivos diretos.",
+          "Termo que completa verbos transitivos indiretos.",
+          "Termo que indica circunstância."
+        ],
+        "correta": 0,
+        "explicacao": "O complemento nominal completa nomes (substantivos, adjetivos, advérbios)."
+      },
+      {
+        "enunciado": "O que é o objeto direto?",
+        "opcoes": [
+          "Complemento de verbo transitivo direto.",
+          "Complemento de verbo transitivo indireto.",
+          "Termo que indica circunstância.",
+          "Termo que qualifica o substantivo."
+        ],
+        "correta": 0,
+        "explicacao": "O objeto direto completa verbos transitivos diretos."
+      },
+      {
+        "enunciado": "O que é o objeto indireto?",
+        "opcoes": [
+          "Complemento de verbo transitivo indireto.",
+          "Complemento de verbo transitivo direto.",
+          "Termo que indica circunstância.",
+          "Termo que qualifica o substantivo."
+        ],
+        "correta": 0,
+        "explicacao": "O objeto indireto completa verbos transitivos indiretos."
+      },
+      {
+        "enunciado": "O que é o agente da passiva?",
+        "opcoes": [
+          "O ser que pratica a ação na voz passiva.",
+          "O ser que sofre a ação.",
+          "O termo que completa o verbo.",
+          "O termo que indica circunstância."
+        ],
+        "correta": 0,
+        "explicacao": "O agente da passiva é quem pratica a ação na voz passiva."
+      },
+      {
+        "enunciado": "O que são os termos acessórios da oração?",
+        "opcoes": [
+          "Termos que conferem precisão ao significado, mas são dispensáveis.",
+          "Termos essenciais.",
+          "Termos integrantes.",
+          "Termos que completam o verbo."
+        ],
+        "correta": 0,
+        "explicacao": "Os termos acessórios são dispensáveis, mas conferem precisão."
+      },
+      {
+        "enunciado": "O que é o adjunto adnominal?",
+        "opcoes": [
+          "Termo que especifica o significado do substantivo.",
+          "Termo que indica circunstância.",
+          "Termo que explica um termo.",
+          "Termo que enumera."
+        ],
+        "correta": 0,
+        "explicacao": "O adjunto adnominal especifica o substantivo."
+      },
+      {
+        "enunciado": "O que é o adjunto adverbial?",
+        "opcoes": [
+          "Termo que indica uma circunstância (tempo, modo, lugar, etc.).",
+          "Termo que especifica o substantivo.",
+          "Termo que explica um termo.",
+          "Termo que enumera."
+        ],
+        "correta": 0,
+        "explicacao": "O adjunto adverbial indica circunstância."
+      },
+      {
+        "enunciado": "O que é o aposto?",
+        "opcoes": [
+          "Termo que explica, esclarece, especifica ou enumera um termo da oração.",
+          "Termo que indica circunstância.",
+          "Termo que completa o verbo.",
+          "Termo que especifica o substantivo."
+        ],
+        "correta": 0,
+        "explicacao": "O aposto explica ou especifica um termo."
+      },
+      {
+        "enunciado": "Na frase 'O filho encontrava-se longe de casa.', qual é o termo 'de casa'?",
+        "opcoes": [
+          "Complemento nominal.",
+          "Objeto direto.",
+          "Objeto indireto.",
+          "Adjunto adverbial."
+        ],
+        "correta": 0,
+        "explicacao": "'De casa' completa o sentido do advérbio 'longe', sendo complemento nominal."
+      },
+      {
+        "enunciado": "Na frase 'Ele perdeu o voo.', qual é o termo 'o voo'?",
+        "opcoes": [
+          "Objeto direto.",
+          "Objeto indireto.",
+          "Complemento nominal.",
+          "Adjunto adverbial."
+        ],
+        "correta": 0,
+        "explicacao": "'O voo' é o objeto direto do verbo 'perdeu'."
+      },
+      {
+        "enunciado": "Na frase 'Assistimos ao jogo ontem.', qual é o termo 'ao jogo'?",
+        "opcoes": [
+          "Objeto indireto.",
+          "Objeto direto.",
+          "Complemento nominal.",
+          "Adjunto adverbial."
+        ],
+        "correta": 0,
+        "explicacao": "'Ao jogo' é o objeto indireto do verbo 'assistir' (que exige preposição)."
+      },
+      {
+        "enunciado": "Na frase 'O livro foi escrito por Machado de Assis.', qual é o termo 'por Machado de Assis'?",
+        "opcoes": [
+          "Agente da passiva.",
+          "Objeto direto.",
+          "Objeto indireto.",
+          "Complemento nominal."
+        ],
+        "correta": 0,
+        "explicacao": "'Por Machado de Assis' é o agente da passiva."
+      },
+      {
+        "enunciado": "Na frase 'A menina inteligente lia muitos livros.', qual é o termo 'inteligente'?",
+        "opcoes": [
+          "Adjunto adnominal.",
+          "Adjunto adverbial.",
+          "Aposto.",
+          "Complemento nominal."
+        ],
+        "correta": 0,
+        "explicacao": "'Inteligente' especifica o substantivo 'menina', sendo adjunto adnominal."
+      },
+      {
+        "enunciado": "Na frase 'Ontem, corri no parque.', qual é o termo 'Ontem'?",
+        "opcoes": [
+          "Adjunto adverbial.",
+          "Adjunto adnominal.",
+          "Aposto.",
+          "Complemento nominal."
+        ],
+        "correta": 0,
+        "explicacao": "'Ontem' indica circunstância de tempo, sendo adjunto adverbial."
+      },
+      {
+        "enunciado": "Na frase 'Os dois irmãos, Pedro e Paulo, representavam opções opostas.', qual é o termo 'Pedro e Paulo'?",
+        "opcoes": [
+          "Aposto.",
+          "Adjunto adnominal.",
+          "Adjunto adverbial.",
+          "Complemento nominal."
+        ],
+        "correta": 0,
+        "explicacao": "'Pedro e Paulo' explica o termo 'irmãos', sendo aposto."
+      },
+      {
+        "enunciado": "O que é o vocativo?",
+        "opcoes": [
+          "Termo que chama o interlocutor.",
+          "Termo que completa o verbo.",
+          "Termo que especifica o substantivo.",
+          "Termo que indica circunstância."
+        ],
+        "correta": 0,
+        "explicacao": "O vocativo é o termo que chama o interlocutor."
+      },
+      {
+        "enunciado": "O vocativo é um termo essencial da oração?",
+        "opcoes": [
+          "Não, é um termo independente.",
+          "Sim, é essencial.",
+          "Sim, é integrante.",
+          "Sim, é acessório."
+        ],
+        "correta": 0,
+        "explicacao": "O vocativo é um termo independente, não essencial."
+      },
+      {
+        "enunciado": "O que é o predicativo do sujeito?",
+        "opcoes": [
+          "Termo que atribui uma qualidade ao sujeito.",
+          "Termo que completa o verbo.",
+          "Termo que indica circunstância.",
+          "Termo que especifica o substantivo."
+        ],
+        "correta": 0,
+        "explicacao": "O predicativo do sujeito atribui qualidade ao sujeito."
+      },
+      {
+        "enunciado": "O que é o predicativo do objeto?",
+        "opcoes": [
+          "Termo que atribui uma qualidade ao objeto.",
+          "Termo que atribui qualidade ao sujeito.",
+          "Termo que indica circunstância.",
+          "Termo que especifica o substantivo."
+        ],
+        "correta": 0,
+        "explicacao": "O predicativo do objeto atribui qualidade ao objeto."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v5_port_periodo_composto_01",
+    "titulo": "Português - Período Composto por Coordenação",
+    "tipo": "conteudo",
+    "icone": "🔗",
+    "perguntas": [
+      {
+        "enunciado": "O que é o período composto por coordenação?",
+        "opcoes": [
+          "Um período com orações independentes sintaticamente.",
+          "Um período com orações dependentes.",
+          "Um período com apenas uma oração.",
+          "Um período sem verbo."
+        ],
+        "correta": 0,
+        "explicacao": "No período composto por coordenação, as orações são independentes."
+      },
+      {
+        "enunciado": "O que são orações coordenadas assindéticas?",
+        "opcoes": [
+          "Orações justapostas, sem conjunção.",
+          "Orações ligadas por conjunção.",
+          "Orações dependentes.",
+          "Orações subordinadas."
+        ],
+        "correta": 0,
+        "explicacao": "As assindéticas não são ligadas por conjunção."
+      },
+      {
+        "enunciado": "O que são orações coordenadas sindéticas?",
+        "opcoes": [
+          "Orações ligadas por conjunção.",
+          "Orações justapostas, sem conjunção.",
+          "Orações dependentes.",
+          "Orações subordinadas."
+        ],
+        "correta": 0,
+        "explicacao": "As sindéticas são ligadas por conjunção."
+      },
+      {
+        "enunciado": "O que é uma oração coordenada sindética aditiva?",
+        "opcoes": [
+          "Expressa soma, adição (e, nem, mas também).",
+          "Expressa oposição (mas, porém).",
+          "Expressa alternância (ou, quer... quer).",
+          "Expressa conclusão (logo, portanto)."
+        ],
+        "correta": 0,
+        "explicacao": "As aditivas expressam soma."
+      },
+      {
+        "enunciado": "O que é uma oração coordenada sindética adversativa?",
+        "opcoes": [
+          "Expressa oposição (mas, porém, contudo).",
+          "Expressa soma (e, nem).",
+          "Expressa alternância (ou).",
+          "Expressa conclusão (logo)."
+        ],
+        "correta": 0,
+        "explicacao": "As adversativas expressam oposição."
+      },
+      {
+        "enunciado": "O que é uma oração coordenada sindética alternativa?",
+        "opcoes": [
+          "Expressa alternância (ou, quer... quer, ora... ora).",
+          "Expressa soma (e).",
+          "Expressa oposição (mas).",
+          "Expressa conclusão (logo)."
+        ],
+        "correta": 0,
+        "explicacao": "As alternativas expressam alternância."
+      },
+      {
+        "enunciado": "O que é uma oração coordenada sindética conclusiva?",
+        "opcoes": [
+          "Expressa conclusão (logo, portanto, pois).",
+          "Expressa soma (e).",
+          "Expressa oposição (mas).",
+          "Expressa alternância (ou)."
+        ],
+        "correta": 0,
+        "explicacao": "As conclusivas expressam conclusão."
+      },
+      {
+        "enunciado": "O que é uma oração coordenada sindética explicativa?",
+        "opcoes": [
+          "Expressa explicação (pois, porque, que).",
+          "Expressa soma (e).",
+          "Expressa oposição (mas).",
+          "Expressa conclusão (logo)."
+        ],
+        "correta": 0,
+        "explicacao": "As explicativas expressam explicação."
+      },
+      {
+        "enunciado": "Na frase 'Ele não comprou o livro nem quis pegá-lo emprestado.', a conjunção 'nem' introduz uma oração coordenada:",
+        "opcoes": [
+          "Aditiva.",
+          "Adversativa.",
+          "Alternativa.",
+          "Conclusiva."
+        ],
+        "correta": 0,
+        "explicacao": "'Nem' é uma conjunção aditiva."
+      },
+      {
+        "enunciado": "Na frase 'O estudante leu o livro inteiro, porém não entendeu o conteúdo.', a conjunção 'porém' introduz uma oração coordenada:",
+        "opcoes": [
+          "Adversativa.",
+          "Aditiva.",
+          "Alternativa.",
+          "Conclusiva."
+        ],
+        "correta": 0,
+        "explicacao": "'Porém' é uma conjunção adversativa."
+      },
+      {
+        "enunciado": "Na frase 'Você pode conhecer o jardim ou pode ir à biblioteca.', a conjunção 'ou' introduz uma oração coordenada:",
+        "opcoes": [
+          "Alternativa.",
+          "Aditiva.",
+          "Adversativa.",
+          "Conclusiva."
+        ],
+        "correta": 0,
+        "explicacao": "'Ou' é uma conjunção alternativa."
+      },
+      {
+        "enunciado": "Na frase 'Há um grande acervo na biblioteca, portanto você pode pesquisar nela.', a conjunção 'portanto' introduz uma oração coordenada:",
+        "opcoes": [
+          "Conclusiva.",
+          "Aditiva.",
+          "Adversativa.",
+          "Alternativa."
+        ],
+        "correta": 0,
+        "explicacao": "'Portanto' é uma conjunção conclusiva."
+      },
+      {
+        "enunciado": "Na frase 'Não precisa correr, que ele também está atrasado.', a conjunção 'que' introduz uma oração coordenada:",
+        "opcoes": [
+          "Explicativa.",
+          "Aditiva.",
+          "Adversativa.",
+          "Conclusiva."
+        ],
+        "correta": 0,
+        "explicacao": "'Que' é uma conjunção explicativa."
+      },
+      {
+        "enunciado": "Quais são os tipos de orações coordenadas sindéticas?",
+        "opcoes": [
+          "Aditivas, adversativas, alternativas, conclusivas e explicativas.",
+          "Subjetivas, objetivas, predicativas.",
+          "Causais, comparativas, concessivas.",
+          "Temporais, finais, proporcionais."
+        ],
+        "correta": 0,
+        "explicacao": "São cinco os tipos de coordenadas sindéticas."
+      },
+      {
+        "enunciado": "O que é uma oração coordenada assindética?",
+        "opcoes": [
+          "Oração justaposta, sem conjunção.",
+          "Oração ligada por conjunção.",
+          "Oração subordinada.",
+          "Oração dependente."
+        ],
+        "correta": 0,
+        "explicacao": "As assindéticas não têm conjunção."
+      },
+      {
+        "enunciado": "Na frase 'Cheguei, vi, venci.', temos um exemplo de:",
+        "opcoes": [
+          "Orações coordenadas assindéticas.",
+          "Orações coordenadas sindéticas.",
+          "Orações subordinadas.",
+          "Período simples."
+        ],
+        "correta": 0,
+        "explicacao": "As orações são justapostas, sem conjunção."
+      },
+      {
+        "enunciado": "Qual é a diferença entre coordenação e subordinação?",
+        "opcoes": [
+          "Na coordenação, as orações são independentes; na subordinação, uma depende da outra.",
+          "Na coordenação, as orações são dependentes; na subordinação, independentes.",
+          "Não há diferença.",
+          "Ambas são iguais."
+        ],
+        "correta": 0,
+        "explicacao": "A coordenação une orações independentes; a subordinação une orações dependentes."
+      },
+      {
+        "enunciado": "O que é um período composto por subordinação?",
+        "opcoes": [
+          "Um período com orações dependentes entre si.",
+          "Um período com orações independentes.",
+          "Um período com apenas uma oração.",
+          "Um período sem verbo."
+        ],
+        "correta": 0,
+        "explicacao": "Na subordinação, uma oração depende da outra."
+      },
+      {
+        "enunciado": "Quais são os tipos de orações subordinadas?",
+        "opcoes": [
+          "Substantivas, adjetivas e adverbiais.",
+          "Aditivas, adversativas e alternativas.",
+          "Conclusivas e explicativas.",
+          "Simples e compostas."
+        ],
+        "correta": 0,
+        "explicacao": "As subordinadas podem ser substantivas, adjetivas ou adverbiais."
+      },
+      {
+        "enunciado": "O que é uma oração subordinada substantiva?",
+        "opcoes": [
+          "Oração que exerce função de substantivo.",
+          "Oração que exerce função de adjetivo.",
+          "Oração que exerce função de advérbio.",
+          "Oração independente."
+        ],
+        "correta": 0,
+        "explicacao": "As substantivas exercem função de substantivo."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v5_port_subordinadas_substantivas_01",
+    "titulo": "Português - Orações Subordinadas Substantivas",
+    "tipo": "conteudo",
+    "icone": "🧩",
+    "perguntas": [
+      {
+        "enunciado": "O que é uma oração subordinada substantiva?",
+        "opcoes": [
+          "Oração que exerce função de substantivo.",
+          "Oração que exerce função de adjetivo.",
+          "Oração que exerce função de advérbio.",
+          "Oração independente."
+        ],
+        "correta": 0,
+        "explicacao": "As substantivas exercem função de substantivo."
+      },
+      {
+        "enunciado": "Quais são os tipos de orações subordinadas substantivas?",
+        "opcoes": [
+          "Subjetiva, objetiva direta, objetiva indireta, completiva nominal, predicativa e apositiva.",
+          "Aditiva, adversativa, alternativa, conclusiva e explicativa.",
+          "Causal, comparativa, concessiva, condicional, conformativa, consecutiva, final, proporcional e temporal.",
+          "Restritiva e explicativa."
+        ],
+        "correta": 0,
+        "explicacao": "São seis os tipos de substantivas."
+      },
+      {
+        "enunciado": "O que é uma oração subordinada substantiva subjetiva?",
+        "opcoes": [
+          "Exerce função de sujeito da oração principal.",
+          "Exerce função de objeto direto.",
+          "Exerce função de objeto indireto.",
+          "Exerce função de predicativo."
+        ],
+        "correta": 0,
+        "explicacao": "A subjetiva exerce função de sujeito."
+      },
+      {
+        "enunciado": "O que é uma oração subordinada substantiva objetiva direta?",
+        "opcoes": [
+          "Exerce função de objeto direto.",
+          "Exerce função de sujeito.",
+          "Exerce função de objeto indireto.",
+          "Exerce função de predicativo."
+        ],
+        "correta": 0,
+        "explicacao": "A objetiva direta exerce função de objeto direto."
+      },
+      {
+        "enunciado": "O que é uma oração subordinada substantiva objetiva indireta?",
+        "opcoes": [
+          "Exerce função de objeto indireto.",
+          "Exerce função de sujeito.",
+          "Exerce função de objeto direto.",
+          "Exerce função de predicativo."
+        ],
+        "correta": 0,
+        "explicacao": "A objetiva indireta exerce função de objeto indireto."
+      },
+      {
+        "enunciado": "O que é uma oração subordinada substantiva completiva nominal?",
+        "opcoes": [
+          "Exerce função de complemento nominal.",
+          "Exerce função de sujeito.",
+          "Exerce função de objeto direto.",
+          "Exerce função de predicativo."
+        ],
+        "correta": 0,
+        "explicacao": "A completiva nominal exerce função de complemento nominal."
+      },
+      {
+        "enunciado": "O que é uma oração subordinada substantiva predicativa?",
+        "opcoes": [
+          "Exerce função de predicativo do sujeito.",
+          "Exerce função de sujeito.",
+          "Exerce função de objeto direto.",
+          "Exerce função de objeto indireto."
+        ],
+        "correta": 0,
+        "explicacao": "A predicativa exerce função de predicativo do sujeito."
+      },
+      {
+        "enunciado": "O que é uma oração subordinada substantiva apositiva?",
+        "opcoes": [
+          "Exerce função de aposto.",
+          "Exerce função de sujeito.",
+          "Exerce função de objeto direto.",
+          "Exerce função de predicativo."
+        ],
+        "correta": 0,
+        "explicacao": "A apositiva exerce função de aposto."
+      },
+      {
+        "enunciado": "Na frase 'É verdade que o livro foi roubado.', a oração 'que o livro foi roubado' é subordinada substantiva:",
+        "opcoes": [
+          "Subjetiva.",
+          "Objetiva direta.",
+          "Objetiva indireta.",
+          "Predicativa."
+        ],
+        "correta": 0,
+        "explicacao": "A oração exerce função de sujeito do verbo 'é'."
+      },
+      {
+        "enunciado": "Na frase 'O escritor sabia que seu texto não seria bem aceito entre todos.', a oração 'que seu texto não seria bem aceito entre todos' é subordinada substantiva:",
+        "opcoes": [
+          "Objetiva direta.",
+          "Subjetiva.",
+          "Objetiva indireta.",
+          "Predicativa."
+        ],
+        "correta": 0,
+        "explicacao": "A oração completa o sentido do verbo 'sabia' (objeto direto)."
+      },
+      {
+        "enunciado": "Na frase 'Não me lembrei de que ele tinha trabalhado no Jardim Botânico.', a oração 'de que ele tinha trabalhado no Jardim Botânico' é subordinada substantiva:",
+        "opcoes": [
+          "Objetiva indireta.",
+          "Subjetiva.",
+          "Objetiva direta.",
+          "Predicativa."
+        ],
+        "correta": 0,
+        "explicacao": "A oração completa o sentido do verbo 'lembrar' (objeto indireto)."
+      },
+      {
+        "enunciado": "Na frase 'O pesquisador tinha necessidade de que houvesse outras referências de estudo.', a oração 'de que houvesse outras referências de estudo' é subordinada substantiva:",
+        "opcoes": [
+          "Completiva nominal.",
+          "Subjetiva.",
+          "Objetiva direta.",
+          "Predicativa."
+        ],
+        "correta": 0,
+        "explicacao": "A oração completa o sentido do substantivo 'necessidade' (complemento nominal)."
+      },
+      {
+        "enunciado": "Na frase 'A certeza é que a história não se repetirá.', a oração 'que a história não se repetirá' é subordinada substantiva:",
+        "opcoes": [
+          "Predicativa.",
+          "Subjetiva.",
+          "Objetiva direta.",
+          "Objetiva indireta."
+        ],
+        "correta": 0,
+        "explicacao": "A oração exerce função de predicativo do sujeito."
+      },
+      {
+        "enunciado": "Na frase 'Comuniquei-lhe apenas isto: que ele não será mais parte da equipe.', a oração 'que ele não será mais parte da equipe' é subordinada substantiva:",
+        "opcoes": [
+          "Apositiva.",
+          "Subjetiva.",
+          "Objetiva direta.",
+          "Predicativa."
+        ],
+        "correta": 0,
+        "explicacao": "A oração exerce função de aposto."
+      },
+      {
+        "enunciado": "As orações subordinadas substantivas são introduzidas por qual tipo de conjunção?",
+        "opcoes": [
+          "Conjunções integrantes (que, se).",
+          "Conjunções adverbiais.",
+          "Conjunções coordenativas.",
+          "Pronomes relativos."
+        ],
+        "correta": 0,
+        "explicacao": "As substantivas são introduzidas por conjunções integrantes."
+      },
+      {
+        "enunciado": "O que é uma conjunção integrante?",
+        "opcoes": [
+          "Uma conjunção que introduz orações subordinadas substantivas.",
+          "Uma conjunção que introduz orações coordenadas.",
+          "Uma conjunção que introduz orações adjetivas.",
+          "Um pronome relativo."
+        ],
+        "correta": 0,
+        "explicacao": "As conjunções integrantes introduzem substantivas."
+      },
+      {
+        "enunciado": "A oração subordinada substantiva pode ser reduzida?",
+        "opcoes": [
+          "Sim, com verbo no infinitivo, gerúndio ou particípio.",
+          "Não, só pode ser desenvolvida.",
+          "Sim, mas apenas no futuro.",
+          "Não existe."
+        ],
+        "correta": 0,
+        "explicacao": "As substantivas podem ser reduzidas de infinitivo, gerúndio ou particípio."
+      },
+      {
+        "enunciado": "Na frase 'É necessário estudar.', a oração 'estudar' é subordinada substantiva:",
+        "opcoes": [
+          "Subjetiva reduzida de infinitivo.",
+          "Objetiva direta reduzida.",
+          "Objetiva indireta reduzida.",
+          "Predicativa reduzida."
+        ],
+        "correta": 0,
+        "explicacao": "'Estudar' é uma subjetiva reduzida de infinitivo."
+      },
+      {
+        "enunciado": "Na frase 'Espero que você venha.', a oração 'que você venha' é subordinada substantiva:",
+        "opcoes": [
+          "Objetiva direta.",
+          "Subjetiva.",
+          "Objetiva indireta.",
+          "Predicativa."
+        ],
+        "correta": 0,
+        "explicacao": "'Que você venha' completa o verbo 'esperar' (objeto direto)."
+      },
+      {
+        "enunciado": "Na frase 'Tenho medo de que ele chegue tarde.', a oração 'de que ele chegue tarde' é subordinada substantiva:",
+        "opcoes": [
+          "Completiva nominal.",
+          "Subjetiva.",
+          "Objetiva direta.",
+          "Predicativa."
+        ],
+        "correta": 0,
+        "explicacao": "A oração completa o substantivo 'medo'."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v5_port_subordinadas_adverbiais_01",
+    "titulo": "Português - Orações Subordinadas Adverbiais",
+    "tipo": "conteudo",
+    "icone": "⏱️",
+    "perguntas": [
+      {
+        "enunciado": "O que é uma oração subordinada adverbial?",
+        "opcoes": [
+          "Oração que exerce função de advérbio.",
+          "Oração que exerce função de adjetivo.",
+          "Oração que exerce função de substantivo.",
+          "Oração independente."
+        ],
+        "correta": 0,
+        "explicacao": "As adverbiais exercem função de advérbio."
+      },
+      {
+        "enunciado": "Quais são os tipos de orações subordinadas adverbiais?",
+        "opcoes": [
+          "Causal, comparativa, concessiva, condicional, conformativa, consecutiva, final, proporcional e temporal.",
+          "Subjetiva, objetiva direta, objetiva indireta, completiva nominal, predicativa e apositiva.",
+          "Restritiva e explicativa.",
+          "Aditiva, adversativa, alternativa, conclusiva e explicativa."
+        ],
+        "correta": 0,
+        "explicacao": "São nove os tipos de adverbiais."
+      },
+      {
+        "enunciado": "O que é uma oração subordinada adverbial causal?",
+        "opcoes": [
+          "Expressa a causa da ação da oração principal.",
+          "Expressa a consequência da ação.",
+          "Expressa a finalidade da ação.",
+          "Expressa a condição da ação."
+        ],
+        "correta": 0,
+        "explicacao": "A causal expressa a causa."
+      },
+      {
+        "enunciado": "O que é uma oração subordinada adverbial comparativa?",
+        "opcoes": [
+          "Expressa comparação com a ação da oração principal.",
+          "Expressa a causa da ação.",
+          "Expressa a consequência da ação.",
+          "Expressa a finalidade da ação."
+        ],
+        "correta": 0,
+        "explicacao": "A comparativa expressa comparação."
+      },
+      {
+        "enunciado": "O que é uma oração subordinada adverbial concessiva?",
+        "opcoes": [
+          "Expressa uma concessão à ação da oração principal.",
+          "Expressa a causa da ação.",
+          "Expressa a consequência da ação.",
+          "Expressa a finalidade da ação."
+        ],
+        "correta": 0,
+        "explicacao": "A concessiva expressa concessão."
+      },
+      {
+        "enunciado": "O que é uma oração subordinada adverbial condicional?",
+        "opcoes": [
+          "Expressa uma condição para a ação da oração principal.",
+          "Expressa a causa da ação.",
+          "Expressa a consequência da ação.",
+          "Expressa a finalidade da ação."
+        ],
+        "correta": 0,
+        "explicacao": "A condicional expressa condição."
+      },
+      {
+        "enunciado": "O que é uma oração subordinada adverbial conformativa?",
+        "opcoes": [
+          "Expressa um modelo para a execução da ação.",
+          "Expressa a causa da ação.",
+          "Expressa a consequência da ação.",
+          "Expressa a finalidade da ação."
+        ],
+        "correta": 0,
+        "explicacao": "A conformativa expressa conformidade."
+      },
+      {
+        "enunciado": "O que é uma oração subordinada adverbial consecutiva?",
+        "opcoes": [
+          "Expressa a consequência da ação da oração principal.",
+          "Expressa a causa da ação.",
+          "Expressa a finalidade da ação.",
+          "Expressa a condição da ação."
+        ],
+        "correta": 0,
+        "explicacao": "A consecutiva expressa consequência."
+      },
+      {
+        "enunciado": "O que é uma oração subordinada adverbial final?",
+        "opcoes": [
+          "Expressa a finalidade da ação da oração principal.",
+          "Expressa a causa da ação.",
+          "Expressa a consequência da ação.",
+          "Expressa a condição da ação."
+        ],
+        "correta": 0,
+        "explicacao": "A final expressa finalidade."
+      },
+      {
+        "enunciado": "O que é uma oração subordinada adverbial proporcional?",
+        "opcoes": [
+          "Expressa a proporção em que a ação da oração principal ocorre.",
+          "Expressa a causa da ação.",
+          "Expressa a consequência da ação.",
+          "Expressa a finalidade da ação."
+        ],
+        "correta": 0,
+        "explicacao": "A proporcional expressa proporção."
+      },
+      {
+        "enunciado": "O que é uma oração subordinada adverbial temporal?",
+        "opcoes": [
+          "Expressa o momento em que a ação da oração principal ocorre.",
+          "Expressa a causa da ação.",
+          "Expressa a consequência da ação.",
+          "Expressa a finalidade da ação."
+        ],
+        "correta": 0,
+        "explicacao": "A temporal expressa tempo."
+      },
+      {
+        "enunciado": "Na frase 'A destruição do acervo foi uma grande perda, uma vez que ele continha obras raras.', a oração 'uma vez que ele continha obras raras' é subordinada adverbial:",
+        "opcoes": [
+          "Causal.",
+          "Consecutiva.",
+          "Final.",
+          "Temporal."
+        ],
+        "correta": 0,
+        "explicacao": "A oração expressa a causa da perda."
+      },
+      {
+        "enunciado": "Na frase 'Os pesquisadores agiram como donos do laboratório.', a oração 'como donos do laboratório' é subordinada adverbial:",
+        "opcoes": [
+          "Comparativa.",
+          "Causal.",
+          "Consecutiva.",
+          "Final."
+        ],
+        "correta": 0,
+        "explicacao": "A oração expressa comparação."
+      },
+      {
+        "enunciado": "Na frase 'Embora tivesse estudado pouco, seu conhecimento do mundo era amplo.', a oração 'Embora tivesse estudado pouco' é subordinada adverbial:",
+        "opcoes": [
+          "Concessiva.",
+          "Causal.",
+          "Consecutiva.",
+          "Final."
+        ],
+        "correta": 0,
+        "explicacao": "A oração expressa concessão."
+      },
+      {
+        "enunciado": "Na frase 'O filme não seria bom, caso não tivesse sido baseado em um livro.', a oração 'caso não tivesse sido baseado em um livro' é subordinada adverbial:",
+        "opcoes": [
+          "Condicional.",
+          "Causal.",
+          "Consecutiva.",
+          "Final."
+        ],
+        "correta": 0,
+        "explicacao": "A oração expressa condição."
+      },
+      {
+        "enunciado": "Na frase 'O texto foi escrito conforme haviam planejado.', a oração 'conforme haviam planejado' é subordinada adverbial:",
+        "opcoes": [
+          "Conformativa.",
+          "Causal.",
+          "Consecutiva.",
+          "Final."
+        ],
+        "correta": 0,
+        "explicacao": "A oração expressa conformidade."
+      },
+      {
+        "enunciado": "Na frase 'Ela escreveu tão bem que foi contratada por uma grande agência.', a oração 'que foi contratada por uma grande agência' é subordinada adverbial:",
+        "opcoes": [
+          "Consecutiva.",
+          "Causal.",
+          "Final.",
+          "Temporal."
+        ],
+        "correta": 0,
+        "explicacao": "A oração expressa consequência."
+      },
+      {
+        "enunciado": "Na frase 'O estudante leu o texto científico para que pudesse iniciar sua pesquisa.', a oração 'para que pudesse iniciar sua pesquisa' é subordinada adverbial:",
+        "opcoes": [
+          "Final.",
+          "Causal.",
+          "Consecutiva.",
+          "Temporal."
+        ],
+        "correta": 0,
+        "explicacao": "A oração expressa finalidade."
+      },
+      {
+        "enunciado": "Na frase 'À medida que praticavam a escrita, conseguiam estabelecer mais relações entre os textos.', a oração 'À medida que praticavam a escrita' é subordinada adverbial:",
+        "opcoes": [
+          "Proporcional.",
+          "Causal.",
+          "Consecutiva.",
+          "Final."
+        ],
+        "correta": 0,
+        "explicacao": "A oração expressa proporção."
+      },
+      {
+        "enunciado": "Na frase 'Mal começou a escrever, ocorreu-lhe outra ideia.', a oração 'Mal começou a escrever' é subordinada adverbial:",
+        "opcoes": [
+          "Temporal.",
+          "Causal.",
+          "Consecutiva.",
+          "Final."
+        ],
+        "correta": 0,
+        "explicacao": "A oração expressa tempo."
+      }
+    ]
+  },
+  {
+    "id": "9ano_v5_port_cronica_01",
+    "titulo": "Português - Crônica Lírica e Narrativa",
+    "tipo": "conteudo",
+    "icone": "📰",
+    "perguntas": [
+      {
+        "enunciado": "O que é uma crônica?",
+        "opcoes": [
+          "Um texto que oferece outra perspectiva dos acontecimentos diários.",
+          "Um texto jornalístico sobre política.",
+          "Um texto literário de ficção científica.",
+          "Um texto técnico."
+        ],
+        "correta": 0,
+        "explicacao": "A crônica aborda acontecimentos cotidianos com um olhar particular."
+      },
+      {
+        "enunciado": "Qual é a origem histórica da crônica?",
+        "opcoes": [
+          "Era ligada à História, registrando eventos de modo cronológico.",
+          "Surgiu no século XX.",
+          "Surgiu na Grécia Antiga.",
+          "Surgiu na Idade Média."
+        ],
+        "correta": 0,
+        "explicacao": "A crônica surgiu ligada à História, como relatos de viagem."
+      },
+      {
+        "enunciado": "Como a crônica se desenvolveu a partir do século XIX?",
+        "opcoes": [
+          "Passou a ser publicada em jornais e ganhou estilo próprio.",
+          "Deixou de ser publicada.",
+          "Tornou-se um gênero científico.",
+          "Ficou restrita aos livros."
+        ],
+        "correta": 0,
+        "explicacao": "Com o advento da imprensa, a crônica passou a ser publicada em jornais."
+      },
+      {
+        "enunciado": "Quais são as principais características da crônica?",
+        "opcoes": [
+          "Assuntos urbanos, cotidiano, linguagem simples, curta extensão e humor.",
+          "Assuntos científicos, linguagem complexa, longa extensão.",
+          "Assuntos religiosos, linguagem formal.",
+          "Assuntos políticos, linguagem técnica."
+        ],
+        "correta": 0,
+        "explicacao": "A crônica aborda o cotidiano com linguagem simples e humor."
+      },
+      {
+        "enunciado": "O que é uma crônica lírica?",
+        "opcoes": [
+          "Uma crônica com linguagem poética e temas emotivos ou nostálgicos.",
+          "Uma crônica humorística.",
+          "Uma crônica política.",
+          "Uma crônica científica."
+        ],
+        "correta": 0,
+        "explicacao": "A crônica lírica tem linguagem poética e temas emotivos."
+      },
+      {
+        "enunciado": "Quem foi um dos maiores cronistas brasileiros da época de 1930 a 1960?",
+        "opcoes": ["Rubem Braga", "Machado de Assis", "Carlos Drummond de Andrade", "Manuel Bandeira"],
+        "correta": 0,
+        "explicacao": "Rubem Braga é considerado o maior cronista brasileiro."
+      },
+      {
+        "enunciado": "Quais são outros escritores conhecidos por suas crônicas, além de Rubem Braga?",
+        "opcoes": [
+          "Manuel Bandeira, Mário de Andrade, Carlos Drummond de Andrade e Rachel de Queiroz.",
+          "Apenas Rubem Braga.",
+          "Apenas Machado de Assis.",
+          "Apenas Carlos Drummond."
+        ],
+        "correta": 0,
+        "explicacao": "Vários escritores conhecidos também foram grandes cronistas."
+      },
+      {
+        "enunciado": "O que é a crônica 'Indo de táxi ao aeroporto'?",
+        "opcoes": [
+          "Uma crônica lírica de Marina Colasanti.",
+          "Uma crônica de Rubem Braga.",
+          "Uma crônica de Machado de Assis.",
+          "Um conto de fadas."
+        ],
+        "correta": 0,
+        "explicacao": "A crônica é de Marina Colasanti."
+      },
+      {
+        "enunciado": "O que caracteriza o olhar do cronista?",
+        "opcoes": [
+          "Um olhar particular sobre o cotidiano.",
+          "Um olhar científico.",
+          "Um olhar político.",
+          "Um olhar religioso."
+        ],
+        "correta": 0,
+        "explicacao": "O cronista tem um olhar particular sobre o cotidiano."
+      },
+      {
+        "enunciado": "Qual é a importância da crônica para a literatura brasileira?",
+        "opcoes": [
+          "É um gênero importante, que retrata o cotidiano e a identidade nacional.",
+          "Não tem importância.",
+          "É um gênero menor.",
+          "É um gênero estrangeiro."
+        ],
+        "correta": 0,
+        "explicacao": "A crônica é um gênero importante na literatura brasileira."
+      },
+      {
+        "enunciado": "O que é a 'crônica narrativa'?",
+        "opcoes": [
+          "Uma crônica que conta uma história.",
+          "Uma crônica que descreve uma paisagem.",
+          "Uma crônica que defende uma opinião.",
+          "Uma crônica que ensina algo."
+        ],
+        "correta": 0,
+        "explicacao": "A crônica narrativa conta uma história curta."
+      },
+      {
+        "enunciado": "O que é a 'crônica lírica'?",
+        "opcoes": [
+          "Uma crônica que expressa sentimentos e emoções.",
+          "Uma crônica que conta uma história.",
+          "Uma crônica que defende uma opinião.",
+          "Uma crônica que ensina algo."
+        ],
+        "correta": 0,
+        "explicacao": "A crônica lírica expressa sentimentos e emoções."
+      },
+      {
+        "enunciado": "O que é a 'crônica humorística'?",
+        "opcoes": [
+          "Uma crônica que usa o humor para tratar de temas cotidianos.",
+          "Uma crônica que conta uma história.",
+          "Uma crônica que defende uma opinião.",
+          "Uma crônica que ensina algo."
+        ],
+        "correta": 0,
+        "explicacao": "A crônica humorística usa o humor."
+      },
+      {
+        "enunciado": "O que é a 'crônica crítica'?",
+        "opcoes": [
+          "Uma crônica que critica a sociedade.",
+          "Uma crônica que conta uma história.",
+          "Uma crônica que expressa sentimentos.",
+          "Uma crônica que ensina algo."
+        ],
+        "correta": 0,
+        "explicacao": "A crônica crítica critica a sociedade."
+      },
+      {
+        "enunciado": "O que é a 'crônica de viagem'?",
+        "opcoes": [
+          "Uma crônica que relata uma viagem.",
+          "Uma crônica que conta uma história.",
+          "Uma crônica que expressa sentimentos.",
+          "Uma crônica que ensina algo."
+        ],
+        "correta": 0,
+        "explicacao": "A crônica de viagem relata uma viagem."
+      },
+      {
+        "enunciado": "O que é a 'crônica cotidiana'?",
+        "opcoes": [
+          "Uma crônica que retrata o dia a dia.",
+          "Uma crônica que conta uma história.",
+          "Uma crônica que expressa sentimentos.",
+          "Uma crônica que ensina algo."
+        ],
+        "correta": 0,
+        "explicacao": "A crônica cotidiana retrata o dia a dia."
+      },
+      {
+        "enunciado": "Qual é a importância do cotidiano na crônica?",
+        "opcoes": [
+          "É a matéria-prima da crônica.",
+          "Não tem importância.",
+          "É um tema secundário.",
+          "É um tema proibido."
+        ],
+        "correta": 0,
+        "explicacao": "O cotidiano é a matéria-prima da crônica."
+      },
+      {
+        "enunciado": "O que é a 'crônica de Rubem Braga'?",
+        "opcoes": [
+          "Uma crônica lírica e poética.",
+          "Uma crônica humorística.",
+          "Uma crônica política.",
+          "Uma crônica científica."
+        ],
+        "correta": 0,
+        "explicacao": "Rubem Braga é conhecido por suas crônicas líricas."
+      },
+      {
+        "enunciado": "O que é a 'crônica de Marina Colasanti'?",
+        "opcoes": [
+          "Uma crônica lírica e poética.",
+          "Uma crônica humorística.",
+          "Uma crônica política.",
+          "Uma crônica científica."
+        ],
+        "correta": 0,
+        "explicacao": "Marina Colasanti é conhecida por suas crônicas líricas."
+      },
+      {
+        "enunciado": "Quais são os principais temas da crônica?",
+        "opcoes": [
+          "Cotidiano, relações humanas, política, humor, etc.",
+          "Apenas política.",
+          "Apenas ciência.",
+          "Apenas religião."
+        ],
+        "correta": 0,
+        "explicacao": "A crônica aborda diversos temas do cotidiano."
+      }
+    ]
+  }
+]
