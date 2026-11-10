@@ -18,12 +18,7 @@
       },
       {
         "enunciado": "Em uma função, como é chamado o conjunto de todos os valores possíveis para x?",
-        "opcoes": [
-          "Imagem.",
-          "Contradomínio.",
-          "Domínio.",
-          "Eixo y."
-        ],
+        "opcoes": ["Imagem.", "Contradomínio.", "Domínio.", "Eixo y."],
         "correta": 2,
         "explicacao": "O domínio é o conjunto de partida, ou seja, os valores que a variável independente (x) pode assumir."
       },
@@ -40,12 +35,7 @@
       },
       {
         "enunciado": "Se temos uma função y = 3x, qual é a variável independente?",
-        "opcoes": [
-          "x",
-          "y",
-          "3",
-          "f"
-        ],
+        "opcoes": ["x", "y", "3", "f"],
         "correta": 0,
         "explicacao": "A variável independente é aquela que escolhemos livremente, neste caso, o x."
       },
@@ -62,166 +52,96 @@
       },
       {
         "enunciado": "Se um ponto está sobre o eixo x, qual é o valor da sua ordenada (y)?",
-        "opcoes": [
-          "Sempre 1.",
-          "Sempre positivo.",
-          "Sempre igual a 0.",
-          "Sempre negativo."
-        ],
+        "opcoes": ["Sempre 1.", "Sempre positivo.", "Sempre igual a 0.", "Sempre negativo."],
         "correta": 2,
         "explicacao": "Qualquer ponto no eixo x tem coordenada y = 0, como (3, 0)."
       },
       {
         "enunciado": "Se um ponto está sobre o eixo y, qual é o valor da sua abscissa (x)?",
-        "opcoes": [
-          "Sempre 1.",
-          "Sempre positivo.",
-          "Sempre igual a 0.",
-          "Sempre negativo."
-        ],
+        "opcoes": ["Sempre 1.", "Sempre positivo.", "Sempre igual a 0.", "Sempre negativo."],
         "correta": 2,
         "explicacao": "Qualquer ponto no eixo y tem coordenada x = 0, como (0, 5)."
       },
       {
         "enunciado": "Quem foi o matemático responsável por criar o sistema de coordenadas cartesianas?",
-        "opcoes": [
-          "Isaac Newton.",
-          "René Descartes.",
-          "Albert Einstein.",
-          "Pitágoras."
-        ],
+        "opcoes": ["Isaac Newton.", "René Descartes.", "Albert Einstein.", "Pitágoras."],
         "correta": 1,
         "explicacao": "René Descartes desenvolveu o plano cartesiano unindo álgebra e geometria."
       },
       {
         "enunciado": "No par ordenado (3, 5), qual é o valor da abscissa?",
-        "opcoes": [
-          "3",
-          "5",
-          "8",
-          "2"
-        ],
+        "opcoes": ["3", "5", "8", "2"],
         "correta": 0,
         "explicacao": "A abscissa é sempre o primeiro valor do par ordenado (x), que neste caso é 3."
       },
       {
         "enunciado": "No par ordenado (-2, 7), qual é o valor da ordenada?",
-        "opcoes": [
-          "-2",
-          "7",
-          "5",
-          "-7"
-        ],
+        "opcoes": ["-2", "7", "5", "-7"],
         "correta": 1,
         "explicacao": "A ordenada é sempre o segundo valor do par ordenado (y), que neste caso é 7."
       },
       {
-        "enunciado": "O ponto A(2, -3) está localizado em qual quadrante?",
-        "opcoes": [
-          "1º quadrante.",
-          "2º quadrante.",
-          "3º quadrante.",
-          "4º quadrante."
-        ],
+        "enunciado": "Observe o plano cartesiano abaixo. O ponto A(2, -3) está localizado em qual quadrante?",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='110' x2='210' y2='110'/><line x1='110' y1='10' x2='110' y2='210'/></g><text x='200' y='105' fill='#8aa3c9' font-size='10'>x</text><text x='115' y='20' fill='#8aa3c9' font-size='10'>y</text><circle cx='160' cy='160' r='5' fill='#f5e56b'/><text x='168' y='165' fill='#f5e56b' font-weight='bold'>A</text></svg>",
+        "opcoes": ["1º quadrante.", "2º quadrante.", "3º quadrante.", "4º quadrante."],
         "correta": 3,
         "explicacao": "No 4º quadrante, os valores de x são positivos e os de y são negativos."
       },
       {
-        "enunciado": "O ponto B(-4, 5) está localizado em qual quadrante?",
-        "opcoes": [
-          "1º quadrante.",
-          "2º quadrante.",
-          "3º quadrante.",
-          "4º quadrante."
-        ],
+        "enunciado": "Observe o plano cartesiano abaixo. O ponto B(-4, 5) está localizado em qual quadrante?",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='110' x2='210' y2='110'/><line x1='110' y1='10' x2='110' y2='210'/></g><text x='200' y='105' fill='#8aa3c9' font-size='10'>x</text><text x='115' y='20' fill='#8aa3c9' font-size='10'>y</text><circle cx='60' cy='60' r='5' fill='#f5e56b'/><text x='50' y='55' fill='#f5e56b' font-weight='bold'>B</text></svg>",
+        "opcoes": ["1º quadrante.", "2º quadrante.", "3º quadrante.", "4º quadrante."],
         "correta": 1,
         "explicacao": "No 2º quadrante, os valores de x são negativos e os de y são positivos."
       },
       {
-        "enunciado": "O ponto C(-3, -1) está localizado em qual quadrante?",
-        "opcoes": [
-          "1º quadrante.",
-          "2º quadrante.",
-          "3º quadrante.",
-          "4º quadrante."
-        ],
+        "enunciado": "Observe o plano cartesiano abaixo. O ponto C(-3, -1) está localizado em qual quadrante?",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='110' x2='210' y2='110'/><line x1='110' y1='10' x2='110' y2='210'/></g><text x='200' y='105' fill='#8aa3c9' font-size='10'>x</text><text x='115' y='20' fill='#8aa3c9' font-size='10'>y</text><circle cx='80' cy='140' r='5' fill='#f5e56b'/><text x='70' y='155' fill='#f5e56b' font-weight='bold'>C</text></svg>",
+        "opcoes": ["1º quadrante.", "2º quadrante.", "3º quadrante.", "4º quadrante."],
         "correta": 2,
         "explicacao": "No 3º quadrante, tanto x quanto y são negativos."
       },
       {
-        "enunciado": "O ponto D(5, 2) está localizado em qual quadrante?",
-        "opcoes": [
-          "1º quadrante.",
-          "2º quadrante.",
-          "3º quadrante.",
-          "4º quadrante."
-        ],
+        "enunciado": "Observe o plano cartesiano abaixo. O ponto D(5, 2) está localizado em qual quadrante?",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='110' x2='210' y2='110'/><line x1='110' y1='10' x2='110' y2='210'/></g><text x='200' y='105' fill='#8aa3c9' font-size='10'>x</text><text x='115' y='20' fill='#8aa3c9' font-size='10'>y</text><circle cx='160' cy='70' r='5' fill='#f5e56b'/><text x='168' y='75' fill='#f5e56b' font-weight='bold'>D</text></svg>",
+        "opcoes": ["1º quadrante.", "2º quadrante.", "3º quadrante.", "4º quadrante."],
         "correta": 0,
         "explicacao": "No 1º quadrante, tanto x quanto y são positivos."
       },
       {
         "enunciado": "O eixo horizontal do plano cartesiano é chamado de:",
-        "opcoes": [
-          "Eixo das ordenadas (y).",
-          "Eixo das abscissas (x).",
-          "Origem.",
-          "Eixo de simetria."
-        ],
+        "opcoes": ["Eixo das ordenadas (y).", "Eixo das abscissas (x).", "Origem.", "Eixo de simetria."],
         "correta": 1,
         "explicacao": "O eixo horizontal é o eixo x, também chamado de eixo das abscissas."
       },
       {
         "enunciado": "O eixo vertical do plano cartesiano é chamado de:",
-        "opcoes": [
-          "Eixo das ordenadas (y).",
-          "Eixo das abscissas (x).",
-          "Origem.",
-          "Eixo de simetria."
-        ],
+        "opcoes": ["Eixo das ordenadas (y).", "Eixo das abscissas (x).", "Origem.", "Eixo de simetria."],
         "correta": 0,
         "explicacao": "O eixo vertical é o eixo y, também chamado de eixo das ordenadas."
       },
       {
         "enunciado": "O ponto onde os dois eixos se cruzam (0, 0) é chamado de:",
-        "opcoes": [
-          "Vértice.",
-          "Origem do sistema.",
-          "Raiz.",
-          "Par ordenado."
-        ],
+        "opcoes": ["Vértice.", "Origem do sistema.", "Raiz.", "Par ordenado."],
         "correta": 1,
         "explicacao": "A interseção dos eixos x e y no ponto (0,0) é a origem do plano cartesiano."
       },
       {
         "enunciado": "Como é escrita a representação de um ponto no plano cartesiano?",
-        "opcoes": [
-          "Apenas um número.",
-          "Um par ordenado (x, y).",
-          "Uma fração.",
-          "Uma equação."
-        ],
+        "opcoes": ["Apenas um número.", "Um par ordenado (x, y).", "Uma fração.", "Uma equação."],
         "correta": 1,
         "explicacao": "Todo ponto é representado por um par ordenado, onde o primeiro valor é x e o segundo é y."
       },
       {
-        "enunciado": "Na função y = 2x, se x = 3, qual é o ponto correspondente no gráfico?",
-        "opcoes": [
-          "(2, 3)",
-          "(3, 2)",
-          "(3, 6)",
-          "(6, 3)"
-        ],
+        "enunciado": "Observe o gráfico da função y = 2x. Qual é o ponto correspondente quando x = 3?",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='180' x2='210' y2='180'/><line x1='30' y1='10' x2='30' y2='210'/></g><text x='200' y='175' fill='#8aa3c9' font-size='10'>x</text><text x='35' y='20' fill='#8aa3c9' font-size='10'>y</text><line x1='30' y1='180' x2='180' y2='30' stroke='#d4af37' stroke-width='2.5'/><text x='170' y='40' fill='#f5e56b' font-size='10'>y = 2x</text></svg>",
+        "opcoes": ["(2, 3)", "(3, 2)", "(3, 6)", "(6, 3)"],
         "correta": 2,
         "explicacao": "Se x = 3, y = 2 * 3 = 6. Logo, o par ordenado é (3, 6)."
       },
       {
         "enunciado": "A tabela de uma função mostra os valores de x e y. Se x = 1 e y = 4; x = 2 e y = 8, a função é:",
-        "opcoes": [
-          "y = x + 4",
-          "y = 4x",
-          "y = x²",
-          "y = 2x"
-        ],
+        "opcoes": ["y = x + 4", "y = 4x", "y = x²", "y = 2x"],
         "correta": 1,
         "explicacao": "Percebe-se que y é sempre 4 vezes o valor de x (4*1=4; 4*2=8)."
       }
@@ -235,221 +155,126 @@
     "perguntas": [
       {
         "enunciado": "Em uma função f(x) = 3x, qual é o valor de f(4)?",
-        "opcoes": [
-          "7",
-          "12",
-          "34",
-          "43"
-        ],
+        "opcoes": ["7", "12", "34", "43"],
         "correta": 1,
         "explicacao": "Substituindo x por 4 na fórmula f(x) = 3x, temos f(4) = 3 * 4 = 12."
       },
       {
         "enunciado": "Na função f(x) = 2x + 5, qual é o valor de f(3)?",
-        "opcoes": [
-          "6",
-          "11",
-          "8",
-          "10"
-        ],
+        "opcoes": ["6", "11", "8", "10"],
         "correta": 1,
         "explicacao": "Substituindo x por 3: f(3) = 2(3) + 5 = 6 + 5 = 11."
       },
       {
         "enunciado": "Se f(x) = x² - 1, quanto vale f(5)?",
-        "opcoes": [
-          "24",
-          "25",
-          "10",
-          "16"
-        ],
+        "opcoes": ["24", "25", "10", "16"],
         "correta": 0,
         "explicacao": "Substituindo x por 5: f(5) = 5² - 1 = 25 - 1 = 24."
       },
       {
         "enunciado": "Um triângulo equilátero tem perímetro y em função do lado x, dado por y = 3x. Se o lado mede 5 cm, qual é o perímetro?",
-        "opcoes": [
-          "8 cm",
-          "15 cm",
-          "10 cm",
-          "25 cm"
-        ],
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><polygon points='110,30 40,170 180,170' fill='rgba(212,175,55,0.15)' stroke='#d4af37' stroke-width='3'/><text x='70' y='105' fill='#fff' font-size='13' font-weight='bold'>5 cm</text><text x='135' y='105' fill='#fff' font-size='13' font-weight='bold'>5 cm</text><text x='95' y='190' fill='#fff' font-size='13' font-weight='bold'>5 cm</text></svg>",
+        "opcoes": ["8 cm", "15 cm", "10 cm", "25 cm"],
         "correta": 1,
         "explicacao": "Substituindo x por 5: y = 3 * 5 = 15."
       },
       {
         "enunciado": "Se D(f) = {1, 2, 3, 4, 5} e a função é f(x) = 3x, qual é o conjunto Imagem?",
-        "opcoes": [
-          "{1, 2, 3, 4, 5}",
-          "{3, 6, 9, 12, 15}",
-          "{0, 3, 6, 9, 12}",
-          "{3, 4, 5, 6, 7}"
-        ],
+        "opcoes": ["{1, 2, 3, 4, 5}", "{3, 6, 9, 12, 15}", "{0, 3, 6, 9, 12}", "{3, 4, 5, 6, 7}"],
         "correta": 1,
         "explicacao": "Calculando f(x) para cada valor do domínio, obtemos a imagem {3, 6, 9, 12, 15}."
       },
       {
         "enunciado": "Na relação entre o número de acertos (t) e a nota (N), onde N = 0,5 * t, se o aluno acertou 10 questões, qual é a nota?",
-        "opcoes": [
-          "5,0",
-          "10,0",
-          "0,5",
-          "2,0"
-        ],
+        "opcoes": ["5,0", "10,0", "0,5", "2,0"],
         "correta": 0,
         "explicacao": "N = 0,5 * 10 = 5,0."
       },
       {
         "enunciado": "Se uma função é definida por y = 10 - 2x, qual o valor de y quando x = 4?",
-        "opcoes": [
-          "2",
-          "8",
-          "18",
-          "-2"
-        ],
+        "opcoes": ["2", "8", "18", "-2"],
         "correta": 0,
         "explicacao": "y = 10 - 2(4) = 10 - 8 = 2."
       },
       {
         "enunciado": "Uma empresa cobra R$ 50,00 de taxa fixa mais R$ 10,00 por hora de serviço. A função é y = 50 + 10x. Se o serviço durou 3 horas, quanto custou?",
-        "opcoes": [
-          "R$ 60,00",
-          "R$ 80,00",
-          "R$ 150,00",
-          "R$ 53,00"
-        ],
+        "opcoes": ["R$ 60,00", "R$ 80,00", "R$ 150,00", "R$ 53,00"],
         "correta": 1,
         "explicacao": "y = 50 + 10(3) = 50 + 30 = 80."
       },
       {
         "enunciado": "Na função f(x) = -2x + 1, qual é o valor de f(-1)?",
-        "opcoes": [
-          "-1",
-          "3",
-          "-3",
-          "1"
-        ],
+        "opcoes": ["-1", "3", "-3", "1"],
         "correta": 1,
         "explicacao": "f(-1) = -2(-1) + 1 = 2 + 1 = 3."
       },
       {
         "enunciado": "Dada a função f(x) = 4x - 8, qual é o valor de x para que f(x) = 0?",
-        "opcoes": [
-          "2",
-          "-2",
-          "8",
-          "4"
-        ],
+        "opcoes": ["2", "-2", "8", "4"],
         "correta": 0,
         "explicacao": "Igualando a zero: 4x - 8 = 0 -> 4x = 8 -> x = 2."
       },
       {
         "enunciado": "O gráfico de uma função é formado por:",
-        "opcoes": [
-          "Apenas números soltos.",
-          "Pares ordenados (x, y) representados no plano cartesiano.",
-          "Somente a variável x.",
-          "Texto e números."
-        ],
+        "opcoes": ["Apenas números soltos.", "Pares ordenados (x, y) representados no plano cartesiano.", "Somente a variável x.", "Texto e números."],
         "correta": 1,
         "explicacao": "Cada ponto do gráfico é um par ordenado que mostra a relação entre x e f(x)."
       },
       {
         "enunciado": "O que significa dizer que y é uma função de x?",
-        "opcoes": [
-          "Que y e x não têm relação.",
-          "Que o valor de y depende do valor escolhido para x.",
-          "Que y é sempre maior que x.",
-          "Que x é sempre igual a y."
-        ],
+        "opcoes": ["Que y e x não têm relação.", "Que o valor de y depende do valor escolhido para x.", "Que y é sempre maior que x.", "Que x é sempre igual a y."],
         "correta": 1,
         "explicacao": "Na função, y é a variável dependente, pois seu valor é obtido a partir de x."
       },
       {
         "enunciado": "Em uma função do 1º grau, o gráfico corta o eixo y no ponto de coordenadas:",
-        "opcoes": [
-          "(a, 0)",
-          "(0, b)",
-          "(x, y)",
-          "(b, 0)"
-        ],
+        "opcoes": ["(a, 0)", "(0, b)", "(x, y)", "(b, 0)"],
         "correta": 1,
         "explicacao": "Quando x = 0, y = b. Logo, o ponto de intersecção com o eixo y é (0, b)."
       },
       {
-        "enunciado": "Na função y = 2x - 4, a reta corta o eixo y em qual ponto?",
-        "opcoes": [
-          "(0, 2)",
-          "(2, 0)",
-          "(0, -4)",
-          "(-4, 0)"
-        ],
+        "enunciado": "Observe o gráfico da função y = 2x - 4. Em qual ponto a reta corta o eixo y?",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='110' x2='210' y2='110'/><line x1='110' y1='10' x2='110' y2='210'/></g><text x='200' y='105' fill='#8aa3c9' font-size='10'>x</text><text x='115' y='20' fill='#8aa3c9' font-size='10'>y</text><line x1='20' y1='60' x2='200' y2='200' stroke='#d4af37' stroke-width='2.5'/><circle cx='110' cy='160' r='4' fill='#f5e56b'/><text x='118' y='168' fill='#f5e56b' font-size='10'>(0, -4)</text></svg>",
+        "opcoes": ["(0, 2)", "(2, 0)", "(0, -4)", "(-4, 0)"],
         "correta": 2,
         "explicacao": "Como b = -4, a reta corta o eixo y em (0, -4)."
       },
       {
         "enunciado": "Quando o gráfico de uma função do 1º grau 'passa pela origem', significa que:",
-        "opcoes": [
-          "O coeficiente a é zero.",
-          "O coeficiente b é zero.",
-          "A função é quadrática.",
-          "A reta é horizontal."
-        ],
+        "opcoes": ["O coeficiente a é zero.", "O coeficiente b é zero.", "A função é quadrática.", "A reta é horizontal."],
         "correta": 1,
         "explicacao": "Se b = 0, a função y = ax passa pelo ponto (0,0), ou seja, pela origem."
       },
       {
-        "enunciado": "A representação gráfica de uma função constante y = 5 é:",
-        "opcoes": [
-          "Uma reta inclinada.",
-          "Uma reta horizontal.",
-          "Uma reta vertical.",
-          "Uma parábola."
-        ],
+        "enunciado": "Observe o gráfico. A representação de uma função constante y = 5 é:",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='160' x2='210' y2='160'/><line x1='40' y1='10' x2='40' y2='210'/></g><text x='200' y='155' fill='#8aa3c9' font-size='10'>x</text><text x='45' y='20' fill='#8aa3c9' font-size='10'>y</text><line x1='20' y1='60' x2='200' y2='60' stroke='#d4af37' stroke-width='2.5'/><text x='160' y='55' fill='#f5e56b' font-size='10'>y = 5</text></svg>",
+        "opcoes": ["Uma reta inclinada.", "Uma reta horizontal.", "Uma reta vertical.", "Uma parábola."],
         "correta": 1,
         "explicacao": "Como y é sempre 5 para qualquer x, o gráfico é uma linha reta horizontal."
       },
       {
         "enunciado": "Em um gráfico de uma função do 2º grau com concavidade para cima, o ponto mais baixo é chamado de:",
-        "opcoes": [
-          "Ponto de máximo.",
-          "Ponto de mínimo.",
-          "Zero da função.",
-          "Origem."
-        ],
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='180' x2='210' y2='180'/><line x1='110' y1='10' x2='110' y2='210'/></g><path d='M 30 30 Q 110 230 190 30' fill='none' stroke='#d4af37' stroke-width='3'/><circle cx='110' cy='130' r='5' fill='#dc2626'/></svg>",
+        "opcoes": ["Ponto de máximo.", "Ponto de mínimo.", "Zero da função.", "Origem."],
         "correta": 1,
         "explicacao": "Na concavidade para cima (a > 0), o vértice representa o menor valor de y, ou seja, o ponto de mínimo."
       },
       {
         "enunciado": "Para construir o gráfico de uma função do 1º grau, são necessários no mínimo quantos pontos?",
-        "opcoes": [
-          "1 ponto.",
-          "2 pontos.",
-          "3 pontos.",
-          "4 pontos."
-        ],
+        "opcoes": ["1 ponto.", "2 pontos.", "3 pontos.", "4 pontos."],
         "correta": 1,
         "explicacao": "Como o gráfico é uma reta, dois pontos distintos são suficientes para determiná-la."
       },
       {
         "enunciado": "O zero da função y = -2x + 8 é:",
-        "opcoes": [
-          "4",
-          "-4",
-          "8",
-          "-8"
-        ],
+        "opcoes": ["4", "-4", "8", "-8"],
         "correta": 0,
         "explicacao": "-2x + 8 = 0 -> -2x = -8 -> x = 4."
       },
       {
-        "enunciado": "O gráfico de uma função do 1º grau, y = ax + b, é sempre:",
-        "opcoes": [
-          "Uma parábola.",
-          "Uma reta.",
-          "Um círculo.",
-          "Uma curva."
-        ],
+        "enunciado": "Observe o gráfico. O gráfico de uma função do 1º grau, y = ax + b, é sempre:",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='170' x2='210' y2='170'/><line x1='40' y1='10' x2='40' y2='210'/></g><text x='200' y='165' fill='#8aa3c9' font-size='10'>x</text><text x='45' y='20' fill='#8aa3c9' font-size='10'>y</text><line x1='20' y1='190' x2='190' y2='30' stroke='#d4af37' stroke-width='2.5'/></svg>",
+        "opcoes": ["Uma parábola.", "Uma reta.", "Um círculo.", "Uma curva."],
         "correta": 1,
         "explicacao": "A representação gráfica de uma função afim é uma linha reta."
       }
@@ -463,221 +288,127 @@
     "perguntas": [
       {
         "enunciado": "Qual é a forma geral da função polinomial do 1º grau?",
-        "opcoes": [
-          "y = ax² + bx + c",
-          "y = ax + b",
-          "y = a/x",
-          "y = a^x"
-        ],
+        "opcoes": ["y = ax² + bx + c", "y = ax + b", "y = a/x", "y = a^x"],
         "correta": 1,
         "explicacao": "A função do 1º grau é definida por y = ax + b, com a e b reais e a ≠ 0."
       },
       {
         "enunciado": "Na função do 1º grau y = ax + b, o coeficiente 'a' deve ser obrigatoriamente:",
-        "opcoes": [
-          "Igual a zero.",
-          "Diferente de zero.",
-          "Positivo.",
-          "Um número inteiro."
-        ],
+        "opcoes": ["Igual a zero.", "Diferente de zero.", "Positivo.", "Um número inteiro."],
         "correta": 1,
         "explicacao": "Se a = 0, a função se torna constante, não sendo mais do 1º grau."
       },
       {
-        "enunciado": "Na função y = 2x + 5, quais são os coeficientes a e b, respectivamente?",
-        "opcoes": [
-          "2 e 5",
-          "5 e 2",
-          "2x e 5",
-          "0 e 5"
-        ],
+        "enunciado": "Observe o gráfico da função y = 2x + 5. Quais são os coeficientes a e b, respectivamente?",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='150' x2='210' y2='150'/><line x1='40' y1='10' x2='40' y2='210'/></g><text x='200' y='145' fill='#8aa3c9' font-size='10'>x</text><text x='45' y='20' fill='#8aa3c9' font-size='10'>y</text><line x1='20' y1='140' x2='190' y2='20' stroke='#d4af37' stroke-width='2.5'/><text x='160' y='35' fill='#f5e56b' font-size='10'>y = 2x + 5</text></svg>",
+        "opcoes": ["2 e 5", "5 e 2", "2x e 5", "0 e 5"],
         "correta": 0,
         "explicacao": "O coeficiente angular 'a' é 2 e o coeficiente linear 'b' é 5."
       },
       {
         "enunciado": "O coeficiente 'a' em uma função do 1º grau é chamado de:",
-        "opcoes": [
-          "Coeficiente linear.",
-          "Coeficiente angular.",
-          "Termo independente.",
-          "Discriminante."
-        ],
+        "opcoes": ["Coeficiente linear.", "Coeficiente angular.", "Termo independente.", "Discriminante."],
         "correta": 1,
         "explicacao": "O 'a' indica a inclinação da reta, sendo chamado de coeficiente angular."
       },
       {
         "enunciado": "O coeficiente 'b' em uma função do 1º grau é chamado de:",
-        "opcoes": [
-          "Coeficiente angular.",
-          "Coeficiente linear.",
-          "Variável dependente.",
-          "Raiz da função."
-        ],
+        "opcoes": ["Coeficiente angular.", "Coeficiente linear.", "Variável dependente.", "Raiz da função."],
         "correta": 1,
         "explicacao": "O 'b' indica onde a reta corta o eixo y, sendo chamado de coeficiente linear."
       },
       {
-        "enunciado": "Se a > 0 na função do 1º grau, o gráfico (reta) é:",
-        "opcoes": [
-          "Crescente.",
-          "Decrescente.",
-          "Constante.",
-          "Uma parábola."
-        ],
+        "enunciado": "Observe o gráfico. A reta é crescente. Isso ocorre porque:",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='150' x2='210' y2='150'/><line x1='40' y1='10' x2='40' y2='210'/></g><text x='200' y='145' fill='#8aa3c9' font-size='10'>x</text><text x='45' y='20' fill='#8aa3c9' font-size='10'>y</text><line x1='20' y1='190' x2='200' y2='40' stroke='#d4af37' stroke-width='2.5'/></svg>",
+        "opcoes": ["a > 0", "a < 0", "a = 0", "b = 0"],
         "correta": 0,
         "explicacao": "Quando a é positivo, a reta sobe da esquerda para a direita (crescente)."
       },
       {
-        "enunciado": "Se a < 0 na função do 1º grau, o gráfico (reta) é:",
-        "opcoes": [
-          "Crescente.",
-          "Decrescente.",
-          "Constante.",
-          "Vertical."
-        ],
+        "enunciado": "Observe o gráfico. A reta é decrescente. Isso ocorre porque:",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='150' x2='210' y2='150'/><line x1='40' y1='10' x2='40' y2='210'/></g><text x='200' y='145' fill='#8aa3c9' font-size='10'>x</text><text x='45' y='20' fill='#8aa3c9' font-size='10'>y</text><line x1='20' y1='40' x2='200' y2='190' stroke='#d4af37' stroke-width='2.5'/></svg>",
+        "opcoes": ["a > 0", "a < 0", "a = 0", "b = 0"],
         "correta": 1,
         "explicacao": "Quando a é negativo, a reta desce da esquerda para a direita (decrescente)."
       },
       {
         "enunciado": "O que é a 'raiz' ou 'zero' de uma função do 1º grau?",
-        "opcoes": [
-          "O valor de b.",
-          "O valor de y quando x = 0.",
-          "O valor de x para o qual y = 0.",
-          "O coeficiente angular."
-        ],
+        "opcoes": ["O valor de b.", "O valor de y quando x = 0.", "O valor de x para o qual y = 0.", "O coeficiente angular."],
         "correta": 2,
         "explicacao": "A raiz é o ponto onde o gráfico corta o eixo x (y=0)."
       },
       {
         "enunciado": "Qual é a raiz da função y = 3x - 9?",
-        "opcoes": [
-          "-3",
-          "3",
-          "9",
-          "-9"
-        ],
+        "opcoes": ["-3", "3", "9", "-9"],
         "correta": 1,
         "explicacao": "Fazendo y = 0: 3x - 9 = 0 -> 3x = 9 -> x = 3."
       },
       {
         "enunciado": "Uma função é chamada de linear quando:",
-        "opcoes": [
-          "O coeficiente a = 0.",
-          "O coeficiente b = 0.",
-          "A reta é curva.",
-          "A raiz é zero."
-        ],
+        "opcoes": ["O coeficiente a = 0.", "O coeficiente b = 0.", "A reta é curva.", "A raiz é zero."],
         "correta": 1,
         "explicacao": "A função afim y = ax + b é chamada de linear se b = 0 (passa pela origem)."
       },
       {
-        "enunciado": "A função y = 5 é um exemplo de:",
-        "opcoes": [
-          "Função do 1º grau crescente.",
-          "Função do 1º grau decrescente.",
-          "Função constante.",
-          "Função quadrática."
-        ],
+        "enunciado": "Observe o gráfico da função y = 5. Ela é um exemplo de:",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='160' x2='210' y2='160'/><line x1='40' y1='10' x2='40' y2='210'/></g><text x='200' y='155' fill='#8aa3c9' font-size='10'>x</text><text x='45' y='20' fill='#8aa3c9' font-size='10'>y</text><line x1='20' y1='60' x2='200' y2='60' stroke='#d4af37' stroke-width='2.5'/><text x='160' y='55' fill='#f5e56b' font-size='10'>y = 5</text></svg>",
+        "opcoes": ["Função do 1º grau crescente.", "Função do 1º grau decrescente.", "Função constante.", "Função quadrática."],
         "correta": 2,
         "explicacao": "Como não há a variável x, y assume sempre o mesmo valor, caracterizando uma função constante."
       },
       {
         "enunciado": "Em uma locadora, o aluguel de um filme custa R$ 5,00 fixo mais R$ 2,00 por dia atrasado (y = 5 + 2x). Se o atraso for de 4 dias, qual o valor total?",
-        "opcoes": [
-          "R$ 7,00",
-          "R$ 10,00",
-          "R$ 13,00",
-          "R$ 20,00"
-        ],
+        "opcoes": ["R$ 7,00", "R$ 10,00", "R$ 13,00", "R$ 20,00"],
         "correta": 2,
         "explicacao": "y = 5 + 2(4) = 5 + 8 = 13."
       },
       {
         "enunciado": "Em uma função y = ax + b, onde a = -2 e b = 3, a função é:",
-        "opcoes": [
-          "Crescente.",
-          "Decrescente.",
-          "Constante.",
-          "Quadrática."
-        ],
+        "opcoes": ["Crescente.", "Decrescente.", "Constante.", "Quadrática."],
         "correta": 1,
         "explicacao": "Como a < 0, a função é decrescente."
       },
       {
-        "enunciado": "Qual é o valor do coeficiente angular 'a' na função y = -x + 7?",
-        "opcoes": [
-          "1",
-          "7",
-          "-1",
-          "-7"
-        ],
+        "enunciado": "Observe o gráfico da função y = -x + 7. Qual é o valor do coeficiente angular 'a'?",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='110' x2='210' y2='110'/><line x1='110' y1='10' x2='110' y2='210'/></g><text x='200' y='105' fill='#8aa3c9' font-size='10'>x</text><text x='115' y='20' fill='#8aa3c9' font-size='10'>y</text><line x1='20' y1='20' x2='200' y2='200' stroke='#d4af37' stroke-width='2.5'/><text x='160' y='40' fill='#f5e56b' font-size='10'>y = -x + 7</text></svg>",
+        "opcoes": ["1", "7", "-1", "-7"],
         "correta": 2,
         "explicacao": "O termo que acompanha o x é -1, logo a = -1."
       },
       {
         "enunciado": "O ponto onde o gráfico cruza o eixo das abscissas (eixo x) é chamado de:",
-        "opcoes": [
-          "Coeficiente linear.",
-          "Coeficiente angular.",
-          "Zero da função.",
-          "Vértice."
-        ],
+        "opcoes": ["Coeficiente linear.", "Coeficiente angular.", "Zero da função.", "Vértice."],
         "correta": 2,
         "explicacao": "O zero da função é o valor de x quando y = 0."
       },
       {
         "enunciado": "Na função f(x) = -3x + 12, qual é o valor de f(2)?",
-        "opcoes": [
-          "6",
-          "18",
-          "-6",
-          "12"
-        ],
+        "opcoes": ["6", "18", "-6", "12"],
         "correta": 0,
         "explicacao": "f(2) = -3(2) + 12 = -6 + 12 = 6."
       },
       {
         "enunciado": "Se o gráfico de uma função afim passa pelos pontos (0, 2) e (1, 5), qual é o coeficiente angular 'a'?",
-        "opcoes": [
-          "1",
-          "2",
-          "3",
-          "5"
-        ],
+        "opcoes": ["1", "2", "3", "5"],
         "correta": 2,
         "explicacao": "a = Δy/Δx = (5 - 2) / (1 - 0) = 3 / 1 = 3."
       },
       {
         "enunciado": "Uma função do 1º grau y = ax + b tem a = 0. Como é chamada essa função?",
-        "opcoes": [
-          "Linear.",
-          "Quadrática.",
-          "Constante.",
-          "Exponencial."
-        ],
+        "opcoes": ["Linear.", "Quadrática.", "Constante.", "Exponencial."],
         "correta": 2,
         "explicacao": "Se a = 0, y = b. O valor não varia, é constante."
       },
       {
         "enunciado": "Dada a função y = 4x, qual é a imagem quando x = -2?",
-        "opcoes": [
-          "8",
-          "-8",
-          "2",
-          "-2"
-        ],
+        "opcoes": ["8", "-8", "2", "-2"],
         "correta": 1,
         "explicacao": "y = 4 * (-2) = -8."
       },
       {
-        "enunciado": "O gráfico de y = -x é uma reta que:",
-        "opcoes": [
-          "Sobe da esquerda para a direita.",
-          "Desce da esquerda para a direita.",
-          "É horizontal.",
-          "É vertical."
-        ],
+        "enunciado": "Observe o gráfico de y = -x. A reta:",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='110' x2='210' y2='110'/><line x1='110' y1='10' x2='110' y2='210'/></g><text x='200' y='105' fill='#8aa3c9' font-size='10'>x</text><text x='115' y='20' fill='#8aa3c9' font-size='10'>y</text><line x1='20' y1='20' x2='200' y2='200' stroke='#d4af37' stroke-width='2.5'/><text x='160' y='40' fill='#f5e56b' font-size='10'>y = -x</text></svg>",
+        "opcoes": ["Sobe da esquerda para a direita.", "Desce da esquerda para a direita.", "É horizontal.", "É vertical."],
         "correta": 1,
         "explicacao": "Como a = -1, a função é decrescente, ou seja, a reta desce."
       }
@@ -691,56 +422,33 @@
     "perguntas": [
       {
         "enunciado": "Qual é a forma geral de uma função polinomial do 2º grau?",
-        "opcoes": [
-          "y = ax + b",
-          "y = ax² + bx + c",
-          "y = x³ + c",
-          "y = a/x"
-        ],
+        "opcoes": ["y = ax + b", "y = ax² + bx + c", "y = x³ + c", "y = a/x"],
         "correta": 1,
         "explicacao": "A função quadrática é definida por y = ax² + bx + c, com a ≠ 0."
       },
       {
         "enunciado": "Na função quadrática, o coeficiente 'a' deve ser:",
-        "opcoes": [
-          "Igual a zero.",
-          "Diferente de zero.",
-          "Sempre positivo.",
-          "Sempre negativo."
-        ],
+        "opcoes": ["Igual a zero.", "Diferente de zero.", "Sempre positivo.", "Sempre negativo."],
         "correta": 1,
         "explicacao": "Se a = 0, a função se torna do 1º grau, então para ser do 2º grau a ≠ 0."
       },
       {
         "enunciado": "O gráfico de uma função do 2º grau é chamado de:",
-        "opcoes": [
-          "Reta.",
-          "Parábola.",
-          "Hipérbole.",
-          "Circunferência."
-        ],
+        "opcoes": ["Reta.", "Parábola.", "Hipérbole.", "Circunferência."],
         "correta": 1,
         "explicacao": "A curva característica da função quadrática é a parábola."
       },
       {
-        "enunciado": "Se o coeficiente 'a' de uma função quadrática é positivo (a > 0), a concavidade da parábola é:",
-        "opcoes": [
-          "Voltada para cima.",
-          "Voltada para baixo.",
-          "Plana.",
-          "Não existe."
-        ],
+        "enunciado": "Observe a parábola abaixo. Qual é a concavidade dela?",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='180' x2='210' y2='180'/><line x1='110' y1='10' x2='110' y2='210'/></g><path d='M 40 30 Q 110 220 180 30' fill='none' stroke='#d4af37' stroke-width='3'/><text x='160' y='40' fill='#f5e56b' font-size='10'>y = x²</text></svg>",
+        "opcoes": ["Voltada para cima.", "Voltada para baixo.", "Plana.", "Não existe."],
         "correta": 0,
         "explicacao": "Quando a > 0, a parábola tem concavidade voltada para cima (formato de U)."
       },
       {
-        "enunciado": "Se o coeficiente 'a' de uma função quadrática é negativo (a < 0), a concavidade da parábola é:",
-        "opcoes": [
-          "Voltada para cima.",
-          "Voltada para baixo.",
-          "Plana.",
-          "Não existe."
-        ],
+        "enunciado": "Observe a parábola abaixo. Qual é a concavidade dela?",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='110' x2='210' y2='110'/><line x1='110' y1='10' x2='110' y2='210'/></g><path d='M 40 180 Q 110 30 180 180' fill='none' stroke='#d4af37' stroke-width='3'/><text x='160' y='60' fill='#f5e56b' font-size='10'>y = -x²</text></svg>",
+        "opcoes": ["Voltada para cima.", "Voltada para baixo.", "Plana.", "Não existe."],
         "correta": 1,
         "explicacao": "Quando a < 0, a parábola tem concavidade voltada para baixo (formato de ∩)."
       },
@@ -757,155 +465,92 @@
       },
       {
         "enunciado": "O que indica o valor do discriminante (Δ) em uma função quadrática?",
-        "opcoes": [
-          "A concavidade da parábola.",
-          "A quantidade de raízes reais da função.",
-          "O ponto de máximo.",
-          "O coeficiente linear."
-        ],
+        "opcoes": ["A concavidade da parábola.", "A quantidade de raízes reais da função.", "O ponto de máximo.", "O coeficiente linear."],
         "correta": 1,
         "explicacao": "O Δ = b² - 4ac indica se a parábola corta o eixo x em dois, um ou nenhum ponto."
       },
       {
-        "enunciado": "Se Δ > 0, a parábola:",
-        "opcoes": [
-          "Não corta o eixo x.",
-          "Tangencia o eixo x em um ponto.",
-          "Corta o eixo x em dois pontos distintos.",
-          "É constante."
-        ],
+        "enunciado": "Observe a parábola. Ela corta o eixo x em quantos pontos? (Δ > 0)",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='140' x2='210' y2='140'/><line x1='110' y1='10' x2='110' y2='210'/></g><path d='M 30 40 Q 110 230 190 40' fill='none' stroke='#d4af37' stroke-width='3'/><circle cx='70' cy='140' r='4' fill='#f5e56b'/><circle cx='150' cy='140' r='4' fill='#f5e56b'/></svg>",
+        "opcoes": ["Não corta o eixo x.", "Tangencia o eixo x em um ponto.", "Corta o eixo x em dois pontos distintos.", "É constante."],
         "correta": 2,
         "explicacao": "Um delta positivo indica duas raízes reais diferentes, logo dois pontos de interseção com o eixo x."
       },
       {
-        "enunciado": "Se Δ = 0, a parábola:",
-        "opcoes": [
-          "Não corta o eixo x.",
-          "Tangencia o eixo x em um ponto.",
-          "Corta o eixo x em dois pontos distintos.",
-          "É constante."
-        ],
+        "enunciado": "Observe a parábola. Ela toca o eixo x em quantos pontos? (Δ = 0)",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='140' x2='210' y2='140'/><line x1='110' y1='10' x2='110' y2='210'/></g><path d='M 30 40 Q 110 240 190 40' fill='none' stroke='#d4af37' stroke-width='3'/><circle cx='110' cy='140' r='4' fill='#f5e56b'/></svg>",
+        "opcoes": ["Não corta o eixo x.", "Tangencia o eixo x em um ponto.", "Corta o eixo x em dois pontos distintos.", "É constante."],
         "correta": 1,
         "explicacao": "Delta zero significa duas raízes iguais, logo a parábola apenas toca o eixo x."
       },
       {
-        "enunciado": "Se Δ < 0, a parábola:",
-        "opcoes": [
-          "Não corta o eixo x.",
-          "Tangencia o eixo x em um ponto.",
-          "Corta o eixo x em dois pontos distintos.",
-          "É constante."
-        ],
+        "enunciado": "Observe a parábola. Ela não corta o eixo x. Isso significa que Δ < 0.",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='180' x2='210' y2='180'/><line x1='110' y1='10' x2='110' y2='210'/></g><path d='M 30 30 Q 110 200 190 30' fill='none' stroke='#d4af37' stroke-width='3'/></svg>",
+        "opcoes": ["Não corta o eixo x.", "Tangencia o eixo x em um ponto.", "Corta o eixo x em dois pontos distintos.", "É constante."],
         "correta": 0,
         "explicacao": "Um delta negativo significa que não existem raízes reais, então a parábola não cruza o eixo x."
       },
       {
         "enunciado": "O ponto onde a parábola intercepta o eixo y é sempre dado por:",
-        "opcoes": [
-          "(0, a)",
-          "(0, b)",
-          "(0, c)",
-          "(-b, 0)"
-        ],
+        "opcoes": ["(0, a)", "(0, b)", "(0, c)", "(-b, 0)"],
         "correta": 2,
         "explicacao": "Fazendo x = 0 na função y = ax² + bx + c, obtemos y = c."
       },
       {
         "enunciado": "Na função y = x² - 5x + 6, qual é o valor do coeficiente c?",
-        "opcoes": [
-          "1",
-          "-5",
-          "6",
-          "-6"
-        ],
+        "opcoes": ["1", "-5", "6", "-6"],
         "correta": 2,
         "explicacao": "O coeficiente c é o termo independente, que neste caso é 6."
       },
       {
-        "enunciado": "Qual é a concavidade da parábola da função y = -x² + 10x - 25?",
-        "opcoes": [
-          "Voltada para cima.",
-          "Voltada para baixo.",
-          "Não tem concavidade.",
-          "É uma reta."
-        ],
+        "enunciado": "Observe a parábola da função y = -x² + 10x - 25. Qual é a concavidade dela?",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='110' x2='210' y2='110'/><line x1='110' y1='10' x2='110' y2='210'/></g><path d='M 40 180 Q 110 30 180 180' fill='none' stroke='#d4af37' stroke-width='3'/></svg>",
+        "opcoes": ["Voltada para cima.", "Voltada para baixo.", "Não tem concavidade.", "É uma reta."],
         "correta": 1,
         "explicacao": "Como a = -1 (negativo), a concavidade é voltada para baixo."
       },
       {
         "enunciado": "A trajetória de uma bola chutada para cima, formando um arco, é um exemplo de:",
-        "opcoes": [
-          "Função do 1º grau.",
-          "Função quadrática.",
-          "Função exponencial.",
-          "Função constante."
-        ],
+        "opcoes": ["Função do 1º grau.", "Função quadrática.", "Função exponencial.", "Função constante."],
         "correta": 1,
         "explicacao": "O movimento parabólico é descrito por uma função quadrática."
       },
       {
         "enunciado": "Qual é o valor de Δ (delta) na função y = x² - 4x + 3?",
-        "opcoes": [
-          "4",
-          "16",
-          "12",
-          "-4"
-        ],
+        "opcoes": ["4", "16", "12", "-4"],
         "correta": 0,
         "explicacao": "Δ = b² - 4ac = (-4)² - 4(1)(3) = 16 - 12 = 4."
       },
       {
-        "enunciado": "Se uma função quadrática tem a > 0, o vértice da parábola representa um ponto de:",
-        "opcoes": [
-          "Máximo.",
-          "Mínimo.",
-          "Inflexão.",
-          "Zero da função."
-        ],
+        "enunciado": "Observe a parábola abaixo. O vértice representa um ponto de:",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='180' x2='210' y2='180'/><line x1='110' y1='10' x2='110' y2='210'/></g><path d='M 30 30 Q 110 230 190 30' fill='none' stroke='#d4af37' stroke-width='3'/><circle cx='110' cy='130' r='6' fill='#dc2626'/></svg>",
+        "opcoes": ["Máximo.", "Mínimo.", "Inflexão.", "Zero da função."],
         "correta": 1,
         "explicacao": "Com a concavidade para cima, o vértice fica na parte mais baixa, sendo o ponto de mínimo."
       },
       {
-        "enunciado": "Se uma função quadrática tem a < 0, o vértice da parábola representa um ponto de:",
-        "opcoes": [
-          "Máximo.",
-          "Mínimo.",
-          "Inflexão.",
-          "Zero da função."
-        ],
+        "enunciado": "Observe a parábola abaixo. O vértice representa um ponto de:",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='110' x2='210' y2='110'/><line x1='110' y1='10' x2='110' y2='210'/></g><path d='M 30 190 Q 110 20 190 190' fill='none' stroke='#d4af37' stroke-width='3'/><circle cx='110' cy='70' r='6' fill='#dc2626'/></svg>",
+        "opcoes": ["Máximo.", "Mínimo.", "Inflexão.", "Zero da função."],
         "correta": 0,
         "explicacao": "Com a concavidade para baixo, o vértice fica na parte mais alta, sendo o ponto de máximo."
       },
       {
         "enunciado": "Os coeficientes da função y = 2x² - x + 5 são:",
-        "opcoes": [
-          "a=2, b=-1, c=5",
-          "a=2, b=1, c=5",
-          "a=-2, b=-1, c=5",
-          "a=2, b=0, c=5"
-        ],
+        "opcoes": ["a=2, b=-1, c=5", "a=2, b=1, c=5", "a=-2, b=-1, c=5", "a=2, b=0, c=5"],
         "correta": 0,
         "explicacao": "O 'a' acompanha x², o 'b' acompanha x e o 'c' é o termo independente."
       },
       {
         "enunciado": "Uma função quadrática tem raízes x1 = 2 e x2 = 5. A parábola corta o eixo x nos pontos:",
-        "opcoes": [
-          "(2, 0) e (5, 0)",
-          "(0, 2) e (0, 5)",
-          "(2, 5) e (5, 2)",
-          "(0, 0) e (5, 5)"
-        ],
+        "opcoes": ["(2, 0) e (5, 0)", "(0, 2) e (0, 5)", "(2, 5) e (5, 2)", "(0, 0) e (5, 5)"],
         "correta": 0,
         "explicacao": "As raízes indicam os valores de x onde y = 0, ou seja, os pontos no eixo x."
       },
       {
-        "enunciado": "O gráfico da função y = x² é uma parábola que:",
-        "opcoes": [
-          "Tem concavidade para baixo.",
-          "Tem concavidade para cima e vértice na origem (0,0).",
-          "É uma linha reta.",
-          "Não toca o eixo y."
-        ],
+        "enunciado": "Observe o gráfico da função y = x². A parábola:",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='180' x2='210' y2='180'/><line x1='110' y1='10' x2='110' y2='210'/></g><path d='M 40 30 Q 110 220 180 30' fill='none' stroke='#d4af37' stroke-width='3'/><circle cx='110' cy='180' r='4' fill='#f5e56b'/></svg>",
+        "opcoes": ["Tem concavidade para baixo.", "Tem concavidade para cima e vértice na origem (0,0).", "É uma linha reta.", "Não toca o eixo y."],
         "correta": 1,
         "explicacao": "Como a=1 > 0, a concavidade é para cima, e como b=0 e c=0, o vértice é na origem."
       }
@@ -918,222 +563,126 @@
     "icone": "⛰️",
     "perguntas": [
       {
-        "enunciado": "Como é chamado o ponto de máximo ou de mínimo de uma parábola?",
-        "opcoes": [
-          "Origem.",
-          "Vértice.",
-          "Raiz.",
-          "Eixo de simetria."
-        ],
+        "enunciado": "Observe a parábola. O ponto V destacado é chamado de:",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='170' x2='210' y2='170'/><line x1='110' y1='10' x2='110' y2='210'/></g><path d='M 40 40 Q 110 220 180 40' fill='none' stroke='#d4af37' stroke-width='3'/><circle cx='110' cy='125' r='6' fill='#dc2626'/><text x='120' y='128' fill='#fca5a5' font-size='10'>V</text></svg>",
+        "opcoes": ["Origem.", "Vértice.", "Raiz.", "Eixo de simetria."],
         "correta": 1,
         "explicacao": "O vértice é o ponto que representa o menor ou maior valor da função quadrática."
       },
       {
         "enunciado": "A fórmula para calcular a coordenada x do vértice (Xv) é:",
-        "opcoes": [
-          "Xv = -b / 2a",
-          "Xv = -Δ / 4a",
-          "Xv = b / 2a",
-          "Xv = -b / a"
-        ],
+        "opcoes": ["Xv = -b / 2a", "Xv = -Δ / 4a", "Xv = b / 2a", "Xv = -b / a"],
         "correta": 0,
         "explicacao": "A abscissa do vértice é dada por Xv = -b / 2a."
       },
       {
         "enunciado": "A fórmula para calcular a coordenada y do vértice (Yv) é:",
-        "opcoes": [
-          "Yv = -b / 2a",
-          "Yv = -Δ / 4a",
-          "Yv = b / 4a",
-          "Yv = -b / a"
-        ],
+        "opcoes": ["Yv = -b / 2a", "Yv = -Δ / 4a", "Yv = b / 4a", "Yv = -b / a"],
         "correta": 1,
         "explicacao": "A ordenada do vértice é dada por Yv = -Δ / 4a."
       },
       {
         "enunciado": "O vértice da parábola está localizado em qual parte do gráfico?",
-        "opcoes": [
-          "Sobre o eixo y apenas.",
-          "Sobre o eixo x apenas.",
-          "No eixo de simetria da parábola.",
-          "Na origem do sistema."
-        ],
+        "opcoes": ["Sobre o eixo y apenas.", "Sobre o eixo x apenas.", "No eixo de simetria da parábola.", "Na origem do sistema."],
         "correta": 2,
         "explicacao": "A parábola é simétrica em relação a uma reta vertical que passa pelo vértice."
       },
       {
         "enunciado": "Se uma função quadrática tem vértice no ponto V(3, 9), e a concavidade é voltada para baixo, qual é o valor máximo da função?",
-        "opcoes": [
-          "3",
-          "9",
-          "6",
-          "0"
-        ],
+        "opcoes": ["3", "9", "6", "0"],
         "correta": 1,
         "explicacao": "O valor máximo (ou mínimo) é sempre a coordenada y do vértice, que neste caso é 9."
       },
       {
         "enunciado": "Se uma função quadrática tem vértice no ponto V(2, -4), e a concavidade é voltada para cima, qual é o valor mínimo da função?",
-        "opcoes": [
-          "2",
-          "-4",
-          "0",
-          "4"
-        ],
+        "opcoes": ["2", "-4", "0", "4"],
         "correta": 1,
         "explicacao": "A coordenada y do vértice indica o valor mínimo, que é -4."
       },
       {
         "enunciado": "Calcule a coordenada Xv do vértice da função y = x² - 6x + 8.",
-        "opcoes": [
-          "3",
-          "-3",
-          "6",
-          "-6"
-        ],
+        "opcoes": ["3", "-3", "6", "-6"],
         "correta": 0,
         "explicacao": "Xv = -b / 2a = -(-6) / (2 * 1) = 6 / 2 = 3."
       },
       {
         "enunciado": "Calcule a coordenada Xv do vértice da função y = 2x² + 8x - 1.",
-        "opcoes": [
-          "2",
-          "-2",
-          "4",
-          "-4"
-        ],
+        "opcoes": ["2", "-2", "4", "-4"],
         "correta": 1,
         "explicacao": "Xv = -b / 2a = -8 / (2 * 2) = -8 / 4 = -2."
       },
       {
         "enunciado": "Se o vértice de uma parábola é (0, 0), onde ela corta o eixo y?",
-        "opcoes": [
-          "No ponto (0, 0).",
-          "No ponto (1, 0).",
-          "No ponto (0, 1).",
-          "Não corta o eixo y."
-        ],
+        "opcoes": ["No ponto (0, 0).", "No ponto (1, 0).", "No ponto (0, 1).", "Não corta o eixo y."],
         "correta": 0,
         "explicacao": "O vértice está exatamente sobre a origem do sistema."
       },
       {
-        "enunciado": "Um goleiro chuta uma bola e sua trajetória é dada por y = -x² + 4x (onde y é a altura). Qual é a altura máxima atingida?",
-        "opcoes": [
-          "2 metros",
-          "4 metros",
-          "6 metros",
-          "8 metros"
-        ],
+        "enunciado": "Um goleiro chuta uma bola e sua trajetória é dada por y = -x² + 4x. Qual é a altura máxima atingida?",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='190' x2='210' y2='190'/><line x1='110' y1='10' x2='110' y2='210'/></g><path d='M 20 190 Q 110 20 200 190' fill='none' stroke='#d4af37' stroke-width='3'/><circle cx='110' cy='70' r='5' fill='#dc2626'/><text x='118' y='75' fill='#fca5a5' font-size='10'>V</text></svg>",
+        "opcoes": ["2 metros", "4 metros", "6 metros", "8 metros"],
         "correta": 1,
         "explicacao": "Xv = -4 / -2 = 2. Substituindo: Yv = -(2)² + 4(2) = -4 + 8 = 4 metros."
       },
       {
         "enunciado": "Uma empresa tem lucro dado por L = -x² + 10x - 9. Para qual valor de x o lucro é máximo?",
-        "opcoes": [
-          "5",
-          "10",
-          "9",
-          "-5"
-        ],
+        "opcoes": ["5", "10", "9", "-5"],
         "correta": 0,
         "explicacao": "Xv = -b / 2a = -10 / (2 * -1) = -10 / -2 = 5."
       },
       {
         "enunciado": "Um jardineiro tem 20 metros de tela para cercar um terreno retangular. A área máxima que ele pode cercar é obtida quando as dimensões são iguais (um quadrado). A área máxima é de:",
-        "opcoes": [
-          "20 m²",
-          "25 m²",
-          "50 m²",
-          "100 m²"
-        ],
+        "opcoes": ["20 m²", "25 m²", "50 m²", "100 m²"],
         "correta": 1,
         "explicacao": "O perímetro é 20, então lado = 5. A área máxima de um retângulo com perímetro fixo é um quadrado: 5 * 5 = 25 m²."
       },
       {
-        "enunciado": "Se a parábola tem concavidade voltada para cima, ela tem um ponto de:",
-        "opcoes": [
-          "Máximo.",
-          "Mínimo.",
-          "Inflexão.",
-          "Constância."
-        ],
+        "enunciado": "Observe a parábola. A concavidade voltada para cima indica um ponto de:",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='180' x2='210' y2='180'/><line x1='110' y1='10' x2='110' y2='210'/></g><path d='M 30 30 Q 110 230 190 30' fill='none' stroke='#d4af37' stroke-width='3'/><circle cx='110' cy='130' r='6' fill='#dc2626'/></svg>",
+        "opcoes": ["Máximo.", "Mínimo.", "Inflexão.", "Constância."],
         "correta": 1,
         "explicacao": "O 'U' da parábola com a > 0 indica que o vértice está embaixo, sendo o mínimo."
       },
       {
-        "enunciado": "Se a parábola tem concavidade voltada para baixo, ela tem um ponto de:",
-        "opcoes": [
-          "Máximo.",
-          "Mínimo.",
-          "Inflexão.",
-          "Constância."
-        ],
+        "enunciado": "Observe a parábola. A concavidade voltada para baixo indica um ponto de:",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='110' x2='210' y2='110'/><line x1='110' y1='10' x2='110' y2='210'/></g><path d='M 30 190 Q 110 20 190 190' fill='none' stroke='#d4af37' stroke-width='3'/><circle cx='110' cy='70' r='6' fill='#dc2626'/></svg>",
+        "opcoes": ["Máximo.", "Mínimo.", "Inflexão.", "Constância."],
         "correta": 0,
         "explicacao": "O '∩' da parábola com a < 0 indica que o vértice está em cima, sendo o máximo."
       },
       {
         "enunciado": "Na função y = 3x² - 12x + 7, qual é o valor da coordenada Xv do vértice?",
-        "opcoes": [
-          "1",
-          "2",
-          "3",
-          "4"
-        ],
+        "opcoes": ["1", "2", "3", "4"],
         "correta": 1,
         "explicacao": "Xv = -(-12) / (2 * 3) = 12 / 6 = 2."
       },
       {
         "enunciado": "O eixo de simetria da parábola passa obrigatoriamente pelo:",
-        "opcoes": [
-          "Zero da função.",
-          "Vértice.",
-          "Coeficiente c.",
-          "Ponto (0,0)."
-        ],
+        "opcoes": ["Zero da função.", "Vértice.", "Coeficiente c.", "Ponto (0,0)."],
         "correta": 1,
         "explicacao": "A parábola é simétrica em relação à reta vertical que passa pelo vértice."
       },
       {
         "enunciado": "Se uma função quadrática atinge seu valor máximo em x = 4 e esse valor máximo é 10, o vértice é:",
-        "opcoes": [
-          "(10, 4)",
-          "(4, 10)",
-          "(-4, 10)",
-          "(4, -10)"
-        ],
+        "opcoes": ["(10, 4)", "(4, 10)", "(-4, 10)", "(4, -10)"],
         "correta": 1,
         "explicacao": "O vértice é o par ordenado (Xv, Yv) = (4, 10)."
       },
       {
         "enunciado": "A função y = x² tem vértice na origem (0,0). Se somarmos 3 à função (y = x² + 3), o novo vértice será:",
-        "opcoes": [
-          "(3, 0)",
-          "(0, 3)",
-          "(0, 0)",
-          "(3, 3)"
-        ],
+        "opcoes": ["(3, 0)", "(0, 3)", "(0, 0)", "(3, 3)"],
         "correta": 1,
         "explicacao": "Adicionar uma constante positiva desloca o gráfico para cima (Yv = 3)."
       },
       {
         "enunciado": "Qual é a coordenada Yv do vértice da função y = x² - 2x + 5?",
-        "opcoes": [
-          "4",
-          "2",
-          "1",
-          "0"
-        ],
+        "opcoes": ["4", "2", "1", "0"],
         "correta": 0,
         "explicacao": "Xv = 2/2 = 1. Yv = f(1) = 1² - 2(1) + 5 = 1 - 2 + 5 = 4."
       },
       {
         "enunciado": "O ponto de máximo da função lucro L(x) = -2x² + 8x ocorre quando x vale:",
-        "opcoes": [
-          "1",
-          "2",
-          "4",
-          "8"
-        ],
+        "opcoes": ["1", "2", "4", "8"],
         "correta": 1,
         "explicacao": "Xv = -8 / (2 * -2) = -8 / -4 = 2."
       }
@@ -1147,67 +696,39 @@
     "perguntas": [
       {
         "enunciado": "O que indica o coeficiente 'c' no gráfico de uma função quadrática?",
-        "opcoes": [
-          "A concavidade da parábola.",
-          "O ponto onde a parábola cruza o eixo y.",
-          "A quantidade de raízes.",
-          "A posição do vértice no eixo x."
-        ],
+        "opcoes": ["A concavidade da parábola.", "O ponto onde a parábola cruza o eixo y.", "A quantidade de raízes.", "A posição do vértice no eixo x."],
         "correta": 1,
         "explicacao": "O termo independente 'c' é o valor de y quando x = 0."
       },
       {
         "enunciado": "Se em uma função quadrática o coeficiente 'c' é igual a zero (ex: y = x² - 4x), a parábola:",
-        "opcoes": [
-          "Não corta o eixo y.",
-          "Corta o eixo y na origem (0,0).",
-          "Corta o eixo x em apenas um ponto.",
-          "É uma reta."
-        ],
+        "opcoes": ["Não corta o eixo y.", "Corta o eixo y na origem (0,0).", "Corta o eixo x em apenas um ponto.", "É uma reta."],
         "correta": 1,
         "explicacao": "Se c = 0, quando x = 0, y = 0. Logo, passa pela origem."
       },
       {
-        "enunciado": "Se Δ < 0, como fica o gráfico da parábola em relação ao eixo x?",
-        "opcoes": [
-          "Corta em dois pontos.",
-          "Toca em um único ponto.",
-          "Fica totalmente acima ou totalmente abaixo do eixo x.",
-          "É uma linha reta."
-        ],
+        "enunciado": "Observe a parábola. Ela não corta o eixo x. Isso significa que Δ < 0.",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='180' x2='210' y2='180'/><line x1='110' y1='10' x2='110' y2='210'/></g><path d='M 30 30 Q 110 200 190 30' fill='none' stroke='#d4af37' stroke-width='3'/></svg>",
+        "opcoes": ["Corta em dois pontos.", "Toca em um único ponto.", "Fica totalmente acima ou totalmente abaixo do eixo x.", "É uma linha reta."],
         "correta": 2,
         "explicacao": "Sem raízes reais, o gráfico não cruza o eixo das abscissas."
       },
       {
-        "enunciado": "Um gráfico de uma função quadrática tem a concavidade para cima e Δ = 0. Isso significa que:",
-        "opcoes": [
-          "A parábola não toca o eixo x.",
-          "A parábola toca o eixo x em dois pontos.",
-          "A parábola toca o eixo x em um único ponto (vértice).",
-          "A parábola está virada para baixo."
-        ],
+        "enunciado": "Observe a parábola. A concavidade é para cima e Δ = 0. Isso significa que:",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='140' x2='210' y2='140'/><line x1='110' y1='10' x2='110' y2='210'/></g><path d='M 30 40 Q 110 240 190 40' fill='none' stroke='#d4af37' stroke-width='3'/><circle cx='110' cy='140' r='5' fill='#f5e56b'/></svg>",
+        "opcoes": ["A parábola não toca o eixo x.", "A parábola toca o eixo x em dois pontos.", "A parábola toca o eixo x em um único ponto (vértice).", "A parábola está virada para baixo."],
         "correta": 2,
         "explicacao": "Com a > 0 e Δ = 0, a parábola tangencia o eixo x na sua parte mais baixa (vértice)."
       },
       {
         "enunciado": "Uma parábola com a < 0 e Δ > 0:",
-        "opcoes": [
-          "Fica acima do eixo x.",
-          "Corta o eixo x em dois pontos e tem concavidade para baixo.",
-          "Não corta o eixo x.",
-          "Tem um único ponto de interseção com o eixo x."
-        ],
+        "opcoes": ["Fica acima do eixo x.", "Corta o eixo x em dois pontos e tem concavidade para baixo.", "Não corta o eixo x.", "Tem um único ponto de interseção com o eixo x."],
         "correta": 1,
         "explicacao": "O Δ > 0 garante duas raízes, e o a < 0 indica concavidade para baixo."
       },
       {
-        "enunciado": "Um gráfico de uma função quadrática tem a concavidade para cima e Δ < 0. Isso significa que:",
-        "opcoes": [
-          "A parábola cruza o eixo x.",
-          "A parábola está inteiramente acima do eixo x.",
-          "A parábola está inteiramente abaixo do eixo x.",
-          "A parábola é uma reta."
-        ],
+        "enunciado": "Uma parábola com concavidade para cima e Δ < 0:",
+        "opcoes": ["A parábola cruza o eixo x.", "A parábola está inteiramente acima do eixo x.", "A parábola está inteiramente abaixo do eixo x.", "A parábola é uma reta."],
         "correta": 1,
         "explicacao": "Como não tem raízes e a concavidade é para cima, todos os valores de y são positivos."
       },
@@ -1224,144 +745,81 @@
       },
       {
         "enunciado": "Se uma parábola tem raízes x1 = 1 e x2 = 5, qual é a coordenada Xv do seu vértice?",
-        "opcoes": [
-          "2",
-          "3",
-          "4",
-          "6"
-        ],
+        "opcoes": ["2", "3", "4", "6"],
         "correta": 1,
         "explicacao": "O vértice está no ponto médio das raízes: Xv = (1 + 5) / 2 = 3."
       },
       {
         "enunciado": "Se uma parábola tem raízes x1 = -2 e x2 = 4, qual é a coordenada Xv do seu vértice?",
-        "opcoes": [
-          "1",
-          "-1",
-          "2",
-          "-2"
-        ],
+        "opcoes": ["1", "-1", "2", "-2"],
         "correta": 0,
         "explicacao": "Xv = (-2 + 4) / 2 = 2 / 2 = 1."
       },
       {
-        "enunciado": "Ao observar o gráfico de uma parábola, vemos que ele corta o eixo y no ponto (0, 4). Qual é o coeficiente c da função?",
-        "opcoes": [
-          "4",
-          "-4",
-          "0",
-          "2"
-        ],
+        "enunciado": "Observe a parábola. Ela corta o eixo y em qual ponto?",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='110' x2='210' y2='110'/><line x1='110' y1='10' x2='110' y2='210'/></g><path d='M 30 30 Q 110 200 190 30' fill='none' stroke='#d4af37' stroke-width='3'/><circle cx='110' cy='110' r='5' fill='#f5e56b'/><text x='118' y='120' fill='#f5e56b' font-size='9'>(0,4)</text></svg>",
+        "opcoes": ["4", "-4", "0", "2"],
         "correta": 0,
-        "explicacao": "O valor de y quando x=0 é o coeficiente c."
+        "explicacao": "O valor de y quando x=0 é o coeficiente c, que neste caso é 4."
       },
       {
         "enunciado": "Se uma função do 2º grau não tem raízes reais, o seu discriminante Δ é:",
-        "opcoes": [
-          "Positivo.",
-          "Zero.",
-          "Negativo.",
-          "Nulo."
-        ],
+        "opcoes": ["Positivo.", "Zero.", "Negativo.", "Nulo."],
         "correta": 2,
         "explicacao": "Δ < 0 significa que não há solução real para a equação."
       },
       {
         "enunciado": "Em uma parábola com concavidade para baixo, o vértice é o ponto de:",
-        "opcoes": [
-          "Mínimo.",
-          "Máximo.",
-          "Origem.",
-          "Zero da função."
-        ],
+        "opcoes": ["Mínimo.", "Máximo.", "Origem.", "Zero da função."],
         "correta": 1,
         "explicacao": "A concavidade para baixo (a < 0) faz do vértice o ponto mais alto da curva."
       },
       {
         "enunciado": "O gráfico de y = 2x² - 3x tem coeficiente c = 0. Onde ele intersecta o eixo y?",
-        "opcoes": [
-          "Em (0, 2).",
-          "Em (0, -3).",
-          "Na origem (0,0).",
-          "Não intersecta."
-        ],
+        "opcoes": ["Em (0, 2).", "Em (0, -3).", "Na origem (0,0).", "Não intersecta."],
         "correta": 2,
         "explicacao": "Se c = 0, a interseção com o eixo y é na origem (0,0)."
       },
       {
         "enunciado": "Um engenheiro analisou o gráfico de uma parábola e viu que ela corta o eixo x nos pontos -1 e 3. A soma das raízes é:",
-        "opcoes": [
-          "2",
-          "4",
-          "-3",
-          "-4"
-        ],
+        "opcoes": ["2", "4", "-3", "-4"],
         "correta": 0,
         "explicacao": "-1 + 3 = 2."
       },
       {
         "enunciado": "O produto das raízes do gráfico que corta o eixo x em -1 e 3 é:",
-        "opcoes": [
-          "3",
-          "-3",
-          "2",
-          "0"
-        ],
+        "opcoes": ["3", "-3", "2", "0"],
         "correta": 1,
         "explicacao": "(-1) * 3 = -3."
       },
       {
         "enunciado": "Se uma parábola tem concavidade voltada para cima, então o valor de 'a' é:",
-        "opcoes": [
-          "Igual a zero.",
-          "Maior que zero.",
-          "Menor que zero.",
-          "Qualquer valor."
-        ],
+        "opcoes": ["Igual a zero.", "Maior que zero.", "Menor que zero.", "Qualquer valor."],
         "correta": 1,
         "explicacao": "A concavidade para cima ocorre quando a > 0."
       },
       {
         "enunciado": "Se o valor de Δ (delta) de uma parábola é 9, quantas raízes reais ela possui?",
-        "opcoes": [
-          "Nenhuma.",
-          "Uma.",
-          "Duas.",
-          "Três."
-        ],
+        "opcoes": ["Nenhuma.", "Uma.", "Duas.", "Três."],
         "correta": 2,
         "explicacao": "Como Δ > 0, a parábola tem duas raízes reais e distintas."
       },
       {
         "enunciado": "Na função y = x² - 2x + 3, qual é o valor de c?",
-        "opcoes": [
-          "1",
-          "-2",
-          "3",
-          "0"
-        ],
+        "opcoes": ["1", "-2", "3", "0"],
         "correta": 2,
         "explicacao": "O coeficiente c é o termo independente, que vale 3."
       },
       {
         "enunciado": "Analisando o gráfico de uma função quadrática, o seu ponto mais alto está localizado no ponto (2, 5). Podemos afirmar que:",
-        "opcoes": [
-          "A função tem a > 0.",
-          "O valor máximo da função é 5.",
-          "As raízes são 2 e 5.",
-          "O coeficiente c é 2."
-        ],
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='110' x2='210' y2='110'/><line x1='110' y1='10' x2='110' y2='210'/></g><path d='M 30 190 Q 110 20 190 190' fill='none' stroke='#d4af37' stroke-width='3'/><circle cx='110' cy='70' r='5' fill='#dc2626'/><text x='118' y='75' fill='#fca5a5' font-size='9'>(2, 5)</text></svg>",
+        "opcoes": ["A função tem a > 0.", "O valor máximo da função é 5.", "As raízes são 2 e 5.", "O coeficiente c é 2."],
         "correta": 1,
         "explicacao": "O ponto mais alto é o vértice (máximo). Sua coordenada y (5) é o valor máximo."
       },
       {
         "enunciado": "A representação gráfica de uma função quadrática sempre será uma:",
-        "opcoes": [
-          "Reta.",
-          "Parábola.",
-          "Circunferência.",
-          "Onda."
-        ],
+        "opcoes": ["Reta.", "Parábola.", "Circunferência.", "Onda."],
         "correta": 1,
         "explicacao": "Por definição, a função do 2º grau tem como gráfico uma parábola."
       }
@@ -1375,221 +833,124 @@
     "perguntas": [
       {
         "enunciado": "A receita de uma empresa é dada por R = 5x, e o custo é C = 2x + 100. Qual é a função lucro (L = R - C)?",
-        "opcoes": [
-          "L = 3x - 100",
-          "L = 7x + 100",
-          "L = 3x + 100",
-          "L = -3x - 100"
-        ],
+        "opcoes": ["L = 3x - 100", "L = 7x + 100", "L = 3x + 100", "L = -3x - 100"],
         "correta": 0,
         "explicacao": "L = 5x - (2x + 100) = 5x - 2x - 100 = 3x - 100."
       },
       {
         "enunciado": "Ainda sobre a função lucro L = 3x - 100, quantas unidades precisam ser vendidas para que a empresa comece a ter lucro (L > 0)?",
-        "opcoes": [
-          "A partir de 33 unidades.",
-          "A partir de 34 unidades.",
-          "A partir de 100 unidades.",
-          "A partir de 50 unidades."
-        ],
+        "opcoes": ["A partir de 33 unidades.", "A partir de 34 unidades.", "A partir de 100 unidades.", "A partir de 50 unidades."],
         "correta": 1,
         "explicacao": "3x - 100 > 0 -> 3x > 100 -> x > 33,33. Logo, a partir de 34 unidades inteiras."
       },
       {
-        "enunciado": "Um carro se move com velocidade constante. A distância percorrida (d) em função do tempo (t) é d = 80t. Isso significa que:",
-        "opcoes": [
-          "O carro acelera com o tempo.",
-          "O carro percorre 80 km a cada hora.",
-          "A função é quadrática.",
-          "O carro está parado."
-        ],
+        "enunciado": "Um carro se move com velocidade constante. A distância percorrida (d) em função do tempo (t) é d = 80t. O gráfico dessa função é:",
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='190' x2='210' y2='190'/><line x1='30' y1='10' x2='30' y2='210'/></g><text x='200' y='185' fill='#8aa3c9' font-size='10'>t</text><text x='35' y='20' fill='#8aa3c9' font-size='10'>d</text><line x1='30' y1='190' x2='190' y2='30' stroke='#d4af37' stroke-width='2.5'/><text x='160' y='45' fill='#f5e56b' font-size='10'>d = 80t</text></svg>",
+        "opcoes": ["O carro acelera com o tempo.", "O carro percorre 80 km a cada hora.", "A função é quadrática.", "O carro está parado."],
         "correta": 1,
         "explicacao": "A função do 1º grau indica velocidade constante de 80 km/h."
       },
       {
         "enunciado": "O custo de produção de uma peça é dado por C(x) = 0,5x² + 10x + 200. Qual é o custo para produzir 10 peças?",
-        "opcoes": [
-          "R$ 250,00",
-          "R$ 300,00",
-          "R$ 350,00",
-          "R$ 400,00"
-        ],
+        "opcoes": ["R$ 250,00", "R$ 300,00", "R$ 350,00", "R$ 400,00"],
         "correta": 2,
         "explicacao": "C(10) = 0,5(100) + 10(10) + 200 = 50 + 100 + 200 = 350."
       },
       {
         "enunciado": "Uma bola é lançada e sua altura em função do tempo é h(t) = -5t² + 20t. Em que instante t a bola atinge a altura máxima?",
-        "opcoes": [
-          "1 segundo.",
-          "2 segundos.",
-          "3 segundos.",
-          "4 segundos."
-        ],
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='190' x2='210' y2='190'/><line x1='30' y1='10' x2='30' y2='210'/></g><text x='200' y='185' fill='#8aa3c9' font-size='10'>t</text><text x='35' y='20' fill='#8aa3c9' font-size='10'>h</text><path d='M 20 190 Q 110 20 200 190' fill='none' stroke='#d4af37' stroke-width='3'/><circle cx='110' cy='70' r='5' fill='#dc2626'/><text x='118' y='75' fill='#fca5a5' font-size='10'>V</text></svg>",
+        "opcoes": ["1 segundo.", "2 segundos.", "3 segundos.", "4 segundos."],
         "correta": 1,
         "explicacao": "t_vértice = -b / 2a = -20 / (2 * -5) = -20 / -10 = 2."
       },
       {
         "enunciado": "Usando a função h(t) = -5t² + 20t, qual é a altura máxima atingida pela bola?",
-        "opcoes": [
-          "10 metros.",
-          "15 metros.",
-          "20 metros.",
-          "25 metros."
-        ],
+        "opcoes": ["10 metros.", "15 metros.", "20 metros.", "25 metros."],
         "correta": 2,
         "explicacao": "h(2) = -5(2)² + 20(2) = -5(4) + 40 = -20 + 40 = 20."
       },
       {
         "enunciado": "O número de bactérias em uma cultura cresce de forma linear e é dado por N(t) = 200 + 50t, onde t é em horas. Após 4 horas, o número de bactérias será:",
-        "opcoes": [
-          "250",
-          "400",
-          "800",
-          "1000"
-        ],
+        "opcoes": ["250", "400", "800", "1000"],
         "correta": 1,
         "explicacao": "N(4) = 200 + 50 * 4 = 200 + 200 = 400."
       },
       {
         "enunciado": "A temperatura T de um forno em função do tempo t (minutos) é T(t) = 2t + 25. Se a temperatura atingiu 105 °C, quantos minutos se passaram?",
-        "opcoes": [
-          "20 minutos.",
-          "30 minutos.",
-          "40 minutos.",
-          "50 minutos."
-        ],
+        "opcoes": ["20 minutos.", "30 minutos.", "40 minutos.", "50 minutos."],
         "correta": 2,
         "explicacao": "105 = 2t + 25 -> 2t = 80 -> t = 40."
       },
       {
         "enunciado": "O lucro de uma loja em função do preço (p) de um produto é L(p) = -p² + 100p - 1600. Qual é o preço que gera o lucro máximo?",
-        "opcoes": [
-          "R$ 20,00",
-          "R$ 40,00",
-          "R$ 50,00",
-          "R$ 80,00"
-        ],
+        "opcoes": ["R$ 20,00", "R$ 40,00", "R$ 50,00", "R$ 80,00"],
         "correta": 2,
         "explicacao": "p_vértice = -b / 2a = -100 / (2 * -1) = -100 / -2 = 50."
       },
       {
         "enunciado": "Um terreno retangular tem área A em função do comprimento x, com A(x) = -x² + 30x. Qual é o valor de x que maximiza a área?",
-        "opcoes": [
-          "5",
-          "10",
-          "15",
-          "30"
-        ],
+        "opcoes": ["5", "10", "15", "30"],
         "correta": 2,
         "explicacao": "Xv = -b / 2a = -30 / (2 * -1) = -30 / -2 = 15."
       },
       {
         "enunciado": "Se um plano de saúde cobra R$ 100,00 fixo mais R$ 50,00 por consulta, a função é P(x) = 100 + 50x. Se uma pessoa pagou R$ 350,00, quantas consultas fez?",
-        "opcoes": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
+        "opcoes": ["3", "4", "5", "6"],
         "correta": 2,
         "explicacao": "350 = 100 + 50x -> 50x = 250 -> x = 5."
       },
       {
         "enunciado": "A fórmula de conversão de temperaturas é uma função afim. Se Celsius (C) em função de Fahrenheit (F) é C = (5/9)*(F - 32), qual o valor de C quando F = 32?",
-        "opcoes": [
-          "0",
-          "32",
-          "100",
-          "-32"
-        ],
+        "opcoes": ["0", "32", "100", "-32"],
         "correta": 0,
         "explicacao": "C = (5/9)*(32-32) = 0."
       },
       {
         "enunciado": "Em uma função de custo C(x) = 2x + 50, o coeficiente linear 50 representa:",
-        "opcoes": [
-          "O custo por unidade produzida.",
-          "O custo fixo, mesmo que nada seja produzido.",
-          "O lucro máximo.",
-          "O número de produtos."
-        ],
+        "opcoes": ["O custo por unidade produzida.", "O custo fixo, mesmo que nada seja produzido.", "O lucro máximo.", "O número de produtos."],
         "correta": 1,
         "explicacao": "O termo 'b' (50) é o custo inicial, independente da quantidade produzida."
       },
       {
         "enunciado": "A trajetória de uma flecha é dada pela função h = -2x² + 12x, onde h é a altura. Qual é a altura máxima?",
-        "opcoes": [
-          "12",
-          "16",
-          "18",
-          "20"
-        ],
+        "opcoes": ["12", "16", "18", "20"],
         "correta": 2,
         "explicacao": "Xv = -12/-4 = 3. h(3) = -2(9) + 12(3) = -18 + 36 = 18."
       },
       {
         "enunciado": "No gráfico da função y = 2x + 1, se x aumenta em 1 unidade, y aumenta em:",
-        "opcoes": [
-          "1 unidade.",
-          "2 unidades.",
-          "3 unidades.",
-          "0 unidades."
-        ],
+        "opcoes": ["1 unidade.", "2 unidades.", "3 unidades.", "0 unidades."],
         "correta": 1,
         "explicacao": "O coeficiente a = 2 indica que a taxa de variação é 2."
       },
       {
         "enunciado": "Um taxista cobra R$ 5,00 de bandeirada e R$ 2,50 por km rodado. A função é y = 5 + 2,5x. Se a corrida foi de 10 km, o valor é:",
-        "opcoes": [
-          "R$ 25,00",
-          "R$ 30,00",
-          "R$ 35,00",
-          "R$ 40,00"
-        ],
+        "opcoes": ["R$ 25,00", "R$ 30,00", "R$ 35,00", "R$ 40,00"],
         "correta": 1,
         "explicacao": "y = 5 + 2,5(10) = 5 + 25 = 30."
       },
       {
         "enunciado": "Um objeto cai e a altura é dada por h(t) = 10 - 5t². Após 1 segundo, a altura é:",
-        "opcoes": [
-          "10 metros.",
-          "5 metros.",
-          "1 metro.",
-          "0 metros."
-        ],
+        "opcoes": ["10 metros.", "5 metros.", "1 metro.", "0 metros."],
         "correta": 1,
         "explicacao": "h(1) = 10 - 5(1)² = 10 - 5 = 5."
       },
       {
         "enunciado": "A soma dos coeficientes da função y = 3x² - 2x + 4 é:",
-        "opcoes": [
-          "3",
-          "5",
-          "-2",
-          "9"
-        ],
+        "opcoes": ["3", "5", "-2", "9"],
         "correta": 1,
         "explicacao": "a=3, b=-2, c=4. Soma = 3 + (-2) + 4 = 5."
       },
       {
         "enunciado": "Na função f(x) = 2x + 1, qual o valor de x para que f(x) = 7?",
-        "opcoes": [
-          "2",
-          "3",
-          "4",
-          "5"
-        ],
+        "opcoes": ["2", "3", "4", "5"],
         "correta": 1,
         "explicacao": "7 = 2x + 1 -> 2x = 6 -> x = 3."
       },
       {
         "enunciado": "O vértice da parábola y = x² - 4x + 3 está em:",
-        "opcoes": [
-          "(2, -1)",
-          "(2, 1)",
-          "(-2, -1)",
-          "(4, 3)"
-        ],
+        "svg": "<svg viewBox='0 0 220 220' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='220' height='220' fill='#0a1420'/><g stroke='#8aa3c9' stroke-width='1.5'><line x1='10' y1='110' x2='210' y2='110'/><line x1='110' y1='10' x2='110' y2='210'/></g><path d='M 30 40 Q 110 220 190 40' fill='none' stroke='#d4af37' stroke-width='3'/><circle cx='110' cy='140' r='5' fill='#dc2626'/><text x='118' y='148' fill='#fca5a5' font-size='9'>(2, -1)</text></svg>",
+        "opcoes": ["(2, -1)", "(2, 1)", "(-2, -1)", "(4, 3)"],
         "correta": 0,
         "explicacao": "Xv = 4/2 = 2. Yv = 2² - 4(2) + 3 = 4 - 8 + 3 = -1."
       }
