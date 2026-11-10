@@ -28,7 +28,8 @@
         "explicacao": "Calor é a energia térmica em trânsito, que flui naturalmente do corpo mais quente para o mais frio."
       },
       {
-        "enunciado": "Quando dois corpos em contato atingem a mesma temperatura, dizemos que eles alcançaram:",
+        "enunciado": "Observe a figura. Quando dois corpos em contato atingem a mesma temperatura, dizemos que eles alcançaram:",
+        "svg": "<svg viewBox='0 0 260 180' style='width:100%;max-width:260px;display:block;margin:auto'><rect width='260' height='180' fill='#0a1420'/><rect x='20' y='60' width='70' height='60' rx='6' fill='#dc2626'/><text x='35' y='95' fill='#fff' font-size='13' font-weight='bold'>80°C</text><rect x='170' y='60' width='70' height='60' rx='6' fill='#3b82f6'/><text x='185' y='95' fill='#fff' font-size='13' font-weight='bold'>20°C</text><text x='105' y='95' fill='#f5e56b' font-size='20'>→</text><text x='90' y='145' fill='#8aa3c9' font-size='11'>fluxo de calor</text><text x='80' y='160' fill='#8aa3c9' font-size='11'>(mais quente → mais frio)</text></svg>",
         "opcoes": [
           "O zero absoluto.",
           "O equilíbrio térmico.",
@@ -83,7 +84,8 @@
         "explicacao": "Nossa percepção térmica é relativa à temperatura da nossa pele no momento."
       },
       {
-        "enunciado": "Se você segura um cubo de gelo, o calor flui:",
+        "enunciado": "Observe a figura. Se você segura um cubo de gelo, o calor flui:",
+        "svg": "<svg viewBox='0 0 260 180' style='width:100%;max-width:260px;display:block;margin:auto'><rect width='260' height='180' fill='#0a1420'/><rect x='170' y='50' width='60' height='60' rx='6' fill='#3b82f6'/><text x='180' y='85' fill='#fff' font-size='12' font-weight='bold'>gelo</text><text x='185' y='125' fill='#8aa3c9' font-size='11'>0°C</text><path d='M 160 80 L 100 80' stroke='#f5e56b' stroke-width='3' marker-end='url(#arrow)'/><text x='105' y='65' fill='#f5e56b' font-size='11'>calor</text><text x='20' y='85' fill='#fff' font-size='13' font-weight='bold'>mão</text><text x='15' y='125' fill='#8aa3c9' font-size='11'>36°C</text><defs><marker id='arrow' markerWidth='8' markerHeight='8' refX='6' refY='4' orient='auto'><path d='M0,0 L8,4 L0,8 Z' fill='#f5e56b'/></marker></defs></svg>",
         "opcoes": [
           "Do gelo para a sua mão.",
           "Da sua mão para o gelo.",
@@ -245,7 +247,8 @@
         "explicacao": "As mais comuns são Celsius (°C), Fahrenheit (°F) e Kelvin (K)."
       },
       {
-        "enunciado": "Na escala Celsius, quais são os pontos fixos de fusão e ebulição da água, respectivamente?",
+        "enunciado": "Observe a figura. Na escala Celsius, quais são os pontos fixos de fusão e ebulição da água, respectivamente?",
+        "svg": "<svg viewBox='0 0 260 200' style='width:100%;max-width:260px;display:block;margin:auto'><rect width='260' height='200' fill='#0a1420'/><rect x='40' y='30' width='30' height='140' fill='none' stroke='#f5e56b' stroke-width='2'/><line x1='40' y1='30' x2='70' y2='30' stroke='#f5e56b' stroke-width='2'/><line x1='40' y1='170' x2='70' y2='170' stroke='#f5e56b' stroke-width='2'/><text x='75' y='35' fill='#f5e56b' font-size='12'>100 °C (ebulição)</text><text x='75' y='175' fill='#f5e56b' font-size='12'>0 °C (fusão)</text><text x='45' y='110' fill='#8aa3c9' font-size='11'>Celsius</text></svg>",
         "opcoes": [
           "0 °C e 100 °C",
           "32 °C e 212 °C",
@@ -256,7 +259,8 @@
         "explicacao": "A escala Celsius adota 0 °C para o gelo e 100 °C para a água em ebulição."
       },
       {
-        "enunciado": "Na escala Fahrenheit, quais são os pontos fixos de fusão e ebulição da água?",
+        "enunciado": "Observe a figura. Na escala Fahrenheit, quais são os pontos fixos de fusão e ebulição da água?",
+        "svg": "<svg viewBox='0 0 260 200' style='width:100%;max-width:260px;display:block;margin:auto'><rect width='260' height='200' fill='#0a1420'/><rect x='40' y='30' width='30' height='140' fill='none' stroke='#f5e56b' stroke-width='2'/><line x1='40' y1='30' x2='70' y2='30' stroke='#f5e56b' stroke-width='2'/><line x1='40' y1='170' x2='70' y2='170' stroke='#f5e56b' stroke-width='2'/><text x='75' y='35' fill='#f5e56b' font-size='12'>212 °F (ebulição)</text><text x='75' y='175' fill='#f5e56b' font-size='12'>32 °F (fusão)</text><text x='45' y='110' fill='#8aa3c9' font-size='11'>Fahrenheit</text></svg>",
         "opcoes": [
           "0 °F e 100 °F",
           "32 °F e 212 °F",
@@ -484,7 +488,8 @@
         "explicacao": "Dependendo das dimensões consideradas, a dilatação pode ser linear (1D), superficial (2D) ou volumétrica (3D)."
       },
       {
-        "enunciado": "A dilatação que ocorre no comprimento de um corpo é chamada de:",
+        "enunciado": "Observe a figura. A dilatação que ocorre no comprimento de um corpo é chamada de:",
+        "svg": "<svg viewBox='0 0 280 160' style='width:100%;max-width:280px;display:block;margin:auto'><rect width='280' height='160' fill='#0a1420'/><text x='20' y='40' fill='#8aa3c9' font-size='11'>Antes (frio)</text><rect x='20' y='50' width='200' height='20' fill='#3b82f6' rx='3'/><text x='20' y='100' fill='#8aa3c9' font-size='11'>Depois (quente)</text><rect x='20' y='110' width='240' height='20' fill='#f5e56b' rx='3'/><text x='180' y='85' fill='#f5e56b' font-size='11'>ΔL</text><line x1='220' y1='70' x2='220' y2='120' stroke='#dc2626' stroke-width='1.5'/><text x='225' y='95' fill='#dc2626' font-size='10'>dilatou</text></svg>",
         "opcoes": [
           "Dilatação superficial.",
           "Dilatação volumétrica.",
@@ -550,7 +555,8 @@
         "explicacao": "No frio, os fios contraem. Se estivessem esticados, a contração poderia quebrá-los."
       },
       {
-        "enunciado": "A dilatação anômala da água ocorre entre quais temperaturas?",
+        "enunciado": "Observe o gráfico. A dilatação anômala da água ocorre entre quais temperaturas?",
+        "svg": "<svg viewBox='0 0 280 200' style='width:100%;max-width:280px;display:block;margin:auto'><rect width='280' height='200' fill='#0a1420'/><line x1='40' y1='170' x2='260' y2='170' stroke='#8aa3c9' stroke-width='1.5'/><line x1='40' y1='20' x2='40' y2='170' stroke='#8aa3c9' stroke-width='1.5'/><text x='245' y='165' fill='#8aa3c9' font-size='10'>T (°C)</text><text x='45' y='30' fill='#8aa3c9' font-size='10'>densidade</text><path d='M 40 120 Q 80 120 100 100 Q 130 80 160 100 Q 200 140 240 140' fill='none' stroke='#f5e56b' stroke-width='2.5'/><circle cx='100' cy='100' r='4' fill='#dc2626'/><text x='90' y='90' fill='#dc2626' font-size='10'>4°C</text><text x='60' y='185' fill='#8aa3c9' font-size='9'>0</text><text x='95' y='185' fill='#8aa3c9' font-size='9'>4</text></svg>",
         "opcoes": [
           "0 °C e 4 °C",
           "0 °C e 100 °C",
@@ -701,7 +707,8 @@
         "explicacao": "O calor pode ser transmitido por condução, convecção ou irradiação."
       },
       {
-        "enunciado": "A propagação de calor que ocorre de partícula para partícula, sem transporte de matéria, é chamada de:",
+        "enunciado": "Observe a figura. A propagação de calor que ocorre de partícula para partícula, sem transporte de matéria, é chamada de:",
+        "svg": "<svg viewBox='0 0 280 160' style='width:100%;max-width:280px;display:block;margin:auto'><rect width='280' height='160' fill='#0a1420'/><rect x='40' y='60' width='200' height='40' fill='#3b82f6' rx='4'/><circle cx='55' cy='80' r='5' fill='#f5e56b'/><circle cx='80' cy='80' r='5' fill='#f5e56b'/><circle cx='105' cy='80' r='5' fill='#f5e56b'/><circle cx='130' cy='80' r='5' fill='#f5e56b'/><circle cx='155' cy='80' r='5' fill='#f5e56b'/><circle cx='180' cy='80' r='5' fill='#f5e56b'/><circle cx='205' cy='80' r='5' fill='#f5e56b'/><circle cx='230' cy='80' r='5' fill='#f5e56b'/><text x='40' y='130' fill='#dc2626' font-size='11'>🔥 calor</text><text x='180' y='130' fill='#8aa3c9' font-size='11'>→ partícula a partícula</text></svg>",
         "opcoes": [
           "Convecção.",
           "Irradiação.",
@@ -756,7 +763,8 @@
         "explicacao": "Os metais são excelentes condutores de calor."
       },
       {
-        "enunciado": "A transmissão de calor pelo movimento de massas de fluidos (líquidos ou gases) é chamada de:",
+        "enunciado": "Observe a figura. A transmissão de calor pelo movimento de massas de fluidos (líquidos ou gases) é chamada de:",
+        "svg": "<svg viewBox='0 0 280 200' style='width:100%;max-width:280px;display:block;margin:auto'><rect width='280' height='200' fill='#0a1420'/><rect x='80' y='40' width='120' height='120' fill='none' stroke='#8aa3c9' stroke-width='2'/><path d='M 110 130 Q 110 80 140 70 Q 170 80 170 130' fill='none' stroke='#f5e56b' stroke-width='2' marker-end='url(#a1)'/><path d='M 170 130 Q 170 180 140 180 Q 110 180 110 130' fill='none' stroke='#3b82f6' stroke-width='2' marker-end='url(#a2)'/><text x='115' y='65' fill='#f5e56b' font-size='10'>quente sobe</text><text x='105' y='195' fill='#3b82f6' font-size='10'>frio desce</text><defs><marker id='a1' markerWidth='6' markerHeight='6' refX='4' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#f5e56b'/></marker><marker id='a2' markerWidth='6' markerHeight='6' refX='4' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#3b82f6'/></marker></defs></svg>",
         "opcoes": [
           "Condução.",
           "Convecção.",
@@ -789,7 +797,8 @@
         "explicacao": "O ar frio é mais denso e desce, promovendo a circulação e o resfriamento do ambiente."
       },
       {
-        "enunciado": "A transmissão de calor por ondas eletromagnéticas é chamada de:",
+        "enunciado": "Observe a figura. A transmissão de calor por ondas eletromagnéticas é chamada de:",
+        "svg": "<svg viewBox='0 0 280 160' style='width:100%;max-width:280px;display:block;margin:auto'><rect width='280' height='160' fill='#0a1420'/><circle cx='50' cy='80' r='20' fill='#f5e56b'/><text x='40' y='85' fill='#0b1a2e' font-size='11' font-weight='bold'>Sol</text><path d='M 75 75 L 240 55' stroke='#f5821e' stroke-width='2' stroke-dasharray='4,3'/><path d='M 75 80 L 240 80' stroke='#f5821e' stroke-width='2' stroke-dasharray='4,3'/><path d='M 75 85 L 240 105' stroke='#f5821e' stroke-width='2' stroke-dasharray='4,3'/><text x='120' y='45' fill='#f5821e' font-size='10'>ondas eletromagnéticas</text><text x='240' y='60' fill='#8aa3c9' font-size='10'>Terra</text></svg>",
         "opcoes": [
           "Condução.",
           "Convecção.",
@@ -866,7 +875,8 @@
         "explicacao": "Sem matéria, não há condução nem convecção. A irradiação é minimizada pelo espelhamento interno."
       },
       {
-        "enunciado": "As correntes de convecção em uma panela de água fervendo ocorrem porque:",
+        "enunciado": "Observe a figura. As correntes de convecção em uma panela de água fervendo ocorrem porque:",
+        "svg": "<svg viewBox='0 0 240 200' style='width:100%;max-width:240px;display:block;margin:auto'><rect width='240' height='200' fill='#0a1420'/><path d='M 40 40 L 40 150 L 200 150 L 200 40' fill='none' stroke='#8aa3c9' stroke-width='2'/><rect x='40' y='90' width='160' height='60' fill='#3b82f6' opacity='0.4'/><path d='M 100 130 Q 100 90 120 80 Q 140 90 140 130' fill='none' stroke='#f5e56b' stroke-width='2' marker-end='url(#c1)'/><path d='M 140 130 Q 140 170 120 180 Q 100 170 100 130' fill='none' stroke='#3b82f6' stroke-width='2'/><text x='150' y='100' fill='#f5e56b' font-size='10'>água quente sobe</text><text x='150' y='165' fill='#3b82f6' font-size='10'>água fria desce</text><text x='110' y='195' fill='#f5821e' font-size='10'>🔥 fogo</text><defs><marker id='c1' markerWidth='6' markerHeight='6' refX='4' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#f5e56b'/></marker></defs></svg>",
         "opcoes": [
           "A água quente do fundo (menos densa) sobe e a fria desce.",
           "A água fria tem maior energia cinética.",
@@ -984,7 +994,8 @@
         "explicacao": "Como precisam de mais calor para mudar a temperatura, demoram mais para aquecer e esfriar."
       },
       {
-        "enunciado": "A areia da praia aquece mais rápido que a água do mar porque:",
+        "enunciado": "Observe a figura. A areia da praia aquece mais rápido que a água do mar porque:",
+        "svg": "<svg viewBox='0 0 280 180' style='width:100%;max-width:280px;display:block;margin:auto'><rect width='280' height='180' fill='#0a1420'/><circle cx='50' cy='30' r='15' fill='#f5e56b'/><path d='M 70 30 L 250 30' stroke='#f5821e' stroke-width='2' stroke-dasharray='4,3'/><rect x='20' y='100' width='240' height='60' fill='#d4af37' opacity='0.5'/><rect x='20' y='100' width='240' height='15' fill='#3b82f6'/><text x='40' y='150' fill='#f5e56b' font-size='12'>areia</text><text x='150' y='150' fill='#3b82f6' font-size='12'>água</text><text x='60' y='85' fill='#dc2626' font-size='10'>aquece rápido</text><text x='170' y='85' fill='#3b82f6' font-size='10'>aquece devagar</text></svg>",
         "opcoes": [
           "A areia tem calor específico menor.",
           "A água está sempre em movimento.",
@@ -1201,7 +1212,8 @@
         "explicacao": "A sublimação ocorre quando o gás vira sólido sem passar pelo estado líquido (ou vice-versa)."
       },
       {
-        "enunciado": "Enquanto uma substância pura está mudando de estado físico, a sua temperatura:",
+        "enunciado": "Observe o gráfico de aquecimento de uma substância pura. Enquanto ela está mudando de estado físico, a sua temperatura:",
+        "svg": "<svg viewBox='0 0 300 200' style='width:100%;max-width:300px;display:block;margin:auto'><rect width='300' height='200' fill='#0a1420'/><line x1='40' y1='170' x2='280' y2='170' stroke='#8aa3c9' stroke-width='1.5'/><line x1='40' y1='20' x2='40' y2='170' stroke='#8aa3c9' stroke-width='1.5'/><text x='265' y='165' fill='#8aa3c9' font-size='10'>tempo</text><text x='45' y='30' fill='#8aa3c9' font-size='10'>T</text><path d='M 40 150 L 100 150 L 100 100 L 160 100 L 160 50 L 260 50' fill='none' stroke='#f5e56b' stroke-width='2.5'/><text x='105' y='95' fill='#dc2626' font-size='10'>fusão</text><text x='165' y='45' fill='#dc2626' font-size='10'>ebulição</text></svg>",
         "opcoes": [
           "Aumenta rapidamente.",
           "Diminui rapidamente.",
@@ -1311,7 +1323,8 @@
         "explicacao": "O vento renova o ar úmido por ar seco, acelerando a evaporação."
       },
       {
-        "enunciado": "O gráfico de aquecimento de uma substância pura mostra dois patamares horizontais. Esses patamares representam:",
+        "enunciado": "Observe o gráfico. Os dois patamares horizontais representam:",
+        "svg": "<svg viewBox='0 0 300 200' style='width:100%;max-width:300px;display:block;margin:auto'><rect width='300' height='200' fill='#0a1420'/><line x1='40' y1='170' x2='280' y2='170' stroke='#8aa3c9' stroke-width='1.5'/><line x1='40' y1='20' x2='40' y2='170' stroke='#8aa3c9' stroke-width='1.5'/><text x='265' y='165' fill='#8aa3c9' font-size='10'>tempo</text><text x='45' y='30' fill='#8aa3c9' font-size='10'>T</text><path d='M 40 150 L 100 150 L 100 100 L 160 100 L 160 50 L 260 50' fill='none' stroke='#f5e56b' stroke-width='2.5'/><line x1='100' y1='100' x2='100' y2='170' stroke='#dc2626' stroke-width='1' stroke-dasharray='3,3'/><line x1='160' y1='50' x2='160' y2='170' stroke='#dc2626' stroke-width='1' stroke-dasharray='3,3'/><text x='105' y='95' fill='#dc2626' font-size='10'>fusão</text><text x='165' y='45' fill='#dc2626' font-size='10'>ebulição</text></svg>",
         "opcoes": [
           "As mudanças de estado (fusão e ebulição).",
           "A variação de temperatura na fase sólida.",
