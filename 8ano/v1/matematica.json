@@ -1,198 +1,903 @@
 [
   {
-    "id": "8ano_v1_mat_racionais_01",
-    "titulo": "Matemática - Frações e Decimais",
+    "id": "8ano_v1_mat_conjuntos_numericos_01",
+    "titulo": "Matemática - Conjuntos Numéricos e Números Reais",
     "tipo": "conteudo",
     "icone": "🔢",
     "perguntas": [
-      { "enunciado": "O que define um número racional?", "opcoes": ["Um número que só pode ser escrito na forma de fração.", "Um número que pode ser escrito na forma de uma fração a/b, onde a e b são inteiros e b ≠ 0.", "Um número que não possui representação decimal.", "Um número que sempre tem infinitas casas decimais."], "correta": 1, "explicacao": "Todo número que pode ser representado por uma fração a/b (com b ≠ 0) é racional." },
-      { "enunciado": "Qual das opções abaixo NÃO é um número racional?", "opcoes": ["3/4", "2,5", "0,333...", "√2"], "correta": 3, "explicacao": "A raiz quadrada de 2 (√2) é um número irracional." },
-      { "enunciado": "O que é um 'decimal exato'?", "opcoes": ["Um número que possui infinitas casas decimais.", "Um número que tem uma quantidade finita de casas decimais.", "Um número que não pode ser representado na reta.", "Um número que só existe na matemática teórica."], "correta": 1, "explicacao": "O decimal exato tem fim, como 2,5 ou 0,125." },
-      { "enunciado": "Todo número natural é um número racional?", "opcoes": ["Sim, pois pode ser escrito como uma fração com denominador 1.", "Não, pois é maior que zero.", "Não, pois é um número inteiro.", "Sim, mas apenas os números pares."], "correta": 0, "explicacao": "Qualquer número inteiro n pode ser escrito como n/1, logo é racional." },
-      { "enunciado": "Como o número misto 1 1/2 pode ser representado como uma fração imprópria?", "opcoes": ["1/2", "2/3", "5/2", "3/2"], "correta": 3, "explicacao": "1 1/2 = (1 × 2 + 1) / 2 = 3/2." },
-      { "enunciado": "O número 3,5 é um número racional porque:", "opcoes": ["Pode ser escrito como 35/10.", "É um número inteiro.", "É maior que 3.", "Tem uma vírgula."], "correta": 0, "explicacao": "35/10 é uma fração, logo 3,5 é racional." },
-      { "enunciado": "O número -7 pertence a qual conjunto?", "opcoes": ["Apenas aos Naturais.", "Apenas aos Irracionais.", "Aos Inteiros e aos Racionais.", "Apenas aos Irracionais."], "correta": 2, "explicacao": "-7 é inteiro e todo inteiro é racional (pode ser escrito como -7/1)." },
-      { "enunciado": "Qual das frações abaixo é equivalente a 2/4?", "opcoes": ["1/2", "2/3", "3/4", "1/4"], "correta": 0, "explicacao": "2/4 dividido por 2 em cima e embaixo dá 1/2." },
-      { "enunciado": "O que é uma fração imprópria?", "opcoes": ["O numerador é menor que o denominador.", "O numerador é maior ou igual ao denominador.", "O denominador é zero.", "É uma fração que não pode ser resolvida."], "correta": 1, "explicacao": "Na fração imprópria, o numerador é maior ou igual ao denominador (ex: 5/2)." },
-      { "enunciado": "Qual é o resultado da soma 1/4 + 2/4?", "opcoes": ["3/8", "3/4", "1/2", "2/8"], "correta": 1, "explicacao": "Como os denominadores são iguais, soma-se os numeradores: (1+2)/4 = 3/4." },
-      { "enunciado": "Qual é o resultado da multiplicação 2/3 × 3/4?", "opcoes": ["6/12", "5/7", "6/7", "1/2"], "correta": 0, "explicacao": "Multiplica-se numerador por numerador e denominador por denominador: (2×3)/(3×4) = 6/12 (que simplificado é 1/2)." },
-      { "enunciado": "O número 1/2 está localizado na reta numérica:", "opcoes": ["Antes do zero.", "Entre o zero e o 1.", "Depois do 2.", "Exatamente no 1."], "correta": 1, "explicacao": "1/2 é igual a 0,5, então fica entre 0 e 1." },
-      { "enunciado": "Qual é o resultado da divisão 1/2 ÷ 1/4?", "opcoes": ["2", "1/8", "1/2", "4"], "correta": 0, "explicacao": "Divisão de frações: 1/2 × 4/1 = 4/2 = 2." },
-      { "enunciado": "Como se lê a fração 3/10?", "opcoes": ["Três décimos.", "Três dezenas.", "Três centésimos.", "Três milésimos."], "correta": 0, "explicacao": "O denominador 10 indica décimos." },
-      { "enunciado": "O que acontece se multiplicarmos o numerador e o denominador de uma fração pelo mesmo número?", "opcoes": ["A fração se torna negativa.", "A fração dobra de valor.", "A fração não se altera (é uma fração equivalente).", "A fração vira um número inteiro."], "correta": 2, "explicacao": "Essa é a propriedade fundamental das frações para encontrar frações equivalentes." },
-      { "enunciado": "Qual é o decimal que representa a fração 7/100?", "opcoes": ["0,7", "0,07", "0,007", "7,0"], "correta": 1, "explicacao": "7 dividido por 100 é 0,07." },
-      { "enunciado": "Uma pizza foi dividida em 8 fatias. João comeu 2 fatias. Que fração da pizza ele comeu?", "opcoes": ["2/8", "8/2", "2/6", "1/8"], "correta": 0, "explicacao": "Ele comeu 2 fatias de um total de 8, logo comeu 2/8." },
-      { "enunciado": "Qual o valor de 2,5 como fração imprópria?", "opcoes": ["5/2", "2/5", "25/10", "1/2"], "correta": 0, "explicacao": "2,5 = 25/10. Simplificando por 5, temos 5/2." },
-      { "enunciado": "A fração 10/5 é um número inteiro. Qual é esse número?", "opcoes": ["1", "2", "5", "10"], "correta": 1, "explicacao": "10 dividido por 5 é igual a 2." },
-      { "enunciado": "Qual fração é maior: 3/4 ou 1/2?", "opcoes": ["1/2", "3/4", "São iguais.", "Não é possível comparar."], "correta": 1, "explicacao": "1/2 = 2/4. Como 3/4 > 2/4, então 3/4 é maior." }
+      {
+        "enunciado": "O conjunto dos números naturais (N) está contido em qual outro conjunto?",
+        "opcoes": ["Apenas nos irracionais.", "Nos inteiros (Z), racionais (Q) e reais (R).", "Apenas nos complexos.", "Não está contido em nenhum."],
+        "correta": 1,
+        "explicacao": "A relação de inclusão é N ⊂ Z ⊂ Q ⊂ R."
+      },
+      {
+        "enunciado": "Qual é a relação de inclusão correta entre os conjuntos numéricos?",
+        "opcoes": ["N ⊂ Z ⊂ Q ⊂ R", "R ⊂ Q ⊂ Z ⊂ N", "Z ⊂ N ⊂ R ⊂ Q", "Q ⊂ N ⊂ Z ⊂ R"],
+        "correta": 0,
+        "explicacao": "Os naturais estão nos inteiros, que estão nos racionais, que estão nos reais."
+      },
+      {
+        "enunciado": "O que são os números irracionais (I)?",
+        "opcoes": ["Números que podem ser escritos como fração.", "Números que não podem ser escritos como razão entre dois inteiros.", "Números inteiros negativos.", "Números naturais."],
+        "correta": 1,
+        "explicacao": "Os irracionais têm infinitas casas decimais não periódicas e não podem ser escritos como fração."
+      },
+      {
+        "enunciado": "O conjunto dos números reais (R) é formado pela:",
+        "opcoes": ["União dos racionais (Q) com os irracionais (I).", "Interseção dos racionais com os inteiros.", "União dos naturais com os inteiros.", "Diferença entre os racionais e os irracionais."],
+        "correta": 0,
+        "explicacao": "Os reais englobam todos os racionais e todos os irracionais."
+      },
+      {
+        "enunciado": "Qual dos números a seguir é um número irracional?",
+        "opcoes": ["0,333...", "1/2", "-5", "√2"],
+        "correta": 3,
+        "explicacao": "A raiz quadrada de 2 é um número irracional, pois não tem representação decimal exata ou periódica."
+      },
+      {
+        "enunciado": "Podemos afirmar que todo número inteiro é um número racional?",
+        "opcoes": ["Sim, pois todo inteiro pode ser escrito como uma fração de denominador 1.", "Não, pois os inteiros são irracionais.", "Apenas os inteiros positivos.", "Apenas o zero."],
+        "correta": 0,
+        "explicacao": "Exemplo: 5 = 5/1. Portanto, todo inteiro é racional."
+      },
+      {
+        "enunciado": "O número π (pi) é um exemplo clássico de qual tipo de número?",
+        "opcoes": ["Natural.", "Inteiro.", "Racional.", "Irracional."],
+        "correta": 3,
+        "explicacao": "O π é um decimal infinito não periódico, logo, irracional."
+      },
+      {
+        "enunciado": "Qual é o valor aproximado de π usado comumente em cálculos escolares?",
+        "opcoes": ["3,14", "3,41", "2,14", "4,13"],
+        "correta": 0,
+        "explicacao": "Usamos 3,14 como aproximação para facilitar os cálculos."
+      },
+      {
+        "enunciado": "Os números decimais exatos, como 0,5, pertencem a qual conjunto?",
+        "opcoes": ["Apenas aos naturais.", "Apenas aos irracionais.", "Aos números racionais.", "Aos números complexos."],
+        "correta": 2,
+        "explicacao": "Decimais exatos podem ser escritos como fração (5/10), então são racionais."
+      },
+      {
+        "enunciado": "O número √9 é um número:",
+        "opcoes": ["Irracional.", "Racional (pois √9 = 3).", "Negativo.", "Não existe."],
+        "correta": 1,
+        "explicacao": "A raiz de 9 é exata (3), portanto é um número inteiro e racional."
+      },
+      {
+        "enunciado": "O número √3 é um número racional ou irracional?",
+        "opcoes": ["Racional, pois tem raiz exata.", "Irracional, pois sua raiz quadrada não é exata.", "Inteiro.", "Natural."],
+        "correta": 1,
+        "explicacao": "√3 = 1,732... é um decimal infinito não periódico, logo irracional."
+      },
+      {
+        "enunciado": "O conjunto dos números inteiros (Z) é formado por:",
+        "opcoes": ["Apenas números positivos.", "Números positivos, negativos e o zero.", "Apenas números negativos.", "Apenas frações."],
+        "correta": 1,
+        "explicacao": "Z = {..., -2, -1, 0, 1, 2, ...}"
+      },
+      {
+        "enunciado": "Qual desses números é uma dízima periódica?",
+        "opcoes": ["0,25", "0,333...", "√2", "π"],
+        "correta": 1,
+        "explicacao": "0,333... é uma dízima periódica, pois o 3 se repete infinitamente."
+      },
+      {
+        "enunciado": "Todo número irracional é um número real?",
+        "opcoes": ["Sim, pois os reais são a união dos racionais com os irracionais.", "Não, eles são separados.", "Apenas alguns.", "Depende da raiz."],
+        "correta": 0,
+        "explicacao": "O conjunto dos reais engloba tanto os racionais quanto os irracionais."
+      },
+      {
+        "enunciado": "A representação decimal de um número irracional é:",
+        "opcoes": ["Finita.", "Infinita e periódica.", "Infinita e não periódica.", "Sempre inteira."],
+        "correta": 2,
+        "explicacao": "Os irracionais têm infinitas casas decimais sem repetição regular."
+      },
+      {
+        "enunciado": "O conjunto dos números racionais (Q) abrange:",
+        "opcoes": ["Apenas frações.", "Apenas decimais.", "Inteiros e decimais exatos ou dízimas periódicas.", "Apenas os irracionais."],
+        "correta": 2,
+        "explicacao": "Racionais são todos os números que podem ser escritos como a/b (b≠0)."
+      },
+      {
+        "enunciado": "O número -4 pertence a quais conjuntos?",
+        "opcoes": ["Apenas aos naturais.", "Aos inteiros, racionais e reais.", "Apenas aos irracionais.", "Apenas aos complexos."],
+        "correta": 1,
+        "explicacao": "-4 é inteiro, racional (pode ser -4/1) e real."
+      },
+      {
+        "enunciado": "Qual dos números abaixo NÃO é um número real?",
+        "opcoes": ["√-4", "0", "π", "-1,5"],
+        "correta": 0,
+        "explicacao": "A raiz quadrada de um número negativo não é um número real (é complexo)."
+      },
+      {
+        "enunciado": "A dízima periódica 0,666... é um número:",
+        "opcoes": ["Irracional.", "Racional.", "Natural.", "Inteiro."],
+        "correta": 1,
+        "explicacao": "Ela pode ser escrita como a fração 2/3, logo é racional."
+      },
+      {
+        "enunciado": "O conjunto dos números reais é representado pela letra:",
+        "opcoes": ["N", "Z", "Q", "R"],
+        "correta": 3,
+        "explicacao": "R representa o conjunto dos números reais."
+      }
     ]
   },
   {
-    "id": "8ano_v1_mat_dizimas_01",
-    "titulo": "Matemática - Dízimas Periódicas",
+    "id": "8ano_v1_mat_operacoes_reais_01",
+    "titulo": "Matemática - Propriedades das Operações em R",
     "tipo": "conteudo",
-    "icone": "♾️",
+    "icone": "➕",
     "perguntas": [
-      { "enunciado": "O que é uma 'dízima periódica'?", "opcoes": ["Um decimal que tem fim.", "Um decimal que se repete infinitamente em um padrão (período).", "Um número que não pode ser escrito como fração.", "Uma fração que não pode ser resolvida."], "correta": 1, "explicacao": "A dízima periódica tem uma parte decimal que se repete infinitamente." },
-      { "enunciado": "Qual é a fração geratriz da dízima periódica 0,333...?", "opcoes": ["1/3", "1/2", "3/10", "1/4"], "correta": 0, "explicacao": "0,333... é igual a 1/3." },
-      { "enunciado": "Qual é a fração geratriz da dízima periódica 0,555...?", "opcoes": ["5/10", "5/99", "5/9", "1/2"], "correta": 2, "explicacao": "O período é 5. Então a fração é 5/9." },
-      { "enunciado": "Qual é a fração geratriz da dízima composta 0,2555...?", "opcoes": ["25/100", "23/90", "255/1000", "3/11"], "correta": 1, "explicacao": "Para a dízima 0,2555...: (25 - 2) / 90 = 23/90." },
-      { "enunciado": "Qual é a fração geratriz de 0,666...?", "opcoes": ["1/6", "2/3", "3/5", "6/10"], "correta": 1, "explicacao": "0,666... = 6/9 = 2/3 (simplificado)." },
-      { "enunciado": "Qual das opções é uma dízima periódica composta?", "opcoes": ["0,333...", "0,666...", "0,12333...", "0,5"], "correta": 2, "explicacao": "A dízima composta tem uma parte não periódica (12) antes do período (33...)." },
-      { "enunciado": "A dízima periódica 0,777... é um número:", "opcoes": ["Irracional.", "Racional.", "Inteiro.", "Natural."], "correta": 1, "explicacao": "Toda dízima periódica pode ser escrita como fração (7/9), então é racional." },
-      { "enunciado": "Qual é o período da dízima 0,454545...?", "opcoes": ["4", "5", "45", "54"], "correta": 2, "explicacao": "A sequência que se repete é o '45'." },
-      { "enunciado": "Qual é a fração geratriz de 0,111...?", "opcoes": ["1/9", "1/11", "1/10", "1/8"], "correta": 0, "explicacao": "O período é 1, então a fração é 1/9." },
-      { "enunciado": "Qual é a fração geratriz de 0,121212...?", "opcoes": ["12/10", "12/99", "12/100", "12/9"], "correta": 1, "explicacao": "Período de 2 algarismos (12), então fica 12/99 (que simplificado é 4/33)." },
-      { "enunciado": "Como se escreve 1/3 em forma decimal?", "opcoes": ["0,3", "0,333...", "0,13", "3,1"], "correta": 1, "explicacao": "Dividindo 1 por 3, temos uma dízima infinita: 0,333..." },
-      { "enunciado": "A dízima 0,888... é igual a qual fração?", "opcoes": ["8/10", "8/9", "88/100", "8/99"], "correta": 1, "explicacao": "Todo número na forma 0,xxx... tem como fração x/9. Logo, 8/9." },
-      { "enunciado": "Uma dízima periódica simples é aquela que:", "opcoes": ["Não tem repetição.", "Tem uma parte não periódica antes do período.", "Após a vírgula, o período se repete imediatamente.", "Termina em zero."], "correta": 2, "explicacao": "Na dízima simples, o padrão de repetição começa logo após a vírgula (ex: 0,333...)." },
-      { "enunciado": "Qual é a representação decimal de 5/9?", "opcoes": ["0,555...", "0,999...", "0,59", "5,9"], "correta": 0, "explicacao": "5 dividido por 9 é 0,555..." },
-      { "enunciado": "Se x = 0,999..., qual é o valor de x?", "opcoes": ["0,9", "0,99", "1", "Infinito"], "correta": 2, "explicacao": "Matematicamente, 0,999... é exatamente igual a 1." },
-      { "enunciado": "A fração geratriz de 0,0111... é:", "opcoes": ["1/90", "11/100", "1/9", "11/99"], "correta": 0, "explicacao": "Dízima composta: (01 - 0) / 90 = 1/90." },
-      { "enunciado": "Toda dízima periódica é um número racional?", "opcoes": ["Sim, pois pode ser transformada em fração.", "Não, pois tem infinitas casas.", "Apenas as simples.", "Apenas as compostas."], "correta": 0, "explicacao": "A definição de número racional inclui as dízimas periódicas." },
-      { "enunciado": "Qual é a fração de 0,222...?", "opcoes": ["2/10", "2/9", "2/99", "1/2"], "correta": 1, "explicacao": "0,222... = 2/9." },
-      { "enunciado": "A dízima 0,5 é exata ou periódica?", "opcoes": ["Exata.", "Periódica simples.", "Periódica composta.", "Não é um número decimal."], "correta": 0, "explicacao": "0,5 tem fim, então é um decimal exato." },
-      { "enunciado": "O número 0,101010... é igual a:", "opcoes": ["10/9", "10/99", "1/10", "10/100"], "correta": 1, "explicacao": "Período '10' tem 2 algarismos, então fica 10/99." }
+      {
+        "enunciado": "A propriedade associativa da adição diz que:",
+        "opcoes": ["a + b = b + a", "(a + b) + c = a + (b + c)", "a + 0 = a", "a + (-a) = 0"],
+        "correta": 1,
+        "explicacao": "A associação das parcelas não altera a soma."
+      },
+      {
+        "enunciado": "A propriedade comutativa da multiplicação diz que:",
+        "opcoes": ["a · b = b · a", "(a · b) · c = a · (b · c)", "a · 1 = a", "a · 0 = 0"],
+        "correta": 0,
+        "explicacao": "A ordem dos fatores não altera o produto."
+      },
+      {
+        "enunciado": "Na adição, o elemento neutro é o:",
+        "opcoes": ["1", "0", "-1", "10"],
+        "correta": 1,
+        "explicacao": "Qualquer número somado a zero resulta nele mesmo."
+      },
+      {
+        "enunciado": "Na multiplicação, o elemento neutro é o:",
+        "opcoes": ["1", "0", "-1", "10"],
+        "correta": 0,
+        "explicacao": "Qualquer número multiplicado por 1 resulta nele mesmo."
+      },
+      {
+        "enunciado": "O que é o elemento oposto de um número real 'a'?",
+        "opcoes": ["O dobro de a.", "O número -a, que somado a 'a' resulta em zero.", "O inverso de a.", "O módulo de a."],
+        "correta": 1,
+        "explicacao": "O oposto é o simétrico na reta numérica."
+      },
+      {
+        "enunciado": "Qual é o elemento oposto de 5?",
+        "opcoes": ["1/5", "-5", "0", "5"],
+        "correta": 1,
+        "explicacao": "5 + (-5) = 0."
+      },
+      {
+        "enunciado": "O que é o elemento inverso de um número real 'a' (com a ≠ 0)?",
+        "opcoes": ["-a", "O número 1/a, que multiplicado por 'a' resulta em 1.", "a²", "0"],
+        "correta": 1,
+        "explicacao": "O inverso multiplicativo de 'a' é 1/a."
+      },
+      {
+        "enunciado": "Qual é o inverso de 4?",
+        "opcoes": ["-4", "1/4", "4", "0"],
+        "correta": 1,
+        "explicacao": "4 · (1/4) = 1."
+      },
+      {
+        "enunciado": "A propriedade distributiva da multiplicação em relação à adição é expressa por:",
+        "opcoes": ["a · (b + c) = a · b + a · c", "a + (b · c) = (a + b) · c", "a · b = b · a", "a + b = b + a"],
+        "correta": 0,
+        "explicacao": "O fator 'a' é distribuído para todos os termos dentro dos parênteses."
+      },
+      {
+        "enunciado": "O conjunto dos números reais é fechado em relação à adição. O que isso significa?",
+        "opcoes": ["Que a soma de dois números reais sempre resulta em outro número real.", "Que a soma é sempre zero.", "Que a soma é sempre positiva.", "Que a soma não pode ser feita."],
+        "correta": 0,
+        "explicacao": "O resultado da operação pertence ao mesmo conjunto."
+      },
+      {
+        "enunciado": "Qual é a propriedade aplicada na igualdade 2 + 3 = 3 + 2?",
+        "opcoes": ["Associativa.", "Comutativa.", "Distributiva.", "Elemento neutro."],
+        "correta": 1,
+        "explicacao": "A ordem das parcelas foi alterada sem mudar o resultado."
+      },
+      {
+        "enunciado": "Qual é a propriedade aplicada na igualdade (2 + 3) + 4 = 2 + (3 + 4)?",
+        "opcoes": ["Associativa.", "Comutativa.", "Distributiva.", "Elemento neutro."],
+        "correta": 0,
+        "explicacao": "A forma de agrupar as parcelas foi alterada."
+      },
+      {
+        "enunciado": "A subtração no conjunto dos reais é a soma do primeiro número com o:",
+        "opcoes": ["Inverso do segundo.", "Oposto do segundo.", "Dobro do segundo.", "Elemento neutro."],
+        "correta": 1,
+        "explicacao": "a - b = a + (-b)."
+      },
+      {
+        "enunciado": "A divisão no conjunto dos reais é a multiplicação do primeiro número pelo:",
+        "opcoes": ["Oposto do segundo.", "Inverso do segundo (se não for zero).", "Dobro do segundo.", "Elemento neutro."],
+        "correta": 1,
+        "explicacao": "a ÷ b = a · (1/b), com b ≠ 0."
+      },
+      {
+        "enunciado": "Qual é o resultado da expressão 5 · (2 + 3) usando a propriedade distributiva?",
+        "opcoes": ["10 + 3 = 13", "5 · 2 + 5 · 3 = 10 + 15 = 25", "5 + 5 = 10", "5 · 5 = 25"],
+        "correta": 1,
+        "explicacao": "Multiplicamos o 5 por cada termo dentro do parêntese."
+      },
+      {
+        "enunciado": "Se a = 2 e b = 3, qual é o valor de a · (b + 1)?",
+        "opcoes": ["2 · 3 + 1 = 7", "2 · (3 + 1) = 2 · 4 = 8", "2 + 3 + 1 = 6", "2 · 3 · 1 = 6"],
+        "correta": 1,
+        "explicacao": "Primeiro resolve-se o parêntese, depois a multiplicação."
+      },
+      {
+        "enunciado": "O zero é o elemento neutro de qual operação?",
+        "opcoes": ["Multiplicação.", "Adição.", "Divisão.", "Potenciação."],
+        "correta": 1,
+        "explicacao": "a + 0 = a."
+      },
+      {
+        "enunciado": "O um (1) é o elemento neutro de qual operação?",
+        "opcoes": ["Adição.", "Subtração.", "Multiplicação.", "Radiciação."],
+        "correta": 2,
+        "explicacao": "a · 1 = a."
+      },
+      {
+        "enunciado": "A propriedade comutativa vale para a subtração?",
+        "opcoes": ["Sim, sempre.", "Não, pois 5 - 3 ≠ 3 - 5.", "Às vezes.", "Apenas com números negativos."],
+        "correta": 1,
+        "explicacao": "A subtração não é comutativa."
+      },
+      {
+        "enunciado": "A propriedade associativa vale para a divisão?",
+        "opcoes": ["Sim, sempre.", "Não, pois (8 ÷ 4) ÷ 2 ≠ 8 ÷ (4 ÷ 2).", "Às vezes.", "Apenas com números positivos."],
+        "correta": 1,
+        "explicacao": "A divisão não é associativa."
+      }
     ]
   },
   {
-    "id": "8ano_v1_mat_irracionais_01",
-    "titulo": "Matemática - Números Irracionais",
-    "tipo": "conteudo",
-    "icone": "🎲",
-    "perguntas": [
-      { "enunciado": "O que é um número irracional?", "opcoes": ["Um número que pode ser escrito como uma fração.", "Um número que tem uma dízima periódica.", "Um número que não pode ser escrito como uma razão entre dois inteiros (fração).", "Um número que só tem casas decimais finitas."], "correta": 2, "explicacao": "Irracionais não podem ser escritos como fração, como π, √2, etc." },
-      { "enunciado": "Qual é o valor de π (pi) aproximado?", "opcoes": ["3,14", "3,41", "1,14", "3,00"], "correta": 0, "explicacao": "O valor aproximado de π é 3,14 (ou 3,14159...)." },
-      { "enunciado": "A raiz quadrada de um número primo (ex: √2, √3, √5) é sempre:", "opcoes": ["Um número inteiro.", "Um número racional.", "Um número irracional.", "Um número negativo."], "correta": 2, "explicacao": "As raízes de números primos não são exatas, logo são irracionais." },
-      { "enunciado": "O conjunto dos números irracionais é representado por qual letra?", "opcoes": ["Q", "I", "R", "N"], "correta": 1, "explicacao": "O conjunto dos Irracionais é representado pela letra I." },
-      { "enunciado": "A união dos números Racionais (Q) com os Irracionais (I) forma o conjunto dos:", "opcoes": ["Números Naturais (N).", "Números Inteiros (Z).", "Números Reais (R).", "Números Complexos (C)."], "correta": 2, "explicacao": "Os números Reais (R) englobam racionais e irracionais." },
-      { "enunciado": "O número 0,123456789... (sem repetição) é um número:", "opcoes": ["Racional exato.", "Racional periódico.", "Irracional.", "Inteiro."], "correta": 2, "explicacao": "Sem repetição padrão, não pode ser escrito como fração." },
-      { "enunciado": "O número π (pi) é classificado como:", "opcoes": ["Racional exato.", "Racional periódico.", "Irracional.", "Natural."], "correta": 2, "explicacao": "π tem infinitas casas decimais sem repetição." },
-      { "enunciado": "O número √9 é um número racional ou irracional?", "opcoes": ["Irracional.", "Racional, pois é igual a 3.", "Irracional, pois tem raiz.", "Nenhuma das opções."], "correta": 1, "explicacao": "√9 = 3, e 3 é um número inteiro, logo racional." },
-      { "enunciado": "Qual das opções abaixo é um número irracional?", "opcoes": ["0,5", "1/3", "√7", "-2"], "correta": 2, "explicacao": "A raiz de 7 não é exata, então é irracional." },
-      { "enunciado": "O número 3,14159265... (sem repetição) é uma aproximação de:", "opcoes": ["√2", "π", "e", "√3"], "correta": 1, "explicacao": "Essa é a representação decimal do número π (pi)." },
-      { "enunciado": "O conjunto dos números irracionais está contido no conjunto dos:", "opcoes": ["Naturais", "Inteiros", "Racionais", "Reais"], "correta": 3, "explicacao": "Os reais são formados pela união dos racionais com os irracionais." },
-      { "enunciado": "O número 0 é um número racional?", "opcoes": ["Sim, pois pode ser escrito como 0/1.", "Não, pois não tem valor.", "Não, pois é neutro.", "Sim, mas apenas em frações impróprias."], "correta": 0, "explicacao": "0 dividido por qualquer número diferente de zero é 0." },
-      { "enunciado": "Qual desses números NÃO é real?", "opcoes": ["√-4", "√4", "-5", "0,333..."], "correta": 0, "explicacao": "A raiz quadrada de um número negativo não existe no conjunto dos números reais." },
-      { "enunciado": "A representação decimal de um número irracional é sempre:", "opcoes": ["Finita.", "Infinita e sem repetição periódica.", "Infinita e com repetição.", "Igual a zero."], "correta": 1, "explicacao": "Irracionais têm infinitas casas decimais sem formar um período." },
-      { "enunciado": "Qual das alternativas contém apenas números irracionais?", "opcoes": ["√2, π, √3", "1/2, 0,5, 2", "-1, -2, -3", "0, 1, 2"], "correta": 0, "explicacao": "√2, π e √3 são os três exemplos clássicos." },
-      { "enunciado": "O número √16 é:", "opcoes": ["Irracional.", "Racional, pois é 4.", "Irracional, pois é uma raiz.", "Não existe."], "correta": 1, "explicacao": "√16 = 4, que é um número inteiro." },
-      { "enunciado": "A raiz quadrada de 2 (√2) é aproximadamente:", "opcoes": ["1,414", "2,414", "3,14", "1,5"], "correta": 0, "explicacao": "√2 ≈ 1,414213..." },
-      { "enunciado": "Os números irracionais podem ser representados na reta numérica?", "opcoes": ["Não, pois são infinitos.", "Sim, cada um tem um ponto na reta.", "Apenas os negativos.", "Apenas os positivos."], "correta": 1, "explicacao": "Todo número real tem um ponto na reta numérica." },
-      { "enunciado": "O número π é aproximadamente:", "opcoes": ["3,14", "2,71", "1,61", "1,41"], "correta": 0, "explicacao": "π ≈ 3,14159... O 2,71 é o número de Euler (e)." },
-      { "enunciado": "Qual desses números é irracional?", "opcoes": ["√25", "√36", "√50", "√81"], "correta": 2, "explicacao": "√50 não tem raiz exata, logo é irracional. As outras são 5, 6 e 9." }
-    ]
-  },
-  {
-    "id": "8ano_v1_mat_modulo_01",
-    "titulo": "Matemática - Módulo e Opostos",
-    "tipo": "conteudo",
-    "icone": "⚖️",
-    "perguntas": [
-      { "enunciado": "O que indica o módulo (ou valor absoluto) de um número?", "opcoes": ["A distância desse número até o zero na reta numérica.", "Se o número é positivo ou negativo.", "Apenas o seu valor decimal.", "O dobro do número."], "correta": 0, "explicacao": "O módulo é sempre a distância até o zero." },
-      { "enunciado": "Qual é o módulo de -5?", "opcoes": ["-5", "5", "0", "25"], "correta": 1, "explicacao": "O módulo de -5 é 5." },
-      { "enunciado": "O que são números opostos?", "opcoes": ["Números que têm o mesmo valor.", "Números que estão a mesma distância do zero, mas em lados opostos na reta.", "Números que são sempre negativos.", "Números que são fracionários."], "correta": 1, "explicacao": "Exemplo: +3 e -3." },
-      { "enunciado": "Qual é o oposto de -12?", "opcoes": ["-12", "0", "12", "1/12"], "correta": 2, "explicacao": "O oposto de um número negativo é o mesmo número positivo." },
-      { "enunciado": "Qual é o módulo de 0?", "opcoes": ["-1", "0", "1", "Infinito"], "correta": 1, "explicacao": "A distância do zero até ele mesmo é zero." },
-      { "enunciado": "O módulo de um número real é sempre:", "opcoes": ["Negativo.", "Positivo ou zero.", "Um número fracionário.", "Um número irracional."], "correta": 1, "explicacao": "Como é uma distância, não pode ser negativo." },
-      { "enunciado": "Quais são os números que possuem módulo igual a 7?", "opcoes": ["Apenas o 7.", "Apenas o -7.", "O 7 e o -7.", "Nenhum número."], "correta": 2, "explicacao": "Tanto 7 quanto -7 estão a 7 unidades de distância do zero." },
-      { "enunciado": "O oposto de +45 é:", "opcoes": ["45", "-45", "1/45", "0"], "correta": 1, "explicacao": "O oposto de um número positivo é o mesmo número negativo." },
-      { "enunciado": "Qual é o módulo de -3,5?", "opcoes": ["-3,5", "3,5", "0,5", "35"], "correta": 1, "explicacao": "A distância de -3,5 até o zero é 3,5." },
-      { "enunciado": "O módulo de 15 é igual ao módulo de:", "opcoes": ["0", "-15", "30", "1,5"], "correta": 1, "explicacao": "|15| = 15 e |-15| = 15." },
-      { "enunciado": "Como é representado o módulo de um número x?", "opcoes": ["(x)", "[x]", "|x|", "{x}"], "correta": 2, "explicacao": "O módulo é representado por duas barras verticais." },
-      { "enunciado": "Se |x| = 4, quais são os possíveis valores de x?", "opcoes": ["Apenas 4.", "Apenas -4.", "4 e -4.", "0."], "correta": 2, "explicacao": "A distância até o zero é 4, então x pode ser 4 ou -4." },
-      { "enunciado": "Qual o resultado de | -8 | + | 3 |?", "opcoes": ["-5", "5", "11", "-11"], "correta": 2, "explicacao": "|-8| = 8 e |3| = 3. Logo, 8 + 3 = 11." },
-      { "enunciado": "Qual o resultado de | 5 | - | -2 |?", "opcoes": ["3", "7", "-3", "-7"], "correta": 0, "explicacao": "|5| = 5 e |-2| = 2. Logo, 5 - 2 = 3." },
-      { "enunciado": "Dois números opostos sempre têm:", "opcoes": ["Sinais iguais.", "O mesmo módulo.", "Valores diferentes.", "Módulos diferentes."], "correta": 1, "explicacao": "A única diferença entre eles é o sinal, então o módulo é o mesmo." },
-      { "enunciado": "O número oposto do próprio zero é:", "opcoes": ["1", "-1", "0", "Infinito"], "correta": 2, "explicacao": "Zero é o único número que é seu próprio oposto." },
-      { "enunciado": "Se um número é maior que zero, seu módulo é:", "opcoes": ["O próprio número.", "O seu oposto.", "Zero.", "Negativo."], "correta": 0, "explicacao": "Se x > 0, então |x| = x." },
-      { "enunciado": "Se um número é menor que zero, seu módulo é:", "opcoes": ["O próprio número.", "O seu oposto (positivo).", "Zero.", "Negativo."], "correta": 1, "explicacao": "Se x < 0, então |x| = -x (que é positivo)." },
-      { "enunciado": "O oposto do número -100 é:", "opcoes": ["-100", "100", "0", "1/100"], "correta": 1, "explicacao": "O oposto de -100 é 100." },
-      { "enunciado": "Qual das alternativas representa dois números opostos?", "opcoes": ["3 e 1/3", "-5 e -5", "-2 e 2", "0 e 1"], "correta": 2, "explicacao": "-2 e 2 têm o mesmo módulo e sinais diferentes." }
-    ]
-  },
-  {
-    "id": "8ano_v1_mat_potencias_01",
-    "titulo": "Matemática - Potenciação e Notação Científica",
-    "tipo": "conteudo",
-    "icone": "⚡",
-    "perguntas": [
-      { "enunciado": "O que significa a potenciação a^n?", "opcoes": ["A soma de a, n vezes.", "A multiplicação de a por n.", "A multiplicação de a por ele mesmo n vezes.", "A divisão de a por n."], "correta": 2, "explicacao": "a^n é a multiplicação da base por ela mesma n vezes." },
-      { "enunciado": "Qual é o resultado de 2³?", "opcoes": ["6", "8", "9", "5"], "correta": 1, "explicacao": "2³ = 2 × 2 × 2 = 8." },
-      { "enunciado": "Qualquer número elevado a zero (a⁰) é igual a:", "opcoes": ["0", "1", "O próprio número.", "Infinito."], "correta": 1, "explicacao": "Todo número (diferente de zero) elevado a zero é 1." },
-      { "enunciado": "Como resolvemos um expoente negativo, como 2⁻³?", "opcoes": ["Invertemos a base e o expoente fica positivo: 1/2³.", "Multiplicamos por -1.", "O resultado é negativo.", "O resultado é zero."], "correta": 0, "explicacao": "a⁻ⁿ = 1/aⁿ. Então 2⁻³ = 1/8." },
-      { "enunciado": "O que é um expoente fracionário, como a^(1/2)?", "opcoes": ["Uma fração qualquer.", "Uma raiz quadrada (√a).", "Um número negativo.", "Um número irracional."], "correta": 1, "explicacao": "a^(1/2) = √a." },
-      { "enunciado": "O que é a notação científica?", "opcoes": ["Uma forma de escrever números muito grandes ou muito pequenos usando potências de 10.", "Uma forma de escrever números entre 1 e 10.", "Uma forma de escrever frações.", "Uma forma de resolver equações."], "correta": 0, "explicacao": "A notação científica simplifica a escrita de números com muitos zeros." },
-      { "enunciado": "Qual é a forma correta de escrever o número 0,000004 em notação científica?", "opcoes": ["4 × 10⁻⁶", "4 × 10⁶", "0,4 × 10⁻⁵", "40 × 10⁻⁷"], "correta": 0, "explicacao": "0,000004 = 4 × 10⁻⁶." },
-      { "enunciado": "Qual é a forma correta de escrever o número 400.000.000 em notação científica?", "opcoes": ["4 × 10⁸", "4 × 10⁹", "0,4 × 10⁹", "40 × 10⁷"], "correta": 0, "explicacao": "400.000.000 = 4 × 10⁸." },
-      { "enunciado": "Na notação científica a × 10ⁿ, qual é a condição para o número 'a'?", "opcoes": ["Deve ser maior que 0 e menor que 1.", "Deve ser maior ou igual a 1 e menor que 10.", "Deve ser maior que 10.", "Deve ser um número inteiro."], "correta": 1, "explicacao": "O coeficiente 'a' deve estar entre 1 e 10." },
-      { "enunciado": "Qual propriedade da potenciação diz que a^m × a^n = a^(m+n)?", "opcoes": ["Produto de potências de mesma base.", "Quociente de potências de mesma base.", "Potência de potência.", "Potência de um produto."], "correta": 0, "explicacao": "Na multiplicação de mesma base, somamos os expoentes." },
-      { "enunciado": "Qual é o resultado de 2⁵ ÷ 2³?", "opcoes": ["2² = 4", "2⁸ = 256", "2¹⁵", "2"], "correta": 0, "explicacao": "Na divisão de mesma base, subtraímos os expoentes: 2^(5-3) = 4." },
-      { "enunciado": "Qual é o resultado de (2³)²?", "opcoes": ["2⁵ = 32", "2⁶ = 64", "2⁹ = 512", "4³ = 64"], "correta": 1, "explicacao": "Potência de potência: multiplicamos os expoentes: 2^(3×2) = 2⁶ = 64." },
-      { "enunciado": "Qual é o valor de 5⁻²?", "opcoes": ["-25", "1/25", "25", "-1/25"], "correta": 1, "explicacao": "5⁻² = 1/5² = 1/25." },
-      { "enunciado": "O número 6,5 × 10³ é igual a:", "opcoes": ["650", "6.500", "65.000", "0,0065"], "correta": 1, "explicacao": "6,5 × 1000 = 6500." },
-      { "enunciado": "O número 2,3 × 10⁻² é igual a:", "opcoes": ["230", "0,23", "0,023", "23"], "correta": 2, "explicacao": "2,3 × 0,01 = 0,023." },
-      { "enunciado": "A distância da Terra à Lua é de aproximadamente 384.000 km. Em notação científica, isso é:", "opcoes": ["3,84 × 10⁵ km", "3,84 × 10⁶ km", "38,4 × 10⁴ km", "0,384 × 10⁶ km"], "correta": 0, "explicacao": "384.000 = 3,84 × 10⁵." },
-      { "enunciado": "O diâmetro de uma bactéria é cerca de 0,000001 m. Em notação científica:", "opcoes": ["1 × 10⁻⁶ m", "1 × 10⁶ m", "0,1 × 10⁻⁵ m", "10 × 10⁻⁷ m"], "correta": 0, "explicacao": "0,000001 = 1 × 10⁻⁶." },
-      { "enunciado": "Qual das potências abaixo tem o maior valor?", "opcoes": ["2⁴", "4²", "2⁵", "3³"], "correta": 2, "explicacao": "2⁴=16, 4²=16, 2⁵=32, 3³=27. O maior é 32." },
-      { "enunciado": "Qual é o valor de 10⁴?", "opcoes": ["100", "1.000", "10.000", "100.000"], "correta": 2, "explicacao": "10⁴ = 10.000." },
-      { "enunciado": "Todo número elevado a 1 (a¹) é igual a:", "opcoes": ["0", "1", "O próprio número.", "Infinito."], "correta": 2, "explicacao": "Qualquer número elevado a 1 é ele mesmo." }
-    ]
-  },
-  {
-    "id": "8ano_v1_mat_raizes_01",
-    "titulo": "Matemática - Raízes e Radiciação",
+    "id": "8ano_v1_mat_potenciacao_raizes_01",
+    "titulo": "Matemática - Potenciação e Radiciação",
     "tipo": "conteudo",
     "icone": "√",
     "perguntas": [
-      { "enunciado": "A raiz quadrada de um número é:", "opcoes": ["O número que, multiplicado por 2, dá o valor original.", "O número que, elevado ao quadrado, resulta no valor original.", "A metade do número.", "O dobro do número."], "correta": 1, "explicacao": "√x = y se y² = x." },
-      { "enunciado": "Qual é a raiz quadrada de 36?", "opcoes": ["4", "6", "8", "9"], "correta": 1, "explicacao": "6 × 6 = 36." },
-      { "enunciado": "Qual é a raiz quadrada de 144?", "opcoes": ["10", "11", "12", "14"], "correta": 2, "explicacao": "12 × 12 = 144." },
-      { "enunciado": "Por que a raiz quadrada de um número negativo não existe no conjunto dos números reais?", "opcoes": ["Porque não há número real que elevado ao quadrado dê um resultado negativo.", "Porque a matemática não permite números negativos.", "Porque o zero impede o cálculo.", "Porque é um número irracional."], "correta": 0, "explicacao": "Todo número real ao quadrado é positivo." },
-      { "enunciado": "Qual é a raiz cúbica de 8?", "opcoes": ["2", "3", "4", "8"], "correta": 0, "explicacao": "2 × 2 × 2 = 8." },
-      { "enunciado": "Qual é a raiz cúbica de -27?", "opcoes": ["-3", "-9", "3", "9"], "correta": 0, "explicacao": "(-3) × (-3) × (-3) = -27." },
-      { "enunciado": "O que significa simplificar uma raiz?", "opcoes": ["Deixar o número dentro da raiz o menor possível.", "Encontrar o valor exato da raiz.", "Retirar fatores do radicando que sejam quadrados perfeitos.", "Tornar o número negativo."], "correta": 2, "explicacao": "Simplificamos retirando quadrados perfeitos (ex: √8 = 2√2)." },
-      { "enunciado": "A raiz de 25 é um número racional ou irracional?", "opcoes": ["Irracional.", "Racional, pois o resultado é 5.", "Irracional, pois não tem fim.", "Racional, pois é uma fração."], "correta": 1, "explicacao": "√25 = 5, que é inteiro." },
-      { "enunciado": "A raiz quadrada de 2 (√2) é um número:", "opcoes": ["Racional.", "Irracional.", "Inteiro.", "Natural."], "correta": 1, "explicacao": "√2 é uma dízima não periódica." },
-      { "enunciado": "Qual é o valor aproximado de √37?", "opcoes": ["6,0", "6,1", "6,5", "7,0"], "correta": 1, "explicacao": "√37 ≈ 6,08." },
-      { "enunciado": "A raiz quadrada de 16 é igual a:", "opcoes": ["4", "8", "2", "16"], "correta": 0, "explicacao": "4 × 4 = 16." },
-      { "enunciado": "O símbolo √ é chamado de:", "opcoes": ["Radical.", "Expoente.", "Base.", "Potência."], "correta": 0, "explicacao": "É o radical." },
-      { "enunciado": "Calcule √(25 × 4):", "opcoes": ["10", "20", "15", "5"], "correta": 0, "explicacao": "√100 = 10." },
-      { "enunciado": "Qual é o valor de (√9)²?", "opcoes": ["3", "9", "81", "0"], "correta": 1, "explicacao": "(√9)² = 3² = 9." },
-      { "enunciado": "Qual é o valor de √(9²)?", "opcoes": ["3", "9", "81", "0"], "correta": 1, "explicacao": "√81 = 9." },
-      { "enunciado": "A raiz de um número quadrado perfeito é sempre:", "opcoes": ["Racional.", "Irracional.", "Negativa.", "Zero."], "correta": 0, "explicacao": "Quadrados perfeitos têm raízes exatas." },
-      { "enunciado": "Quais números abaixo são quadrados perfeitos?", "opcoes": ["1, 4, 9, 16, 25...", "2, 3, 5, 7, 11...", "1, 2, 3, 4, 5...", "10, 20, 30, 40..."], "correta": 0, "explicacao": "1²=1, 2²=4, 3²=9..." },
-      { "enunciado": "O que é uma raiz inexata?", "opcoes": ["Aquela que não tem resultado inteiro.", "Aquela que dá um número negativo.", "Aquela que dá zero.", "Aquela que não existe."], "correta": 0, "explicacao": "Raízes inexatas resultam em irracionais (ex: √2)." },
-      { "enunciado": "Qual é o valor de √81?", "opcoes": ["7", "8", "9", "10"], "correta": 2, "explicacao": "9 × 9 = 81." },
-      { "enunciado": "A raiz cúbica de 64 é:", "opcoes": ["2", "4", "6", "8"], "correta": 1, "explicacao": "4 × 4 × 4 = 64." }
+      {
+        "enunciado": "O que significa uma potência com expoente negativo, como a⁻ⁿ?",
+        "opcoes": ["Que o número é negativo.", "Que é igual a 1/aⁿ.", "Que é igual a zero.", "Que é igual a a · n."],
+        "correta": 1,
+        "explicacao": "Uma potência com expoente negativo é o inverso da potência com expoente positivo."
+      },
+      {
+        "enunciado": "Qual é o valor de 3⁻²?",
+        "opcoes": ["-9", "-6", "1/9", "9"],
+        "correta": 2,
+        "explicacao": "3⁻² = 1/3² = 1/9."
+      },
+      {
+        "enunciado": "O que significa um expoente fracionário, como a^(m/n)?",
+        "opcoes": ["Que a base é uma fração.", "Que é igual à raiz enésima de a elevado a m: ⁿ√(aᵐ).", "Que é igual a zero.", "Que a base é negativa."],
+        "correta": 1,
+        "explicacao": "O expoente fracionário se transforma em uma raiz."
+      },
+      {
+        "enunciado": "Qual é a representação em forma de raiz de 5^(2/3)?",
+        "opcoes": ["√(5³)", "³√(5²)", "²√(5³)", "5√(2³)"],
+        "correta": 1,
+        "explicacao": "O denominador vira o índice da raiz e o numerador o expoente do radicando."
+      },
+      {
+        "enunciado": "A raiz quadrada de 36 é:",
+        "opcoes": ["6", "18", "12", "4"],
+        "correta": 0,
+        "explicacao": "6² = 36."
+      },
+      {
+        "enunciado": "Qual é o valor de √(16/25)?",
+        "opcoes": ["4/5", "8/12", "16/5", "4/25"],
+        "correta": 0,
+        "explicacao": "A raiz do numerador e do denominador: √16 / √25 = 4/5."
+      },
+      {
+        "enunciado": "O que é a raiz cúbica de um número?",
+        "opcoes": ["O número que elevado ao quadrado dá o resultado.", "O número que elevado ao cubo dá o resultado.", "O dobro do número.", "O triplo do número."],
+        "correta": 1,
+        "explicacao": "A raiz cúbica busca o número que, elevado a 3, resulta no radicando."
+      },
+      {
+        "enunciado": "Qual é o valor de ³√8?",
+        "opcoes": ["2", "4", "8", "24"],
+        "correta": 0,
+        "explicacao": "2³ = 8."
+      },
+      {
+        "enunciado": "A raiz cúbica de um número negativo é possível nos números reais?",
+        "opcoes": ["Não, nunca.", "Sim, pois um número negativo elevado ao cubo resulta em negativo.", "Apenas para números pares.", "Apenas para o zero."],
+        "correta": 1,
+        "explicacao": "Exemplo: ³√(-8) = -2, pois (-2)³ = -8."
+      },
+      {
+        "enunciado": "Qual é a propriedade da radiciação que afirma que √(a · b) = √a · √b?",
+        "opcoes": ["Propriedade da soma.", "Propriedade do produto.", "Propriedade do quociente.", "Propriedade da potência."],
+        "correta": 1,
+        "explicacao": "A raiz de um produto é o produto das raízes."
+      },
+      {
+        "enunciado": "Como simplificar a raiz √50?",
+        "opcoes": ["5√2", "2√5", "10√5", "25√2"],
+        "correta": 0,
+        "explicacao": "√50 = √(25 · 2) = √25 · √2 = 5√2."
+      },
+      {
+        "enunciado": "Qual é o valor de 2⁵?",
+        "opcoes": ["10", "25", "32", "64"],
+        "correta": 2,
+        "explicacao": "2 · 2 · 2 · 2 · 2 = 32."
+      },
+      {
+        "enunciado": "Qual é o valor de 7⁰?",
+        "opcoes": ["0", "1", "7", "70"],
+        "correta": 1,
+        "explicacao": "Qualquer número (diferente de zero) elevado a zero é 1."
+      },
+      {
+        "enunciado": "Qual é o valor de 10⁻³?",
+        "opcoes": ["-1000", "-30", "0,001", "0,01"],
+        "correta": 2,
+        "explicacao": "10⁻³ = 1/1000 = 0,001."
+      },
+      {
+        "enunciado": "A radiciação é a operação inversa da:",
+        "opcoes": ["Adição.", "Multiplicação.", "Potenciação.", "Subtração."],
+        "correta": 2,
+        "explicacao": "A raiz desfaz a potência."
+      },
+      {
+        "enunciado": "Qual é o valor de √(2⁴)?",
+        "opcoes": ["2", "4", "8", "16"],
+        "correta": 1,
+        "explicacao": "√(2⁴) = 2^(4/2) = 2² = 4."
+      },
+      {
+        "enunciado": "Se a = 3, qual é o valor de a^(1/2)?",
+        "opcoes": ["1,5", "√3", "3²", "9"],
+        "correta": 1,
+        "explicacao": "O expoente 1/2 significa raiz quadrada."
+      },
+      {
+        "enunciado": "Qual é o valor da expressão √25 + √9?",
+        "opcoes": ["√34", "8", "34", "5"],
+        "correta": 1,
+        "explicacao": "√25 = 5 e √9 = 3. Logo, 5 + 3 = 8."
+      },
+      {
+        "enunciado": "O valor de ³√(-27) é:",
+        "opcoes": ["-3", "3", "-9", "9"],
+        "correta": 0,
+        "explicacao": "(-3)³ = -27."
+      },
+      {
+        "enunciado": "Qual é a forma de potência da raiz ⁴√(x³)?",
+        "opcoes": ["x^(3/4)", "x^(4/3)", "x³⁺⁴", "x³⁻⁴"],
+        "correta": 0,
+        "explicacao": "O expoente do radicando vira o numerador e o índice da raiz o denominador."
+      }
     ]
   },
   {
-    "id": "8ano_v1_mat_pitagoras_01",
+    "id": "8ano_v1_mat_notacao_cientifica_01",
+    "titulo": "Matemática - Notação Científica",
+    "tipo": "conteudo",
+    "icone": "🔬",
+    "perguntas": [
+      {
+        "enunciado": "O que é notação científica?",
+        "opcoes": ["Uma forma de escrever números muito grandes ou muito pequenos usando potências de base 10.", "Uma forma de desenhar gráficos.", "Uma técnica de cálculo mental.", "Um tipo de equação."],
+        "correta": 0,
+        "explicacao": "A notação científica simplifica a escrita de números com muitos zeros."
+      },
+      {
+        "enunciado": "Na notação científica a · 10ⁿ, qual deve ser o valor de 'a'?",
+        "opcoes": ["Qualquer número real.", "Um número entre 1 e 10 (1 ≤ a < 10).", "Um número maior que 10.", "Um número negativo."],
+        "correta": 1,
+        "explicacao": "O coeficiente 'a' deve ser maior ou igual a 1 e menor que 10."
+      },
+      {
+        "enunciado": "O número 50.000 em notação científica é escrito como:",
+        "opcoes": ["5 · 10⁴", "50 · 10³", "0,5 · 10⁵", "5 · 10⁵"],
+        "correta": 0,
+        "explicacao": "50.000 = 5 · 10.000 = 5 · 10⁴."
+      },
+      {
+        "enunciado": "O número 0,007 em notação científica é escrito como:",
+        "opcoes": ["7 · 10⁻³", "7 · 10³", "0,7 · 10⁻²", "70 · 10⁻⁴"],
+        "correta": 0,
+        "explicacao": "0,007 = 7 · 0,001 = 7 · 10⁻³."
+      },
+      {
+        "enunciado": "Quando o expoente da potência de 10 é positivo, o número original é:",
+        "opcoes": ["Muito pequeno.", "Muito grande (maior que 1).", "Igual a zero.", "Negativo."],
+        "correta": 1,
+        "explicacao": "Expoentes positivos indicam números maiores que 10."
+      },
+      {
+        "enunciado": "Quando o expoente da potência de 10 é negativo, o número original é:",
+        "opcoes": ["Muito grande.", "Muito pequeno (menor que 1).", "Igual a zero.", "Positivo."],
+        "correta": 1,
+        "explicacao": "Expoentes negativos indicam números entre 0 e 1."
+      },
+      {
+        "enunciado": "A distância da Terra à Lua é de aproximadamente 384.000 km. Em notação científica, isso é:",
+        "opcoes": ["3,84 · 10⁵ km", "38,4 · 10⁴ km", "3,84 · 10⁶ km", "384 · 10³ km"],
+        "correta": 0,
+        "explicacao": "384.000 = 3,84 · 100.000 = 3,84 · 10⁵."
+      },
+      {
+        "enunciado": "O diâmetro de um vírus é de cerca de 0,0000001 m. Em notação científica, isso é:",
+        "opcoes": ["1 · 10⁻⁷ m", "1 · 10⁷ m", "10 · 10⁻⁸ m", "0,1 · 10⁻⁶ m"],
+        "correta": 0,
+        "explicacao": "0,0000001 = 1 · 10⁻⁷."
+      },
+      {
+        "enunciado": "O número 3 · 10³ corresponde a qual número decimal?",
+        "opcoes": ["30", "300", "3000", "30000"],
+        "correta": 2,
+        "explicacao": "3 · 1000 = 3000."
+      },
+      {
+        "enunciado": "O número 5 · 10⁻² corresponde a qual número decimal?",
+        "opcoes": ["0,5", "0,05", "0,005", "50"],
+        "correta": 1,
+        "explicacao": "5 · 0,01 = 0,05."
+      },
+      {
+        "enunciado": "A massa de um átomo de hidrogênio é de aproximadamente 0,00000000000000000000000000167 kg. Esse número tem quantas casas decimais?",
+        "opcoes": ["27", "26", "25", "28"],
+        "correta": 1,
+        "explicacao": "Conte os zeros: há 26 casas após a vírgula antes do 167."
+      },
+      {
+        "enunciado": "O número 1,67 · 10⁻²⁷ em forma decimal é:",
+        "opcoes": ["0,000...167 (27 casas)", "167 (27 zeros)", "1,67", "0,167"],
+        "correta": 0,
+        "explicacao": "O expoente negativo indica que a vírgula deve andar 27 casas para a esquerda."
+      },
+      {
+        "enunciado": "A distância média da Terra ao Sol é de 149.600.000 km. Em notação científica, é aproximadamente:",
+        "opcoes": ["1,496 · 10⁸ km", "1,496 · 10⁷ km", "14,96 · 10⁷ km", "1496 · 10⁵ km"],
+        "correta": 0,
+        "explicacao": "149.600.000 = 1,496 · 10⁸."
+      },
+      {
+        "enunciado": "Na notação científica, o número 10⁰ é igual a:",
+        "opcoes": ["0", "1", "10", "100"],
+        "correta": 1,
+        "explicacao": "Qualquer número elevado a zero é 1."
+      },
+      {
+        "enunciado": "O número 0,000305 em notação científica é:",
+        "opcoes": ["3,05 · 10⁻⁴", "3,05 · 10⁻³", "30,5 · 10⁻⁵", "305 · 10⁻⁶"],
+        "correta": 0,
+        "explicacao": "A vírgula anda 4 casas para a direita."
+      },
+      {
+        "enunciado": "Qual é o número maior: 2 · 10⁵ ou 3 · 10⁴?",
+        "opcoes": ["2 · 10⁵", "3 · 10⁴", "São iguais.", "Não é possível comparar."],
+        "correta": 0,
+        "explicacao": "2 · 100.000 = 200.000; 3 · 10.000 = 30.000."
+      },
+      {
+        "enunciado": "Qual é o número menor: 4 · 10⁻³ ou 5 · 10⁻²?",
+        "opcoes": ["4 · 10⁻³", "5 · 10⁻²", "São iguais.", "Não é possível comparar."],
+        "correta": 0,
+        "explicacao": "4 · 0,001 = 0,004; 5 · 0,01 = 0,05."
+      },
+      {
+        "enunciado": "Uma calculadora científica mostra o resultado 1,5e-4. Isso significa:",
+        "opcoes": ["1,5 · 10⁴", "1,5 · 10⁻⁴", "1,5 · 4", "1500"],
+        "correta": 1,
+        "explicacao": "O 'e' representa a base 10 elevada ao expoente indicado."
+      },
+      {
+        "enunciado": "O número 10⁶ é igual a:",
+        "opcoes": ["1.000.000", "100.000", "10.000", "1.000"],
+        "correta": 0,
+        "explicacao": "10⁶ = 1 seguido de 6 zeros."
+      },
+      {
+        "enunciado": "O número 10⁻⁶ é igual a:",
+        "opcoes": ["0,000001", "0,00001", "1.000.000", "0,1"],
+        "correta": 0,
+        "explicacao": "10⁻⁶ = 1/1.000.000 = 0,000001."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v1_mat_pi_circunferencia_01",
+    "titulo": "Matemática - O Número Pi e a Circunferência",
+    "tipo": "conteudo",
+    "icone": "⭕",
+    "perguntas": [
+      {
+        "enunciado": "O número π (pi) é a razão entre:",
+        "opcoes": ["O raio e o diâmetro.", "O comprimento da circunferência e o seu diâmetro.", "A área e o raio.", "O diâmetro e a área."],
+        "correta": 1,
+        "explicacao": "π = C / d, onde C é a circunferência e d é o diâmetro."
+      },
+      {
+        "enunciado": "Qual é a fórmula do comprimento da circunferência?",
+        "opcoes": ["C = π · r²", "C = 2 · π · r", "C = π · d²", "C = 2 · r"],
+        "correta": 1,
+        "explicacao": "C = 2πr, pois o diâmetro é o dobro do raio."
+      },
+      {
+        "enunciado": "Se o raio de uma circunferência mede 5 cm, qual é o seu comprimento aproximado (use π = 3,14)?",
+        "opcoes": ["15,7 cm", "31,4 cm", "78,5 cm", "10 cm"],
+        "correta": 1,
+        "explicacao": "C = 2 · 3,14 · 5 = 31,4 cm."
+      },
+      {
+        "enunciado": "O diâmetro de uma circunferência é:",
+        "opcoes": ["A metade do raio.", "O dobro do raio.", "Igual ao comprimento.", "A distância até a borda."],
+        "correta": 1,
+        "explicacao": "d = 2r."
+      },
+      {
+        "enunciado": "Qual é a fórmula do comprimento da circunferência em função do diâmetro?",
+        "opcoes": ["C = π · d", "C = π · d²", "C = 2 · d", "C = π / d"],
+        "correta": 0,
+        "explicacao": "Como d = 2r, substituindo na fórmula fica C = πd."
+      },
+      {
+        "enunciado": "Uma piscina circular tem raio de 8 metros. Qual é a medida da borda (comprimento) da piscina (use π = 3,14)?",
+        "opcoes": ["25,12 m", "50,24 m", "200,96 m", "16 m"],
+        "correta": 1,
+        "explicacao": "C = 2 · 3,14 · 8 = 50,24 m."
+      },
+      {
+        "enunciado": "O valor de π é um número:",
+        "opcoes": ["Inteiro.", "Racional exato.", "Irracional.", "Natural."],
+        "correta": 2,
+        "explicacao": "π é um decimal infinito não periódico, portanto irracional."
+      },
+      {
+        "enunciado": "Se uma circunferência tem 62,8 cm de comprimento, qual é o seu raio (use π = 3,14)?",
+        "opcoes": ["5 cm", "10 cm", "20 cm", "15 cm"],
+        "correta": 1,
+        "explicacao": "62,8 = 2 · 3,14 · r → 62,8 = 6,28 · r → r = 10 cm."
+      },
+      {
+        "enunciado": "O valor aproximado de π usado no texto é:",
+        "opcoes": ["3,41", "3,14", "3,12", "3,16"],
+        "correta": 1,
+        "explicacao": "Usamos 3,14 como aproximação."
+      },
+      {
+        "enunciado": "O raio de uma circunferência é a distância do centro até:",
+        "opcoes": ["A borda.", "O diâmetro.", "O outro lado.", "A tangente."],
+        "correta": 0,
+        "explicacao": "O raio é o segmento que liga o centro a qualquer ponto da circunferência."
+      },
+      {
+        "enunciado": "Qual é a relação entre o raio e o diâmetro?",
+        "opcoes": ["r = d/2", "r = d", "r = 2d", "r = d/3"],
+        "correta": 0,
+        "explicacao": "O raio é metade do diâmetro."
+      },
+      {
+        "enunciado": "Se o comprimento de uma circunferência é 12,56 m, qual é o seu diâmetro (use π = 3,14)?",
+        "opcoes": ["2 m", "4 m", "6 m", "8 m"],
+        "correta": 1,
+        "explicacao": "C = π · d → 12,56 = 3,14 · d → d = 4 m."
+      },
+      {
+        "enunciado": "Qual é o comprimento de uma circunferência de diâmetro igual a 10 cm (use π = 3,14)?",
+        "opcoes": ["31,4 cm", "15,7 cm", "62,8 cm", "100 cm"],
+        "correta": 0,
+        "explicacao": "C = π · d = 3,14 · 10 = 31,4 cm."
+      },
+      {
+        "enunciado": "A razão C/d é sempre constante para qualquer circunferência?",
+        "opcoes": ["Não, varia com o tamanho.", "Sim, e é igual a π.", "Sim, e é igual a 2.", "Não, varia com o raio."],
+        "correta": 1,
+        "explicacao": "Essa é a definição do número π."
+      },
+      {
+        "enunciado": "Se dobrarmos o raio de uma circunferência, o seu comprimento:",
+        "opcoes": ["Fica igual.", "Dobra.", "Quadruplica.", "Diminui."],
+        "correta": 1,
+        "explicacao": "O comprimento é diretamente proporcional ao raio."
+      },
+      {
+        "enunciado": "Qual é a fórmula da área do círculo?",
+        "opcoes": ["A = 2 · π · r", "A = π · r²", "A = π · d", "A = 2 · r²"],
+        "correta": 1,
+        "explicacao": "A área do círculo é π vezes o raio ao quadrado."
+      },
+      {
+        "enunciado": "Se uma circunferência tem 4 cm de raio, qual é a sua área (use π = 3,14)?",
+        "opcoes": ["25,12 cm²", "50,24 cm²", "12,56 cm²", "16 cm²"],
+        "correta": 1,
+        "explicacao": "A = 3,14 · 4² = 3,14 · 16 = 50,24 cm²."
+      },
+      {
+        "enunciado": "Qual é o raio de uma circunferência de comprimento 31,4 cm (use π = 3,14)?",
+        "opcoes": ["5 cm", "10 cm", "15 cm", "20 cm"],
+        "correta": 0,
+        "explicacao": "31,4 = 2 · 3,14 · r → r = 5 cm."
+      },
+      {
+        "enunciado": "A unidade de medida do comprimento de uma circunferência é geralmente:",
+        "opcoes": ["Quadrado (m²).", "Cúbico (m³).", "Linear (m).", "Radiano."],
+        "correta": 2,
+        "explicacao": "O comprimento é uma medida linear."
+      },
+      {
+        "enunciado": "Um arco de 180° de uma circunferência corresponde a:",
+        "opcoes": ["Um quarto do comprimento.", "Metade do comprimento.", "O comprimento total.", "Um terço do comprimento."],
+        "correta": 1,
+        "explicacao": "180° é metade de 360°, logo, metade do comprimento."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v1_mat_teorema_pitagoras_01",
     "titulo": "Matemática - Teorema de Pitágoras",
     "tipo": "conteudo",
     "icone": "📐",
     "perguntas": [
-      { "enunciado": "O Teorema de Pitágoras é válido para qual tipo de triângulo?", "opcoes": ["Triângulo equilátero.", "Triângulo isósceles.", "Triângulo retângulo.", "Qualquer triângulo."], "correta": 2, "explicacao": "Aplica-se a triângulos com um ângulo reto (90°)." },
-      { "enunciado": "O que é a hipotenusa em um triângulo retângulo?", "opcoes": ["O lado menor.", "O lado oposto ao ângulo reto, sendo o maior lado.", "O lado que forma o ângulo reto.", "Qualquer um dos lados."], "correta": 1, "explicacao": "É o lado oposto ao ângulo de 90°." },
-      { "enunciado": "O que são os catetos?", "opcoes": ["Os lados que formam o ângulo reto.", "Apenas o lado maior.", "O lado oposto ao ângulo reto.", "As diagonais do triângulo."], "correta": 0, "explicacao": "São os dois lados que formam o ângulo de 90°." },
-      { "enunciado": "Segundo o Teorema de Pitágoras, a² = b² + c², onde 'a' é:", "opcoes": ["Um cateto.", "A hipotenusa.", "O ângulo reto.", "A altura do triângulo."], "correta": 1, "explicacao": "A hipotenusa (a) é o maior lado." },
-      { "enunciado": "Em um triângulo retângulo, os catetos medem 3 cm e 4 cm. Qual é a medida da hipotenusa?", "opcoes": ["5 cm", "6 cm", "7 cm", "8 cm"], "correta": 0, "explicacao": "a² = 3² + 4² = 25 → a = 5." },
-      { "enunciado": "Um triângulo tem catetos de 6 cm e 8 cm. Qual é a hipotenusa?", "opcoes": ["10 cm", "12 cm", "14 cm", "15 cm"], "correta": 0, "explicacao": "a² = 6² + 8² = 100 → a = 10." },
-      { "enunciado": "Se a hipotenusa de um triângulo retângulo mede 13 cm e um cateto mede 5 cm, qual é o outro cateto?", "opcoes": ["8 cm", "10 cm", "12 cm", "15 cm"], "correta": 2, "explicacao": "13² = 5² + c² → 169 = 25 + c² → c = 12." },
-      { "enunciado": "A fórmula do Teorema de Pitágoras é usada para descobrir:", "opcoes": ["A área do triângulo.", "Um lado desconhecido de um triângulo retângulo.", "O volume de um cubo.", "A medida dos ângulos."], "correta": 1, "explicacao": "Relaciona os lados para achar um lado desconhecido." },
-      { "enunciado": "Qual é a medida da hipotenusa de um triângulo retângulo com catetos de 9 cm e 12 cm?", "opcoes": ["15 cm", "18 cm", "20 cm", "25 cm"], "correta": 0, "explicacao": "a² = 9² + 12² = 225 → a = 15." },
-      { "enunciado": "O Teorema de Pitágoras é uma ferramenta muito utilizada em qual área?", "opcoes": ["Construção civil e engenharia.", "Apenas em matemática teórica.", "Apenas em química.", "Apenas em geografia."], "correta": 0, "explicacao": "Muito usado em construções." },
-      { "enunciado": "Quantos ângulos retos tem um triângulo retângulo?", "opcoes": ["1", "2", "3", "Nenhum."], "correta": 0, "explicacao": "Possui exatamente um ângulo de 90°." },
-      { "enunciado": "Um triângulo com lados 7, 24 e 25 é retângulo?", "opcoes": ["Sim, pois 25² = 7² + 24².", "Não, pois não é possível.", "Sim, pois 7 + 24 = 25.", "Não, pois os lados são muito diferentes."], "correta": 0, "explicacao": "625 = 49 + 576. É retângulo." },
-      { "enunciado": "Se a hipotenusa é 10 cm e um cateto é 6 cm, o outro cateto mede:", "opcoes": ["4 cm", "6 cm", "8 cm", "9 cm"], "correta": 2, "explicacao": "10² = 6² + c² → c = 8." },
-      { "enunciado": "O Teorema de Pitágoras foi criado por:", "opcoes": ["Pitágoras, filósofo e matemático grego.", "Euclides.", "Isaac Newton.", "Albert Einstein."], "correta": 0, "explicacao": "Leva o nome do matemático grego." },
-      { "enunciado": "O que é um 'terno pitagórico'?", "opcoes": ["Uma sequência de 3 números que satisfazem o Teorema de Pitágoras.", "Três ângulos iguais.", "Um triângulo equilátero.", "Um número elevado ao cubo."], "correta": 0, "explicacao": "Exemplo: 3, 4 e 5." },
-      { "enunciado": "Em relação à hipotenusa, ela é sempre o lado:", "opcoes": ["Menor do triângulo.", "Maior do triângulo retângulo.", "Igual aos catetos.", "Oposto ao cateto maior."], "correta": 1, "explicacao": "É o maior lado." },
-      { "enunciado": "Um pedreiro precisa saber o comprimento de uma escada que será apoiada a 3 m da parede e alcançará 4 m de altura. Qual o comprimento?", "opcoes": ["5 m", "6 m", "7 m", "8 m"], "correta": 0, "explicacao": "a² = 3² + 4² = 25 → a = 5." },
-      { "enunciado": "Se os catetos medem 5 cm cada, a hipotenusa é:", "opcoes": ["5 cm", "5√2 cm", "10 cm", "√5 cm"], "correta": 1, "explicacao": "a² = 25 + 25 = 50 → a = √50 = 5√2." },
-      { "enunciado": "Qual é o valor de 9²?", "opcoes": ["18", "36", "81", "72"], "correta": 2, "explicacao": "9 × 9 = 81." },
-      { "enunciado": "Um triângulo tem catetos de 8 cm e 15 cm. Qual é a hipotenusa?", "opcoes": ["17 cm", "20 cm", "23 cm", "25 cm"], "correta": 0, "explicacao": "a² = 8² + 15² = 289 → a = 17." }
+      {
+        "enunciado": "O Teorema de Pitágoras é aplicado em qual tipo de triângulo?",
+        "opcoes": ["Triângulo equilátero.", "Triângulo isósceles.", "Triângulo retângulo.", "Triângulo obtusângulo."],
+        "correta": 2,
+        "explicacao": "O teorema só é válido para triângulos que possuem um ângulo reto (90°)."
+      },
+      {
+        "enunciado": "No Teorema de Pitágoras, o lado maior do triângulo retângulo, oposto ao ângulo de 90°, é chamado de:",
+        "opcoes": ["Cateto.", "Hipotenusa.", "Base.", "Altura."],
+        "correta": 1,
+        "explicacao": "A hipotenusa é o lado oposto ao ângulo reto."
+      },
+      {
+        "enunciado": "Os outros dois lados do triângulo retângulo que formam o ângulo de 90° são chamados de:",
+        "opcoes": ["Hipotenusas.", "Diagonais.", "Catetos.", "Raios."],
+        "correta": 2,
+        "explicacao": "Os lados que formam o ângulo reto são os catetos."
+      },
+      {
+        "enunciado": "Qual é a fórmula do Teorema de Pitágoras?",
+        "opcoes": ["a² + b² = c²", "a + b = c", "a² - b² = c²", "a · b = c"],
+        "correta": 0,
+        "explicacao": "O quadrado da hipotenusa é igual à soma dos quadrados dos catetos."
+      },
+      {
+        "enunciado": "Se um triângulo retângulo tem catetos de 3 cm e 4 cm, qual é a medida da hipotenusa?",
+        "opcoes": ["5 cm", "6 cm", "7 cm", "8 cm"],
+        "correta": 0,
+        "explicacao": "3² + 4² = c² → 9 + 16 = 25 → c = √25 = 5."
+      },
+      {
+        "enunciado": "Um triângulo retângulo tem hipotenusa de 13 cm e um cateto de 5 cm. Qual é a medida do outro cateto?",
+        "opcoes": ["8 cm", "10 cm", "12 cm", "14 cm"],
+        "correta": 2,
+        "explicacao": "5² + b² = 13² → 25 + b² = 169 → b² = 144 → b = 12."
+      },
+      {
+        "enunciado": "Um triângulo possui lados medindo 5, 12 e 13. Ele é um triângulo retângulo?",
+        "opcoes": ["Sim, pois 5² + 12² = 13².", "Não, pois a soma dos lados é 30.", "Sim, pois 5 + 12 = 17 > 13.", "Não, pois não tem ângulo reto."],
+        "correta": 0,
+        "explicacao": "25 + 144 = 169. O teorema é válido, logo é retângulo."
+      },
+      {
+        "enunciado": "Um triângulo possui lados medindo 4, 5 e 6. Ele é um triângulo retângulo?",
+        "opcoes": ["Sim, pois 4² + 5² = 6².", "Não, pois 4² + 5² = 41 ≠ 36.", "Sim, pois é um triângulo.", "Não, pois todos os lados são diferentes."],
+        "correta": 1,
+        "explicacao": "16 + 25 = 41, que é diferente de 36. Não é retângulo."
+      },
+      {
+        "enunciado": "Uma escada de 5 m está apoiada em uma parede. O pé da escada está a 3 m da parede. Qual é a altura que a escada alcança na parede?",
+        "opcoes": ["2 m", "3 m", "4 m", "5 m"],
+        "correta": 2,
+        "explicacao": "3² + h² = 5² → 9 + h² = 25 → h = 4 m."
+      },
+      {
+        "enunciado": "Um quadrado tem lado de 5 cm. Qual é a medida da sua diagonal?",
+        "opcoes": ["5 cm", "10 cm", "5√2 cm", "25 cm"],
+        "correta": 2,
+        "explicacao": "A diagonal forma um triângulo retângulo: d² = 5² + 5² = 50 → d = √50 = 5√2."
+      },
+      {
+        "enunciado": "Um retângulo tem lados de 6 cm e 8 cm. Qual é o valor da sua diagonal?",
+        "opcoes": ["10 cm", "12 cm", "14 cm", "16 cm"],
+        "correta": 0,
+        "explicacao": "6² + 8² = d² → 36 + 64 = 100 → d = 10."
+      },
+      {
+        "enunciado": "Se a hipotenusa de um triângulo retângulo mede 10 m e um cateto mede 6 m, qual é a medida do outro cateto?",
+        "opcoes": ["4 m", "6 m", "8 m", "9 m"],
+        "correta": 2,
+        "explicacao": "6² + b² = 10² → 36 + b² = 100 → b² = 64 → b = 8."
+      },
+      {
+        "enunciado": "Qual é o valor de x no triângulo abaixo? (Use a fórmula a² = b² + c²)",
+        "svg": "<svg width='250' height='120' viewBox='0 0 250 120'><polygon points='20,100 150,100 150,20' fill='none' stroke='#f5e56b' stroke-width='3'/><text x='75' y='115' fill='#e8eefc' font-size='14'>12 cm</text><text x='160' y='65' fill='#e8eefc' font-size='14'>5 cm</text><text x='75' y='55' fill='#e8eefc' font-size='14'>x</text><rect x='140' y='90' width='10' height='10' fill='none' stroke='#f5e56b' stroke-width='1'/></svg>",
+        "opcoes": ["10 cm", "13 cm", "15 cm", "17 cm"],
+        "correta": 1,
+        "explicacao": "x² = 12² + 5² → x² = 144 + 25 → x² = 169 → x = 13."
+      },
+      {
+        "enunciado": "Qual é o valor de x na figura abaixo (triângulo retângulo com hipotenusa 25 e um cateto 7)?",
+        "svg": "<svg width='250' height='120' viewBox='0 0 250 120'><polygon points='20,100 150,100 150,20' fill='none' stroke='#f5e56b' stroke-width='3'/><text x='75' y='115' fill='#e8eefc' font-size='14'>x</text><text x='160' y='65' fill='#e8eefc' font-size='14'>7</text><text x='75' y='55' fill='#e8eefc' font-size='14'>25</text><rect x='140' y='90' width='10' height='10' fill='none' stroke='#f5e56b' stroke-width='1'/></svg>",
+        "opcoes": ["20", "22", "24", "26"],
+        "correta": 2,
+        "explicacao": "25² = x² + 7² → 625 = x² + 49 → x² = 576 → x = 24."
+      },
+      {
+        "enunciado": "Uma rampa tem 10 m de comprimento e forma um ângulo reto com o chão. Se a altura da rampa é 6 m, qual é a distância horizontal do início da rampa até a base da parede?",
+        "opcoes": ["6 m", "8 m", "10 m", "12 m"],
+        "correta": 1,
+        "explicacao": "10² = 6² + x² → 100 = 36 + x² → x² = 64 → x = 8."
+      },
+      {
+        "enunciado": "O Teorema de Pitágoras leva esse nome em homenagem a qual matemático grego?",
+        "opcoes": ["Euclides.", "Arquimedes.", "Pitágoras.", "Tales de Mileto."],
+        "correta": 2,
+        "explicacao": "O teorema foi atribuído a Pitágoras."
+      },
+      {
+        "enunciado": "O triângulo com lados 3, 4 e 5 é chamado de triângulo pitagórico. Qual é a sua característica?",
+        "opcoes": ["Tem todos os lados iguais.", "É um triângulo retângulo com lados inteiros.", "Não existe.", "É um triângulo obtusângulo."],
+        "correta": 1,
+        "explicacao": "É o exemplo mais famoso de triângulo retângulo com lados inteiros."
+      },
+      {
+        "enunciado": "Em um triângulo retângulo, a hipotenusa é sempre:",
+        "opcoes": ["Menor que os catetos.", "Igual à soma dos catetos.", "Maior que qualquer um dos catetos.", "Igual a um dos catetos."],
+        "correta": 2,
+        "explicacao": "A hipotenusa está oposta ao maior ângulo, então é o maior lado."
+      },
+      {
+        "enunciado": "Se um cateto mede 15 e a hipotenusa mede 17, qual é o valor do outro cateto?",
+        "opcoes": ["4", "8", "12", "16"],
+        "correta": 1,
+        "explicacao": "17² = 15² + b² → 289 = 225 + b² → b² = 64 → b = 8."
+      },
+      {
+        "enunciado": "A figura abaixo representa um triângulo retângulo de catetos 6 e 8. Qual é o valor da hipotenusa?",
+        "svg": "<svg width='250' height='120' viewBox='0 0 250 120'><polygon points='20,100 150,100 150,20' fill='none' stroke='#f5e56b' stroke-width='3'/><text x='75' y='115' fill='#e8eefc' font-size='14'>6</text><text x='160' y='65' fill='#e8eefc' font-size='14'>8</text><text x='75' y='55' fill='#e8eefc' font-size='14'>x</text><rect x='140' y='90' width='10' height='10' fill='none' stroke='#f5e56b' stroke-width='1'/></svg>",
+        "opcoes": ["10", "12", "14", "16"],
+        "correta": 0,
+        "explicacao": "x² = 6² + 8² → x² = 36 + 64 = 100 → x = 10."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v1_mat_geometria_retas_01",
+    "titulo": "Matemática - Geometria e Retas",
+    "tipo": "conteudo",
+    "icone": "📏",
+    "perguntas": [
+      {
+        "enunciado": "Quais são os elementos básicos da geometria plana citados no texto?",
+        "opcoes": ["Ponto, reta e plano.", "Quadrado, círculo e triângulo.", "Área, perímetro e volume.", "Lados, vértices e ângulos."],
+        "correta": 0,
+        "explicacao": "Esses três elementos fundamentam a geometria plana."
+      },
+      {
+        "enunciado": "Qual é o postulado que afirma que dois pontos distintos determinam uma única reta?",
+        "opcoes": ["Postulado da reta.", "Postulado do plano.", "Postulado do ponto.", "Postulado do espaço."],
+        "correta": 0,
+        "explicacao": "Por dois pontos distintos passa uma e somente uma reta."
+      },
+      {
+        "enunciado": "Três pontos não colineares determinam um:",
+        "opcoes": ["Ponto.", "Reta.", "Plano.", "Triângulo."],
+        "correta": 2,
+        "explicacao": "Pontos que não estão na mesma reta definem um plano."
+      },
+      {
+        "enunciado": "O que significa 'colineares'?",
+        "opcoes": ["Pontos que estão na mesma reta.", "Pontos que estão no mesmo plano.", "Pontos que formam um triângulo.", "Pontos distantes."],
+        "correta": 0,
+        "explicacao": "Colinear significa estar na mesma linha reta."
+      },
+      {
+        "enunciado": "O que são retas concorrentes?",
+        "opcoes": ["Retas que não se encontram.", "Retas que têm um único ponto em comum.", "Retas que têm todos os pontos em comum.", "Retas que estão em planos diferentes."],
+        "correta": 1,
+        "explicacao": "Retas concorrentes se cruzam em um único ponto."
+      },
+      {
+        "enunciado": "O que são retas paralelas?",
+        "opcoes": ["Retas que se encontram em um ponto.", "Retas que não têm pontos em comum (em um mesmo plano).", "Retas que estão na mesma direção e se cruzam.", "Retas que formam um ângulo de 90°."],
+        "correta": 1,
+        "explicacao": "Retas paralelas nunca se cruzam."
+      },
+      {
+        "enunciado": "O que são retas coincidentes?",
+        "opcoes": ["Retas que se cruzam em um ponto.", "Retas que têm todos os pontos em comum.", "Retas que nunca se cruzam.", "Retas que formam um ângulo reto."],
+        "correta": 1,
+        "explicacao": "Retas coincidentes são a mesma reta."
+      },
+      {
+        "enunciado": "Quais instrumentos são usados para construir retas perpendiculares e paralelas no papel?",
+        "opcoes": ["Régua e compasso.", "Apenas o lápis.", "Transferidor e borracha.", "Calculadora e régua."],
+        "correta": 0,
+        "explicacao": "Régua e compasso são os instrumentos clássicos da geometria."
+      },
+      {
+        "enunciado": "O que é uma reta perpendicular?",
+        "opcoes": ["Uma reta que forma um ângulo de 90° com outra.", "Uma reta que forma um ângulo de 45° com outra.", "Uma reta que nunca cruza outra.", "Uma reta que é paralela a outra."],
+        "correta": 0,
+        "explicacao": "Retas perpendiculares se cruzam formando ângulos retos."
+      },
+      {
+        "enunciado": "Quantos pontos em comum têm duas retas paralelas?",
+        "opcoes": ["1 ponto.", "2 pontos.", "Infinitos pontos.", "Nenhum ponto."],
+        "correta": 3,
+        "explicacao": "Retas paralelas não se cruzam, logo, não têm pontos em comum."
+      },
+      {
+        "enunciado": "A figura abaixo mostra o que?",
+        "svg": "<svg width='200' height='100' viewBox='0 0 200 100'><line x1='10' y1='50' x2='190' y2='50' stroke='#f5e56b' stroke-width='2'/><line x1='100' y1='10' x2='100' y2='90' stroke='#f5e56b' stroke-width='2'/><rect x='90' y='40' width='10' height='10' fill='none' stroke='#f5e56b' stroke-width='1'/></svg>",
+        "opcoes": ["Retas paralelas.", "Retas concorrentes (perpendiculares).", "Retas coincidentes.", "Um plano."],
+        "correta": 1,
+        "explicacao": "As retas se cruzam formando um ângulo reto (90°)."
+      },
+      {
+        "enunciado": "Se duas retas estão no mesmo plano e não se cruzam, elas são:",
+        "opcoes": ["Perpendiculares.", "Concorrentes.", "Paralelas.", "Coincidentes."],
+        "correta": 2,
+        "explicacao": "A definição de retas paralelas é não terem pontos em comum."
+      },
+      {
+        "enunciado": "O que é um plano?",
+        "opcoes": ["Uma linha infinita.", "Uma superfície plana infinita em todas as direções.", "Um ponto no espaço.", "Um triângulo."],
+        "correta": 1,
+        "explicacao": "O plano é uma superfície sem curvatura que se estende infinitamente."
+      },
+      {
+        "enunciado": "Qual é a representação matemática de uma reta?",
+        "opcoes": ["Uma letra maiúscula.", "Uma letra minúscula.", "Um número.", "Um símbolo."],
+        "correta": 1,
+        "explicacao": "Geralmente usamos letras minúsculas (r, s, t) para nomear retas."
+      },
+      {
+        "enunciado": "A interseção entre duas retas concorrentes é:",
+        "opcoes": ["Uma reta.", "Um ponto.", "Um plano.", "Um ângulo."],
+        "correta": 1,
+        "explicacao": "O ponto onde as retas se cruzam é a interseção."
+      },
+      {
+        "enunciado": "Se uma reta 'r' é paralela a 's', e 's' é paralela a 't', então 'r' é paralela a 't'. Isso é verdadeiro?",
+        "opcoes": ["Não.", "Sim, é uma propriedade transitiva.", "Apenas se forem perpendiculares.", "Apenas se formarem um triângulo."],
+        "correta": 1,
+        "explicacao": "A propriedade transitiva do paralelismo é válida."
+      },
+      {
+        "enunciado": "Qual é a principal diferença entre retas concorrentes e paralelas?",
+        "opcoes": ["As concorrentes se cruzam; as paralelas não.", "As paralelas se cruzam; as concorrentes não.", "As concorrentes são curvas.", "As paralelas são curvas."],
+        "correta": 0,
+        "explicacao": "Concorrentes têm um ponto em comum; paralelas não têm nenhum."
+      },
+      {
+        "enunciado": "O que é um segmento de reta?",
+        "opcoes": ["Uma reta infinita.", "Uma parte da reta limitada por dois pontos.", "Um ponto.", "Um plano."],
+        "correta": 1,
+        "explicacao": "O segmento tem início e fim."
+      },
+      {
+        "enunciado": "Quantas retas passam por um único ponto?",
+        "opcoes": ["Nenhuma.", "Apenas uma.", "Infinitas retas.", "Duas."],
+        "correta": 2,
+        "explicacao": "Por um ponto passam infinitas retas em todas as direções."
+      },
+      {
+        "enunciado": "Na imagem abaixo, qual é a posição relativa entre as retas r e s?",
+        "svg": "<svg width='250' height='100' viewBox='0 0 250 100'><line x1='10' y1='30' x2='240' y2='30' stroke='#f5e56b' stroke-width='2'/><line x1='10' y1='70' x2='240' y2='70' stroke='#f5e56b' stroke-width='2'/><text x='250' y='35' fill='#e8eefc'>r</text><text x='250' y='75' fill='#e8eefc'>s</text></svg>",
+        "opcoes": ["Concorrentes.", "Paralelas.", "Coincidentes.", "Perpendiculares."],
+        "correta": 1,
+        "explicacao": "As retas estão no mesmo plano e não se cruzam, portanto são paralelas."
+      }
     ]
   }
 ]
