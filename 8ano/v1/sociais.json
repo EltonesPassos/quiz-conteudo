@@ -1,1 +1,898 @@
-[]
+[
+  {
+    "id": "8ano_v1_sociais_ser_social_01",
+    "titulo": "Ciências Sociais - O Ser Humano e a Vida em Sociedade",
+    "tipo": "conteudo",
+    "icone": "👥",
+    "perguntas": [
+      {
+        "enunciado": "Quais são as três áreas principais que formam o núcleo das Ciências Sociais?",
+        "opcoes": ["Física, Química e Biologia.", "Sociologia, Antropologia e Ciência Política.", "História, Geografia e Filosofia.", "Matemática, Lógica e Retórica."],
+        "correta": 1,
+        "explicacao": "O texto afirma que o núcleo das Ciências Sociais é formado por Sociologia, Antropologia e Ciência Política."
+      },
+      {
+        "enunciado": "A Sociologia dedica-se ao estudo de qual aspecto da vida humana?",
+        "opcoes": ["Das culturas e diversidades.", "Das relações sociais, instituições e hierarquias.", "Das leis da física.", "Do poder político apenas."],
+        "correta": 1,
+        "explicacao": "A Sociologia examina as relações sociais, comportamentos individuais e condicionamentos sociais."
+      },
+      {
+        "enunciado": "Qual área das Ciências Sociais tem como foco a investigação das culturas, valores e símbolos?",
+        "opcoes": ["A Antropologia.", "A Sociologia.", "A Ciência Política.", "A Economia."],
+        "correta": 0,
+        "explicacao": "A Antropologia concentra-se na investigação das culturas e na pluralidade cultural."
+      },
+      {
+        "enunciado": "A Ciência Política se interessa principalmente por qual temática?",
+        "opcoes": ["Pelas relações de parentesco.", "Pelas configurações do poder político e as relações entre Estado e sociedade.", "Pelas doenças sociais.", "Pelo clima e natureza."],
+        "correta": 1,
+        "explicacao": "A Ciência Política examina as configurações do poder político."
+      },
+      {
+        "enunciado": "O que significa a 'confluência' entre as áreas das Ciências Sociais?",
+        "opcoes": ["Que elas são isoladas.", "Que elas têm um referencial temático idêntico: o ser humano como ser social.", "Que uma é superior à outra.", "Que estudam apenas o passado."],
+        "correta": 1,
+        "explicacao": "As áreas convergem no estudo do ser humano em seus múltiplos aspectos."
+      },
+      {
+        "enunciado": "Por que a afirmação 'os humanos vivem em sociedade' não é suficiente para definir o ser social?",
+        "opcoes": ["Porque outras espécies também vivem em formas de organização social.", "Porque os humanos vivem sozinhos.", "Porque a sociedade não existe.", "Porque apenas os animais têm sociedade."],
+        "correta": 0,
+        "explicacao": "Outras espécies também se organizam socialmente, o que exige aprofundamento teórico."
+      },
+      {
+        "enunciado": "No ambiente escolar, o que demonstra que estamos inseridos em múltiplas relações sociais mesmo sem perceber?",
+        "opcoes": ["O fato de usarmos roupas.", "O uso de cadernos produzidos por outras pessoas, instalações planejadas e regras de trânsito.", "O simples ato de respirar.", "A presença de árvores."],
+        "correta": 1,
+        "explicacao": "Objetos e normas escolares são resultados do trabalho e de conceitos sociais de outras pessoas."
+      },
+      {
+        "enunciado": "Para as Ciências Sociais, a vida em sociedade implica apenas as relações entre os seres humanos uns com os outros?",
+        "opcoes": ["Sim, a natureza não importa.", "Não, ela refere-se também às relações dos seres humanos com a natureza.", "Sim, pois os humanos não dependem da natureza.", "Não, pois os animais comandam a sociedade."],
+        "correta": 1,
+        "explicacao": "A vida em sociedade também envolve a relação com a natureza (produção de artefatos)."
+      },
+      {
+        "enunciado": "Segundo o texto, o que os materiais escolares e os lanches consumidos no intervalo representam?",
+        "opcoes": ["Apenas objetos físicos.", "Processos produtivos que articulam diferentes regiões e pessoas que não se conhecem.", "A falta de organização da escola.", "A independência do ser humano."],
+        "correta": 1,
+        "explicacao": "Os objetos resultam de processos complexos que conectam pessoas no mundo todo."
+      },
+      {
+        "enunciado": "O que é um 'artefato' no contexto das Ciências Sociais?",
+        "opcoes": ["Um elemento puramente natural.", "Uma construção humana que resulta da transformação de recursos naturais.", "Uma lei da física.", "Um animal selvagem."],
+        "correta": 1,
+        "explicacao": "Artefatos são objetos fabricados pelo homem a partir da transformação da natureza."
+      },
+      {
+        "enunciado": "O que o arqueólogo Gordon Childe diz sobre as tradições humanas?",
+        "opcoes": ["Elas são inúteis.", "Elas substituem os instintos na vida humana.", "Elas são apenas biológicas.", "Elas impedem a sobrevivência."],
+        "correta": 1,
+        "explicacao": "Childe afirma que roupas, ferramentas e tradições tomam o lugar das peles, garras e instintos."
+      },
+      {
+        "enunciado": "Por que os seres humanos precisam confeccionar ferramentas, enquanto outros animais não?",
+        "opcoes": ["Porque os humanos são mais fracos.", "Porque o organismo humano não possui adaptações biológicas suficientes para sobreviver sozinho na natureza.", "Porque os humanos não gostam da natureza.", "Para gastar tempo."],
+        "correta": 1,
+        "explicacao": "O corpo humano tem limitações biológicas, então a fabricação de ferramentas foi essencial."
+      },
+      {
+        "enunciado": "De acordo com o texto, somos seres sociais, mas inegavelmente somos também:",
+        "opcoes": ["Seres sobrenaturais.", "Seres naturais, submetidos às leis da natureza.", "Seres invisíveis.", "Seres imortais."],
+        "correta": 1,
+        "explicacao": "Temos necessidades naturais que devem ser satisfeitas para nossa sobrevivência."
+      },
+      {
+        "enunciado": "Diferente dos animais, a realidade criada pelos seres humanos é transmitida hereditariamente por meios biológicos?",
+        "opcoes": ["Sim, pelo DNA.", "Não, ela é transmitida por meio de relações de ensino e aprendizagem entre as gerações.", "Sim, pelos instintos.", "Não, ela não é transmitida."],
+        "correta": 1,
+        "explicacao": "A cultura e o conhecimento são passados pelo aprendizado, não apenas pela genética."
+      },
+      {
+        "enunciado": "As construções sociais (como normas e valores) são estáticas e imutáveis?",
+        "opcoes": ["Sim, nunca mudam.", "Não, elas se reformulam e se modificam com a introdução de novos hábitos e princípios.", "Sim, são leis naturais.", "Não, pois não existem."],
+        "correta": 1,
+        "explicacao": "As tradições e normas são construções humanas e, portanto, mutáveis."
+      },
+      {
+        "enunciado": "Quando decidimos por uma atitude, estamos nos relacionando com princípios de conduta socialmente aceitáveis ou não. Isso ocorre porque:",
+        "opcoes": ["A vida social abrange valores, normas de convivência e noções morais.", "Não temos livre arbítrio.", "Somos robôs.", "Apenas a natureza dita nossas regras."],
+        "correta": 0,
+        "explicacao": "As escolhas individuais estão imersas em um universo moral e social."
+      },
+      {
+        "enunciado": "Se não seguimos as normas morais dominantes em nosso grupo social, é comum que sejamos acometidos por:",
+        "opcoes": ["Um sentimento de culpa.", "Uma doença física.", "Uma recompensa.", "Um prêmio."],
+        "correta": 0,
+        "explicacao": "A moral social exerce pressão sobre os indivíduos, gerando culpa em caso de desvio."
+      },
+      {
+        "enunciado": "O que distingue o comportamento estritamente natural do comportamento social humano?",
+        "opcoes": ["O comportamento humano não é regido apenas por leis biológicas, mas por normas sociais construídas.", "O comportamento humano é igual ao dos animais.", "O comportamento natural é superior.", "Não há distinção."],
+        "correta": 0,
+        "explicacao": "O ser humano age socialmente, guiado por valores e normas culturais, não apenas por instintos."
+      },
+      {
+        "enunciado": "Segundo o texto, a complexidade do mundo humano atual é resultado de:",
+        "opcoes": ["Apenas da natureza intocada.", "Uma longa história de transformações e construções humanas.", "Um passe de mágica.", "Da ação dos animais."],
+        "correta": 1,
+        "explicacao": "O mundo humano é construído historicamente pelas ações e relações sociais."
+      },
+      {
+        "enunciado": "As Ciências Sociais surgiram para:",
+        "opcoes": ["Substituir a filosofia.", "Conhecer e explicar cientificamente a vida dos seres humanos em sociedade.", "Estudar apenas o clima.", "Criar novas religiões."],
+        "correta": 1,
+        "explicacao": "O texto define as Ciências Sociais como a busca por explicações científicas para a vida em sociedade."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v1_sociais_filosofia_antiga_01",
+    "titulo": "Ciências Sociais - Filosofia Pré-Socrática e Sócrates",
+    "tipo": "conteudo",
+    "icone": "🏛️",
+    "perguntas": [
+      {
+        "enunciado": "O que buscavam os primeiros filósofos da Grécia Antiga (século VI a.C.) com as cosmologias?",
+        "opcoes": ["Explicar a formação do Universo e da natureza por meio da razão, substituindo os mitos.", "Criar novas religiões.", "Comprovar que a Terra era plana.", "Desenvolver a tecnologia espacial."],
+        "correta": 0,
+        "explicacao": "As cosmologias buscavam explicações racionais para a origem do mundo, em vez de narrativas mitológicas."
+      },
+      {
+        "enunciado": "O que significa o termo grego 'arché'?",
+        "opcoes": ["O fim de todas as coisas.", "O princípio originário de todas as coisas.", "O espaço sideral.", "A alma humana."],
+        "correta": 1,
+        "explicacao": "Arché é o princípio, a origem e a organização do mundo."
+      },
+      {
+        "enunciado": "Como o texto define 'physis'?",
+        "opcoes": ["A cultura humana.", "A natureza, a totalidade de tudo o que é.", "A política.", "A matemática."],
+        "correta": 1,
+        "explicacao": "Physis é a natureza, a totalidade dos elementos existentes no mundo."
+      },
+      {
+        "enunciado": "A expressão 'pré-socráticos' é usada para nomear quais filósofos?",
+        "opcoes": ["Os que vieram antes de Sócrates.", "Os que vieram depois de Platão.", "Os filósofos medievais.", "Os cientistas modernos."],
+        "correta": 0,
+        "explicacao": "São os filósofos anteriores à proposta filosófica socrática."
+      },
+      {
+        "enunciado": "No início, a filosofia caracterizava-se pela busca do conhecimento racional da natureza, diferindo dos relatos míticos porque:",
+        "opcoes": ["Aceitava os mitos sem questionar.", "Narrava a formação do mundo por intermédio das ações dos deuses.", "Buscava explicações baseadas na razão e argumentação, não em deuses.", "Ignorava a natureza."],
+        "correta": 2,
+        "explicacao": "A nascente filosofia diferenciou-se dos mitos ao priorizar a razão."
+      },
+      {
+        "enunciado": "Com as ideias de Sócrates e dos sofistas, a filosofia grega passou a focar em qual temática?",
+        "opcoes": ["Exclusivamente nos astros.", "Na temática especificamente humana.", "Na criação de impérios.", "No estudo dos oceanos."],
+        "correta": 1,
+        "explicacao": "Nesse período, as questões sobre o ser humano tornaram-se o centro das reflexões."
+      },
+      {
+        "enunciado": "Qual era a principal tarefa da filosofia para Sócrates?",
+        "opcoes": ["O conhecimento da natureza humana, com o lema 'conhece-te a ti mesmo'.", "O acúmulo de riquezas.", "A dominação da natureza.", "A criação de leis."],
+        "correta": 0,
+        "explicacao": "Sócrates inaugurou a vertente de investigações sobre a natureza humana."
+      },
+      {
+        "enunciado": "Qual era a principal pergunta do projeto filosófico socrático?",
+        "opcoes": ["O que é a natureza?", "O que é o ser humano?", "O que é o universo?", "O que é a matemática?"],
+        "correta": 1,
+        "explicacao": "Sócrates voltou sua atenção para a essência e a existência do ser humano."
+      },
+      {
+        "enunciado": "Quem eram os sofistas?",
+        "opcoes": ["Filósofos que negavam a existência humana.", "Pedagogos influentes em Atenas que ensinavam retórica e argumentação.", "Guerreiros espartanos.", "Deuses gregos."],
+        "correta": 1,
+        "explicacao": "Os sofistas ensinavam a arte do debate e da argumentação para a participação política."
+      },
+      {
+        "enunciado": "O que o texto diz sobre a relação entre Sócrates e Platão/Aristóteles?",
+        "opcoes": ["Platão e Aristóteles deram continuidade ao projeto de focar no ser humano, mas resgataram a importância das considerações cosmológicas e sobre a physis.", "Eles ignoraram Sócrates.", "Eles eram pré-socráticos.", "Eles negaram a filosofia."],
+        "correta": 0,
+        "explicacao": "Platão e Aristóteles focaram no ser humano, mas não abandonaram o estudo da natureza."
+      },
+      {
+        "enunciado": "Segundo o texto, o desenvolvimento de técnicas de domínio sobre a natureza (contemplativo) tem seu fim em si mesmo?",
+        "opcoes": ["Sim, na antiguidade não havia propósitos práticos.", "Não, buscava-se a sobreposição da humanidade em relação ao meio natural.", "Sim, os filósofos não queriam entender a natureza.", "Não, eles queriam apenas criar máquinas."],
+        "correta": 0,
+        "explicacao": "O saber contemplativo grego tinha seu fim em si mesmo, não sendo um meio para propósitos práticos imediatos."
+      },
+      {
+        "enunciado": "Qual é a diferença de foco entre os pré-socráticos e Sócrates?",
+        "opcoes": ["Os pré-socráticos focavam na physis (natureza) e Sócrates no ser humano.", "Os dois focavam no ser humano.", "Os dois focavam na política.", "Sócrates focava no espaço sideral."],
+        "correta": 0,
+        "explicacao": "Houve uma mudança de ênfase da natureza (pré-socráticos) para o ser humano (Sócrates)."
+      },
+      {
+        "enunciado": "O que Sócrates buscava ao afirmar 'conhece-te a ti mesmo'?",
+        "opcoes": ["Aceitar as tradições sem questionar.", "A investigação da natureza humana.", "Apenas decorar os mitos.", "Afastar-se da sociedade."],
+        "correta": 1,
+        "explicacao": "O autoconhecimento é o caminho para a investigação filosófica socrática."
+      },
+      {
+        "enunciado": "As questões sobre a 'physis' na antiguidade estavam ligadas a qual tipo de conhecimento?",
+        "opcoes": ["À teologia medieval.", "À busca por explicar o mundo natural de forma racional, com o conceito de arché.", "Às leis do mercado.", "Ao iluminismo."],
+        "correta": 1,
+        "explicacao": "A physis era estudada para encontrar o princípio racional (arché) de todas as coisas."
+      },
+      {
+        "enunciado": "O que caracteriza a passagem do pensamento mítico para o filosófico na Grécia?",
+        "opcoes": ["A busca por respostas baseadas na razão e não apenas nos deuses.", "A aceitação cega das narrativas sagradas.", "O fim do comércio.", "O abandono da linguagem."],
+        "correta": 0,
+        "explicacao": "A filosofia surge como uma tentativa de explicar a realidade por meio da razão."
+      },
+      {
+        "enunciado": "Para Sócrates, a verdade estava fora do ser humano ou dentro dele?",
+        "opcoes": ["Dentro dele, por meio do autoconhecimento.", "Apenas nos livros.", "Apenas nos templos.", "Apenas na natureza."],
+        "correta": 0,
+        "explicacao": "O projeto socrático é um convite à interiorização e ao conhecimento de si."
+      },
+      {
+        "enunciado": "O que os sofistas ensinavam que era fundamental para a vida política em Atenas?",
+        "opcoes": ["A arte da guerra.", "A retórica (habilidades argumentativas).", "A agricultura.", "A astronomia."],
+        "correta": 1,
+        "explicacao": "A retórica era essencial para o debate nas assembleias democráticas."
+      },
+      {
+        "enunciado": "A filosofia pré-socrática é também chamada de:",
+        "opcoes": ["Filosofia da natureza.", "Filosofia política.", "Filosofia cristã.", "Filosofia medieval."],
+        "correta": 0,
+        "explicacao": "Os pré-socráticos buscavam entender a physis (natureza)."
+      },
+      {
+        "enunciado": "O que significa dizer que o conhecimento pré-socrático era 'contemplativo'?",
+        "opcoes": ["Que ele tinha um fim prático de dominação.", "Que ele tinha seu fim em si mesmo, não sendo um meio para propósitos práticos.", "Que ele era feito em templos.", "Que ele era apenas visual."],
+        "correta": 1,
+        "explicacao": "A busca pelo saber na antiguidade não visava a aplicação tecnológica imediata."
+      },
+      {
+        "enunciado": "Com Sócrates, a filosofia passa a ser uma investigação sobre:",
+        "opcoes": ["O cosmos.", "A natureza humana.", "As estrelas.", "Os oceanos."],
+        "correta": 1,
+        "explicacao": "Sócrates descentralizou a filosofia do cosmos e a trouxe para o ser humano."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v1_sociais_helenismo_idade_media_01",
+    "titulo": "Ciências Sociais - Helenismo e a Filosofia Medieval",
+    "tipo": "conteudo",
+    "icone": "⚖️",
+    "perguntas": [
+      {
+        "enunciado": "O que é o 'cinismo' na filosofia helenística?",
+        "opcoes": ["Uma corrente que defendia a busca pela fama.", "Uma corrente que propunha a renúncia total às convenções da vida em sociedade e aos bens materiais.", "Uma escola de política.", "Uma técnica de guerra."],
+        "correta": 1,
+        "explicacao": "Os cínicos rejeitavam as convenções sociais e acreditavam que a felicidade estava em viver conforme a natureza."
+      },
+      {
+        "enunciado": "Quem foi Diógenes de Sinope?",
+        "opcoes": ["Um imperador romano.", "O mais conhecido dos filósofos cínicos.", "Um matemático grego.", "Um deus grego."],
+        "correta": 1,
+        "explicacao": "Diógenes é famoso por seu modo de vida extremamente simples, criticando as convenções sociais."
+      },
+      {
+        "enunciado": "Como Diógenes respondia às convenções sociais e à valorização de riquezas materiais?",
+        "opcoes": ["Com indiferença.", "Condenando-as de maneira incisiva, pois distanciavam os humanos de sua natureza.", "Apoiando-as.", "Ensinando como enriquecer."],
+        "correta": 1,
+        "explicacao": "Diógenes criticava a propriedade privada e as riquezas, buscando uma vida natural."
+      },
+      {
+        "enunciado": "Segundo a filosofia cínica, o que seria uma vida em conformidade com a natureza?",
+        "opcoes": ["Viver nas grandes cidades.", "O exercício incessante da liberdade na realização das necessidades naturais, próxima da simples animalidade.", "Acumular bens.", "Seguir todas as regras sociais."],
+        "correta": 1,
+        "explicacao": "Os cínicos buscavam a autossuficiência e a rejeição de convenções artificiais."
+      },
+      {
+        "enunciado": "Qual é a origem do termo 'cinismo'?",
+        "opcoes": ["Do grego 'kinikos', que significa 'como um cão'.", "Do latim 'cinema'.", "Do grego 'cosmos'.", "Do nome de um deus."],
+        "correta": 0,
+        "explicacao": "A denominação vem de 'kinikos', referindo-se ao modo de vida simples e muitas vezes desprezado pelos gregos."
+      },
+      {
+        "enunciado": "Na filosofia medieval, qual foi a grande influência cultural e religiosa?",
+        "opcoes": ["O cristianismo.", "O hinduísmo.", "O ateísmo.", "O islamismo."],
+        "correta": 0,
+        "explicacao": "A expansão do cristianismo influenciou fortemente a filosofia medieval."
+      },
+      {
+        "enunciado": "Na Idade Média, como a natureza e o ser humano eram analisados filosoficamente?",
+        "opcoes": ["Como partes de um conjunto maior, a totalidade da criação divina.", "Apenas como máquinas biológicas.", "Como algo a ser destruído.", "Sem nenhuma relação com a religião."],
+        "correta": 0,
+        "explicacao": "A filosofia medieval buscava combinar o saber racional com o saber revelado do cristianismo."
+      },
+      {
+        "enunciado": "O que a filosofia helenística enfatizava como condição necessária para a busca da felicidade?",
+        "opcoes": ["O acúmulo de riquezas.", "A busca da felicidade pelos seres humanos.", "A dominação da natureza.", "A fama."],
+        "correta": 1,
+        "explicacao": "A ética helenística focava na busca da felicidade e da tranquilidade da alma."
+      },
+      {
+        "enunciado": "Para o cinismo, o que a vida em sociedade e suas regras artificiais causavam?",
+        "opcoes": ["Afastamento do ser humano de sua própria natureza e de uma existência verdadeiramente feliz.", "Enriquecimento.", "Poder político.", "Fama."],
+        "correta": 0,
+        "explicacao": "As convenções sociais eram vistas como obstáculos para a vida natural."
+      },
+      {
+        "enunciado": "Qual é a principal crítica dos cínicos à sociedade grega?",
+        "opcoes": ["A falta de tecnologia.", "A artificialidade das instituições e a valorização de bens materiais.", "A falta de deuses.", "A ausência de leis."],
+        "correta": 1,
+        "explicacao": "Os cínicos rejeitavam a artificialidade e defendiam a vida conforme a natureza."
+      },
+      {
+        "enunciado": "O que caracterizava a busca filosófica no período helenístico?",
+        "opcoes": ["A busca por explicações sobre a physis.", "A busca pela felicidade e pela tranquilidade da alma.", "A criação de novos impérios.", "A ciência moderna."],
+        "correta": 1,
+        "explicacao": "A filosofia helenística voltou-se para a ética e a busca da felicidade."
+      },
+      {
+        "enunciado": "A filosofia medieval buscava conciliar o saber revelado do cristianismo com:",
+        "opcoes": ["O saber racional da filosofia.", "A ciência moderna.", "A mitologia grega.", "O ateísmo."],
+        "correta": 0,
+        "explicacao": "A escolástica medieval buscava harmonizar fé e razão."
+      },
+      {
+        "enunciado": "Diante do imperador Alexandre Magno, qual foi a atitude de Diógenes?",
+        "opcoes": ["Fez uma reverência.", "Pediu riquezas.", "Pediu que ele se afastasse, pois tapava o sol.", "Desafiou-o para uma guerra."],
+        "correta": 2,
+        "explicacao": "Diógenes demonstrou total desprezo pelo poder material."
+      },
+      {
+        "enunciado": "O que o cinismo propunha em relação aos costumes e formas de comportamento?",
+        "opcoes": ["A renúncia a todas as convenções da vida em sociedade.", "A obediência cega às leis.", "A criação de novas leis.", "Apenas a mudança de governantes."],
+        "correta": 0,
+        "explicacao": "Os cínicos rejeitavam os costumes artificiais da sociedade."
+      },
+      {
+        "enunciado": "Segundo o texto, a filosofia medieval analisa a natureza sob a perspectiva de qual área?",
+        "opcoes": ["Da teologia.", "Da biologia.", "Da física quântica.", "Da astronomia."],
+        "correta": 0,
+        "explicacao": "A natureza era vista como parte da criação divina."
+      },
+      {
+        "enunciado": "Quem era Diógenes de Sinope?",
+        "opcoes": ["Um imperador.", "Um filósofo cínico.", "Um cientista.", "Um poeta."],
+        "correta": 1,
+        "explicacao": "Diógenes é o principal representante do cinismo."
+      },
+      {
+        "enunciado": "O que os filósofos cínicos rejeitavam?",
+        "opcoes": ["A natureza.", "As instituições sociais artificiais e os bens materiais.", "A filosofia.", "A razão."],
+        "correta": 1,
+        "explicacao": "Eles buscavam a autossuficiência e a vida natural."
+      },
+      {
+        "enunciado": "Qual foi o papel do cristianismo na Idade Média?",
+        "opcoes": ["Não teve papel.", "Influenciou a expansão cultural e as reflexões filosóficas.", "Foi combatido pela filosofia.", "Foi criado pelos filósofos."],
+        "correta": 1,
+        "explicacao": "O cristianismo foi a base da cultura medieval."
+      },
+      {
+        "enunciado": "Para os cínicos, a verdadeira liberdade consistia em:",
+        "opcoes": ["Ter muito dinheiro.", "Viver de acordo com a natureza e livre das convenções artificiais.", "Ter poder político.", "Ser famoso."],
+        "correta": 1,
+        "explicacao": "A liberdade cínica era a libertação das necessidades artificiais."
+      },
+      {
+        "enunciado": "A filosofia medieval buscava compreender a relação entre o ser humano, a natureza e:",
+        "opcoes": ["O Estado.", "A criação divina.", "A ciência moderna.", "A política."],
+        "correta": 1,
+        "explicacao": "A teologia medieval via a natureza como parte da criação de Deus."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v1_sociais_renascimento_ciencia_01",
+    "titulo": "Ciências Sociais - Renascimento e Ciência Moderna",
+    "tipo": "conteudo",
+    "icone": "🔭",
+    "perguntas": [
+      {
+        "enunciado": "Qual é a diferença entre a ciência antiga e a ciência moderna?",
+        "opcoes": ["A antiga buscava apenas explicações racionais; a moderna busca a experimentação metódica e o domínio da natureza.", "As duas são idênticas.", "A moderna ignora a razão.", "A antiga usava apenas computadores."],
+        "correta": 0,
+        "explicacao": "A ciência moderna associa observação racional a experimentos para controlar a natureza."
+      },
+      {
+        "enunciado": "O que caracteriza o Renascimento Cultural em relação ao ser humano?",
+        "opcoes": ["A adoção do teocentrismo.", "O favorecimento do antropocentrismo (ser humano no centro) e do racionalismo.", "A negação da ciência.", "O fim da filosofia."],
+        "correta": 1,
+        "explicacao": "No Renascimento, o ser humano passa a ser o centro das atenções (antropocentrismo)."
+      },
+      {
+        "enunciado": "Qual filósofo moderno declarou a célebre frase 'saber é poder' e defendia um método para o domínio da natureza?",
+        "opcoes": ["Sócrates.", "Francis Bacon.", "René Descartes.", "Diógenes."],
+        "correta": 1,
+        "explicacao": "Francis Bacon defendia que o conhecimento científico deveria ser aplicado para gerar vantagens e progresso para a humanidade."
+      },
+      {
+        "enunciado": "Qual é a ideia central defendida por René Descartes na obra 'Discurso do Método'?",
+        "opcoes": ["Que a tradição deve ser aceita sem questionamentos.", "A busca por um conhecimento seguro, do qual não se possa duvidar, para nos tornarmos 'senhores e possuidores da natureza'.", "Que a natureza é invencível.", "Que a filosofia deve ser abandonada."],
+        "correta": 1,
+        "explicacao": "Descartes buscou um método rigoroso que permitisse o avanço do conhecimento e o domínio do homem sobre a natureza."
+      },
+      {
+        "enunciado": "Segundo Francis Bacon, o que significa 'saber é poder'?",
+        "opcoes": ["O poder de controlar as pessoas.", "O poder da humanidade sobre a natureza, alcançado pelo conhecimento científico.", "O poder de comprar coisas.", "O poder militar."],
+        "correta": 1,
+        "explicacao": "Para Bacon, o conhecimento científico é a ferramenta para dominar a natureza em benefício da humanidade."
+      },
+      {
+        "enunciado": "No Renascimento, qual era a visão sobre a natureza?",
+        "opcoes": ["Que ela não existia.", "Que a natureza é regida por leis próprias e deve ser pesquisada cientificamente.", "Que a natureza é um mistério incompreensível.", "Que a natureza é sagrada e intocável."],
+        "correta": 1,
+        "explicacao": "O naturalismo renascentista enfatizava a natureza como uma realidade regida por leis próprias."
+      },
+      {
+        "enunciado": "Como a ciência moderna via a relação entre o conhecimento e a natureza?",
+        "opcoes": ["O conhecimento deveria ser apenas contemplativo.", "O conhecimento deveria proporcionar o domínio absoluto sobre o meio natural.", "O conhecimento deveria ser inútil.", "O conhecimento deveria ser apenas religioso."],
+        "correta": 1,
+        "explicacao": "A ciência moderna associa-se à expectativa de controle sobre a natureza e desenvolvimento de tecnologias."
+      },
+      {
+        "enunciado": "Qual foi a principal mudança de mentalidade trazida pelo Renascimento?",
+        "opcoes": ["Do teocentrismo para o antropocentrismo.", "Do antropocentrismo para o teocentrismo.", "Do ateísmo para o cristianismo.", "Do cristianismo para o hinduísmo."],
+        "correta": 0,
+        "explicacao": "A cultura renascentista colocou o ser humano no centro das atenções."
+      },
+      {
+        "enunciado": "Qual a importância do método para Descartes?",
+        "opcoes": ["Era irrelevante.", "Era o caminho para se chegar a um conhecimento seguro e indubitável.", "Era apenas uma perda de tempo.", "Servia para enganar as pessoas."],
+        "correta": 1,
+        "explicacao": "Descartes buscava um método rigoroso para guiar a razão."
+      },
+      {
+        "enunciado": "Segundo Descartes, a tradição letrada e cultural garantia conhecimentos seguros?",
+        "opcoes": ["Sim, sempre.", "Não, ela não produziu conhecimentos seguros e questionáveis sobre a realidade.", "Sim, apenas a igreja garantia.", "Não, porque a tradição não existe."],
+        "correta": 1,
+        "explicacao": "Descartes duvidava do conhecimento tradicional e buscava uma base sólida para a ciência."
+      },
+      {
+        "enunciado": "Qual a principal característica do antropocentrismo renascentista?",
+        "opcoes": ["Valorização da criatividade e da capacidade humana de conhecer e transformar a realidade.", "Desprezo pelo ser humano.", "Foco apenas nos animais.", "Foco apenas nas estrelas."],
+        "correta": 0,
+        "explicacao": "O antropocentrismo valoriza a razão e a autonomia humana."
+      },
+      {
+        "enunciado": "Para Bacon, como o verdadeiro saber é construído?",
+        "opcoes": ["Apenas lendo livros antigos.", "Interrogando corretamente a natureza, mediante experiências realizadas com método.", "Apenas rezando.", "Apenas observando o céu."],
+        "correta": 1,
+        "explicacao": "Bacon valorizava o método experimental e a observação da natureza."
+      },
+      {
+        "enunciado": "O que a ciência moderna buscava extrair dos fenômenos naturais?",
+        "opcoes": ["Apenas a beleza.", "Leis gerais que pudessem ser aplicadas.", "Apenas a cor.", "Apenas o movimento."],
+        "correta": 1,
+        "explicacao": "A ciência moderna busca leis gerais para explicar os fenômenos naturais."
+      },
+      {
+        "enunciado": "Como o texto descreve a expectativa moderna em relação ao conhecimento?",
+        "opcoes": ["De controle sobre a natureza e de utilização do conhecimento para desenvolver tecnologias.", "De contemplação passiva.", "De abandono da ciência.", "De retorno ao mito."],
+        "correta": 0,
+        "explicacao": "O saber moderno está associado à intervenção e ao domínio da natureza."
+      },
+      {
+        "enunciado": "O que a frase 'senhores e possuidores da natureza' de Descartes reflete?",
+        "opcoes": ["A intenção de preservar a natureza intocada.", "A visão de que o ser humano deve dominar a natureza por meio do conhecimento científico.", "A ideia de que a natureza é superior ao homem.", "A intenção de destruir a natureza."],
+        "correta": 1,
+        "explicacao": "Reflete a mentalidade moderna de domínio e controle sobre o mundo natural."
+      },
+      {
+        "enunciado": "Qual é a visão de Francis Bacon sobre a ciência?",
+        "opcoes": ["A ciência deve ser apenas teórica.", "A ciência deve trazer vantagens práticas para a humanidade.", "A ciência deve ser apenas religiosa.", "A ciência deve ser abandonada."],
+        "correta": 1,
+        "explicacao": "Bacon via a ciência como um meio para o progresso e o bem-estar humano."
+      },
+      {
+        "enunciado": "O que o Renascimento propôs em relação à herança cultural medieval?",
+        "opcoes": ["Uma confrontação, favorecendo o antropocentrismo e o racionalismo.", "Uma aceitação total.", "Um abandono completo de toda a cultura.", "Uma volta ao mito."],
+        "correta": 0,
+        "explicacao": "O Renascimento rompeu com a visão teocêntrica medieval."
+      },
+      {
+        "enunciado": "Segundo o texto, a ciência antiga consiste em discursos racionais que não submetem suas teorias a:",
+        "opcoes": ["Discussões.", "Testes e demonstrações experimentais.", "Aulas.", "Livros."],
+        "correta": 1,
+        "explicacao": "A ciência antiga era mais contemplativa; a moderna é experimental."
+      },
+      {
+        "enunciado": "O que a ciência moderna busca combinar?",
+        "opcoes": ["Apenas a religião.", "Observações racionais com a execução de experiências metódicas.", "Apenas a intuição.", "Apenas a tradição."],
+        "correta": 1,
+        "explicacao": "A ciência moderna alia razão e experimentação."
+      },
+      {
+        "enunciado": "Quais são os dois filósofos modernos citados no texto que declararam entusiasmo pelo conhecimento científico?",
+        "opcoes": ["Sócrates e Platão.", "Francis Bacon e René Descartes.", "Aristóteles e Diógenes.", "Kant e Hegel."],
+        "correta": 1,
+        "explicacao": "Bacon e Descartes são os grandes nomes da filosofia moderna citados."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v1_sociais_mundo_natural_humano_01",
+    "titulo": "Ciências Sociais - Mundo Natural e Mundo Humano",
+    "tipo": "conteudo",
+    "icone": "🌍",
+    "perguntas": [
+      {
+        "enunciado": "Para Immanuel Kant, como os seres vivos não humanos se comportam em relação às leis naturais?",
+        "opcoes": ["Eles têm total liberdade para criar novas realidades.", "Eles estão sob a 'heteronomia', obedecendo a regras externas não elaboradas por eles.", "Eles são autônomos.", "Eles não seguem leis."],
+        "correta": 1,
+        "explicacao": "Os animais existem sob a heteronomia, seguindo regras determinadas pela natureza."
+      },
+      {
+        "enunciado": "Segundo Kant, o que diferencia os seres humanos dos outros animais em relação às regras?",
+        "opcoes": ["Os humanos agem apenas por instinto.", "Os humanos inclinam-se racionalmente para a autonomia, afirmando-se livres em relação à natureza.", "Os humanos são mais fortes fisicamente.", "Os humanos não precisam de regras."],
+        "correta": 1,
+        "explicacao": "A autonomia, baseada na razão, permite ao ser humano construir uma realidade cultural e livre."
+      },
+      {
+        "enunciado": "O que caracteriza o 'mundo natural'?",
+        "opcoes": ["A realidade construída pela humanidade.", "A dinâmica da natureza, com suas leis próprias, ciclos de vida e morte, sem interferência humana.", "As grandes cidades.", "Os objetos fabricados pelo homem."],
+        "correta": 1,
+        "explicacao": "O mundo natural é a natureza original, com suas próprias leis de causalidade."
+      },
+      {
+        "enunciado": "O que é o 'mundo humano'?",
+        "opcoes": ["O mundo dos animais selvagens.", "A realidade construída pela humanidade, que ultrapassa a realidade natural.", "O mesmo que mundo natural.", "Um mundo imaginário."],
+        "correta": 1,
+        "explicacao": "O mundo humano é gerado pelas relações sociais e ações humanas sobre a natureza."
+      },
+      {
+        "enunciado": "Segundo o texto, a vida dos seres humanos em sociedade é regida por normas naturais ou sociais?",
+        "opcoes": ["Apenas naturais.", "Por normas sociais, que envolvem valores e explicações sobre o mundo.", "Apenas por leis da física.", "Não é regida por nada."],
+        "correta": 1,
+        "explicacao": "Diferente dos animais, o comportamento humano é condicionado socialmente, por valores e normas."
+      },
+      {
+        "enunciado": "O que é um 'artefato'?",
+        "opcoes": ["Um elemento puramente natural.", "Uma construção humana que resulta da transformação de recursos naturais.", "Uma lei da física.", "Um animal selvagem."],
+        "correta": 1,
+        "explicacao": "Artefatos são objetos fabricados pelo homem a partir da transformação da natureza."
+      },
+      {
+        "enunciado": "De acordo com o arqueólogo Gordon Childe, o que as tradições humanas substituem na vida humana?",
+        "opcoes": ["As leis da física.", "Os instintos.", "A necessidade de comer.", "O meio ambiente."],
+        "correta": 1,
+        "explicacao": "Childe afirma que, na história humana, roupas, ferramentas e tradições tomam o lugar das peles, garras e instintos."
+      },
+      {
+        "enunciado": "Por que os seres humanos precisam confeccionar equipamentos (ferramentas), enquanto outros animais não?",
+        "opcoes": ["Porque os humanos são mais fracos que os outros animais.", "Porque o organismo humano não possui adaptações biológicas suficientes (como garras ou pelos grossos) para sobreviver sozinho, precisando superar limitações biológicas.", "Porque os humanos não gostam da natureza.", "Para gastar tempo."],
+        "correta": 1,
+        "explicacao": "O corpo humano tem limitações biológicas, então a inteligência e a fabricação de ferramentas foram essenciais para a sobrevivência da espécie."
+      },
+      {
+        "enunciado": "Segundo Kant, como o ser humano se relaciona com o determinismo natural?",
+        "opcoes": ["Ele é totalmente dominado por ele.", "Ele é parcialmente subordinado, mas tem a capacidade racional de construir uma realidade própria (cultural).", "Ele ignora a natureza.", "Ele não tem relação com a natureza."],
+        "correta": 1,
+        "explicacao": "Kant defende que somos seres naturais, mas também racionais e livres."
+      },
+      {
+        "enunciado": "Para Kant, a realidade humana é chamada de:",
+        "opcoes": ["Reino dos fins.", "Reino natural.", "Reino animal.", "Reino das coisas."],
+        "correta": 0,
+        "explicacao": "O 'reino dos fins' é a realidade construída pela razão e liberdade humana."
+      },
+      {
+        "enunciado": "O que a 'heteronomia' significa no contexto da filosofia de Kant?",
+        "opcoes": ["A capacidade de criar suas próprias leis.", "Obedecer a regras externas não elaboradas pelo próprio indivíduo.", "A ausência de regras.", "A liberdade total."],
+        "correta": 1,
+        "explicacao": "Os animais são heterônomos, pois seguem as leis da natureza."
+      },
+      {
+        "enunciado": "Qual é o exemplo de ação humana que, segundo o texto, demonstra a construção de uma realidade além da natureza?",
+        "opcoes": ["A confecção de ferramentas e a construção de moradias.", "A respiração.", "A digestão.", "A queda de uma árvore."],
+        "correta": 0,
+        "explicacao": "As ferramentas e moradias são exemplos de transformação da natureza pela ação humana."
+      },
+      {
+        "enunciado": "O que a inteligência e a fabricação de ferramentas permitiram aos humanos em relação ao planeta?",
+        "opcoes": ["Que eles ficassem restritos a uma pequena área.", "Que eles ocupassem praticamente todas as regiões do planeta.", "Que eles voltassem a ser animais selvagens.", "Que eles parassem de evoluir."],
+        "correta": 1,
+        "explicacao": "A capacidade de transformar a natureza permitiu a expansão humana por todo o globo."
+      },
+      {
+        "enunciado": "O que os seres humanos estabelecem ao se apropriarem da natureza?",
+        "opcoes": ["Apenas leis naturais.", "Valores, regras, símbolos, costumes e visões de mundo.", "Apenas destruição.", "Apenas riqueza."],
+        "correta": 1,
+        "explicacao": "A ação humana sobre a natureza gera cultura e organização social."
+      },
+      {
+        "enunciado": "De acordo com o texto, a cultura é transmitida hereditariamente por meios biológicos?",
+        "opcoes": ["Sim, pelo DNA.", "Não, ela é transmitida por meio de relações de ensino e aprendizagem.", "Sim, pelos instintos.", "Não, ela não é transmitida."],
+        "correta": 1,
+        "explicacao": "A cultura é passada pelo aprendizado e pela socialização."
+      },
+      {
+        "enunciado": "O que Gordon Childe diz sobre as tradições?",
+        "opcoes": ["Que elas são estáticas.", "Que elas condicionam os modos de vida social e são transferidas para novas gerações, mas podem ser modificadas.", "Que elas são inúteis.", "Que elas são apenas biológicas."],
+        "correta": 1,
+        "explicacao": "As tradições são construções humanas, portanto mutáveis."
+      },
+      {
+        "enunciado": "Qual é a diferença entre 'mundo natural' e 'mundo humano'?",
+        "opcoes": ["O mundo natural não existe.", "O mundo natural é a natureza intocada; o mundo humano é a realidade construída pela ação social.", "O mundo humano é igual ao natural.", "O mundo natural é feito de concreto."],
+        "correta": 1,
+        "explicacao": "O mundo humano é a transformação e ressignificação do mundo natural."
+      },
+      {
+        "enunciado": "Segundo o texto, a natureza é suficiente para explicar o comportamento humano em sociedade?",
+        "opcoes": ["Sim, somos apenas animais.", "Não, o comportamento humano é condicionado socialmente, por valores e normas.", "Sim, a biologia explica tudo.", "Não, porque a natureza não existe."],
+        "correta": 1,
+        "explicacao": "O ser humano é um ser social e cultural, não apenas biológico."
+      },
+      {
+        "enunciado": "O que é a 'autonomia' em Kant?",
+        "opcoes": ["A capacidade de se guiar por leis próprias ditadas pela razão.", "Obedecer a leis externas.", "Não ter leis.", "Agir por instinto."],
+        "correta": 0,
+        "explicacao": "A autonomia é a capacidade de se autogovernar racionalmente."
+      },
+      {
+        "enunciado": "Para Kant, o ser humano é um ser de duas dimensões. Quais são elas?",
+        "opcoes": ["Natural e racional/autônoma.", "Apenas natural.", "Apenas racional.", "Apenas espiritual."],
+        "correta": 0,
+        "explicacao": "O ser humano é um ser natural, mas com capacidade racional de autonomia."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v1_sociais_acao_humana_01",
+    "titulo": "Ciências Sociais - Ação Humana e Transformação do Mundo",
+    "tipo": "conteudo",
+    "icone": "🛠️",
+    "perguntas": [
+      {
+        "enunciado": "O que é o 'mundo humano'?",
+        "opcoes": ["Uma criação dos seres humanos a partir da transformação da natureza.", "O mundo dos animais selvagens.", "O mundo intocado.", "O mundo dos sonhos."],
+        "correta": 0,
+        "explicacao": "O mundo humano é a realidade construída, que ultrapassa a realidade natural."
+      },
+      {
+        "enunciado": "O que os seres humanos fazem ao se apropriarem da natureza?",
+        "opcoes": ["Apenas a observam.", "Modificam-na de acordo com suas necessidades de sobrevivência e exigências sociais.", "A destroem sem motivo.", "A abandonam."],
+        "correta": 1,
+        "explicacao": "A ação humana transforma a natureza em objetos e realidades úteis."
+      },
+      {
+        "enunciado": "Segundo o texto, a realidade social humana se define apenas por suas realizações materiais?",
+        "opcoes": ["Sim, apenas pelo que construímos.", "Não, ela também envolve aspectos socioculturais, como a distribuição dos cômodos em uma casa ou o espaço público.", "Sim, pois a cultura não importa.", "Não, pois não existe realidade social."],
+        "correta": 1,
+        "explicacao": "As construções físicas também expressam relações sociais e culturais."
+      },
+      {
+        "enunciado": "O que diferencia o modo de vida dos seres humanos do modo de vida dos animais?",
+        "opcoes": ["Os humanos agem apenas por instinto.", "Os modos de vida humanos não são definidos pela natureza, mas sim socialmente condicionados.", "Os animais têm mais cultura.", "Não há diferença."],
+        "correta": 1,
+        "explicacao": "A vida social humana é regida por normas e valores culturais."
+      },
+      {
+        "enunciado": "O que caracteriza a 'heteronomia' dos animais em relação à natureza?",
+        "opcoes": ["A capacidade de criar novas leis.", "Obedecer a regras externas não elaboradas por eles, seguindo o instinto.", "A ausência de regras.", "A liberdade total."],
+        "correta": 1,
+        "explicacao": "Os animais são determinados pelas leis naturais e pelos instintos."
+      },
+      {
+        "enunciado": "Para Kant, o que é a 'autonomia'?",
+        "opcoes": ["A capacidade de se guiar por leis próprias ditadas pela razão.", "Obedecer a leis externas.", "Não ter leis.", "Agir por instinto."],
+        "correta": 0,
+        "explicacao": "A autonomia é a capacidade de se autogovernar racionalmente."
+      },
+      {
+        "enunciado": "O que a confecção de ferramentas permitiu aos ancestrais humanos?",
+        "opcoes": ["Que eles sobrevivessem e se reproduzissem com mais facilidade, superando limitações biológicas.", "Que eles se tornassem mais fracos.", "Que eles voltassem à vida animal.", "Que eles parassem de evoluir."],
+        "correta": 0,
+        "explicacao": "As ferramentas foram prolongamentos artificiais do corpo humano para suprir carências naturais."
+      },
+      {
+        "enunciado": "Segundo o texto, os valores, regras e símbolos são transmitidos:",
+        "opcoes": ["Apenas por hereditariedade genética.", "Por meio de relações de ensino e aprendizagem entre as gerações.", "Apenas por instinto.", "Não são transmitidos."],
+        "correta": 1,
+        "explicacao": "A cultura é aprendida socialmente e transmitida pela educação."
+      },
+      {
+        "enunciado": "O que as tradições substituem na vida humana, segundo Gordon Childe?",
+        "opcoes": ["A natureza.", "Os instintos.", "A razão.", "A biologia."],
+        "correta": 1,
+        "explicacao": "Childe afirma que as tradições e ferramentas tomam o lugar dos instintos."
+      },
+      {
+        "enunciado": "Segundo Kant, qual é a diferença fundamental entre o ser humano e os outros animais?",
+        "opcoes": ["Os humanos são mais fortes.", "Os humanos têm a capacidade racional de construir uma realidade própria (cultural) e agir com autonomia.", "Os animais são mais inteligentes.", "Não há diferença."],
+        "correta": 1,
+        "explicacao": "A racionalidade e a liberdade permitem ao humano transcender o determinismo natural."
+      },
+      {
+        "enunciado": "O que é um artefato na visão das Ciências Sociais?",
+        "opcoes": ["Um objeto natural.", "Uma construção humana que resulta da transformação de recursos naturais.", "Uma lei da natureza.", "Um animal."],
+        "correta": 1,
+        "explicacao": "Artefatos são objetos produzidos pela ação humana."
+      },
+      {
+        "enunciado": "De acordo com o texto, a distribuição dos cômodos de uma residência diz muito sobre:",
+        "opcoes": ["A natureza intocada.", "As relações sociais estabelecidas na sociedade.", "A biologia humana.", "As leis da física."],
+        "correta": 1,
+        "explicacao": "O espaço construído reflete as relações e valores sociais."
+      },
+      {
+        "enunciado": "O ser humano é um ser de duas dimensões. Quais são elas?",
+        "opcoes": ["Natural e racional/autônoma.", "Apenas natural.", "Apenas racional.", "Apenas espiritual."],
+        "correta": 0,
+        "explicacao": "O ser humano é um ser natural, mas com capacidade racional de autonomia."
+      },
+      {
+        "enunciado": "Para os humanos, as normas e valores sociais são construções:",
+        "opcoes": ["Divinas.", "Naturais.", "Históricas e culturais.", "Imutáveis."],
+        "correta": 2,
+        "explicacao": "As normas sociais são construídas historicamente e variam conforme a cultura."
+      },
+      {
+        "enunciado": "Como o ser humano se diferencia dos outros animais na relação com o meio ambiente?",
+        "opcoes": ["Ele apenas se adapta.", "Ele transforma o meio ambiente por meio do trabalho e da cultura.", "Ele é passivo.", "Ele não interfere no meio."],
+        "correta": 1,
+        "explicacao": "A ação humana transforma a natureza em mundo humano."
+      },
+      {
+        "enunciado": "Segundo o texto, a tecnologia é uma:",
+        "opcoes": ["Criação humana para dominar a natureza.", "Criação divina.", "Invenção dos animais.", "Coisa natural."],
+        "correta": 0,
+        "explicacao": "A tecnologia é fruto do conhecimento e da ação transformadora humana."
+      },
+      {
+        "enunciado": "O que o texto chama de 'mundo humano'?",
+        "opcoes": ["A natureza original.", "O mundo gerado pelas relações dos seres humanos entre si e com a natureza.", "O mundo dos animais.", "O mundo virtual."],
+        "correta": 1,
+        "explicacao": "O mundo humano é a realidade construída socialmente."
+      },
+      {
+        "enunciado": "Na visão de Kant, o que o ser humano possui que lhe permite ser autônomo?",
+        "opcoes": ["A força física.", "A razão.", "A emoção.", "O instinto."],
+        "correta": 1,
+        "explicacao": "A razão é a base da autonomia moral e da liberdade humana."
+      },
+      {
+        "enunciado": "Segundo o texto, a liberdade humana é uma ilusão?",
+        "opcoes": ["Sim, somos totalmente determinados pela natureza.", "Não, pois a própria natureza dispõe o ser humano de razão e vontade, permitindo afirmar sua liberdade.", "Sim, não temos escolhas.", "Não, pois a liberdade é infinita."],
+        "correta": 1,
+        "explicacao": "A liberdade humana é uma capacidade real baseada na razão."
+      },
+      {
+        "enunciado": "O que as ferramentas representam para a espécie humana?",
+        "opcoes": ["A derrota da espécie.", "Prolongamentos artificiais do corpo humano para suprir carências naturais.", "A volta à natureza.", "A falta de inteligência."],
+        "correta": 1,
+        "explicacao": "As ferramentas são extensões do corpo para superar limitações biológicas."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v1_sociais_meio_ambiente_critica_01",
+    "titulo": "Ciências Sociais - Sociedade, Meio Ambiente e Críticas",
+    "tipo": "conteudo",
+    "icone": "🌱",
+    "perguntas": [
+      {
+        "enunciado": "Qual é a principal crítica ou questionamento atual sobre a visão moderna de 'domínio da natureza'?",
+        "opcoes": ["Que o domínio da natureza trouxe problemas ecológicos graves e desequilíbrios no ecossistema.", "Que não houve progresso tecnológico.", "Que a natureza controla tudo.", "Que a ciência não funciona."],
+        "correta": 0,
+        "explicacao": "O texto aponta que os problemas ecológicos e a degradação do meio ambiente são consequências destrutivas dessa ação dominadora."
+      },
+      {
+        "enunciado": "Segundo o texto, o que é o 'desenvolvimento sustentável' implícito nas discussões atuais?",
+        "opcoes": ["Um modelo de civilização que concebe a natureza como objeto de satisfação infinita.", "A busca por alternativas ao modelo de civilização que vê a natureza apenas como um objeto de interesses humanos.", "Um modelo que proíbe a indústria.", "A volta à idade das cavernas."],
+        "correta": 1,
+        "explicacao": "Questiona-se a visão de que a natureza é apenas um recurso, buscando alternativas para a continuidade da vida no planeta."
+      },
+      {
+        "enunciado": "As conquistas tecnológicas modernas asseguram, de forma inequívoca, o progresso de toda a humanidade?",
+        "opcoes": ["Sim, não há desigualdades.", "Não, pois geram problemas ecológicos e a distribuição dos benefícios é desigual.", "Sim, todos têm acesso a elas.", "Não, porque a tecnologia não existe."],
+        "correta": 1,
+        "explicacao": "O texto termina questionando se os resultados do domínio humano sobre a natureza são invariavelmente benéficos e alerta para a crise ecológica."
+      },
+      {
+        "enunciado": "Segundo o texto, os problemas ecológicos atuais são:",
+        "opcoes": ["Inventados pela mídia.", "Cientificamente demonstrados e seus efeitos são perceptíveis no dia a dia.", "Apenas uma questão do futuro.", "Inexistentes."],
+        "correta": 1,
+        "explicacao": "O texto afirma que os efeitos dos problemas ecológicos são reais e visíveis."
+      },
+      {
+        "enunciado": "O que a ação humana sobre a natureza provocou no ecossistema?",
+        "opcoes": ["Equilíbrio total.", "Desequilíbrios, alterações climáticas e degradação do meio ambiente.", "Apenas benefícios.", "Nenhuma mudança."],
+        "correta": 1,
+        "explicacao": "A ação humana predatória causa desequilíbrios e alterações climáticas."
+      },
+      {
+        "enunciado": "Qual é a principal crítica de Anthony Giddens sobre a ação humana?",
+        "opcoes": ["O ataque ao ambiente natural é tão intenso que poucos processos naturais não são influenciados pela atividade humana.", "A natureza domina tudo.", "Os humanos não influenciam a natureza.", "Os animais são responsáveis."],
+        "correta": 0,
+        "explicacao": "Giddens destaca o impacto profundo da ação humana no planeta."
+      },
+      {
+        "enunciado": "Segundo o texto, qual é a principal questão ética em relação ao meio ambiente?",
+        "opcoes": ["Como explorar mais rápido.", "Questionar as formas pelas quais as sociedades modernas se relacionam com a natureza.", "Como ignorar a natureza.", "Como poluir menos para lucrar mais."],
+        "correta": 1,
+        "explicacao": "A ética ambiental questiona a relação predatória e busca alternativas."
+      },
+      {
+        "enunciado": "O que o texto sugere sobre a visão da natureza como 'objeto de interesses humanos'?",
+        "opcoes": ["Que é a melhor visão possível.", "Que é uma visão limitada e precisa ser repensada.", "Que é a única visão válida.", "Que é uma visão religiosa."],
+        "correta": 1,
+        "explicacao": "O texto aponta que essa visão é limitada e gerou a crise ecológica."
+      },
+      {
+        "enunciado": "O que a modernidade prometeu em relação à natureza?",
+        "opcoes": ["Domínio absoluto sobre o meio natural.", "Preservação intocada.", "Abandono da tecnologia.", "Retorno ao mito."],
+        "correta": 0,
+        "explicacao": "A promessa da ciência moderna era o controle e domínio da natureza."
+      },
+      {
+        "enunciado": "A crise ecológica atual é resultado de qual modelo de sociedade?",
+        "opcoes": ["Das sociedades indígenas.", "Do modelo de civilização moderna e contemporânea que explora a natureza.", "Das sociedades medievais.", "Das sociedades pré-históricas."],
+        "correta": 1,
+        "explicacao": "A crise ecológica resulta do modelo industrial e consumista moderno."
+      },
+      {
+        "enunciado": "Segundo o texto, o que os processos naturais da Terra hoje apresentam?",
+        "opcoes": ["Independência total da ação humana.", "Forte influência da atividade humana.", "Estabilidade absoluta.", "Desaparecimento completo."],
+        "correta": 1,
+        "explicacao": "Giddens afirma que quase todos os processos naturais são afetados pelo homem."
+      },
+      {
+        "enunciado": "O que o texto chama de 'desequilíbrios no ecossistema'?",
+        "opcoes": ["Alterações climáticas e degradação do meio ambiente.", "Ações naturais como terremotos.", "Eventos astronômicos.", "Chuvas normais."],
+        "correta": 0,
+        "explicacao": "As alterações climáticas e a degradação são exemplos de desequilíbrios."
+      },
+      {
+        "enunciado": "Qual é a crítica central ao modelo de civilização atual feita no texto?",
+        "opcoes": ["A falta de tecnologia.", "A dificuldade em lidar com as questões ecológicas que ameaçam a vida.", "O excesso de natureza.", "A falta de exploração."],
+        "correta": 1,
+        "explicacao": "O texto questiona a continuidade da vida no planeta diante dos riscos ecológicos."
+      },
+      {
+        "enunciado": "O que o texto propõe em relação ao modelo de civilização?",
+        "opcoes": ["Manter como está.", "Buscar alternativas ao modelo que vê a natureza apenas como objeto.", "Acelerar a exploração.", "Ignorar os problemas."],
+        "correta": 1,
+        "explicacao": "O texto sugere a busca por alternativas para a relação sociedade-natureza."
+      },
+      {
+        "enunciado": "A quem interessa a natureza como 'objeto'?",
+        "opcoes": ["Aos animais.", "Aos interesses humanos de curto prazo.", "Ao ecossistema.", "Aos povos indígenas."],
+        "correta": 1,
+        "explicacao": "A visão da natureza como objeto serve a interesses econômicos e humanos imediatistas."
+      },
+      {
+        "enunciado": "Qual o impacto do progresso tecnológico nas relações sociais e ambientais?",
+        "opcoes": ["Apenas positivo.", "Gera avanços, mas também problemas ecológicos e desigualdades.", "Apenas negativo.", "Não gera impacto."],
+        "correta": 1,
+        "explicacao": "O texto aponta os avanços, mas também as consequências negativas do progresso."
+      },
+      {
+        "enunciado": "O que a ciência e a tecnologia modernas permitiram ao ser humano?",
+        "opcoes": ["Dominar e transformar a natureza.", "Viver em harmonia total.", "Voltar à natureza.", "Deixar de existir."],
+        "correta": 0,
+        "explicacao": "A ciência moderna foi a ferramenta para o domínio da natureza."
+      },
+      {
+        "enunciado": "Segundo o texto, a que preço veio o desenvolvimento tecnológico?",
+        "opcoes": ["A degradação do meio ambiente e a ameaça à vida.", "A perda da inteligência.", "O fim da sociedade.", "O aumento da natureza."],
+        "correta": 0,
+        "explicacao": "A degradação ambiental é apontada como uma consequência do modelo de desenvolvimento."
+      },
+      {
+        "enunciado": "O que a sociedade precisa repensar hoje, segundo o texto?",
+        "opcoes": ["A forma como se relaciona com a natureza.", "A necessidade de tecnologia.", "A existência da natureza.", "A volta ao passado."],
+        "correta": 0,
+        "explicacao": "É necessário repensar a relação da sociedade moderna com o meio ambiente."
+      },
+      {
+        "enunciado": "O que o texto destaca como fundamental para a continuidade da vida no planeta?",
+        "opcoes": ["O aumento da produção.", "A busca por alternativas ao modelo de exploração da natureza.", "A manutenção do modelo atual.", "A redução da ciência."],
+        "correta": 1,
+        "explicacao": "É preciso buscar alternativas para superar a crise ecológica e garantir a continuidade da vida."
+      }
+    ]
+  }
+]
