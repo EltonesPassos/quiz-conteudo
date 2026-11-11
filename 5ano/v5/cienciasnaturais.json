@@ -1,7 +1,7 @@
 [
   {
-    "id": "5ano_v3_fis_editorial_01",
-    "titulo": "Física - O Gênero Editorial",
+    "id": "5ano_v5_cnat_editorial_01",
+    "titulo": "Ciências Naturais - O Gênero Editorial",
     "tipo": "conteudo",
     "icone": "📰",
     "perguntas": [
@@ -228,8 +228,8 @@
     ]
   },
   {
-    "id": "5ano_v3_fis_fakenews_01",
-    "titulo": "Física - Fake News e Olhar Crítico",
+    "id": "5ano_v5_cnat_fakenews_01",
+    "titulo": "Ciências Naturais - Fake News e Olhar Crítico",
     "tipo": "conteudo",
     "icone": "🕵️",
     "perguntas": [
@@ -456,8 +456,8 @@
     ]
   },
   {
-    "id": "5ano_v3_fis_ciencia_01",
-    "titulo": "Física - Fato, Opinião e Ciência",
+    "id": "5ano_v5_cnat_ciencia_01",
+    "titulo": "Ciências Naturais - Fato, Opinião e Ciência",
     "tipo": "conteudo",
     "icone": "🔬",
     "perguntas": [
@@ -673,8 +673,8 @@
     ]
   },
   {
-    "id": "5ano_v3_fis_comentario_01",
-    "titulo": "Física - Comentário do Leitor",
+    "id": "5ano_v5_cnat_comentario_01",
+    "titulo": "Ciências Naturais - Comentário do Leitor",
     "tipo": "conteudo",
     "icone": "💬",
     "perguntas": [
@@ -802,8 +802,8 @@
     ]
   },
   {
-    "id": "5ano_v3_fis_formacao_01",
-    "titulo": "Física - Formação de Palavras",
+    "id": "5ano_v5_cnat_formacao_01",
+    "titulo": "Ciências Naturais - Formação de Palavras",
     "tipo": "conteudo",
     "icone": "🧩",
     "perguntas": [
@@ -975,8 +975,8 @@
     ]
   },
   {
-    "id": "5ano_v3_fis_checagem_01",
-    "titulo": "Física - Checagem de Fatos",
+    "id": "5ano_v5_cnat_checagem_01",
+    "titulo": "Ciências Naturais - Checagem de Fatos",
     "tipo": "conteudo",
     "icone": "🔍",
     "perguntas": [
@@ -1148,8 +1148,8 @@
     ]
   },
   {
-    "id": "5ano_v3_fis_direitos_01",
-    "titulo": "Física - Direitos das Crianças",
+    "id": "5ano_v5_cnat_direitos_01",
+    "titulo": "Ciências Naturais - Direitos das Crianças",
     "tipo": "conteudo",
     "icone": "⚖️",
     "perguntas": [
