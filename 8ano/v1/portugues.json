@@ -1,5 +1,133 @@
 [
   {
+    "id": "8ano_v1_port_olhar_critico_01",
+    "titulo": "Português - Olhar Crítico e Fake News",
+    "tipo": "conteudo",
+    "icone": "🔍",
+    "perguntas": [
+      {
+        "enunciado": "Segundo o texto, o que é um 'fato'?",
+        "opcoes": ["Um ponto de vista pessoal.", "Algo que pode ser verificado e apoiado em evidências.", "Uma opinião compartilhada.", "Uma notícia inventada."],
+        "correta": 1,
+        "explicacao": "O fato é baseado em evidências e pode ser verificado."
+      },
+      {
+        "enunciado": "O que é uma 'opinião'?",
+        "opcoes": ["Um dado científico.", "Um ponto de vista sobre algo.", "Uma prova documental.", "Um registro histórico."],
+        "correta": 1,
+        "explicacao": "A opinião expressa o ponto de vista de alguém sobre um fato."
+      },
+      {
+        "enunciado": "Qual é a principal característica de um texto com 'caça-cliques'?",
+        "opcoes": ["Tem o objetivo de informar com precisão.", "Tem o objetivo de atrair a atenção para gerar acessos e lucro.", "É produzido apenas por cientistas.", "Não usa imagens."],
+        "correta": 1,
+        "explicacao": "O caça-clique visa atrair o máximo de acessos, muitas vezes enganando o leitor."
+      },
+      {
+        "enunciado": "O que é 'fake news'?",
+        "opcoes": ["Uma notícia verdadeira.", "Uma notícia falsa ou distorcida.", "Um tipo de jornal.", "Uma opinião fundamentada."],
+        "correta": 1,
+        "explicacao": "Fake news é um termo usado para notícias falsas ou desinformação."
+      },
+      {
+        "enunciado": "Segundo o texto, o que a prática de 'fake news' pode provocar na vida das pessoas?",
+        "opcoes": ["Apenas curiosidade.", "Impactos prejudiciais e engano.", "Aumento da inteligência.", "Nada acontece."],
+        "correta": 1,
+        "explicacao": "As fake news podem induzir ao engano e causar prejuízos reais."
+      },
+      {
+        "enunciado": "O termo 'fake news' é recente, mas a prática de espalhar mentiras é antiga?",
+        "opcoes": ["Sim, a prática já existia na Antiguidade.", "Não, a mentira surgiu com a internet.", "Não, nunca existiu antes.", "Sim, mas só na Idade Média."],
+        "correta": 0,
+        "explicacao": "O texto cita o exemplo de Procópio de Cesareia, no século VI, que espalhava informações falsas."
+      },
+      {
+        "enunciado": "Quem foi Procópio de Cesareia?",
+        "opcoes": ["Um imperador romano.", "Um historiador bizantino que escreveu textos com calúnias.", "Um inventor da internet.", "Um jornalista moderno."],
+        "correta": 1,
+        "explicacao": "Ele é citado como um exemplo antigo de quem espalhava informações falsas."
+      },
+      {
+        "enunciado": "Qual a importância da checagem de fatos (fact-checking)?",
+        "opcoes": ["Verificar se a informação é verdadeira antes de compartilhá-la.", "Aumentar o número de cliques.", "Criar novas opiniões.", "Vender notícias."],
+        "correta": 0,
+        "explicacao": "A checagem é fundamental para combater a desinformação."
+      },
+      {
+        "enunciado": "Como podemos desconfiar de uma notícia, segundo o texto?",
+        "opcoes": ["Desconfiando de títulos em letras maiúsculas e de quem é o dono da informação.", "Aceitando tudo o que lemos.", "Não lendo nada.", "Compartilhando sem verificar."],
+        "correta": 0,
+        "explicacao": "Títulos sensacionalistas e fontes duvidosas são sinais de alerta."
+      },
+      {
+        "enunciado": "O que podemos fazer para verificar a veracidade de uma imagem na internet?",
+        "opcoes": ["Buscar imagens semelhantes.", "Apenas olhar a imagem.", "Ignorar a fonte.", "Confiar na legenda."],
+        "correta": 0,
+        "explicacao": "Buscar imagens é uma forma de descobrir se a foto já foi publicada antes em outro contexto."
+      },
+      {
+        "enunciado": "Por que a internet é um terreno favorável para a disseminação de notícias falsas?",
+        "opcoes": ["Porque é rápida e não tem controle editorial rigoroso.", "Porque é controlada pelo governo.", "Porque é segura.", "Porque não tem usuários."],
+        "correta": 0,
+        "explicacao": "A velocidade de compartilhamento e a falta de filtros facilitam a propagação de mentiras."
+      },
+      {
+        "enunciado": "O que significa 'inócuo' no contexto do texto?",
+        "opcoes": ["Incapaz de produzir o efeito pretendido.", "Muito perigoso.", "Importante.", "Rápido."],
+        "correta": 0,
+        "explicacao": "Inócuo significa algo que não tem efeito ou é inofensivo."
+      },
+      {
+        "enunciado": "Qual é o objetivo do Dia Internacional da Checagem de Fatos?",
+        "opcoes": ["Celebrar a mentira.", "Lembrar a importância da checagem de dados e combater a desinformação.", "Vender jornais.", "Criar novas fake news."],
+        "correta": 1,
+        "explicacao": "A data visa conscientizar sobre a importância da verificação de fatos."
+      },
+      {
+        "enunciado": "Qual é a diferença entre 'notícia' e 'opinião'?",
+        "opcoes": ["A notícia é verificável; a opinião é subjetiva.", "A notícia é subjetiva; a opinião é verificável.", "As duas são a mesma coisa.", "A opinião é sempre mentira."],
+        "correta": 0,
+        "explicacao": "O texto define claramente a diferença entre fato e opinião."
+      },
+      {
+        "enunciado": "O que o texto quer dizer quando afirma que 'a informação virou mercadoria'?",
+        "opcoes": ["Que a informação é vendida e comprada, gerando lucro.", "Que a informação é gratuita.", "Que a informação não tem valor.", "Que a informação é um presente."],
+        "correta": 0,
+        "explicacao": "A notícia muitas vezes é usada para gerar receita publicitária."
+      },
+      {
+        "enunciado": "Qual é o perigo de aceitar como verdade tudo o que se lê na internet?",
+        "opcoes": ["Nenhum perigo.", "O risco de ser manipulado e tomar decisões erradas.", "Apenas perder tempo.", "Ganhar dinheiro."],
+        "correta": 1,
+        "explicacao": "O texto alerta para a necessidade de não aceitar tudo o que se lê como verdade."
+      },
+      {
+        "enunciado": "Segundo o texto, o que o jornalismo sério tem sido?",
+        "opcoes": ["Massivamente prejudicado pelos caça-cliques.", "Ajudado pela internet.", "Ignorado.", "Destruído pela verdade."],
+        "correta": 0,
+        "explicacao": "O texto afirma que o jornalismo sério é prejudicado pela desinformação e caça-cliques."
+      },
+      {
+        "enunciado": "O que devemos fazer ao nos depararmos com uma notícia duvidosa?",
+        "opcoes": ["Compartilhar imediatamente.", "Pesquisar a fonte e checar a veracidade.", "Ignorar.", "Acreditar na hora."],
+        "correta": 1,
+        "explicacao": "A pesquisa é fundamental para descobrir a veracidade da informação."
+      },
+      {
+        "enunciado": "O texto afirma que a notícia confiável geralmente é divulgada por:",
+        "opcoes": ["Diversos órgãos ou empresas.", "Apenas um amigo.", "Apenas um site desconhecido.", "Ninguém."],
+        "correta": 0,
+        "explicacao": "Uma notícia confiável é geralmente corroborada por vários veículos sérios."
+      },
+      {
+        "enunciado": "Qual é a principal mensagem do texto sobre o nosso papel como cidadãos na internet?",
+        "opcoes": ["Devemos evitar a internet.", "Temos o dever de investigar e evitar a propagação de fake news.", "Devemos acreditar em tudo.", "Devemos espalhar notícias sem ler."],
+        "correta": 1,
+        "explicacao": "O texto conclui que cabe a nós, como cidadãos, evitar que as fake news se espalhem."
+      }
+    ]
+  },
+  {
     "id": "8ano_v1_port_editorial_01",
     "titulo": "Português - O Gênero Editorial",
     "tipo": "conteudo",
@@ -7,1316 +135,763 @@
     "perguntas": [
       {
         "enunciado": "O que é um editorial?",
-        "opcoes": [
-          "Um texto que expressa a opinião de uma empresa jornalística sobre uma questão atual.",
-          "Uma reportagem que narra fatos do cotidiano sem emitir opinião.",
-          "Um texto literário que conta uma história fictícia para entreter o leitor.",
-          "Uma notícia curta publicada na primeira página do jornal."
-        ],
+        "opcoes": ["Um texto literário.", "Um artigo em que se discute uma questão, apresentando o ponto de vista do jornal ou empresa jornalística.", "Uma notícia curta.", "Uma opinião de um leitor."],
+        "correta": 1,
+        "explicacao": "O editorial é o texto que expressa a opinião oficial do veículo de comunicação."
+      },
+      {
+        "enunciado": "Quem assina um editorial?",
+        "opcoes": ["Um jornalista qualquer.", "O redator-chefe ou a empresa jornalística.", "Um leitor.", "Um político."],
+        "correta": 1,
+        "explicacao": "O editorial não leva o nome de um repórter, mas a voz institucional do veículo."
+      },
+      {
+        "enunciado": "Qual é a primeira característica importante do editorial?",
+        "opcoes": ["Ter um tema bem determinado e relevante para a sociedade.", "Ser escrito em versos.", "Narrar histórias de ficção.", "Não ter opinião."],
         "correta": 0,
-        "explicacao": "O editorial é um texto jornalístico que representa a opinião da empresa de comunicação sobre um tema relevante."
+        "explicacao": "O editorial precisa tratar de um assunto atual e importante."
       },
       {
-        "enunciado": "Quem é o responsável pela autoria de um editorial?",
-        "opcoes": [
-          "Apenas o repórter que cobriu o fato.",
-          "Um colunista independente que escreve sua visão pessoal.",
-          "Toda a equipe de jornalismo, representando a instituição.",
-          "O leitor que envia cartas para a redação."
-        ],
-        "correta": 2,
-        "explicacao": "O editorial não representa apenas um jornalista, mas sim a linha de pensamento de toda a equipe e da empresa jornalística."
-      },
-      {
-        "enunciado": "Qual é o caráter principal do texto editorial?",
-        "opcoes": [
-          "Descritivo, sem defesa de ponto de vista.",
-          "Narrativo, focado em contar uma história.",
-          "Argumentativo, que apresenta e defende um ponto de vista.",
-          "Poético, que utiliza rimas e versos."
-        ],
-        "correta": 2,
-        "explicacao": "O editorial tem caráter argumentativo, pois seu objetivo é mostrar um posicionamento específico diante de uma questão."
-      },
-      {
-        "enunciado": "Quais são as três etapas de composição de um editorial?",
-        "opcoes": [
-          "Introdução, desenvolvimento e conclusão.",
-          "Narração, descrição e dissertação.",
-          "Contextualização, defesa de tese e uso de argumentos.",
-          "Título, subtítulo e corpo do texto."
-        ],
-        "correta": 2,
-        "explicacao": "As etapas são: contextualização do tema, defesa de uma tese e uso de argumentos para comprová-la."
-      },
-      {
-        "enunciado": "O que é a 'Defesa de tese' em um editorial?",
-        "opcoes": [
-          "É o momento de apresentar os dados estatísticos da notícia.",
-          "É a apresentação da opinião do jornal sobre o assunto, que será defendida.",
-          "É a conclusão do texto, com uma solução prática para o problema.",
-          "É a citação de autoridades no assunto para validar o texto."
-        ],
+        "enunciado": "Qual é a segunda característica do editorial?",
+        "opcoes": ["Seu caráter narrativo.", "Seu caráter argumentativo, mostrando um posicionamento específico.", "Sua falta de estrutura.", "Sua linguagem informal."],
         "correta": 1,
-        "explicacao": "A tese é a proposição central, o ponto de vista que o jornal assume e tentará comprovar com argumentos."
+        "explicacao": "O editorial defende uma tese por meio de argumentos."
       },
       {
-        "enunciado": "Em um editorial, os argumentos podem ser menos objetivos. Isso significa que:",
-        "opcoes": [
-          "Não precisam conter números ou citações de especialistas, focando mais na ideologia do veículo.",
-          "Não precisam de lógica ou coerência, podendo ser apenas opiniões soltas.",
-          "Devem sempre conter apenas dados comprovados cientificamente.",
-          "Não podem usar exemplos da realidade, apenas hipóteses."
-        ],
+        "enunciado": "Qual é a terceira característica do editorial?",
+        "opcoes": ["A autoria pessoal.", "A autoria institucional, representando a equipe de jornalismo.", "A ausência de autoria.", "Ser assinado por um político."],
+        "correta": 1,
+        "explicacao": "A autoria é institucional, representando o veículo de comunicação."
+      },
+      {
+        "enunciado": "Como o editorial costuma ser dividido estruturalmente?",
+        "opcoes": ["Em versos e estrofes.", "Em contextualização, defesa de tese e uso de argumentos.", "Apenas em perguntas.", "Apenas em imagens."],
+        "correta": 1,
+        "explicacao": "O texto apresenta essas três partes fundamentais."
+      },
+      {
+        "enunciado": "O que é a 'contextualização' no editorial?",
+        "opcoes": ["Apresentar o assunto ao leitor, situando-o sobre o tema.", "Dar a opinião final.", "Escrever o título.", "Fazer um resumo do texto."],
         "correta": 0,
-        "explicacao": "Como o editorial traduz a ideologia do veículo, ele pode usar argumentos menos objetivos, sem necessariamente apresentar dados numéricos."
+        "explicacao": "A contextualização apresenta o tema ao leitor."
       },
       {
-        "enunciado": "Qual é a função da Contextualização em um editorial?",
-        "opcoes": [
-          "Resumir todo o texto em apenas uma frase.",
-          "Apresentar os pontos mais importantes da situação para situar o leitor.",
-          "Apresentar a biografia do autor do texto.",
-          "Listar todos os argumentos contrários à opinião do jornal."
-        ],
-        "correta": 1,
-        "explicacao": "A contextualização situa o leitor sobre o fato recente e relevante, apresentando os pontos principais antes de defender a tese."
-      },
-      {
-        "enunciado": "O que um editorial pode fazer em relação a resultados científicos?",
-        "opcoes": [
-          "Deve sempre aceitá-los sem questionar.",
-          "Pode contestá-los, baseando-se na ideologia e posicionamento da empresa.",
-          "Não pode mencionar ciência em seu texto.",
-          "Só pode usar dados científicos se forem de revistas famosas."
-        ],
-        "correta": 1,
-        "explicacao": "Editoriais podem adotar posições diferentes, até mesmo questionando a ciência, pois representam a ideologia do veículo."
-      },
-      {
-        "enunciado": "Qual é o objetivo do uso de argumentos em um texto editorial?",
-        "opcoes": [
-          "Apenas preencher o espaço do jornal.",
-          "Convencer o leitor da validade do posicionamento escolhido pelo jornal.",
-          "Contar uma história fictícia para ilustrar o tema.",
-          "Listar os nomes de todas as pessoas envolvidas no fato."
-        ],
-        "correta": 1,
-        "explicacao": "Os argumentos são apresentados para comprovar a validade da tese e convencer o leitor da opinião defendida."
-      },
-      {
-        "enunciado": "Onde os editoriais geralmente são encontrados nas versões digitais de jornais?",
-        "opcoes": [
-          "Na seção de classificados.",
-          "Na seção 'Opinião'.",
-          "Na seção de esportes.",
-          "Na página inicial, escondidos em meio às notícias."
-        ],
-        "correta": 1,
-        "explicacao": "Nas versões digitais, o editorial costuma aparecer na seção de Opinião, que é dedicada a textos argumentativos."
-      },
-      {
-        "enunciado": "Qual a principal crítica do editorial 'A quem interessa atacar a ciência?'",
-        "opcoes": [
-          "O alto custo das pesquisas científicas.",
-          "A defesa de interesses econômicos e políticos que contrariam a ciência e o meio ambiente.",
-          "A falta de interesse dos jovens pela ciência.",
-          "A dificuldade de encontrar cientistas qualificados no mercado."
-        ],
-        "correta": 1,
-        "explicacao": "O texto aponta que o negacionismo climático serve a interesses econômicos de indústrias que não querem reduzir lucros."
-      },
-      {
-        "enunciado": "A comparação entre dois editoriais sobre o mesmo tema é útil para:",
-        "opcoes": [
-          "Descobrir qual deles é o mais longo e cansativo.",
-          "Entender que um está sempre certo e o outro sempre errado.",
-          "Compreender que um mesmo tema pode ser avaliado com diferentes perspectivas.",
-          "Confirmar que todos os jornais pensam exatamente igual."
-        ],
-        "correta": 2,
-        "explicacao": "Comparar editoriais ajuda a perceber como a linha editorial e as opiniões de cada empresa influenciam a forma de apresentar o texto."
-      },
-      {
-        "enunciado": "A 'primeira característica' de um editorial é:",
-        "opcoes": [
-          "Falar sobre assuntos aleatórios, sem importância social.",
-          "Ter um tema bem determinado e relevante para a sociedade.",
-          "Falar exclusivamente sobre esportes.",
-          "Ser escrito por leitores do jornal."
-        ],
-        "correta": 1,
-        "explicacao": "O editorial sempre aborda um tema específico e de relevância para a sociedade."
-      },
-      {
-        "enunciado": "Qual a crítica feita à indústria do petróleo e carvão no contexto do editorial sobre ciência?",
-        "opcoes": [
-          "Elas investem pesado em energia solar.",
-          "Elas financiam campanhas políticas para evitar medidas que reduzam seus lucros.",
-          "Elas são as principais defensoras do meio ambiente.",
-          "Elas incentivam a diminuição do consumo."
-        ],
-        "correta": 1,
-        "explicacao": "Essas indústrias usam seu poder financeiro para influenciar a política e manter seus lucros."
-      },
-      {
-        "enunciado": "Um editorial é sempre neutro e imparcial?",
-        "opcoes": [
-          "Sim, pois o jornalismo deve apenas informar.",
-          "Não, ele expressa a opinião e a ideologia da empresa jornalística.",
-          "Sim, desde que não cite nomes de políticos.",
-          "Não, mas ele só pode ter opinião sobre esportes."
-        ],
-        "correta": 1,
-        "explicacao": "A imparcialidade é buscada nas notícias, mas o editorial é o espaço legítimo para o jornal expressar sua opinião institucional."
-      },
-      {
-        "enunciado": "Como a 'notícia' se diferencia de um 'editorial'?",
-        "opcoes": [
-          "A notícia busca informar de forma objetiva; o editorial busca opinar.",
-          "O editorial é mais longo que a notícia.",
-          "O editorial informa fatos; a notícia opina sobre eles.",
-          "Não há diferença entre os dois gêneros."
-        ],
+        "enunciado": "O que é a 'defesa de tese' no editorial?",
+        "opcoes": ["Apresentar a opinião do jornal sobre o assunto.", "Apresentar os fatos.", "Concluir o texto.", "Fazer uma pergunta."],
         "correta": 0,
-        "explicacao": "A notícia busca informar de forma objetiva. O editorial busca expressar a opinião institucional sobre um tema."
+        "explicacao": "A tese é a opinião central que o editorial defende."
       },
       {
-        "enunciado": "O que é a 'tese' em um texto argumentativo?",
-        "opcoes": [
-          "Uma história fictícia.",
-          "Um dado estatístico da reportagem.",
-          "A proposição central que será defendida por argumentos adequados.",
-          "O resumo do texto em uma única palavra."
-        ],
-        "correta": 2,
-        "explicacao": "A tese é a ideia central que será defendida pelos argumentos ao longo do texto."
-      },
-      {
-        "enunciado": "Qual é a consequência de continuar ignorando as mudanças climáticas?",
-        "opcoes": [
-          "O planeta continuará o mesmo, sem impactos.",
-          "As empresas lucrarão mais.",
-          "A ciência é incerta e não deve ser levada a sério.",
-          "Haverá maior risco de eventos climáticos extremos, o que ameaça a economia."
-        ],
-        "correta": 3,
-        "explicacao": "Ignorar a ciência climática é um risco para a humanidade e para a economia."
-      },
-      {
-        "enunciado": "Qual é a finalidade do 'Uso de argumentos' em um editorial?",
-        "opcoes": [
-          "Mostrar dados que comprovem a validade do posicionamento do jornal.",
-          "Confundir o leitor com dados contraditórios.",
-          "Apresentar a opinião contrária ao texto.",
-          "Informar sobre o clima no final de semana."
-        ],
+        "enunciado": "Qual é o papel dos 'argumentos' no editorial?",
+        "opcoes": ["Apresentar dados e informações para comprovar a tese.", "Narrar uma história.", "Descrever personagens.", "Criar poesias."],
         "correta": 0,
-        "explicacao": "Os argumentos servem para validar a tese e convencer o leitor de que a opinião do jornal é coerente."
+        "explicacao": "Os argumentos sustentam a opinião defendida."
       },
       {
-        "enunciado": "Por que os editoriais costumam ter argumentos menos objetivos?",
-        "opcoes": [
-          "Porque os jornalistas não sabem usar números.",
-          "Porque o texto traduz a ideologia e a linha de pensamento do veículo de informação.",
-          "Porque não são textos sérios.",
-          "Porque não precisam ser verdadeiros."
-        ],
+        "enunciado": "Em edições impressas, onde o editorial costuma aparecer?",
+        "opcoes": ["No final do jornal.", "Logo nas primeiras páginas.", "No meio do caderno de esportes.", "Na capa."],
         "correta": 1,
-        "explicacao": "A subjetividade é permitida porque o editorial expressa uma visão de mundo institucional, não apenas fatos frios."
+        "explicacao": "É um texto de destaque, localizado nas primeiras páginas."
+      },
+      {
+        "enunciado": "Em versões digitais, onde o editorial geralmente é encontrado?",
+        "opcoes": ["Na seção 'Opinião'.", "Na seção de esportes.", "Na seção de classificados.", "Na seção de jogos."],
+        "correta": 0,
+        "explicacao": "A seção de opinião abriga os editoriais nos sites."
+      },
+      {
+        "enunciado": "Segundo o texto, os argumentos no editorial podem ser mais objetivos ou subjetivos?",
+        "opcoes": ["Apenas subjetivos.", "Apenas objetivos.", "Podem ser menos objetivos e não precisam conter números, por exemplo.", "Sempre contêm números."],
+        "correta": 2,
+        "explicacao": "O editorial pode usar argumentos mais subjetivos, sem obrigatoriedade de dados estatísticos."
+      },
+      {
+        "enunciado": "Qual é a relação entre o editorial e a ideologia do veículo?",
+        "opcoes": ["O editorial traduz a ideologia do veículo de informação.", "O editorial é independente da ideologia.", "O editorial não tem ideologia.", "O editorial é neutro."],
+        "correta": 0,
+        "explicacao": "O editorial reflete a linha editorial e ideológica da empresa."
+      },
+      {
+        "enunciado": "O que significa dizer que o editorial tem 'caráter argumentativo'?",
+        "opcoes": ["Que ele busca convencer o leitor por meio de argumentos.", "Que ele apenas informa.", "Que ele é uma história.", "Que ele não tem opinião."],
+        "correta": 0,
+        "explicacao": "O texto argumentativo busca a adesão do leitor à tese apresentada."
+      },
+      {
+        "enunciado": "O editorial pode apresentar opiniões contrárias às do leitor?",
+        "opcoes": ["Sim, pois o leitor pode discordar da opinião do jornal.", "Não, o leitor deve concordar sempre.", "Não, o editorial é sempre neutro.", "Sim, mas o leitor não pode discordar."],
+        "correta": 0,
+        "explicacao": "O leitor tem o direito de concordar ou discordar da opinião do jornal."
+      },
+      {
+        "enunciado": "Para que serve a comparação de editoriais de jornais diferentes sobre o mesmo tema?",
+        "opcoes": ["Para entender diferentes pontos de vista e linhas editoriais.", "Para escolher o melhor jornal.", "Para copiar o texto.", "Para evitar a leitura."],
+        "correta": 0,
+        "explicacao": "A comparação permite observar como diferentes veículos abordam o mesmo assunto."
+      },
+      {
+        "enunciado": "O que é um 'sindicato' citado no texto?",
+        "opcoes": ["Uma associação de trabalhadores para defender seus interesses.", "Uma empresa.", "Um partido político.", "Uma escola."],
+        "correta": 0,
+        "explicacao": "O sindicato é uma associação de profissionais."
+      },
+      {
+        "enunciado": "Qual é a principal característica do editorial em relação ao autor?",
+        "opcoes": ["É assinado por um repórter.", "Não é assinado por um indivíduo, mas pela empresa.", "Não tem autor.", "É assinado pelo leitor."],
+        "correta": 1,
+        "explicacao": "A autoria é institucional, representando a empresa jornalística."
+      },
+      {
+        "enunciado": "Qual é a função do editorial no jornalismo?",
+        "opcoes": ["Informar de forma imparcial.", "Expressar a opinião do veículo sobre um tema relevante.", "Vender produtos.", "Narrar histórias."],
+        "correta": 1,
+        "explicacao": "O editorial é o espaço de opinião institucional do veículo."
+      },
+      {
+        "enunciado": "O que o editorial busca provocar no leitor?",
+        "opcoes": ["Indiferença.", "Reflexão e adesão à tese defendida.", "Confusão.", "Tristeza."],
+        "correta": 1,
+        "explicacao": "O texto argumentativo busca convencer o leitor."
       }
     ]
   },
   {
-    "id": "8ano_v1_port_fakenews_01",
-    "titulo": "Português - Fake News e Olhar Crítico",
-    "tipo": "conteudo",
-    "icone": "🕵️",
-    "perguntas": [
-      {
-        "enunciado": "Por que a internet se tornou um ambiente propício para a disseminação de informações falsas?",
-        "opcoes": [
-          "Porque a internet é um ambiente restrito e controlado.",
-          "Porque um endereço muito visitado rende dinheiro, e muitas pessoas usam de estratégias ilícitas para atrair cliques.",
-          "Porque o jornalismo tradicional abandonou a internet.",
-          "Porque os governos obrigam a publicação de notícias falsas."
-        ],
-        "correta": 1,
-        "explicacao": "Muitos sites buscam audiência a qualquer custo para gerar lucro, espalhando notícias falsas ou sensacionalistas."
-      },
-      {
-        "enunciado": "O que são 'caça-cliques' (clickbait)?",
-        "opcoes": [
-          "Ferramentas de busca para encontrar notícias antigas.",
-          "Conteúdos que têm como objetivo atrair o maior número de pessoas para uma página.",
-          "Jornalistas especializados em checar fatos.",
-          "Programas de computador que bloqueiam anúncios."
-        ],
-        "correta": 1,
-        "explicacao": "Os caça-cliques usam títulos chamativos ou sensacionalistas para gerar audiência e lucro."
-      },
-      {
-        "enunciado": "Qual é uma estratégia comum usada por sites caça-cliques?",
-        "opcoes": [
-          "O uso de letras minúsculas e textos muito longos.",
-          "Títulos em letras maiúsculas e informações exageradas.",
-          "A publicação de textos científicos complexos.",
-          "A ausência de imagens e vídeos."
-        ],
-        "correta": 1,
-        "explicacao": "Títulos em letras maiúsculas e informações sensacionalistas são comuns para chamar a atenção."
-      },
-      {
-        "enunciado": "Como podemos verificar a origem de uma notícia suspeita?",
-        "opcoes": [
-          "Apenas lendo o título da matéria.",
-          "Compartilhando a notícia com os amigos para ver se eles acreditam.",
-          "Buscando o nome de quem registrou o domínio (o site) e procurando imagens para ver se já foram publicadas antes.",
-          "Aceitando como verdade tudo o que é publicado em redes sociais."
-        ],
-        "correta": 2,
-        "explicacao": "Investigar a fonte e fazer busca reversa de imagens ajuda a descobrir fraudes jornalístico-cibernéticas."
-      },
-      {
-        "enunciado": "A prática de espalhar notícias falsas ('fake news') é um problema recente?",
-        "opcoes": [
-          "Sim, surgiu exclusivamente com as redes sociais na última década.",
-          "Não, a prática de espalhar informações falsas já existe há muito tempo, como no século VI.",
-          "Sim, foi criado pelos jornais impressos no século XX.",
-          "Não, mas sempre foi considerado um crime inafiançável."
-        ],
-        "correta": 1,
-        "explicacao": "O historiador Procópio de Cesareia, no século VI, já espalhava informações falsas sobre o imperador."
-      },
-      {
-        "enunciado": "Quem foi Procópio de Cesareia?",
-        "opcoes": [
-          "Um inventor da internet.",
-          "Um imperador romano que foi vítima de fake news.",
-          "Um historiador bizantino do século VI que escreveu um texto com calúnias contra o imperador.",
-          "Um jornalista moderno que criou o Dia da Checagem de Fatos."
-        ],
-        "correta": 2,
-        "explicacao": "Procópio ficou conhecido por escrever 'História secreta', um texto com calúnias que hoje seriam chamadas de fake news."
-      },
-      {
-        "enunciado": "Qual é o objetivo do Dia Internacional da Checagem de Fatos, celebrado em 2 de abril?",
-        "opcoes": [
-          "Celebrar a criação das redes sociais.",
-          "Combater as informações falsas e celebrar a importância da checagem de dados.",
-          "Promover a venda de jornais impressos.",
-          "Premiar os criadores de notícias virais."
-        ],
-        "correta": 1,
-        "explicacao": "A data conscientiza sobre a importância de checar os dados e combater as fake news."
-      },
-      {
-        "enunciado": "Qual é a definição de 'Fato'?",
-        "opcoes": [
-          "É um ponto de vista pessoal sobre um acontecimento.",
-          "É algo que não pode ser verificado.",
-          "É algo que pode ser verificado e apoiado em evidências.",
-          "É uma opinião emitida por um jornalista."
-        ],
-        "correta": 2,
-        "explicacao": "Fatos são acontecimentos reais e verificáveis, como 'Moonlight ganhou o Oscar em 2017'."
-      },
-      {
-        "enunciado": "Qual é a definição de 'Opinião'?",
-        "opcoes": [
-          "Um fato comprovado por especialistas.",
-          "Um dado estatístico recolhido pelo IBGE.",
-          "Um ponto de vista, uma interpretação pessoal sobre algo.",
-          "Uma notícia publicada em um site caça-clique."
-        ],
-        "correta": 2,
-        "explicacao": "A opinião é subjetiva. Dizer que 'La La Land é melhor que Moonlight' é uma opinião."
-      },
-      {
-        "enunciado": "O que significa dizer que a informação virou 'mercadoria' na internet?",
-        "opcoes": [
-          "A ciência que estuda os mercados financeiros.",
-          "A transformação da informação em um produto que visa lucro e audiência.",
-          "O estudo das leis que regulam a internet.",
-          "A venda de jornais nas bancas."
-        ],
-        "correta": 1,
-        "explicacao": "Muitas pessoas criam conteúdo visando o lucro (cliques), não a verdade. A informação passa a ser vendida."
-      },
-      {
-        "enunciado": "Como podemos nos proteger de notícias falsas?",
-        "opcoes": [
-          "Não lendo notícias na internet.",
-          "Checando as informações e buscando fontes confiáveis antes de compartilhar.",
-          "Compartilhando apenas notícias alarmantes para alertar os amigos.",
-          "Acreditando cegamente em tudo o que parece verdadeiro."
-        ],
-        "correta": 1,
-        "explicacao": "A principal ferramenta contra as fake news é o senso crítico: checar os fatos e não repassar informações não verificadas."
-      },
-      {
-        "enunciado": "Qual exemplo de Fato foi citado?",
-        "opcoes": [
-          "O filme 'La La Land' é mais bonito.",
-          "O filme 'Moonlight' ganhou o Oscar de melhor filme em 2017.",
-          "Os Estados Unidos devem sair do Acordo de Paris.",
-          "A ciência do clima é uma farsa."
-        ],
-        "correta": 1,
-        "explicacao": "A vitória de Moonlight no Oscar em 2017 é um fato verificável nos registros."
-      },
-      {
-        "enunciado": "Qual é uma consequência das fake news para a sociedade?",
-        "opcoes": [
-          "A confiança no jornalismo sério aumenta.",
-          "O acesso à informação se torna mais confiável.",
-          "As pessoas podem tomar decisões baseadas em mentiras, sendo prejudicadas.",
-          "As redes sociais deixam de existir."
-        ],
-        "correta": 2,
-        "explicacao": "As fake news enganam as pessoas, o que pode afetar desde a saúde até a política."
-      },
-      {
-        "enunciado": "Qual dessas atitudes é suspeita em um site de notícias e indica que ele pode ser um caça-clique?",
-        "opcoes": [
-          "Apresentar o nome dos autores e fontes confiáveis.",
-          "Usar títulos sensacionalistas com letras maiúsculas e sem fonte clara.",
-          "Publicar correções quando erra.",
-          "Citar órgãos oficiais e especialistas."
-        ],
-        "correta": 1,
-        "explicacao": "Títulos apelativos e falta de fontes são indícios claros de caça-cliques ou fake news."
-      },
-      {
-        "enunciado": "De quem é a responsabilidade de evitar a propagação de notícias falsas?",
-        "opcoes": [
-          "Apenas dos governos.",
-          "Apenas das grandes empresas de tecnologia.",
-          "De nós, como cidadãos, que devemos evitar que isso continue acontecendo.",
-          "Apenas dos jornalistas."
-        ],
-        "correta": 2,
-        "explicacao": "Cabe a nós, como cidadãos, mudar esse cenário através da checagem e não compartilhando inverdades."
-      },
-      {
-        "enunciado": "O que o leitor deve desconfiar ao ler uma notícia?",
-        "opcoes": [
-          "De notícias com fontes claras e nomes de autores.",
-          "De títulos em letras maiúsculas, informações exageradas e falta de transparência sobre quem registrou o domínio.",
-          "De notícias publicadas em sites de grandes jornais.",
-          "De textos que usam dados estatísticos e gráficos."
-        ],
-        "correta": 1,
-        "explicacao": "O alerta é sobre o uso de letras maiúsculas (caça-cliques) e a falta de transparência sobre a origem do site."
-      },
-      {
-        "enunciado": "O que caracteriza o 'jornalismo sério'?",
-        "opcoes": [
-          "A busca pela verdade, a transparência e o combate aos caça-cliques.",
-          "A publicação de notícias sem se importar com a veracidade.",
-          "O foco em notícias que geram muitos cliques e lucro.",
-          "Apenas publicar opiniões sem fatos."
-        ],
-        "correta": 0,
-        "explicacao": "O jornalismo sério tem sido prejudicado pelos caça-cliques, mas busca a verdade e a checagem de dados."
-      },
-      {
-        "enunciado": "No contexto das notícias, o que significa dizer que uma informação é 'ilícita'?",
-        "opcoes": [
-          "Que é permitida por lei.",
-          "Que é falsa ou proibida por lei.",
-          "Que é muito interessante.",
-          "Que é divertida."
-        ],
-        "correta": 1,
-        "explicacao": "O termo 'ilícito' refere-se a ações proibidas por lei, como enganar o leitor com notícias falsas."
-      },
-      {
-        "enunciado": "Qual é a diferença entre Fato e Opinião?",
-        "opcoes": [
-          "Fato é verificável e opinião é um ponto de vista subjetivo.",
-          "Fato é uma opinião e opinião é um fato.",
-          "Ambos são a mesma coisa.",
-          "Fato é sempre falso e opinião é sempre verdadeira."
-        ],
-        "correta": 0,
-        "explicacao": "Fatos são apoiados em evidências; opiniões são interpretações pessoais."
-      },
-      {
-        "enunciado": "Qual é o papel do leitor diante de uma notícia na internet?",
-        "opcoes": [
-          "Confiar em tudo o que lê, pois a internet é sempre verdadeira.",
-          "Ter um olhar crítico, checar a fonte e não compartilhar notícias falsas.",
-          "Compartilhar tudo o que vê para os amigos.",
-          "Ler apenas o título e ignorar o resto."
-        ],
-        "correta": 1,
-        "explicacao": "A ênfase está na importância do olhar crítico e da checagem para evitar a propagação de fake news."
-      }
-    ]
-  },
-  {
-    "id": "8ano_v1_port_ciencia_01",
-    "titulo": "Português - Fato, Opinião e Ciência",
-    "tipo": "conteudo",
-    "icone": "🔬",
-    "perguntas": [
-      {
-        "enunciado": "Qual é a principal preocupação apontada sobre a negação da ciência?",
-        "opcoes": [
-          "O alto custo das pesquisas científicas.",
-          "A falta de interesse dos jovens pela ciência.",
-          "A defesa de interesses econômicos e políticos que contrariam a preservação do meio ambiente.",
-          "A dificuldade de encontrar cientistas qualificados no mercado."
-        ],
-        "correta": 2,
-        "explicacao": "O negacionismo climático e a descrença na ciência servem a interesses econômicos de indústrias que não querem reduzir lucros."
-      },
-      {
-        "enunciado": "Qual é a definição de 'método científico'?",
-        "opcoes": [
-          "Um conjunto de regras fixas que nunca mudam.",
-          "Um processo dinâmico de construção do conhecimento, em permanente evolução.",
-          "Uma opinião pessoal de cientistas.",
-          "Uma ferramenta de pesquisa da internet."
-        ],
-        "correta": 1,
-        "explicacao": "A ciência é um processo dinâmico de construção do conhecimento, não é imutável."
-      },
-      {
-        "enunciado": "A ciência do clima é considerada 'robusta'. O que isso significa?",
-        "opcoes": [
-          "Que ela é frágil e incerta.",
-          "Que ela é sólida e firme, baseada em muitos resultados sólidos.",
-          "Que ela é nova e não confiável.",
-          "Que ela não pode ser questionada."
-        ],
-        "correta": 1,
-        "explicacao": "Robusto significa sólido/firme. A ciência do clima tem resultados sólidos, como o aumento de eventos climáticos extremos."
-      },
-      {
-        "enunciado": "Qual é o interesse da indústria do petróleo e carvão ao financiar campanhas políticas?",
-        "opcoes": [
-          "Investir em energia solar.",
-          "Evitar medidas que reduzam seus lucros.",
-          "Proteger o meio ambiente.",
-          "Reduzir o consumo de combustíveis fósseis."
-        ],
-        "correta": 1,
-        "explicacao": "Essas indústrias usam seu poder financeiro para evitar medidas que diminuam seus lucros."
-      },
-      {
-        "enunciado": "Como a ciência nos ajuda a enxergar as mudanças climáticas?",
-        "opcoes": [
-          "Como uma mentira inventada.",
-          "Como uma ameaça real, com eventos extremos cada vez mais severos.",
-          "Como algo que não precisa ser resolvido.",
-          "Como uma teoria sem comprovação."
-        ],
-        "correta": 1,
-        "explicacao": "A ciência do clima mostra que o aquecimento global é uma ameaça real, com eventos extremos cada vez mais frequentes."
-      },
-      {
-        "enunciado": "Qual é o papel de Donald Trump no contexto do movimento 'anticência'?",
-        "opcoes": [
-          "Um cientista renomado.",
-          "Um dos expoentes do movimento 'anticência'.",
-          "Um jornalista que defende a ciência.",
-          "Um líder religioso que apoia a ciência."
-        ],
-        "correta": 1,
-        "explicacao": "Trump é citado como um dos expoentes do movimento global 'anticência'."
-      },
-      {
-        "enunciado": "Por que a luta contra as mudanças climáticas é um desafio para a indústria?",
-        "opcoes": [
-          "Porque a indústria não tem recursos para mudar.",
-          "Porque a ciência exige uma redução do consumo e dos lucros para preservar o planeta.",
-          "Porque a indústria quer salvar o planeta, mas não sabe como.",
-          "Porque a ciência não tem dados sobre o clima."
-        ],
-        "correta": 1,
-        "explicacao": "A mudança de modelo econômico exige redução de consumo e, consequentemente, afeta os lucros de indústrias que dependem da exploração."
-      },
-      {
-        "enunciado": "Qual é o significado da palavra 'inócua'?",
-        "opcoes": [
-          "Que é muito importante.",
-          "Que não produz o efeito pretendido, ineficaz.",
-          "Que é perigosa.",
-          "Que é muito cara."
-        ],
-        "correta": 1,
-        "explicacao": "Inócua significa que qualquer tentativa de debater o método científico com quem nega a ciência é ineficaz."
-      },
-      {
-        "enunciado": "Por que a 'descrença na ciência' é perigosa?",
-        "opcoes": [
-          "Impede o avanço da tecnologia.",
-          "Faz com que as pessoas não acreditem em fatos comprovados e tomem decisões que prejudicam a sociedade e o planeta.",
-          "É a única forma de salvar o meio ambiente.",
-          "Apenas atrapalha os cientistas."
-        ],
-        "correta": 1,
-        "explicacao": "A negação da ciência leva a decisões políticas e econômicas que ignoram riscos reais, como as mudanças climáticas."
-      },
-      {
-        "enunciado": "O 'negacionismo climático' é sustentado por:",
-        "opcoes": [
-          "Grandes corporações e grupos ultraconservadores que não querem perder privilégios.",
-          "A maioria dos cientistas do mundo.",
-          "Jovens ativistas ambientais.",
-          "Os países mais pobres."
-        ],
-        "correta": 0,
-        "explicacao": "O negacionismo é financiado por quem quer manter o atual sistema econômico de concentração de renda."
-      },
-      {
-        "enunciado": "Em relação ao futuro do planeta, argumenta-se que:",
-        "opcoes": [
-          "Não há com o que se preocupar.",
-          "É preciso mudar o modelo econômico e construir uma nova sociedade, mais igualitária e sustentável.",
-          "A tecnologia resolverá tudo sozinha.",
-          "O consumo deve aumentar."
-        ],
-        "correta": 1,
-        "explicacao": "A ciência deve vencer e precisamos redirecionar padrões socioeconômicos para um futuro sustentável."
-      },
-      {
-        "enunciado": "O que significa a expressão 'O futuro de seu próprio negócio' ao falar das empresas?",
-        "opcoes": [
-          "Que as empresas não se importam com o futuro.",
-          "Que o lucro imediato pode levar à destruição da própria economia no longo prazo.",
-          "Que as empresas vão sempre lucrar.",
-          "Que o negócio é a única coisa importante."
-        ],
-        "correta": 1,
-        "explicacao": "A ganância de curto prazo pode levar a um colapso econômico e ambiental que afetará as próprias empresas."
-      },
-      {
-        "enunciado": "Qual é a relação entre a ciência e o 'desenvolvimento atual'?",
-        "opcoes": [
-          "A ciência apoia o desenvolvimento atual sem críticas.",
-          "A ciência nos mostra que o desenvolvimento atual é insustentável e precisa ser mudado.",
-          "A ciência é irrelevante para o desenvolvimento.",
-          "A ciência só serve para criar novas tecnologias para as empresas."
-        ],
-        "correta": 1,
-        "explicacao": "A ciência do clima mostra que o atual modelo de desenvolvimento é insustentável e exige mudanças."
-      },
-      {
-        "enunciado": "O que significa a palavra 'expoentes'?",
-        "opcoes": [
-          "Pessoas que negam a ciência.",
-          "Indivíduos que se destacam como principais representantes de um movimento ou ideia.",
-          "Cientistas famosos.",
-          "Jornalistas."
-        ],
-        "correta": 1,
-        "explicacao": "'Expoente' significa alguém que se destaca e é um representante importante de uma corrente de pensamento."
-      },
-      {
-        "enunciado": "Qual é o papel das 'mudanças climáticas' no texto?",
-        "opcoes": [
-          "Um tema secundário.",
-          "O exemplo principal de como a ciência é atacada por interesses econômicos.",
-          "Uma invenção da mídia.",
-          "Um problema fácil de resolver."
-        ],
-        "correta": 1,
-        "explicacao": "As mudanças climáticas são o exemplo central usado no texto para ilustrar o ataque à ciência."
-      },
-      {
-        "enunciado": "A ciência é um processo 'dinâmico'. Qual das opções abaixo reflete essa ideia?",
-        "opcoes": [
-          "A ciência nunca muda suas conclusões.",
-          "A ciência está sempre em evolução, revendo e construindo conhecimento.",
-          "A ciência é uma opinião fixa.",
-          "A ciência não aceita novos dados."
-        ],
-        "correta": 1,
-        "explicacao": "Ser dinâmico significa estar em permanente evolução, construindo e revisando o conhecimento."
-      },
-      {
-        "enunciado": "O que significa 'ignorar o atual estágio de robustez da ciência'?",
-        "opcoes": [
-          "A falta de recursos para a ciência.",
-          "A atitude de negar ou desconsiderar o conhecimento científico já consolidado.",
-          "A lentidão dos cientistas.",
-          "O excesso de tecnologia."
-        ],
-        "correta": 1,
-        "explicacao": "Ignorar a ciência robusta é negar os fatos comprovados, como a crise climática."
-      },
-      {
-        "enunciado": "A busca por 'sustentabilidade' é incompatível com:",
-        "opcoes": [
-          "O lucro imediato e a exploração desenfreada dos recursos naturais.",
-          "A ciência e a tecnologia.",
-          "A justiça social.",
-          "A preservação do meio ambiente."
-        ],
-        "correta": 0,
-        "explicacao": "A sustentabilidade exige repensar o lucro imediato e o consumo, o que entra em choque com os interesses de algumas indústrias."
-      },
-      {
-        "enunciado": "Qual é a tese principal do texto 'A quem interessa atacar a ciência?'",
-        "opcoes": [
-          "A ciência é chata.",
-          "O ataque à ciência é um movimento que visa proteger interesses econômicos e políticos, em detrimento da verdade e do planeta.",
-          "A ciência deve ser ignorada.",
-          "Os cientistas estão errados."
-        ],
-        "correta": 1,
-        "explicacao": "A tese central é que o negacionismo científico serve a interesses econômicos que se recusam a mudar."
-      }
-    ]
-  },
-  {
-    "id": "8ano_v1_port_comentario_01",
-    "titulo": "Português - Comentário do Leitor",
+    "id": "8ano_v1_port_comentario_leitor_01",
+    "titulo": "Português - O Comentário do Leitor",
     "tipo": "conteudo",
     "icone": "💬",
     "perguntas": [
       {
-        "enunciado": "O que é um comentário de leitor?",
-        "opcoes": [
-          "Um texto literário ficcional.",
-          "A opinião de um leitor sobre uma notícia, reportagem ou artigo.",
-          "Uma notícia escrita exclusivamente por jornalistas.",
-          "Um resumo feito por um professor."
-        ],
+        "enunciado": "O que é o gênero 'comentário do leitor'?",
+        "opcoes": ["Um texto literário.", "Um texto em que o leitor expressa sua opinião sobre uma publicação.", "Uma notícia.", "Um editorial."],
         "correta": 1,
-        "explicacao": "O comentário de leitor é o gênero textual em que o leitor expressa sua opinião sobre um conteúdo que leu."
+        "explicacao": "É a manifestação do leitor sobre um conteúdo lido."
       },
       {
-        "enunciado": "Segundo o texto, qual é uma característica comum dos comentários na internet?",
-        "opcoes": [
-          "São sempre muito educados e formais.",
-          "Muitas vezes são carregados de desrespeito e falta de ética.",
-          "Nunca são lidos por outras pessoas.",
-          "São escritos apenas por especialistas."
-        ],
+        "enunciado": "Onde os comentários do leitor são comumente encontrados?",
+        "opcoes": ["Apenas em jornais impressos.", "Em jornais digitais, redes sociais e sites de notícias.", "Apenas em livros.", "Apenas em revistas."],
         "correta": 1,
-        "explicacao": "O texto ressalta que é comum encontrar comentários desrespeitosos, pois muitos acreditam erroneamente que a internet é uma 'terra sem lei'."
+        "explicacao": "O ambiente digital é o principal espaço para esse gênero."
       },
       {
-        "enunciado": "Qual é a estrutura básica de um comentário de leitor?",
-        "opcoes": [
-          "Nome do autor, data/hora, o texto do comentário e botões de interação.",
-          "Título, subtítulo e imagem.",
-          "Introdução, desenvolvimento e conclusão.",
-          "Apenas um emoji e um ponto de exclamação."
-        ],
+        "enunciado": "Segundo o texto, qual é uma característica negativa frequente nos comentários?",
+        "opcoes": ["A falta de respeito.", "A objetividade.", "O excesso de informação.", "A falta de opinião."],
         "correta": 0,
-        "explicacao": "A estrutura inclui a identificação (nome), o momento (data/hora), o texto em si e as opções de 'responder', 'denunciar', 'curtir'."
+        "explicacao": "O texto alerta que muitos comentários são carregados de desrespeito."
       },
       {
-        "enunciado": "Por que a identificação de quem escreveu o comentário é importante?",
-        "opcoes": [
-          "Para cobrar pelo comentário.",
-          "Para mostrar que existe alguém responsável por aquela manifestação de opinião.",
-          "Para garantir que o comentário será apagado.",
-          "Para dar um prêmio ao leitor."
-        ],
-        "correta": 1,
-        "explicacao": "Atribuir o nome ao comentário gera responsabilidade sobre o que foi dito, especialmente em casos de ofensas."
-      },
-      {
-        "enunciado": "A data e a hora em que o comentário foi publicado servem para:",
-        "opcoes": [
-          "Preencher espaço no site.",
-          "Contextualizar o leitor sobre o momento em que aquele posicionamento foi feito.",
-          "Mostrar que o autor é moderno.",
-          "Apenas para fins de publicidade."
-        ],
-        "correta": 1,
-        "explicacao": "A contextualização temporal é importante para entender a interpretação do texto naquele momento específico."
-      },
-      {
-        "enunciado": "O que o botão 'Denunciar' faz em um comentário?",
-        "opcoes": [
-          "Apaga o comentário instantaneamente.",
-          "Envia o comentário para o autor do texto aprovar.",
-          "Serve para delatar abusos e falta de respeito, que ultrapassam os limites da boa convivência.",
-          "Transforma o comentário em uma notícia."
-        ],
-        "correta": 2,
-        "explicacao": "O botão de denúncia é uma ferramenta para reportar comportamentos inadequados."
-      },
-      {
-        "enunciado": "Sobre a linguagem usada em um comentário de leitor, é correto afirmar que:",
-        "opcoes": [
-          "Não precisa ser clara, pode ser confusa.",
-          "Deve ser sempre extremamente formal e rebuscada.",
-          "A clareza e a organização formal das ideias são fundamentais, mesmo sem extrema formalidade.",
-          "Pode ser escrita em outra língua."
-        ],
-        "correta": 2,
-        "explicacao": "A clareza e a organização das ideias reforçam a credibilidade do comentário, ainda que não exija uma formalidade extrema."
-      },
-      {
-        "enunciado": "No exemplo de comentário citado no texto, o leitor João Silva faz uma ressalva sobre qual tema?",
-        "opcoes": [
-          "A liberdade de expressão não é o mesmo que expor ideias livremente sem respeito.",
-          "A liberdade de expressão deve ser abolida.",
-          "Os comentários não deveriam ter botão de denúncia.",
-          "A internet é um território sem lei."
-        ],
+        "enunciado": "O que significa dizer que os comentários devem ser feitos 'indiscriminadamente'?",
+        "opcoes": ["Sem distinção, respeitando os direitos de todos.", "Apenas para algumas pessoas.", "De forma preconceituosa.", "Sem pensar."],
         "correta": 0,
-        "explicacao": "João Silva alerta que a liberdade de expressão exige cautela para não se transformar em discurso de ódio, devendo haver respeito."
+        "explicacao": "Os direitos devem ser resguardados para todos, sem distinção."
       },
       {
-        "enunciado": "O que a frase 'Minha liberdade termina quando eu afeto, de algum modo, o direito do outro' significa?",
-        "opcoes": [
-          "Que as pessoas devem fazer o que quiserem sem pensar nas consequências.",
-          "Que a liberdade de expressão tem limites éticos e legais quando prejudica outras pessoas.",
-          "Que ninguém tem o direito de falar nada.",
-          "Que a liberdade é uma ilusão."
-        ],
+        "enunciado": "Qual é o papel do botão 'Denunciar' presente nos comentários?",
+        "opcoes": ["Para elogiar o autor.", "Para delatar excessos ou desrespeito.", "Para curtir o comentário.", "Para compartilhar."],
         "correta": 1,
-        "explicacao": "Esse é um princípio fundamental do direito e da ética: o direito de um acaba onde começa o do próximo."
+        "explicacao": "O botão serve para denunciar abusos e comportamentos inadequados."
       },
       {
-        "enunciado": "Qual é a principal diferença entre o mundo digital e o mundo analógico mencionada no texto?",
-        "opcoes": [
-          "No mundo analógico é impossível se expressar.",
-          "No mundo digital, a circulação de opiniões supera barreiras físicas, o que antes era limitado aos meios impressos.",
-          "O mundo analógico tem mais opiniões falsas.",
-          "O mundo digital não tem regras de convivência."
-        ],
+        "enunciado": "Segundo o texto, o que é importante lembrar sobre a internet?",
+        "opcoes": ["Que ela é uma terra sem lei.", "Que ela também é um espaço onde a ética e o respeito devem prevalecer.", "Que podemos falar o que quisermos sem consequências.", "Que não há regras."],
         "correta": 1,
-        "explicacao": "A revolução digital permitiu que as ideias chegassem a lugares antes inimagináveis, ultrapassando as limitações físicas."
+        "explicacao": "O texto afirma que a internet não é uma terra sem lei, e a ética deve ser considerada."
       },
       {
-        "enunciado": "Por que o texto diz que a internet não é um território sem lei?",
-        "opcoes": [
-          "Porque já existem leis e a ética da vida em sociedade também se aplicam a ela.",
-          "Porque a polícia prende todo mundo que comenta.",
-          "Porque a internet é um espaço privado.",
-          "Porque não há liberdade na internet."
-        ],
+        "enunciado": "Como o comentário do leitor pode ser estruturado?",
+        "opcoes": ["Deve ser longo e complexo.", "Costuma ser breve, limitando-se a um ou dois parágrafos.", "Deve ser um livro.", "Não precisa ter estrutura."],
+        "correta": 1,
+        "explicacao": "O texto afirma que o comentário costuma ser breve e objetivo."
+      },
+      {
+        "enunciado": "Qual é a importância da identificação do autor em um comentário?",
+        "opcoes": ["Não tem importância.", "Mostra que existe alguém responsável pela manifestação de opinião.", "Serve apenas para ganhar seguidores.", "É obrigatório apenas para jornalistas."],
+        "correta": 1,
+        "explicacao": "A identificação atribui responsabilidade ao que foi dito."
+      },
+      {
+        "enunciado": "O que o botão 'Responder' permite ao leitor fazer?",
+        "opcoes": ["Apagar o comentário.", "Interagir com o autor do comentário ou com outros leitores.", "Editar a notícia.", "Mudar a fonte."],
+        "correta": 1,
+        "explicacao": "Permite a interação e o debate entre os usuários."
+      },
+      {
+        "enunciado": "Segundo o texto, o que a resposta a um comentário também deve ser?",
+        "opcoes": ["Agressiva.", "Respeitosa.", "Anônima.", "Longa."],
+        "correta": 1,
+        "explicacao": "A resposta deve manter o respeito, assim como o comentário original."
+      },
+      {
+        "enunciado": "O que é 'discurso de ódio' mencionado no texto?",
+        "opcoes": ["Um discurso de amor.", "Manifestações agressivas, desrespeitosas ou preconceituosas.", "Um discurso político.", "Um discurso científico."],
+        "correta": 1,
+        "explicacao": "O discurso de ódio é uma forma de violência verbal."
+      },
+      {
+        "enunciado": "Qual é o limite para a liberdade de expressão, segundo o texto?",
+        "opcoes": ["Nenhum, podemos falar tudo.", "O limite é o direito do outro.", "O limite é a lei.", "O limite é a vontade do autor."],
+        "correta": 1,
+        "explicacao": "A liberdade de expressão não pode ferir os direitos dos outros."
+      },
+      {
+        "enunciado": "O que o texto quer dizer com 'a internet tem seus caminhos'?",
+        "opcoes": ["Que a internet é um labirinto.", "Que a internet é um espaço de liberdade, mas também de responsabilidade.", "Que a internet é perigosa.", "Que a internet é segura."],
+        "correta": 1,
+        "explicacao": "A internet tem suas particularidades e regras sociais."
+      },
+      {
+        "enunciado": "Quem pode fazer um comentário em um site de notícias?",
+        "opcoes": ["Apenas jornalistas.", "Qualquer leitor cadastrado.", "Apenas o autor da notícia.", "Apenas o editor."],
+        "correta": 1,
+        "explicacao": "Qualquer leitor pode expressar sua opinião."
+      },
+      {
+        "enunciado": "Segundo o texto, a ética no comentário é:",
+        "opcoes": ["Desvalorizada por muitos.", "Sempre respeitada.", "Irrelevante.", "Obrigatória apenas para alguns."],
         "correta": 0,
-        "explicacao": "O texto reforça que a vida em sociedade, com suas regras e ética, deve ser considerada também nos espaços virtuais."
+        "explicacao": "O texto aponta que a ética é muitas vezes desvalorizada nos comentários."
+      },
+      {
+        "enunciado": "Qual é a principal diferença entre o editorial e o comentário do leitor?",
+        "opcoes": ["O editorial é a voz do jornal; o comentário é a voz do leitor.", "O editorial é escrito por leitores.", "O comentário é a voz do jornal.", "Não há diferença."],
+        "correta": 0,
+        "explicacao": "A autoria e o ponto de vista são diferentes."
+      },
+      {
+        "enunciado": "O que o texto sugere sobre a leitura crítica dos comentários?",
+        "opcoes": ["Devemos ler todos os comentários.", "Devemos ter cuidado com comentários desrespeitosos e checar as informações.", "Devemos ignorar todos os comentários.", "Devemos concordar com tudo."],
+        "correta": 1,
+        "explicacao": "A leitura crítica é essencial no ambiente digital."
+      },
+      {
+        "enunciado": "Segundo o texto, a internet é uma ferramenta que:",
+        "opcoes": ["Auxilia na obtenção de informações, mas também tem enganos.", "É apenas para diversão.", "É segura.", "Não tem informações."],
+        "correta": 0,
+        "explicacao": "A internet é útil, mas exige cuidado com a desinformação."
+      },
+      {
+        "enunciado": "O que é um 'caça-clique'?",
+        "opcoes": ["Um conteúdo atraente que visa gerar cliques.", "Um vírus de computador.", "Um tipo de comentário.", "Um editor de texto."],
+        "correta": 0,
+        "explicacao": "O caça-clique usa títulos sensacionalistas para atrair a atenção."
+      },
+      {
+        "enunciado": "O que o texto quer dizer quando afirma que 'a informação virou mercadoria'?",
+        "opcoes": ["Que a informação é vendida e comprada, gerando lucro.", "Que a informação é gratuita.", "Que a informação não tem valor.", "Que a informação é um presente."],
+        "correta": 0,
+        "explicacao": "A notícia muitas vezes é usada para gerar receita publicitária."
       }
     ]
   },
   {
-    "id": "8ano_v1_port_formacao_01",
-    "titulo": "Português - Formação de Palavras",
+    "id": "8ano_v1_port_checagem_fatos_01",
+    "titulo": "Português - Checagem de Fatos e Desinformação",
     "tipo": "conteudo",
-    "icone": "🧩",
+    "icone": "📱",
     "perguntas": [
       {
-        "enunciado": "O que significa dizer que 'a língua é um organismo vivo'?",
-        "opcoes": [
-          "Que a língua tem células e órgãos.",
-          "Que a língua está em constante movimento e transformação, criando novas palavras e abandonando outras.",
-          "Que a língua nunca muda.",
-          "Que a língua foi criada por um único ser humano."
-        ],
+        "enunciado": "Qual é o papel do checador de fatos (fact-checker)?",
+        "opcoes": ["Criar notícias falsas.", "Investigar e verificar a veracidade das informações que circulam na internet.", "Vender notícias.", "Escrever editoriais."],
         "correta": 1,
-        "explicacao": "A língua evolui naturalmente com o tempo e as necessidades humanas."
+        "explicacao": "O checador busca a verdade por trás das informações."
       },
       {
-        "enunciado": "O que é 'composição' no estudo da formação de palavras?",
-        "opcoes": [
-          "A divisão de uma frase em partes.",
-          "O processo de unir dois ou mais radicais diferentes para criar uma nova palavra.",
-          "A criação de palavras a partir de empréstimos de outras línguas.",
-          "O ato de escrever uma redação."
-        ],
+        "enunciado": "Segundo o texto, o que é a 'Checagem de Fatos'?",
+        "opcoes": ["Uma brincadeira.", "Uma habilidade que se alcança com o tempo e o exercício de pesquisar.", "Uma perda de tempo.", "Uma forma de censura."],
         "correta": 1,
-        "explicacao": "A composição forma novas palavras com um significado próprio a partir da junção de radicais."
-      },
-      {
-        "enunciado": "A composição se subdivide em quais tipos?",
-        "opcoes": [
-          "Frase e oração.",
-          "Derivação e flexão.",
-          "Justaposição e aglutinação.",
-          "Prefixação e sufixação."
-        ],
-        "correta": 2,
-        "explicacao": "Os dois tipos de composição são justaposição e aglutinação."
-      },
-      {
-        "enunciado": "O que ocorre no processo de 'Justaposição'?",
-        "opcoes": [
-          "As palavras se juntam e perdem sons (letras).",
-          "As palavras se juntam, mas não há perda fonética (sonora) de nenhum dos constituintes.",
-          "Uma palavra é inventada do zero.",
-          "As palavras se separam."
-        ],
-        "correta": 1,
-        "explicacao": "Na justaposição, os elementos são apenas colocados lado a lado, sem perda de letras."
-      },
-      {
-        "enunciado": "Qual das opções é um exemplo de palavra formada por Justaposição?",
-        "opcoes": [
-          "Pernalta",
-          "Embora",
-          "Beija-flor",
-          "Aguardente"
-        ],
-        "correta": 2,
-        "explicacao": "Beija-flor é formada por justaposição (beija + flor), sem perda de letras."
-      },
-      {
-        "enunciado": "O que ocorre no processo de 'Aglutinação'?",
-        "opcoes": [
-          "As palavras são separadas.",
-          "As palavras se juntam e há perda fonética, ou seja, uma letra ou som deixa de existir.",
-          "As palavras se juntam sem perder nada.",
-          "A palavra ganha um novo acento."
-        ],
-        "correta": 1,
-        "explicacao": "Na aglutinação, os elementos se fundem e há a perda de uma letra ou som."
-      },
-      {
-        "enunciado": "Qual das opções é um exemplo de palavra formada por Aglutinação?",
-        "opcoes": [
-          "Pé-de-moleque",
-          "Passatempo",
-          "Planalto (plano + alto)",
-          "Guarda-chuva"
-        ],
-        "correta": 2,
-        "explicacao": "Planalto é a fusão de 'plano + alto', com perda da letra 'o'."
-      },
-      {
-        "enunciado": "Segundo o Novo Acordo Ortográfico, usa-se hífen em palavras compostas quando:",
-        "opcoes": [
-          "Os elementos perdem o sentido próprio.",
-          "Os elementos guardam a independência fonética e a noção de composição, como em 'amor-perfeito'.",
-          "A palavra começa com a letra 'a'.",
-          "A palavra é formada por aglutinação."
-        ],
-        "correta": 1,
-        "explicacao": "O hífen é usado nas justaposições onde a noção de composição ainda é clara."
-      },
-      {
-        "enunciado": "Qual dessas palavras compostas deve ser escrita com hífen segundo as regras mostradas?",
-        "opcoes": [
-          "Girassol",
-          "Passatempo",
-          "Arco-íris",
-          "Planalto"
-        ],
-        "correta": 2,
-        "explicacao": "Arco-íris é formada por justaposição e leva hífen."
-      },
-      {
-        "enunciado": "Qual dessas palavras é formada por composição, mas é escrita sem hífen por ser uma aglutinação?",
-        "opcoes": [
-          "Mata-mata",
-          "Bem-te-vi",
-          "Aguardente",
-          "Pé-de-meia"
-        ],
-        "correta": 2,
-        "explicacao": "Aguardente vem de 'água + ardente', com perda fonética (letra 'a' do final da primeira palavra)."
-      },
-      {
-        "enunciado": "O que são 'locuções' no contexto da ortografia?",
-        "opcoes": [
-          "Palavras que têm apenas uma sílaba.",
-          "Conjunto de duas ou mais palavras que atuam como uma única classe gramatical.",
-          "Palavras de origem indígena.",
-          "Erros de digitação comuns."
-        ],
-        "correta": 1,
-        "explicacao": "Locuções são grupos de palavras com valor de uma só palavra, como 'pé de moleque' (substantivo)."
-      },
-      {
-        "enunciado": "Nas locuções, usa-se hífen em quais situações?",
-        "opcoes": [
-          "Em todas as locuções, sem exceção.",
-          "Em nenhuma locução.",
-          "Em algumas locuções consagradas, como 'água-de-colônia', 'arco-da-velha' e 'cor-de-rosa'.",
-          "Apenas se a locução tiver verbos."
-        ],
-        "correta": 2,
-        "explicacao": "Existem locuções específicas que exigem o uso do hífen para evitar confusões."
-      },
-      {
-        "enunciado": "Palavras compostas com o advérbio 'bem' ou 'mal' recebem hífen quando o segundo elemento começa com:",
-        "opcoes": [
-          "Consoante.",
-          "Vogal ou 'h', como em 'bem-humorado' e 'mal-educado'.",
-          "Apenas 'r'.",
-          "Qualquer letra, sem exceção."
-        ],
-        "correta": 1,
-        "explicacao": "Geralmente usa-se hífen com 'bem' e 'mal' se a próxima palavra começar com vogal ou 'h'."
-      },
-      {
-        "enunciado": "Das palavras abaixo, qual está escrita corretamente com hífen?",
-        "opcoes": [
-          "malfeito",
-          "mal-humorado",
-          "malcriado",
-          "bemfeito"
-        ],
-        "correta": 1,
-        "explicacao": "Mal-humorado leva hífen porque 'humorado' começa com a letra 'h'."
-      },
-      {
-        "enunciado": "Qual das palavras a seguir foi formada por composição (juntando dois radicais)?",
-        "opcoes": [
-          "Infelizmente",
-          "Deslealdade",
-          "Passatempo",
-          "Pedreiro"
-        ],
-        "correta": 2,
-        "explicacao": "Passatempo é formada por 'passa' + 'tempo', dois radicais."
-      }
-    ]
-  },
-  {
-    "id": "8ano_v1_port_checagem_01",
-    "titulo": "Português - Checagem de Fatos",
-    "tipo": "conteudo",
-    "icone": "🔍",
-    "perguntas": [
-      {
-        "enunciado": "Quem são os 'checadores de fatos'?",
-        "opcoes": [
-          "Pessoas que criam notícias falsas na internet.",
-          "Jornalistas que buscam a verdade e desmentem informações falsas que circulam nas redes.",
-          "Usuários comuns que apagam seus comentários.",
-          "Empresas que vendem seguidores."
-        ],
-        "correta": 1,
-        "explicacao": "Eles são profissionais do jornalismo dedicados a investigar e validar a veracidade das informações."
-      },
-      {
-        "enunciado": "Checar fatos é uma habilidade que exige:",
-        "opcoes": [
-          "Apenas sorte.",
-          "Tempo e exercício da checagem, como pesquisar e investigar.",
-          "Um celular moderno.",
-          "Apenas ler o título da notícia."
-        ],
-        "correta": 1,
-        "explicacao": "A checagem exige prática e tempo, não sendo algo que se aprende da noite para o dia."
+        "explicacao": "A checagem é uma habilidade que exige prática e pesquisa."
       },
       {
         "enunciado": "O que é a IFCN?",
-        "opcoes": [
-          "Um site de notícias falsas.",
-          "A Rede Internacional de Checagem de Fatos (International Fact-Checking Network).",
-          "Uma rede social de fotos.",
-          "Uma lei brasileira."
-        ],
+        "opcoes": ["Uma empresa de tecnologia.", "A Rede Internacional de Checagem de Fatos.", "Um jornal.", "Uma rede social."],
         "correta": 1,
-        "explicacao": "IFCN é a sigla para International Fact-Checking Network, uma instituição mundial de checagem."
+        "explicacao": "A IFCN é uma organização que reúne checadores de fatos do mundo todo."
       },
       {
-        "enunciado": "Segundo o texto, qual é o problema dos vídeos falsos (deepfakes) gerados por inteligência artificial?",
-        "opcoes": [
-          "Eles têm péssima qualidade.",
-          "Eles estão cada vez mais fáceis de serem produzidos e mais difíceis de serem detectados.",
-          "Eles não podem ser compartilhados.",
-          "Eles só aparecem na TV."
-        ],
-        "correta": 1,
-        "explicacao": "A tecnologia permite criar vídeos falsos muito realistas, o que dificulta a checagem rápida."
-      },
-      {
-        "enunciado": "Qual é a dica número 1 (a primeira) para quem quer evitar cair em fake news, segundo o texto?",
-        "opcoes": [
-          "Pensar criticamente.",
-          "Não usar redes sociais.",
-          "Assistir apenas à TV.",
-          "Acreditar apenas em vídeos."
-        ],
+        "enunciado": "O que os vídeos virais podem representar para a desinformação?",
+        "opcoes": ["Um enorme problema de disseminação de notícias falsas.", "Uma fonte segura de informação.", "Uma forma de arte.", "Nada."],
         "correta": 0,
-        "explicacao": "A dica principal é desenvolver o pensamento crítico e desconfiar de informações que parecem 'fáceis demais'."
+        "explicacao": "Os vídeos virais são um dos principais veículos de fake news."
       },
       {
-        "enunciado": "Qual é uma das principais características da internet que nos leva a acreditar em notícias falsas?",
-        "opcoes": [
-          "A falta de imagens.",
-          "A presença de informações acompanhadas de imagens e cores que parecem muito reais.",
-          "A lentidão dos sites.",
-          "A falta de textos."
-        ],
+        "enunciado": "Qual é a primeira dica para checar uma informação?",
+        "opcoes": ["Acreditar imediatamente.", "Pensar criticamente.", "Compartilhar.", "Ignorar."],
         "correta": 1,
-        "explicacao": "O visual atrativo (cores, imagens) gera uma falsa sensação de credibilidade."
+        "explicacao": "O pensamento crítico é a base da checagem."
       },
       {
-        "enunciado": "O que a chamada 'Armadilha' da internet faz com o usuário?",
-        "opcoes": [
-          "Faz o usuário desligar o celular.",
-          "Faz o usuário pagar uma multa.",
-          "Faz o usuário aceitar como verdadeiro o que parece verdadeiro, causando tendências e influenciando opiniões.",
-          "Faz o usuário ficar famoso."
-        ],
-        "correta": 2,
-        "explicacao": "A tendência de acreditar no que 'parece' verdade leva à desinformação em massa."
-      },
-      {
-        "enunciado": "Sobre a checagem de vídeos, o texto sugere:",
-        "opcoes": [
-          "Assistir ao vídeo apenas uma vez.",
-          "Não se deve checar o que aconteceu antes ou depois da gravação.",
-          "Observar detalhes, ver quem compartilhou e quando o vídeo foi filmado.",
-          "Confiar em tudo o que é enviado por amigos."
-        ],
-        "correta": 2,
-        "explicacao": "A checagem exige verificar o contexto, a data e as informações ao redor do vídeo."
-      },
-      {
-        "enunciado": "Segundo o texto, o que o Ministério da Saúde alerta?",
-        "opcoes": [
-          "Que as vacinas são perigosas.",
-          "Que há fake news circulando sobre saúde que podem prejudicar a população.",
-          "Que as pessoas devem evitar ir a hospitais.",
-          "Que a vacinação não é importante."
-        ],
-        "correta": 1,
-        "explicacao": "O Ministério da Saúde emite alertas sobre desinformação que pode afetar a saúde pública."
-      },
-      {
-        "enunciado": "A imagem de uma campanha de vacinação foi apontada como 'fake news' pelo Ministério da Saúde. Por que isso ocorre?",
-        "opcoes": [
-          "Porque a foto era de outra campanha ou foi editada, gerando informação incorreta.",
-          "Porque a vacina era muito boa.",
-          "Porque o Ministério da Saúde não gosta de vacinas.",
-          "Porque a foto foi tirada por um fotógrafo famoso."
-        ],
+        "enunciado": "Segundo o texto, qual é um risco de acreditar em tudo o que parece verdadeiro?",
+        "opcoes": ["Cair em armadilhas e ter opiniões influenciadas.", "Ganhar dinheiro.", "Ficar mais inteligente.", "Nenhum risco."],
         "correta": 0,
-        "explicacao": "Muitas fake news usam fotos reais de outros contextos fora de época para enganar as pessoas."
+        "explicacao": "O texto alerta sobre a tendência de aceitar o que parece verdadeiro como fato."
       },
       {
-        "enunciado": "Qual é o papel da 'checagem' na escola, segundo o texto?",
-        "opcoes": [
-          "É proibida.",
-          "É o mesmo que pesquisar sobre um tema proposto, uma habilidade necessária para os estudos.",
-          "Só serve para passar de ano.",
-          "É utilizada apenas em matemática."
-        ],
-        "correta": 1,
-        "explicacao": "A checagem é comparada à pesquisa escolar, essencial para o aprendizado e para a vida."
-      },
-      {
-        "enunciado": "O que significa 'tomar os vídeos virais como problema'?",
-        "opcoes": [
-          "Que vídeos virais não devem ser compartilhados sem checagem.",
-          "Que todos os vídeos virais são verdadeiros.",
-          "Que devemos evitar usar a internet.",
-          "Que os vídeos virais são a única fonte de verdade."
-        ],
+        "enunciado": "O que o Ministério da Saúde alerta sobre as fake news?",
+        "opcoes": ["Que elas podem prejudicar muitas pessoas e até superlotar os sistemas de saúde.", "Que elas são inofensivas.", "Que elas ajudam a saúde.", "Que elas não existem."],
         "correta": 0,
-        "explicacao": "A viralização é perigosa porque espalha informações falsas rapidamente."
+        "explicacao": "A desinformação em saúde pode ter consequências graves."
       },
       {
-        "enunciado": "Qual das opções abaixo é uma atitude de 'checagem' de fatos?",
-        "opcoes": [
-          "Compartilhar imediatamente uma notícia alarmante.",
-          "Procurar a fonte original da notícia e verificar se veículos confiáveis a publicaram.",
-          "Ler apenas o título e o resumo.",
-          "Perguntar a opinião de um amigo."
-        ],
+        "enunciado": "O que é a 'medida provisória' citada no texto sobre os sindicatos?",
+        "opcoes": ["Uma lei.", "Uma norma editada pelo Presidente da República com força de lei.", "Um decreto.", "Uma portaria."],
         "correta": 1,
-        "explicacao": "A checagem envolve verificar a origem e a veracidade por meio de fontes confiáveis."
+        "explicacao": "A MP é um instrumento do Poder Executivo."
       },
       {
-        "enunciado": "O que é necessário para que os checadores de fatos possam afirmar com certeza o que é verdadeiro ou falso?",
-        "opcoes": [
-          "Apenas ler o texto rapidamente.",
-          "Buscar as fontes e se debruçar sobre elas.",
-          "Ouvir apenas um lado da história.",
-          "Confiar na intuição."
-        ],
+        "enunciado": "O que o texto diz sobre a verificação de fotos e vídeos?",
+        "opcoes": ["É fácil e rápida.", "É uma das formas mais difíceis de checar.", "Não é necessária.", "É sempre verdadeira."],
         "correta": 1,
-        "explicacao": "É preciso investigar e buscar evidências em fontes variadas."
+        "explicacao": "O texto destaca a dificuldade de checar vídeos e imagens."
       },
       {
-        "enunciado": "Segundo o texto, o que podemos fazer para não nos tornarmos 'checadores da noite para o dia'?",
-        "opcoes": [
-          "Desistir de checar.",
-          "Seguir algumas dicas e praticar a checagem.",
-          "Não usar a internet.",
-          "Deixar que os outros chequem por nós."
-        ],
+        "enunciado": "O que a inteligência artificial tem a ver com as fake news?",
+        "opcoes": ["Ela pode ser usada para criar notícias falsas mais facilmente.", "Ela resolve todos os problemas.", "Ela não existe.", "Ela é uma aliada da verdade."],
+        "correta": 0,
+        "explicacao": "A IA tem sido usada para gerar deepfakes e desinformação."
+      },
+      {
+        "enunciado": "Qual é a importância do 'fato' no jornalismo?",
+        "opcoes": ["É a base da notícia.", "É a opinião do jornalista.", "É uma invenção.", "É irrelevante."],
+        "correta": 0,
+        "explicacao": "O fato é o que pode ser verificado e apoiado em evidências."
+      },
+      {
+        "enunciado": "O que o texto sugere sobre a circulação de informações nas redes sociais?",
+        "opcoes": ["É controlada.", "É livre, mas exige responsabilidade.", "É proibida.", "Não há informações."],
         "correta": 1,
-        "explicacao": "Mesmo não sendo especialistas, podemos aprender e aplicar dicas básicas de checagem."
+        "explicacao": "A liberdade de expressão vem acompanhada de responsabilidade."
+      },
+      {
+        "enunciado": "Qual é o perigo de compartilhar notícias sem checar?",
+        "opcoes": ["Ajudar a espalhar a desinformação.", "Nenhum.", "Ganhar seguidores.", "Ficar famoso."],
+        "correta": 0,
+        "explicacao": "Compartilhar sem checar amplia o alcance das fake news."
+      },
+      {
+        "enunciado": "O que o texto chama de 'olhar crítico'?",
+        "opcoes": ["A capacidade de questionar e analisar as informações.", "A capacidade de ler rápido.", "A capacidade de escrever bem.", "A capacidade de ignorar."],
+        "correta": 0,
+        "explicacao": "O olhar crítico é fundamental para não cair em armadilhas."
+      },
+      {
+        "enunciado": "Segundo o texto, o que podemos fazer para nos proteger de notícias falsas?",
+        "opcoes": ["Pesquisar a fonte.", "Confiar em tudo.", "Compartilhar rapidamente.", "Não ler."],
+        "correta": 0,
+        "explicacao": "A pesquisa da fonte é uma das principais formas de proteção."
+      },
+      {
+        "enunciado": "O que o texto diz sobre a 'velocidade' da informação?",
+        "opcoes": ["A velocidade é mais importante que a precisão.", "A velocidade pode ser uma inimiga da verdade.", "A velocidade é irrelevante.", "A velocidade é sempre boa."],
+        "correta": 1,
+        "explicacao": "A pressa em compartilhar pode levar à propagação de mentiras."
+      },
+      {
+        "enunciado": "O que é o 'fact-checking'?",
+        "opcoes": ["Checagem de fatos.", "Criação de fatos.", "Edição de vídeos.", "Publicação de opiniões."],
+        "correta": 0,
+        "explicacao": "Fact-checking é o termo em inglês para checagem de fatos."
+      },
+      {
+        "enunciado": "Qual é o papel da escola na checagem de fatos?",
+        "opcoes": ["Ensinar a pesquisar e ter senso crítico.", "Proibir o uso da internet.", "Não tem papel.", "Ensinar a fazer fake news."],
+        "correta": 0,
+        "explicacao": "O texto cita a escola como espaço de aprendizagem da pesquisa."
+      },
+      {
+        "enunciado": "O texto afirma que o jornalismo sério é:",
+        "opcoes": ["Prejudicado pelas fake news.", "Beneficiado pelas fake news.", "Independente das fake news.", "O criador das fake news."],
+        "correta": 0,
+        "explicacao": "O jornalismo sério perde credibilidade com a desinformação."
+      },
+      {
+        "enunciado": "O que é a 'Primavera Árabe' citada no texto?",
+        "opcoes": ["Um movimento de protestos no mundo árabe.", "Uma estação do ano.", "Um tipo de flor.", "Uma guerra."],
+        "correta": 0,
+        "explicacao": "A Primavera Árabe foi um movimento político que usou a internet."
       }
     ]
   },
   {
-    "id": "8ano_v1_port_direitos_01",
-    "titulo": "Português - Direitos das Crianças",
+    "id": "8ano_v1_port_direitos_criancas_01",
+    "titulo": "Português - Direitos das Crianças e Cidadania",
     "tipo": "conteudo",
-    "icone": "⚖️",
+    "icone": "🧒",
     "perguntas": [
       {
+        "enunciado": "Qual é a data em que se comemora o Dia Internacional dos Direitos das Crianças?",
+        "opcoes": ["20 de novembro.", "12 de outubro.", "1º de maio.", "7 de setembro."],
+        "correta": 0,
+        "explicacao": "A data foi escolhida em homenagem à Declaração dos Direitos da Criança, de 1959."
+      },
+      {
+        "enunciado": "O que foi a 'Declaração dos Direitos da Criança' de 1959?",
+        "opcoes": ["Um documento que apenas alertava sobre a necessidade de proteção à infância.", "Uma lei.", "Um tratado.", "Um livro."],
+        "correta": 0,
+        "explicacao": "A Declaração tinha caráter de recomendação, não de obrigação legal."
+      },
+      {
+        "enunciado": "Qual é o documento mais recente e mais aceito sobre os direitos das crianças, assinado em 1989?",
+        "opcoes": ["A Convenção Internacional sobre os Direitos das Crianças.", "A Declaração dos Direitos da Criança.", "O Estatuto da Criança e do Adolescente.", "A Constituição Federal."],
+        "correta": 0,
+        "explicacao": "A Convenção de 1989 é o documento mais amplo e aceito internacionalmente."
+      },
+      {
+        "enunciado": "Qual é a lei brasileira específica para crianças e adolescentes?",
+        "opcoes": ["ECA (Estatuto da Criança e do Adolescente).", "CLT.", "Código Civil.", "Constituição."],
+        "correta": 0,
+        "explicacao": "O ECA existe desde 1990."
+      },
+      {
+        "enunciado": "Segundo o texto, quem é responsável por garantir os direitos das crianças e adolescentes?",
+        "opcoes": ["Apenas os pais.", "Apenas o governo.", "A família, a comunidade, a sociedade e o poder público.", "Apenas a escola."],
+        "correta": 2,
+        "explicacao": "É um dever compartilhado entre todos."
+      },
+      {
+        "enunciado": "O que o texto quer dizer com 'prioridade absoluta'?",
+        "opcoes": ["Que as crianças têm prioridade em tudo.", "Que os direitos das crianças devem ser garantidos antes de qualquer outra coisa.", "Que as crianças são mais importantes que os adultos.", "Que as crianças não têm deveres."],
+        "correta": 1,
+        "explicacao": "A prioridade absoluta é um princípio do ECA."
+      },
+      {
+        "enunciado": "Quais são os direitos fundamentais garantidos pelo ECA?",
+        "opcoes": ["Apenas educação.", "Vida, saúde, alimentação, educação, esporte, lazer, profissionalização, cultura, dignidade, respeito, liberdade e convivência familiar.", "Apenas brincar.", "Apenas moradia."],
+        "correta": 1,
+        "explicacao": "O ECA abrange um conjunto amplo de direitos."
+      },
+      {
+        "enunciado": "O que o texto afirma sobre a 'liberdade de expressão'?",
+        "opcoes": ["É um direito de todos.", "É um direito apenas de adultos.", "É proibida.", "Não existe."],
+        "correta": 0,
+        "explicacao": "A liberdade de expressão é um direito fundamental, mas tem limites."
+      },
+      {
+        "enunciado": "Segundo o texto, a liberdade de expressão pode ser usada para o discurso de ódio?",
+        "opcoes": ["Sim, sem limites.", "Não, pois a liberdade termina quando fere o direito do outro.", "Sim, desde que seja anônimo.", "Não, pois o discurso de ódio é permitido."],
+        "correta": 1,
+        "explicacao": "A liberdade de expressão não ampara o discurso de ódio."
+      },
+      {
+        "enunciado": "O que o texto diz sobre a 'Constituição Federal'?",
+        "opcoes": ["É a lei fundamental do país.", "É um livro.", "É uma ONG.", "É um tratado internacional."],
+        "correta": 0,
+        "explicacao": "A Constituição é a base do ordenamento jurídico brasileiro."
+      },
+      {
+        "enunciado": "O que o texto chama de 'mundo analógico'?",
+        "opcoes": ["O mundo digital.", "O mundo real, em oposição ao digital.", "O mundo virtual.", "O mundo dos sonhos."],
+        "correta": 1,
+        "explicacao": "O termo é usado para contrastar com a realidade virtual."
+      },
+      {
+        "enunciado": "O que a 'revolução digital' permitiu?",
+        "opcoes": ["Que as ideias cheguem a lugares e pessoas antes inimagináveis.", "Que as pessoas se isolem.", "Que a informação pare de circular.", "Que a mentira acabe."],
+        "correta": 0,
+        "explicacao": "A internet ampliou o alcance da comunicação."
+      },
+      {
+        "enunciado": "Segundo o texto, a internet é um espaço:",
+        "opcoes": ["Sem leis e sem ética.", "Onde a ética e o respeito devem prevalecer.", "Apenas para diversão.", "Apenas para adultos."],
+        "correta": 1,
+        "explicacao": "A internet não é uma terra sem lei."
+      },
+      {
+        "enunciado": "O que é 'fact-checking'?",
+        "opcoes": ["Checagem de fatos.", "Criação de fatos.", "Edição de vídeos.", "Publicação de opiniões."],
+        "correta": 0,
+        "explicacao": "Fact-checking é o termo em inglês para checagem de fatos."
+      },
+      {
+        "enunciado": "Qual é o papel da escola na formação do cidadão?",
+        "opcoes": ["Ensinar a ler e escrever.", "Ensinar a ter senso crítico e a checar informações.", "Não tem papel.", "Ensinar a fazer fake news."],
+        "correta": 1,
+        "explicacao": "A escola é fundamental na formação do pensamento crítico."
+      },
+      {
+        "enunciado": "O que o texto diz sobre a 'velocidade' da informação?",
+        "opcoes": ["A velocidade é mais importante que a precisão.", "A velocidade pode ser uma inimiga da verdade.", "A velocidade é irrelevante.", "A velocidade é sempre boa."],
+        "correta": 1,
+        "explicacao": "A pressa em compartilhar pode levar à propagação de mentiras."
+      },
+      {
+        "enunciado": "O que é o 'discurso de ódio' mencionado no texto?",
+        "opcoes": ["Um discurso de amor.", "Manifestações agressivas, desrespeitosas ou preconceituosas.", "Um discurso político.", "Um discurso científico."],
+        "correta": 1,
+        "explicacao": "O discurso de ódio é uma forma de violência verbal."
+      },
+      {
+        "enunciado": "Qual é o limite para a liberdade de expressão, segundo o texto?",
+        "opcoes": ["Nenhum, podemos falar tudo.", "O limite é o direito do outro.", "O limite é a lei.", "O limite é a vontade do autor."],
+        "correta": 1,
+        "explicacao": "A liberdade de expressão não pode ferir os direitos dos outros."
+      },
+      {
         "enunciado": "O que é o ECA?",
-        "opcoes": [
-          "Um site de fake news.",
-          "O Estatuto da Criança e do Adolescente, criado em 1990.",
-          "Uma lei de trânsito.",
-          "Um livro de ficção."
-        ],
-        "correta": 1,
-        "explicacao": "O ECA é a principal lei brasileira que garante os direitos das crianças e adolescentes."
-      },
-      {
-        "enunciado": "Qual é o objetivo principal do ECA?",
-        "opcoes": [
-          "Garantir apenas a alimentação das crianças.",
-          "Garantir a proteção integral e os direitos de crianças e adolescentes.",
-          "Criar regras para os pais.",
-          "Punir as crianças."
-        ],
-        "correta": 1,
-        "explicacao": "O ECA busca a proteção integral, garantindo direitos como vida, saúde, educação, cultura, entre outros."
-      },
-      {
-        "enunciado": "Para quem o ECA foi criado originalmente?",
-        "opcoes": [
-          "Apenas para crianças e adolescentes órfãos ou que cometiam atos infracionais.",
-          "Apenas para crianças ricas.",
-          "Apenas para crianças de outros países.",
-          "Para todos os adultos."
-        ],
+        "opcoes": ["Estatuto da Criança e do Adolescente.", "Estatuto do Cidadão Adulto.", "Estatuto da Criança e do Idoso.", "Estatuto do Consumidor."],
         "correta": 0,
-        "explicacao": "Antes, a lei aplicava-se apenas a esses grupos, mas o ECA ampliou para TODAS as crianças e adolescentes."
+        "explicacao": "O ECA é a lei que protege crianças e adolescentes."
       },
       {
-        "enunciado": "Segundo a autora do texto, o ECA é uma das mais avançadas legislações do mundo em relação:",
-        "opcoes": [
-          "À proteção da infância e da juventude.",
-          "À proteção dos animais.",
-          "Às regras de trânsito.",
-          "Ao comércio exterior."
-        ],
+        "enunciado": "Segundo o texto, a internet é uma ferramenta que:",
+        "opcoes": ["Auxilia na obtenção de informações, mas também tem enganos.", "É apenas para diversão.", "É segura.", "Não tem informações."],
         "correta": 0,
-        "explicacao": "O Brasil tem uma legislação considerada referência mundial na proteção da infância."
-      },
+        "explicacao": "A internet é útil, mas exige cuidado com a desinformação."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v1_port_composicao_palavras_01",
+    "titulo": "Português - Formação de Palavras e Hífen",
+    "tipo": "conteudo",
+    "icone": "📝",
+    "perguntas": [
       {
-        "enunciado": "De acordo com o texto, quais são os deveres do Estado, da família e da sociedade?",
-        "opcoes": [
-          "Apenas cuidar das escolas.",
-          "Assegurar a efetivação dos direitos da criança e do adolescente.",
-          "Ignorar as crianças.",
-          "Criar mais notícias falsas."
-        ],
-        "correta": 1,
-        "explicacao": "A sociedade e o poder público têm o dever de colocar os direitos das crianças em prática."
-      },
-      {
-        "enunciado": "Qual é um dos direitos fundamentais garantidos pelo ECA?",
-        "opcoes": [
-          "O direito de trabalhar em tempo integral.",
-          "O direito à vida, à saúde, à alimentação, à educação e ao esporte.",
-          "O direito de não obedecer aos pais.",
-          "O direito de comprar brinquedos caros."
-        ],
-        "correta": 1,
-        "explicacao": "O ECA garante 13 direitos prioritários, dentre eles vida, saúde, alimentação, educação, esporte e lazer."
-      },
-      {
-        "enunciado": "O que é o 'mundo analógico' mencionado no texto?",
-        "opcoes": [
-          "O mundo da internet.",
-          "O mundo real, fora do ambiente digital.",
-          "Um mundo de fantasia.",
-          "Um tipo de rede social."
-        ],
-        "correta": 1,
-        "explicacao": "O mundo analógico é o mundo físico, em oposição ao digital."
-      },
-      {
-        "enunciado": "Qual é a grande diferença do mundo digital em relação à circulação de ideias?",
-        "opcoes": [
-          "Ela permite que as pessoas se expressem de forma limitada.",
-          "Ela permite que as ideias cheguem a lugares e pessoas antes impossíveis.",
-          "Ela impede que as pessoas se comuniquem.",
-          "Ela só funciona para adultos."
-        ],
-        "correta": 1,
-        "explicacao": "A revolução digital ampliou a capacidade de manifestação e acesso à informação."
-      },
-      {
-        "enunciado": "Por que o texto diz que muitas ideias no ambiente virtual não se sustentam?",
-        "opcoes": [
-          "Porque as pessoas não sabem usar a internet.",
-          "Por causa da fragilidade argumentativa, falta de fundamentação.",
-          "Porque a internet é muito rápida.",
-          "Porque os textos são longos demais."
-        ],
-        "correta": 1,
-        "explicacao": "Muitas opiniões são rasas e não têm embasamento, o que pode levar a retrocessos."
-      },
-      {
-        "enunciado": "Sobre os direitos humanos, o texto afirma que:",
-        "opcoes": [
-          "Todas as pessoas devem ter condições favoráveis para viver bem.",
-          "Apenas algumas pessoas têm valor.",
-          "Os direitos humanos são uma invenção.",
-          "Não há necessidade de defendê-los."
-        ],
+        "enunciado": "O que é 'composição' no processo de formação de palavras?",
+        "opcoes": ["Processo em que dois ou mais radicais diferentes se unem para criar outra palavra.", "Processo de criação de palavras a partir de sufixos.", "Processo de criação de palavras a partir de prefixos.", "Processo de eliminação de palavras."],
         "correta": 0,
-        "explicacao": "O texto argumenta em favor da ideia de que todos merecem uma vida digna."
+        "explicacao": "A composição une radicais para formar uma nova palavra."
       },
       {
-        "enunciado": "O título 'Os direitos das crianças devem ser comemorados' sugere que o texto tem um posicionamento:",
-        "opcoes": [
-          "Contrário ao ECA.",
-          "A favor da defesa dos direitos infantis.",
-          "Indiferente ao tema.",
-          "Duvidoso sobre a eficácia da lei."
-        ],
+        "enunciado": "A composição se subdivide em quais dois tipos principais?",
+        "opcoes": ["Prefixação e sufixação.", "Justaposição e aglutinação.", "Derivação e parassíntese.", "Abreviação e sigla."],
         "correta": 1,
-        "explicacao": "O próprio título já demonstra um posicionamento favorável à comemoração e defesa desses direitos."
+        "explicacao": "Justaposição e aglutinação são os dois tipos de composição."
       },
       {
-        "enunciado": "Qual data é comemorada em 20 de novembro?",
-        "opcoes": [
-          "Dia da Consciência Negra.",
-          "Dia Internacional dos Direitos das Crianças.",
-          "Dia da Independência.",
-          "Dia da Bandeira."
-        ],
-        "correta": 1,
-        "explicacao": "A data marca a assinatura da Declaração dos Direitos das Crianças em 1959."
+        "enunciado": "O que é 'justaposição'?",
+        "opcoes": ["União de radicais sem perda fonética.", "União de radicais com perda fonética.", "Criação de palavras a partir de prefixos.", "Criação de palavras a partir de sufixos."],
+        "correta": 0,
+        "explicacao": "Na justaposição, os elementos se colocam lado a lado, sem perda de sons."
       },
       {
-        "enunciado": "A Convenção Internacional sobre os Direitos das Crianças (1989) foi assinada por quantos países?",
-        "opcoes": [
-          "Apenas 3 países.",
-          "Cerca de 196 países, quase todos.",
-          "Somente o Brasil.",
-          "Nenhum país."
-        ],
-        "correta": 1,
-        "explicacao": "Foi um dos documentos mais aceitos do mundo, assinado por 196 países."
+        "enunciado": "Qual é um exemplo de palavra formada por justaposição citado no texto?",
+        "opcoes": ["Planalto.", "Embora.", "Beija-flor.", "Aguardente."],
+        "correta": 2,
+        "explicacao": "Beija-flor é a união de 'beija' e 'flor' sem perda fonética."
       },
       {
-        "enunciado": "Segundo o texto, uma das principais barreiras para a efetivação dos direitos no Brasil é:",
-        "opcoes": [
-          "A falta de leis.",
-          "A desigualdade socioeconômica.",
-          "O excesso de escolas.",
-          "A falta de tecnologia."
-        ],
+        "enunciado": "O que é 'aglutinação'?",
+        "opcoes": ["União de radicais sem perda fonética.", "União de radicais com perda fonética.", "Criação de palavras a partir de prefixos.", "Criação de palavras a partir de sufixos."],
         "correta": 1,
-        "explicacao": "As condições socioeconômicas e de origem ainda geram diferenças no acesso aos direitos."
+        "explicacao": "Na aglutinação, há uma perda fonética na união dos radicais."
       },
       {
-        "enunciado": "Segundo o texto, para que a criança e o adolescente tenham seus direitos garantidos, é necessário:",
-        "opcoes": [
-          "Apenas que a lei exista.",
-          "O trabalho conjunto da família, da sociedade e do Estado para garantir a aplicação prática.",
-          "Que as próprias crianças resolvam seus problemas.",
-          "Que eles não frequentem a escola."
-        ],
+        "enunciado": "Qual é um exemplo de palavra formada por aglutinação citado no texto?",
+        "opcoes": ["Beija-flor.", "Planalto.", "Passatempo.", "Guarda-chuva."],
         "correta": 1,
-        "explicacao": "A lei existe, mas é fundamental que a comunidade, a família e o poder público a coloquem em prática."
+        "explicacao": "Planalto é a união de 'plano' e 'alto' com perda fonética."
+      },
+      {
+        "enunciado": "O que acontece com a sílaba tônica nas palavras formadas por aglutinação?",
+        "opcoes": ["Há uma única sílaba tônica.", "Há duas sílabas tônicas.", "Não há sílaba tônica.", "A sílaba tônica desaparece."],
+        "correta": 0,
+        "explicacao": "A palavra aglutinada tem apenas uma sílaba tônica."
+      },
+      {
+        "enunciado": "Quando se usa o hífen em palavras compostas?",
+        "opcoes": ["Em todas as palavras compostas.", "Apenas nas palavras formadas por justaposição, quando os elementos mantêm a independência fonética.", "Apenas nas palavras formadas por aglutinação.", "Nunca se usa hífen."],
+        "correta": 1,
+        "explicacao": "O hífen é usado em compostos por justaposição que mantêm a independência sonora."
+      },
+      {
+        "enunciado": "Qual é a regra do hífen para palavras compostas com os advérbios 'bem' ou 'mal'?",
+        "opcoes": ["Não se usa hífen.", "Usa-se hífen quando o segundo elemento começar com vogal ou 'h'.", "Usa-se hífen sempre.", "Usa-se hífen apenas quando o segundo elemento for substantivo."],
+        "correta": 1,
+        "explicacao": "Exemplo: bem-educado, mal-humorado."
+      },
+      {
+        "enunciado": "Em quais casos NÃO se usa hífen em palavras compostas com 'bem' ou 'mal'?",
+        "opcoes": ["Quando o segundo elemento começar com vogal.", "Quando o segundo elemento começar com consoante diferente de 'h'.", "Quando o segundo elemento for 'h'.", "Sempre se usa hífen."],
+        "correta": 1,
+        "explicacao": "Exemplo: bem-nascido, benfeitor."
+      },
+      {
+        "enunciado": "Qual é a regra do hífen para palavras compostas com elementos de ligação (preposições)?",
+        "opcoes": ["Usa-se hífen.", "Não se usa hífen.", "Usa-se hífen apenas se o segundo elemento for vogal.", "Usa-se hífen apenas se o segundo elemento for 'h'."],
+        "correta": 1,
+        "explicacao": "Em palavras como 'pé de moleque', não se usa hífen."
+      },
+      {
+        "enunciado": "Qual é a regra do hífen para palavras compostas sem elementos de ligação (justaposição)?",
+        "opcoes": ["Usa-se hífen.", "Não se usa hífen.", "Usa-se hífen apenas se o segundo elemento for substantivo.", "Usa-se hífen apenas se o segundo elemento for adjetivo."],
+        "correta": 0,
+        "explicacao": "Exemplo: guarda-chuva, amor-perfeito."
+      },
+      {
+        "enunciado": "Quais são os exemplos de palavras com hífen citados no texto?",
+        "opcoes": ["Beija-flor, guarda-chuva, bem-educado.", "Planalto, embora, aguardente.", "Pé de moleque, fim de semana, beija-flor.", "Girassol, madrepérola, pontapé."],
+        "correta": 0,
+        "explicacao": "Esses são exemplos de palavras compostas por justaposição com hífen."
+      },
+      {
+        "enunciado": "Quais são os exemplos de palavras sem hífen citados no texto?",
+        "opcoes": ["Beija-flor, guarda-chuva, bem-educado.", "Planalto, embora, aguardente.", "Pé de moleque, fim de semana, beija-flor.", "Girassol, madrepérola, pontapé."],
+        "correta": 1,
+        "explicacao": "Essas palavras são formadas por aglutinação ou não têm hífen."
+      },
+      {
+        "enunciado": "O que significa dizer que a língua é um 'organismo vivo'?",
+        "opcoes": ["Que ela está em constante movimento e mudança.", "Que ela é um ser biológico.", "Que ela não muda.", "Que ela está morta."],
+        "correta": 0,
+        "explicacao": "A língua evolui e se adapta às necessidades dos falantes."
+      },
+      {
+        "enunciado": "O que o texto quer dizer quando afirma que 'a informação virou mercadoria'?",
+        "opcoes": ["Que a informação é vendida e comprada, gerando lucro.", "Que a informação é gratuita.", "Que a informação não tem valor.", "Que a informação é um presente."],
+        "correta": 0,
+        "explicacao": "A notícia muitas vezes é usada para gerar receita publicitária."
+      },
+      {
+        "enunciado": "O que é a 'composição' por justaposição?",
+        "opcoes": ["União de radicais com perda fonética.", "União de radicais sem perda fonética.", "Criação de palavras a partir de prefixos.", "Criação de palavras a partir de sufixos."],
+        "correta": 1,
+        "explicacao": "Na justaposição, os elementos se colocam lado a lado, sem perda de sons."
+      },
+      {
+        "enunciado": "O que é a 'composição' por aglutinação?",
+        "opcoes": ["União de radicais sem perda fonética.", "União de radicais com perda fonética.", "Criação de palavras a partir de prefixos.", "Criação de palavras a partir de sufixos."],
+        "correta": 1,
+        "explicacao": "Na aglutinação, há uma perda fonética na união dos radicais."
+      },
+      {
+        "enunciado": "O que é um 'radical'?",
+        "opcoes": ["A parte da palavra que contém o significado básico.", "A parte final da palavra.", "A parte inicial da palavra.", "A vogal temática."],
+        "correta": 0,
+        "explicacao": "O radical é a base do significado da palavra."
+      },
+      {
+        "enunciado": "Qual é a principal diferença entre justaposição e aglutinação?",
+        "opcoes": ["A justaposição não tem perda fonética, a aglutinação tem.", "A justaposição tem perda fonética, a aglutinação não tem.", "Não há diferença.", "A justaposição é usada apenas em substantivos."],
+        "correta": 0,
+        "explicacao": "A perda fonética é a característica que diferencia os dois processos."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v1_port_interpretacao_generos_01",
+    "titulo": "Português - Gêneros Textuais e Argumentação",
+    "tipo": "conteudo",
+    "icone": "📖",
+    "perguntas": [
+      {
+        "enunciado": "O que é um 'gênero textual'?",
+        "opcoes": ["Uma forma de organização textual com características próprias.", "Um tipo de letra.", "Um estilo de escrita.", "Uma regra gramatical."],
+        "correta": 0,
+        "explicacao": "Os gêneros textuais são formas de comunicação que circulam na sociedade."
+      },
+      {
+        "enunciado": "Quais são exemplos de gêneros textuais citados no texto?",
+        "opcoes": ["Notícia, reportagem, editorial, comentário.", "Apenas poesia.", "Apenas romance.", "Apenas carta."],
+        "correta": 0,
+        "explicacao": "O texto cita esses gêneros jornalísticos."
+      },
+      {
+        "enunciado": "O que caracteriza um texto argumentativo?",
+        "opcoes": ["A apresentação de uma opinião e a defesa dela por meio de argumentos.", "A narração de uma história.", "A descrição de um lugar.", "Apenas a informação."],
+        "correta": 0,
+        "explicacao": "O texto argumentativo busca convencer o leitor."
+      },
+      {
+        "enunciado": "Qual é a estrutura básica de um texto argumentativo?",
+        "opcoes": ["Introdução, desenvolvimento e conclusão.", "Apenas introdução.", "Apenas desenvolvimento.", "Apenas conclusão."],
+        "correta": 0,
+        "explicacao": "Todo texto argumentativo tem essas três partes."
+      },
+      {
+        "enunciado": "O que é a 'tese' em um texto argumentativo?",
+        "opcoes": ["A opinião central que será defendida.", "O primeiro parágrafo.", "O último parágrafo.", "A conclusão."],
+        "correta": 0,
+        "explicacao": "A tese é a ideia principal que o autor defende."
+      },
+      {
+        "enunciado": "O que são os 'argumentos'?",
+        "opcoes": ["As razões e evidências que sustentam a tese.", "As opiniões contrárias.", "As histórias contadas.", "As descrições."],
+        "correta": 0,
+        "explicacao": "Os argumentos são os fundamentos da tese."
+      },
+      {
+        "enunciado": "O que é a 'contextualização' em um editorial?",
+        "opcoes": ["Apresentar o assunto ao leitor.", "Dar a opinião final.", "Escrever o título.", "Fazer um resumo do texto."],
+        "correta": 0,
+        "explicacao": "A contextualização apresenta o tema ao leitor."
+      },
+      {
+        "enunciado": "Qual é a diferença entre 'fato' e 'opinião'?",
+        "opcoes": ["O fato é verificável; a opinião é subjetiva.", "O fato é subjetivo; a opinião é verificável.", "São a mesma coisa.", "A opinião é sempre mentira."],
+        "correta": 0,
+        "explicacao": "O texto define claramente a diferença entre fato e opinião."
+      },
+      {
+        "enunciado": "O que é um 'caça-clique'?",
+        "opcoes": ["Um conteúdo atraente que visa gerar cliques.", "Um vírus de computador.", "Um tipo de comentário.", "Um editor de texto."],
+        "correta": 0,
+        "explicacao": "O caça-clique usa títulos sensacionalistas para atrair a atenção."
+      },
+      {
+        "enunciado": "O que é 'fake news'?",
+        "opcoes": ["Uma notícia verdadeira.", "Uma notícia falsa ou distorcida.", "Um tipo de jornal.", "Uma opinião fundamentada."],
+        "correta": 1,
+        "explicacao": "Fake news é um termo usado para notícias falsas ou desinformação."
+      },
+      {
+        "enunciado": "Qual é a importância da checagem de fatos (fact-checking)?",
+        "opcoes": ["Verificar se a informação é verdadeira antes de compartilhá-la.", "Aumentar o número de cliques.", "Criar novas opiniões.", "Vender notícias."],
+        "correta": 0,
+        "explicacao": "A checagem é fundamental para combater a desinformação."
+      },
+      {
+        "enunciado": "O que é um 'editorial'?",
+        "opcoes": ["Um texto literário.", "Um artigo em que se discute uma questão, apresentando o ponto de vista do jornal ou empresa jornalística.", "Uma notícia curta.", "Uma opinião de um leitor."],
+        "correta": 1,
+        "explicacao": "O editorial é o texto que expressa a opinião oficial do veículo de comunicação."
+      },
+      {
+        "enunciado": "O que é o 'comentário do leitor'?",
+        "opcoes": ["Um texto literário.", "Um texto em que o leitor expressa sua opinião sobre uma publicação.", "Uma notícia.", "Um editorial."],
+        "correta": 1,
+        "explicacao": "É a manifestação do leitor sobre um conteúdo lido."
+      },
+      {
+        "enunciado": "O que é a 'justaposição'?",
+        "opcoes": ["União de radicais sem perda fonética.", "União de radicais com perda fonética.", "Criação de palavras a partir de prefixos.", "Criação de palavras a partir de sufixos."],
+        "correta": 0,
+        "explicacao": "Na justaposição, os elementos se colocam lado a lado, sem perda de sons."
+      },
+      {
+        "enunciado": "O que é a 'aglutinação'?",
+        "opcoes": ["União de radicais sem perda fonética.", "União de radicais com perda fonética.", "Criação de palavras a partir de prefixos.", "Criação de palavras a partir de sufixos."],
+        "correta": 1,
+        "explicacao": "Na aglutinação, há uma perda fonética na união dos radicais."
+      },
+      {
+        "enunciado": "Qual é a principal diferença entre justaposição e aglutinação?",
+        "opcoes": ["A justaposição não tem perda fonética, a aglutinação tem.", "A justaposição tem perda fonética, a aglutinação não tem.", "Não há diferença.", "A justaposição é usada apenas em substantivos."],
+        "correta": 0,
+        "explicacao": "A perda fonética é a característica que diferencia os dois processos."
+      },
+      {
+        "enunciado": "Segundo o texto, a liberdade de expressão pode ser usada para o discurso de ódio?",
+        "opcoes": ["Sim, sem limites.", "Não, pois a liberdade termina quando fere o direito do outro.", "Sim, desde que seja anônimo.", "Não, pois o discurso de ódio é permitido."],
+        "correta": 1,
+        "explicacao": "A liberdade de expressão não ampara o discurso de ódio."
+      },
+      {
+        "enunciado": "O que é o ECA?",
+        "opcoes": ["Estatuto da Criança e do Adolescente.", "Estatuto do Cidadão Adulto.", "Estatuto da Criança e do Idoso.", "Estatuto do Consumidor."],
+        "correta": 0,
+        "explicacao": "O ECA é a lei que protege crianças e adolescentes."
+      },
+      {
+        "enunciado": "Quem foi Procópio de Cesareia?",
+        "opcoes": ["Um imperador romano.", "Um historiador bizantino que escreveu textos com calúnias.", "Um inventor da internet.", "Um jornalista moderno."],
+        "correta": 1,
+        "explicacao": "Ele é citado como um exemplo antigo de quem espalhava informações falsas."
+      },
+      {
+        "enunciado": "O que é um 'sindicato' citado no texto?",
+        "opcoes": ["Uma associação de trabalhadores para defender seus interesses.", "Uma empresa.", "Um partido político.", "Uma escola."],
+        "correta": 0,
+        "explicacao": "O sindicato é uma associação de profissionais."
       }
     ]
   }
