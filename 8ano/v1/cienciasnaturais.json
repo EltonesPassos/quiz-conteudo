@@ -1,1 +1,898 @@
-[]
+[
+  {
+    "id": "8ano_v1_cnat_universo_astronomia_01",
+    "titulo": "Ciências Naturais - O Universo e a Astronomia",
+    "tipo": "conteudo",
+    "icone": "🔭",
+    "perguntas": [
+      {
+        "enunciado": "O que a Astronomia estuda?",
+        "opcoes": ["Apenas os planetas do Sistema Solar.", "O Universo e seus componentes.", "Apenas as estrelas.", "O clima da Terra."],
+        "correta": 1,
+        "explicacao": "A Astronomia é a ciência que estuda o Universo e os astros que o compõem."
+      },
+      {
+        "enunciado": "O que é uma galáxia?",
+        "opcoes": ["Um planeta gigante.", "Um conjunto de estrelas, poeira e gases.", "Um satélite natural.", "Uma estrela solitária."],
+        "correta": 1,
+        "explicacao": "As galáxias são imensos agrupamentos de estrelas, planetas, poeira cósmica e gases."
+      },
+      {
+        "enunciado": "Qual é o nome da galáxia em que a Terra está localizada?",
+        "opcoes": ["Andrômeda.", "Via Láctea.", "Nuvem de Magalhães.", "Galáxia do Sombreiro."],
+        "correta": 1,
+        "explicacao": "O Sistema Solar está na Via Láctea."
+      },
+      {
+        "enunciado": "Qual é o astro central do nosso Sistema Solar?",
+        "opcoes": ["A Lua.", "A Terra.", "O Sol.", "Júpiter."],
+        "correta": 2,
+        "explicacao": "O Sol é a estrela que fica no centro do Sistema Solar."
+      },
+      {
+        "enunciado": "O que é um satélite natural?",
+        "opcoes": ["Um astro que orbita um planeta.", "Um objeto feito por humanos no espaço.", "Uma estrela cadente.", "Um cometa."],
+        "correta": 0,
+        "explicacao": "A Lua é o satélite natural da Terra."
+      },
+      {
+        "enunciado": "Quais são os quatro principais movimentos da Terra citados no texto?",
+        "opcoes": ["Rotação, Translação, Precessão e Nutação.", "Rotação, Translação, Eclosão e Mutação.", "Giro, Volta, Órbita e Queda.", "Apenas Rotação e Translação."],
+        "correta": 0,
+        "explicacao": "Esses são os movimentos estudados na astronomia."
+      },
+      {
+        "enunciado": "O movimento de rotação da Terra é responsável por qual fenômeno?",
+        "opcoes": ["As estações do ano.", "A sucessão dos dias e das noites.", "As marés.", "Os eclipses."],
+        "correta": 1,
+        "explicacao": "A rotação (giro em torno do próprio eixo) define os dias e as noites."
+      },
+      {
+        "enunciado": "O movimento de translação da Terra, combinado com a inclinação do seu eixo, é responsável por:",
+        "opcoes": ["A sucessão dos dias e noites.", "As estações do ano.", "Os eclipses lunares.", "As fases da Lua."],
+        "correta": 1,
+        "explicacao": "A translação e a inclinação do eixo causam as estações do ano."
+      },
+      {
+        "enunciado": "Quanto tempo, aproximadamente, a Terra leva para completar uma volta ao redor do Sol (translação)?",
+        "opcoes": ["24 horas.", "30 dias.", "365 dias.", "100 anos."],
+        "correta": 2,
+        "explicacao": "A translação dura cerca de 365 dias (um ano)."
+      },
+      {
+        "enunciado": "O que é a lunação?",
+        "opcoes": ["Um eclipse solar.", "O ciclo lunar, com as quatro fases da Lua.", "A viagem do homem à Lua.", "O movimento da Lua em torno de si mesma."],
+        "correta": 1,
+        "explicacao": "O ciclo lunar é chamado de lunação."
+      },
+      {
+        "enunciado": "Quais são as quatro fases da Lua?",
+        "opcoes": ["Cheia, minguante, nova e crescente.", "Cheia, minguante, nova e eclipse.", "Cheia, crescente, sol e lua.", "Nova, velha, cheia e vazia."],
+        "correta": 0,
+        "explicacao": "São as fases do ciclo lunar."
+      },
+      {
+        "enunciado": "O que acontece em um eclipse solar?",
+        "opcoes": ["A Terra se posiciona entre o Sol e a Lua.", "A Lua se posiciona entre o Sol e a Terra.", "O Sol se apaga.", "A Lua fica cheia."],
+        "correta": 1,
+        "explicacao": "No eclipse solar, a Lua fica na frente do Sol."
+      },
+      {
+        "enunciado": "O que acontece em um eclipse lunar?",
+        "opcoes": ["A Terra se posiciona entre o Sol e a Lua.", "A Lua se posiciona entre o Sol e a Terra.", "O Sol se posiciona entre a Terra e a Lua.", "A Lua desaparece."],
+        "correta": 0,
+        "explicacao": "No eclipse lunar, a sombra da Terra é projetada na Lua."
+      },
+      {
+        "enunciado": "As marés são causadas principalmente pela:",
+        "opcoes": ["Rotação da Terra.", "Força gravitacional da Lua e do Sol.", "Ação dos ventos.", "Pressão atmosférica."],
+        "correta": 1,
+        "explicacao": "A atração gravitacional da Lua e do Sol influencia as marés."
+      },
+      {
+        "enunciado": "O que são as marés de sizígia?",
+        "opcoes": ["Marés com variações menores.", "Marés com variações maiores (Sol e Lua alinhados).", "Marés que não existem.", "Marés apenas no polo norte."],
+        "correta": 1,
+        "explicacao": "Ocorrem quando a Lua e o Sol estão alinhados, intensificando as marés."
+      },
+      {
+        "enunciado": "O que são as marés de quadratura?",
+        "opcoes": ["Marés com variações menores (Lua e Sol em ângulo de 90°).", "Marés com variações maiores.", "Marés de terremotos.", "Marés de rios."],
+        "correta": 0,
+        "explicacao": "Ocorrem quando a força gravitacional da Lua e do Sol não está alinhada."
+      },
+      {
+        "enunciado": "Segundo a lei da gravitação universal de Newton, a gravidade é:",
+        "opcoes": ["Uma força de repulsão.", "A força que atrai os corpos entre si.", "A força do vento.", "Uma ilusão."],
+        "correta": 1,
+        "explicacao": "A gravidade é a força de atração entre os corpos com massa."
+      },
+      {
+        "enunciado": "O que é o eixo de rotação da Terra?",
+        "opcoes": ["A linha imaginária em torno da qual a Terra gira.", "Uma linha de trem.", "O equador.", "A linha do horizonte."],
+        "correta": 0,
+        "explicacao": "A Terra gira em torno de um eixo inclinado."
+      },
+      {
+        "enunciado": "O que é o equador?",
+        "opcoes": ["Uma linha que divide a Terra em hemisférios Norte e Sul.", "O polo magnético da Terra.", "Uma linha que divide a Terra em Leste e Oeste.", "A maior cordilheira do mundo."],
+        "correta": 0,
+        "explicacao": "O equador é a linha imaginária que divide a Terra em dois hemisférios."
+      },
+      {
+        "enunciado": "O texto afirma que a Astronomia e a Matemática:",
+        "opcoes": ["São áreas totalmente separadas.", "Estão interligadas e se complementam no estudo do espaço.", "Nunca se encontraram.", "São a mesma ciência."],
+        "correta": 1,
+        "explicacao": "A Matemática é fundamental para os cálculos astronômicos."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v1_cnat_planeta_terra_01",
+    "titulo": "Ciências Naturais - O Planeta Terra e Seus Ciclos",
+    "tipo": "conteudo",
+    "icone": "🌍",
+    "perguntas": [
+      {
+        "enunciado": "Qual é a principal característica do movimento de rotação da Terra?",
+        "opcoes": ["Girar em torno do Sol.", "Girar em torno de seu próprio eixo.", "Girar em torno da Lua.", "Não se mover."],
+        "correta": 1,
+        "explicacao": "A rotação é o giro em torno do próprio eixo."
+      },
+      {
+        "enunciado": "Qual é o sentido do movimento de rotação da Terra?",
+        "opcoes": ["De leste para oeste.", "De oeste para leste.", "De norte para sul.", "De sul para norte."],
+        "correta": 1,
+        "explicacao": "A Terra gira de oeste para leste."
+      },
+      {
+        "enunciado": "Quanto tempo a Terra leva para fazer uma rotação completa?",
+        "opcoes": ["Cerca de 24 horas.", "Cerca de 365 dias.", "Cerca de 12 horas.", "Cerca de 30 dias."],
+        "correta": 0,
+        "explicacao": "Aproximadamente 23 horas, 56 minutos e 4 segundos."
+      },
+      {
+        "enunciado": "Qual é a velocidade aproximada de rotação da Terra no equador?",
+        "opcoes": ["1.675 km/h", "100 km/h", "10.000 km/h", "500 km/h"],
+        "correta": 0,
+        "explicacao": "A rotação no equador atinge cerca de 1.675 km/h."
+      },
+      {
+        "enunciado": "A força gravitacional da Lua e do Sol interfere em qual fenômeno terrestre?",
+        "opcoes": ["Nas marés.", "Nos terremotos.", "Nos furacões.", "Na rotação da Terra."],
+        "correta": 0,
+        "explicacao": "As marés são influenciadas pela gravidade desses astros."
+      },
+      {
+        "enunciado": "O movimento de translação da Terra ocorre ao redor de:",
+        "opcoes": ["Da Lua.", "De si mesma.", "Do Sol.", "De Marte."],
+        "correta": 2,
+        "explicacao": "A translação é o movimento ao redor do Sol."
+      },
+      {
+        "enunciado": "Qual é o formato da órbita da Terra?",
+        "opcoes": ["Um círculo perfeito.", "Uma elipse (elíptica).", "Um quadrado.", "Uma linha reta."],
+        "correta": 1,
+        "explicacao": "A órbita terrestre é elíptica."
+      },
+      {
+        "enunciado": "O que causa as estações do ano?",
+        "opcoes": ["A distância da Terra ao Sol.", "A inclinação do eixo da Terra combinada com a translação.", "A rotação da Terra.", "As fases da Lua."],
+        "correta": 1,
+        "explicacao": "A inclinação do eixo terrestre faz com que os raios solares atinjam a superfície de formas diferentes."
+      },
+      {
+        "enunciado": "O que são os equinócios?",
+        "opcoes": ["Dias em que os hemisférios recebem a mesma quantidade de luz solar.", "Dias mais longos do ano.", "Dias mais curtos do ano.", "Eclipses."],
+        "correta": 0,
+        "explicacao": "Nos equinócios, o dia e a noite têm a mesma duração."
+      },
+      {
+        "enunciado": "O que são os solstícios?",
+        "opcoes": ["Dias em que os hemisférios recebem a mesma quantidade de luz solar.", "Momentos em que a inclinação da Terra faz um hemisfério receber mais luz que o outro.", "Eclipses solares.", "Dias de chuva."],
+        "correta": 1,
+        "explicacao": "Nos solstícios, temos o dia mais longo ou a noite mais longa do ano."
+      },
+      {
+        "enunciado": "Quantas vezes, aproximadamente, a Terra gira em torno de si mesma durante uma translação completa?",
+        "opcoes": ["12 vezes.", "30 vezes.", "365 vezes.", "1000 vezes."],
+        "correta": 2,
+        "explicacao": "São cerca de 365 rotações (dias) em um ano."
+      },
+      {
+        "enunciado": "O que é a variação orbital?",
+        "opcoes": ["Mudanças na órbita da Terra ao longo de milhares de anos.", "A mudança diária do clima.", "A rotação da Terra.", "As marés."],
+        "correta": 0,
+        "explicacao": "Essas variações resultam em mudanças climáticas de longo prazo, como as glaciações."
+      },
+      {
+        "enunciado": "O que são as glaciações?",
+        "opcoes": ["Períodos de temperaturas muito altas.", "Períodos de temperaturas muito baixas, com avanço das geleiras.", "Períodos de chuvas intensas.", "Períodos sem Sol."],
+        "correta": 1,
+        "explicacao": "As glaciações são eras do gelo."
+      },
+      {
+        "enunciado": "O que são os períodos interglaciais?",
+        "opcoes": ["Períodos de temperaturas mais amenas entre as glaciações.", "Períodos de frio extremo.", "Períodos de seca.", "Períodos de erupções vulcânicas."],
+        "correta": 0,
+        "explicacao": "São os intervalos mais quentes entre as eras glaciais."
+      },
+      {
+        "enunciado": "Segundo o texto, estamos atualmente em qual período?",
+        "opcoes": ["Em uma glaciação.", "Em um período interglacial.", "Em uma era do gelo.", "Em uma era de fogo."],
+        "correta": 1,
+        "explicacao": "Estamos em um período interglacial há cerca de 8 mil anos."
+      },
+      {
+        "enunciado": "A ação antrópica significa:",
+        "opcoes": ["Ação dos animais.", "Ação dos seres humanos.", "Ação da natureza.", "Ação dos deuses."],
+        "correta": 1,
+        "explicacao": "Antrópico refere-se ao ser humano."
+      },
+      {
+        "enunciado": "O que o texto afirma sobre o aquecimento global atual?",
+        "opcoes": ["É um fenômeno natural apenas.", "Está sendo causado pelas ações antrópicas (humanas).", "Não está acontecendo.", "É causado pelos animais."],
+        "correta": 1,
+        "explicacao": "O texto relaciona o aquecimento atual às ações humanas, especialmente pós-Revolução Industrial."
+      },
+      {
+        "enunciado": "O que é o eixo de rotação da Terra?",
+        "opcoes": ["Uma linha imaginária que atravessa a Terra de um polo ao outro.", "O equador.", "Uma linha que atravessa o Sol.", "A órbita da Terra."],
+        "correta": 0,
+        "explicacao": "A Terra gira ao redor desse eixo inclinado."
+      },
+      {
+        "enunciado": "Qual é a inclinação do eixo de rotação da Terra em relação ao seu plano orbital?",
+        "opcoes": ["0 graus.", "90 graus.", "Cerca de 23,5 graus.", "45 graus."],
+        "correta": 2,
+        "explicacao": "A inclinação é de aproximadamente 23,5°."
+      },
+      {
+        "enunciado": "Qual é o movimento que a Terra faz ao redor do Sol?",
+        "opcoes": ["Rotação.", "Translação.", "Lunação.", "Eclipse."],
+        "correta": 1,
+        "explicacao": "A translação é o movimento ao redor do Sol."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v1_cnat_clima_tempo_01",
+    "titulo": "Ciências Naturais - Clima, Tempo e Fatores Geográficos",
+    "tipo": "conteudo",
+    "icone": "🌤️",
+    "perguntas": [
+      {
+        "enunciado": "Qual é a diferença entre clima e tempo?",
+        "opcoes": ["São a mesma coisa.", "Clima é o estado momentâneo da atmosfera; tempo é o padrão de longa duração.", "Clima é o padrão de longa duração; tempo é o estado momentâneo da atmosfera.", "Clima é a temperatura; tempo é a chuva."],
+        "correta": 2,
+        "explicacao": "O tempo é momentâneo; o clima é estudado ao longo de muitos anos."
+      },
+      {
+        "enunciado": "Qual é a ciência que estuda o clima?",
+        "opcoes": ["Meteorologia.", "Climatologia.", "Geologia.", "Astronomia."],
+        "correta": 1,
+        "explicacao": "A Climatologia estuda os padrões de longo prazo da atmosfera."
+      },
+      {
+        "enunciado": "Qual é a ciência que estuda o tempo (previsão)?",
+        "opcoes": ["Climatologia.", "Meteorologia.", "Oceanografia.", "Biologia."],
+        "correta": 1,
+        "explicacao": "A Meteorologia foca no tempo em curto prazo."
+      },
+      {
+        "enunciado": "O que é a pressão atmosférica?",
+        "opcoes": ["A quantidade de chuva.", "A força exercida pela atmosfera sobre a superfície.", "A temperatura do ar.", "A velocidade do vento."],
+        "correta": 1,
+        "explicacao": "É o peso do ar sobre a superfície."
+      },
+      {
+        "enunciado": "Qual é o elemento do clima relacionado à quantidade de radiação solar que chega ao planeta?",
+        "opcoes": ["Umidade.", "Pressão.", "Temperatura.", "Vento."],
+        "correta": 2,
+        "explicacao": "A temperatura está relacionada à insolação (radiação solar)."
+      },
+      {
+        "enunciado": "O que é a umidade do ar?",
+        "opcoes": ["A quantidade de água no solo.", "A quantidade de vapor de água presente na atmosfera.", "A quantidade de chuvas.", "A velocidade do vento."],
+        "correta": 1,
+        "explicacao": "A umidade é o vapor de água presente no ar."
+      },
+      {
+        "enunciado": "O que é a precipitação?",
+        "opcoes": ["A queda de água do céu (chuva, neve, granizo).", "A evaporação da água.", "O vento forte.", "O calor do sol."],
+        "correta": 0,
+        "explicacao": "É a água que retorna à superfície."
+      },
+      {
+        "enunciado": "Qual é o principal fator que determina a temperatura de uma região em relação à sua posição no globo?",
+        "opcoes": ["A longitude.", "A latitude.", "A altitude.", "A maritimidade."],
+        "correta": 1,
+        "explicacao": "Quanto maior a latitude (mais perto dos polos), menor a temperatura."
+      },
+      {
+        "enunciado": "O que é a latitude?",
+        "opcoes": ["A distância de um ponto ao Equador.", "A distância de um ponto ao mar.", "A altura de um ponto.", "A distância de um ponto ao Sol."],
+        "correta": 0,
+        "explicacao": "A latitude é medida em graus a partir do Equador."
+      },
+      {
+        "enunciado": "Quanto mais próxima do Equador (menor latitude), como é a temperatura?",
+        "opcoes": ["Mais fria.", "Mais quente.", "Não há diferença.", "Mais amena."],
+        "correta": 1,
+        "explicacao": "Os raios solares incidem mais diretamente próximo ao Equador."
+      },
+      {
+        "enunciado": "O que é a maritimidade?",
+        "opcoes": ["A influência do mar sobre o clima de uma região.", "A quantidade de peixes no mar.", "A distância de uma cidade da praia.", "A maré alta."],
+        "correta": 0,
+        "explicacao": "A maritimidade mantém a temperatura mais estável e a umidade mais alta."
+      },
+      {
+        "enunciado": "O que é a continentalidade?",
+        "opcoes": ["A influência de grandes massas de água.", "A influência de estar no interior do continente, longe do mar.", "A presença de montanhas.", "A urbanização."],
+        "correta": 1,
+        "explicacao": "Regiões continentais têm maior amplitude térmica e menos umidade."
+      },
+      {
+        "enunciado": "Qual é a relação entre altitude e temperatura?",
+        "opcoes": ["Quanto maior a altitude, maior a temperatura.", "Quanto maior a altitude, menor a temperatura.", "Não há relação.", "A temperatura depende apenas da latitude."],
+        "correta": 1,
+        "explicacao": "Quanto mais alto, mais frio (a temperatura diminui com a altitude)."
+      },
+      {
+        "enunciado": "Como a vegetação influencia o clima?",
+        "opcoes": ["Aumenta a poluição.", "Contribui para a umidade e a ocorrência de chuvas (evapotranspiração).", "Aquece o planeta.", "Impede a chuva."],
+        "correta": 1,
+        "explicacao": "As árvores liberam vapor de água, ajudando na formação de chuvas."
+      },
+      {
+        "enunciado": "O que são os 'rios voadores' da Floresta Amazônica?",
+        "opcoes": ["Rios subterrâneos.", "Massas de ar úmido formadas pela evapotranspiração que viajam para outras regiões.", "Rios que voam no céu.", "Aviões que transportam água."],
+        "correta": 1,
+        "explicacao": "A umidade da floresta se desloca para outras regiões, levando chuva."
+      },
+      {
+        "enunciado": "O que é o relevo?",
+        "opcoes": ["A forma da superfície terrestre (montanhas, vales, planícies).", "A vegetação de um local.", "O clima de uma região.", "A altitude de um ponto."],
+        "correta": 0,
+        "explicacao": "O relevo pode influenciar a circulação de ar e as chuvas."
+      },
+      {
+        "enunciado": "Quais são as três grandes zonas climáticas do planeta?",
+        "opcoes": ["Zona Norte, Zona Sul, Zona Central.", "Zona Polar, Zona Temperada e Zona Tropical.", "Zona Seca, Zona Úmida, Zona Fria.", "Zona Atlântica, Zona Pacífica, Zona Índica."],
+        "correta": 1,
+        "explicacao": "São determinadas pela latitude."
+      },
+      {
+        "enunciado": "A zona climática localizada próxima aos polos é chamada de:",
+        "opcoes": ["Zona Tropical.", "Zona Temperada.", "Zona Polar.", "Zona Equatorial."],
+        "correta": 2,
+        "explicacao": "É a região mais fria do planeta."
+      },
+      {
+        "enunciado": "A zona climática localizada entre os trópicos é chamada de:",
+        "opcoes": ["Zona Polar.", "Zona Temperada.", "Zona Tropical.", "Zona Ártica."],
+        "correta": 2,
+        "explicacao": "A zona tropical é a mais quente."
+      },
+      {
+        "enunciado": "O que é o El Niño?",
+        "opcoes": ["Um fenômeno climático que aquece as águas do Pacífico e altera o clima em várias regiões.", "Um furacão.", "Um terremoto.", "Uma erupção vulcânica."],
+        "correta": 0,
+        "explicacao": "O El Niño modifica os padrões de chuva e temperatura."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v1_cnat_mudancas_climaticas_01",
+    "titulo": "Ciências Naturais - Mudanças Climáticas e Efeito Estufa",
+    "tipo": "conteudo",
+    "icone": "🌡️",
+    "perguntas": [
+      {
+        "enunciado": "O que é o efeito estufa?",
+        "opcoes": ["Um fenômeno natural que mantém a Terra aquecida.", "Um fenômeno artificial que esfria a Terra.", "Um buraco na camada de ozônio.", "A poluição do ar."],
+        "correta": 0,
+        "explicacao": "O efeito estufa é natural e essencial para a vida na Terra."
+      },
+      {
+        "enunciado": "O que tem causado o aumento do efeito estufa e o aquecimento global?",
+        "opcoes": ["A emissão excessiva de gases poluentes pelas atividades humanas.", "A diminuição da luz solar.", "O aumento das florestas.", "A rotação da Terra."],
+        "correta": 0,
+        "explicacao": "A queima de combustíveis fósseis e o desmatamento aumentam os gases do efeito estufa."
+      },
+      {
+        "enunciado": "Quais são os principais gases do efeito estufa (GEE)?",
+        "opcoes": ["Oxigênio e Nitrogênio.", "Gás carbônico (CO2) e metano (CH4).", "Hidrogênio e Hélio.", "Ozônio e Argônio."],
+        "correta": 1,
+        "explicacao": "O CO2 e o metano são os principais gases responsáveis pelo aquecimento."
+      },
+      {
+        "enunciado": "O que é o IPCC?",
+        "opcoes": ["Painel Intergovernamental sobre Mudanças Climáticas.", "Instituto de Pesquisas do Clima.", "Organização de Países Produtores de Petróleo.", "Agência Espacial."],
+        "correta": 0,
+        "explicacao": "O IPCC é o painel da ONU que estuda as mudanças climáticas."
+      },
+      {
+        "enunciado": "Qual é a principal conclusão do IPCC sobre o aquecimento global?",
+        "opcoes": ["Que é um fenômeno natural.", "Que é causado pelas ações humanas.", "Que não existe.", "Que vai acabar sozinho."],
+        "correta": 1,
+        "explicacao": "O IPCC afirma que a ação humana é a principal causa do aquecimento recente."
+      },
+      {
+        "enunciado": "O que é o Acordo de Paris?",
+        "opcoes": ["Um tratado internacional para reduzir a emissão de gases do efeito estufa.", "Um acordo comercial.", "Uma lei brasileira.", "Um acordo para explorar mais petróleo."],
+        "correta": 0,
+        "explicacao": "O Acordo de Paris visa limitar o aumento da temperatura global."
+      },
+      {
+        "enunciado": "Qual é a meta do Acordo de Paris em relação ao aumento da temperatura global?",
+        "opcoes": ["Aumentar 5°C.", "Limitar o aumento a bem menos de 2°C, preferencialmente a 1,5°C.", "Diminuir a temperatura em 10°C.", "Não há meta."],
+        "correta": 1,
+        "explicacao": "A meta é evitar um aquecimento perigoso."
+      },
+      {
+        "enunciado": "O que é a economia de baixo carbono?",
+        "opcoes": ["Uma economia baseada na queima de carvão.", "Uma economia que busca reduzir a emissão de gases poluentes.", "Uma economia que não usa energia.", "Uma economia baseada na agricultura."],
+        "correta": 1,
+        "explicacao": "Busca substituir combustíveis fósseis por energias limpas."
+      },
+      {
+        "enunciado": "Quais são as consequências do aquecimento global?",
+        "opcoes": ["Aumento do nível do mar, derretimento das calotas polares e eventos extremos.", "Apenas mais chuvas.", "Apenas mais frio.", "Nenhuma consequência."],
+        "correta": 0,
+        "explicacao": "O aquecimento causa uma série de impactos negativos."
+      },
+      {
+        "enunciado": "O que é a pegada de carbono?",
+        "opcoes": ["A marca deixada por sapatos.", "A quantidade de gases do efeito estufa emitida por uma pessoa, empresa ou país.", "A quantidade de árvores plantadas.", "O rastro de um animal."],
+        "correta": 1,
+        "explicacao": "Mede o impacto ambiental das atividades humanas."
+      },
+      {
+        "enunciado": "Qual é a principal fonte de emissão de CO2 no mundo?",
+        "opcoes": ["A queima de combustíveis fósseis (petróleo, carvão).", "A respiração dos animais.", "A fotossíntese.", "A chuva."],
+        "correta": 0,
+        "explicacao": "A queima de combustíveis fósseis é a maior fonte."
+      },
+      {
+        "enunciado": "O que é o desmatamento e como ele afeta o clima?",
+        "opcoes": ["Corte de árvores; não afeta o clima.", "Corte de árvores; aumenta o CO2 na atmosfera e reduz a umidade.", "Plantio de árvores; melhora o clima.", "Queimada; esfria a Terra."],
+        "correta": 1,
+        "explicacao": "Sem as árvores, menos CO2 é absorvido e menos umidade é liberada."
+      },
+      {
+        "enunciado": "O que é o Protocolo de Kyoto?",
+        "opcoes": ["Um acordo anterior ao de Paris para reduzir gases do efeito estufa.", "Uma lei de trânsito.", "Um acordo de paz.", "Um tratado de comércio."],
+        "correta": 0,
+        "explicacao": "Foi um dos primeiros acordos globais para reduzir emissões."
+      },
+      {
+        "enunciado": "A camada de ozônio tem a função de:",
+        "opcoes": ["Aquecer a Terra.", "Proteger a Terra dos raios ultravioleta (UV) do Sol.", "Produzir chuvas.", "Reter o CO2."],
+        "correta": 1,
+        "explicacao": "A camada de ozônio filtra a radiação UV."
+      },
+      {
+        "enunciado": "Qual gás é responsável pela destruição da camada de ozônio?",
+        "opcoes": ["CO2.", "CFC (clorofluorcarboneto).", "Metano.", "Oxigênio."],
+        "correta": 1,
+        "explicacao": "Os CFCs eram usados em aerossóis e geladeiras."
+      },
+      {
+        "enunciado": "O que é a COP (Conferência das Partes)?",
+        "opcoes": ["Reuniões anuais dos países para discutir o clima.", "Uma competição esportiva.", "Uma feira de ciências.", "Um encontro de empresários."],
+        "correta": 0,
+        "explicacao": "A COP é o encontro dos países signatários da UNFCCC."
+      },
+      {
+        "enunciado": "Qual foi a COP que resultou no Acordo de Paris?",
+        "opcoes": ["COP-1", "COP-15", "COP-21", "COP-30"],
+        "correta": 2,
+        "explicacao": "A COP-21, realizada em Paris em 2015, gerou o acordo."
+      },
+      {
+        "enunciado": "O que é a UNFCCC?",
+        "opcoes": ["Convenção-Quadro das Nações Unidas sobre Mudança do Clima.", "União Nacional das Florestas.", "Fundo Monetário Climático.", "Agência de Energia Nuclear."],
+        "correta": 0,
+        "explicacao": "É a convenção da ONU que trata do clima."
+      },
+      {
+        "enunciado": "O que o Brasil se comprometeu a fazer no Acordo de Paris?",
+        "opcoes": ["Aumentar o desmatamento.", "Reduzir as emissões de gases do efeito estufa.", "Aumentar o uso de carvão.", "Não fazer nada."],
+        "correta": 1,
+        "explicacao": "O Brasil apresentou metas de redução de emissões."
+      },
+      {
+        "enunciado": "O que são fontes de energia renováveis?",
+        "opcoes": ["Petróleo e carvão.", "Solar, eólica, hidrelétrica e biomassa.", "Gás natural.", "Energia nuclear."],
+        "correta": 1,
+        "explicacao": "São fontes que se renovam na natureza e poluem menos."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v1_cnat_sustentabilidade_agenda_01",
+    "titulo": "Ciências Naturais - Sustentabilidade e Agenda 2030",
+    "tipo": "conteudo",
+    "icone": "🌱",
+    "perguntas": [
+      {
+        "enunciado": "O que é o desenvolvimento sustentável?",
+        "opcoes": ["Desenvolvimento que visa apenas o lucro.", "Desenvolvimento que atende às necessidades atuais sem comprometer as futuras gerações.", "Desenvolvimento que proíbe a indústria.", "Desenvolvimento apenas econômico."],
+        "correta": 1,
+        "explicacao": "O tripé da sustentabilidade envolve o ambiental, o social e o econômico."
+      },
+      {
+        "enunciado": "Qual é o documento da ONU que definiu o conceito de desenvolvimento sustentável em 1987?",
+        "opcoes": ["Nosso Futuro Comum (Relatório Brundtland).", "Agenda 21.", "Carta da Terra.", "Acordo de Paris."],
+        "correta": 0,
+        "explicacao": "O relatório Nosso Futuro Comum popularizou o termo."
+      },
+      {
+        "enunciado": "O que foi a Rio 92 (ECO-92)?",
+        "opcoes": ["Uma conferência da ONU sobre o meio ambiente no Rio de Janeiro.", "Uma competição de esportes.", "Uma feira de tecnologia.", "Um acordo militar."],
+        "correta": 0,
+        "explicacao": "Foi um marco nas discussões ambientais globais."
+      },
+      {
+        "enunciado": "O que é a Agenda 21?",
+        "opcoes": ["Um documento com intenções para promover o desenvolvimento sustentável no século XXI.", "Uma lei brasileira.", "Um plano de governo dos EUA.", "Uma agenda de telefone."],
+        "correta": 0,
+        "explicacao": "Surgiu na Rio 92."
+      },
+      {
+        "enunciado": "O que foi a Rio+20?",
+        "opcoes": ["Uma conferência da ONU em 2012 para avaliar o progresso do desenvolvimento sustentável.", "Uma reunião de empresários.", "Um campeonato de futebol.", "Uma feira de ciências."],
+        "correta": 0,
+        "explicacao": "Vinte anos após a Rio 92, os países se reuniram novamente."
+      },
+      {
+        "enunciado": "Quantos Objetivos de Desenvolvimento Sustentável (ODS) foram definidos pela Agenda 2030?",
+        "opcoes": ["10 ODS.", "17 ODS.", "20 ODS.", "5 ODS."],
+        "correta": 1,
+        "explicacao": "São 17 objetivos e 169 metas."
+      },
+      {
+        "enunciado": "Qual é o prazo para o cumprimento da Agenda 2030?",
+        "opcoes": ["Até 2025.", "Até 2030.", "Até 2050.", "Até 2100."],
+        "correta": 1,
+        "explicacao": "O plano de ação vai até o ano de 2030."
+      },
+      {
+        "enunciado": "Qual é o ODS 1 da Agenda 2030?",
+        "opcoes": ["Erradicação da pobreza.", "Educação de qualidade.", "Água potável e saneamento.", "Ação contra a mudança global do clima."],
+        "correta": 0,
+        "explicacao": "O primeiro objetivo é acabar com a pobreza."
+      },
+      {
+        "enunciado": "Qual é o ODS 4 da Agenda 2030?",
+        "opcoes": ["Erradicação da pobreza.", "Educação de qualidade.", "Igualdade de gênero.", "Saúde e bem-estar."],
+        "correta": 1,
+        "explicacao": "O ODS 4 busca uma educação inclusiva e equitativa."
+      },
+      {
+        "enunciado": "Qual é o ODS 13 da Agenda 2030?",
+        "opcoes": ["Vida na água.", "Ação contra a mudança global do clima.", "Vida terrestre.", "Energia limpa."],
+        "correta": 1,
+        "explicacao": "O ODS 13 foca no combate às mudanças climáticas."
+      },
+      {
+        "enunciado": "O que é a 'economia verde'?",
+        "opcoes": ["Uma economia que busca reduzir os riscos ambientais e a escassez ecológica.", "Uma economia baseada no desmatamento.", "Uma economia que não usa dinheiro.", "Uma economia baseada em combustíveis fósseis."],
+        "correta": 0,
+        "explicacao": "A economia verde busca o desenvolvimento sustentável."
+      },
+      {
+        "enunciado": "Quais são os três pilares da sustentabilidade?",
+        "opcoes": ["Ambiental, social e econômico.", "Político, militar e cultural.", "Tecnológico, científico e religioso.", "Apenas o ambiental."],
+        "correta": 0,
+        "explicacao": "A sustentabilidade equilibra esses três aspectos."
+      },
+      {
+        "enunciado": "O que é a pegada ecológica?",
+        "opcoes": ["A marca deixada no chão.", "A medida da demanda humana sobre os recursos naturais do planeta.", "A quantidade de árvores plantadas.", "O caminho dos animais."],
+        "correta": 1,
+        "explicacao": "Mede o impacto do consumo humano sobre a natureza."
+      },
+      {
+        "enunciado": "Se toda a população mundial consumisse como os países ricos, quantos planetas Terra seriam necessários?",
+        "opcoes": ["1 planeta.", "2 planetas.", "Cerca de 5 planetas.", "10 planetas."],
+        "correta": 2,
+        "explicacao": "O texto cita que precisaríamos de cerca de 5 planetas."
+      },
+      {
+        "enunciado": "Qual é o ODS 6 da Agenda 2030?",
+        "opcoes": ["Água potável e saneamento.", "Energia limpa.", "Indústria e inovação.", "Paz e justiça."],
+        "correta": 0,
+        "explicacao": "Busca garantir água potável e saneamento para todos."
+      },
+      {
+        "enunciado": "Qual é o ODS 15 da Agenda 2030?",
+        "opcoes": ["Vida terrestre.", "Vida na água.", "Ação climática.", "Igualdade de gênero."],
+        "correta": 0,
+        "explicacao": "Foca na proteção da vida terrestre e da biodiversidade."
+      },
+      {
+        "enunciado": "O que é a Rio 92 também conhecida como?",
+        "opcoes": ["Cúpula da Terra.", "Cúpula do Clima.", "Cúpula da Água.", "Cúpula da Paz."],
+        "correta": 0,
+        "explicacao": "Foi a Conferência das Nações Unidas sobre Meio Ambiente e Desenvolvimento."
+      },
+      {
+        "enunciado": "Qual foi o principal documento resultante da Rio 92?",
+        "opcoes": ["A Agenda 21.", "O Protocolo de Kyoto.", "O Acordo de Paris.", "O Relatório Brundtland."],
+        "correta": 0,
+        "explicacao": "A Agenda 21 foi um dos principais resultados."
+      },
+      {
+        "enunciado": "O que é a 'Carta da Terra'?",
+        "opcoes": ["Um documento com princípios para a sustentabilidade e a paz.", "Um mapa da Terra.", "Um tratado de comércio.", "Um livro de história."],
+        "correta": 0,
+        "explicacao": "É uma declaração de princípios éticos para a sustentabilidade."
+      },
+      {
+        "enunciado": "A Agenda 2030 busca 'Transformar o Nosso Mundo'. Qual é uma das principais metas?",
+        "opcoes": ["Aumentar a desigualdade.", "Erradicar a pobreza extrema.", "Aumentar o desmatamento.", "Aumentar a poluição."],
+        "correta": 1,
+        "explicacao": "A erradicação da pobreza é o primeiro e mais importante objetivo."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v1_cnat_metodo_cientifico_01",
+    "titulo": "Ciências Naturais - O Método Científico",
+    "tipo": "conteudo",
+    "icone": "🔬",
+    "perguntas": [
+      {
+        "enunciado": "O que é o método científico?",
+        "opcoes": ["Uma forma de adivinhar as coisas.", "Um conjunto de etapas organizadas para investigar fenômenos e buscar a verdade científica.", "Uma opinião pessoal.", "Um livro de receitas."],
+        "correta": 1,
+        "explicacao": "O método científico guia a pesquisa de forma lógica e sistemática."
+      },
+      {
+        "enunciado": "Qual é a primeira etapa do método científico?",
+        "opcoes": ["Observação.", "Conclusão.", "Hipótese.", "Publicação."],
+        "correta": 0,
+        "explicacao": "Tudo começa com a observação de um fenômeno."
+      },
+      {
+        "enunciado": "O que é uma hipótese?",
+        "opcoes": ["Uma explicação provisória para um fenômeno.", "Uma certeza absoluta.", "Uma lei imutável.", "Um fato comprovado."],
+        "correta": 0,
+        "explicacao": "A hipótese é uma suposição que será testada."
+      },
+      {
+        "enunciado": "O que é a experimentação no método científico?",
+        "opcoes": ["Testar as hipóteses em condições controladas.", "Apenas observar sem mexer.", "Publicar um artigo.", "Fazer uma pergunta."],
+        "correta": 0,
+        "explicacao": "A experimentação serve para validar ou refutar a hipótese."
+      },
+      {
+        "enunciado": "O que acontece se os resultados de um experimento não confirmarem a hipótese?",
+        "opcoes": ["A hipótese é descartada ou revisada.", "A hipótese é aceita.", "A ciência acaba.", "O cientista é castigado."],
+        "correta": 0,
+        "explicacao": "A ciência é feita de erros e acertos; hipóteses são reformuladas."
+      },
+      {
+        "enunciado": "O que é a publicação de resultados?",
+        "opcoes": ["A etapa em que os cientistas divulgam suas descobertas para que outros possam verificar.", "Um segredo guardado.", "A primeira etapa.", "Apenas uma foto."],
+        "correta": 0,
+        "explicacao": "A publicação permite a revisão por pares e o avanço da ciência."
+      },
+      {
+        "enunciado": "O que é um modelo científico?",
+        "opcoes": ["Uma representação simplificada da realidade.", "Um objeto de brinquedo.", "Uma teoria não testada.", "Uma lei física."],
+        "correta": 0,
+        "explicacao": "Modelos ajudam a entender fenômenos complexos."
+      },
+      {
+        "enunciado": "O que é uma teoria científica?",
+        "opcoes": ["Um conjunto de explicações baseadas em evidências e testes.", "Uma opinião pessoal.", "Uma hipótese não testada.", "Uma mentira."],
+        "correta": 0,
+        "explicacao": "Uma teoria é amplamente aceita porque é sustentada por evidências."
+      },
+      {
+        "enunciado": "O que é uma lei científica?",
+        "opcoes": ["Uma descrição matemática ou verbal de um fenômeno natural, como a lei da gravidade.", "Uma regra feita por políticos.", "Uma opinião de um cientista.", "Uma hipótese."],
+        "correta": 0,
+        "explicacao": "As leis descrevem regularidades da natureza."
+      },
+      {
+        "enunciado": "Qual é o objetivo da ciência?",
+        "opcoes": ["Buscar explicações racionais e confiáveis para os fenômenos naturais.", "Criar mitos.", "Apenas ganhar dinheiro.", "Enganar as pessoas."],
+        "correta": 0,
+        "explicacao": "A ciência busca a verdade por meio da razão e da evidência."
+      },
+      {
+        "enunciado": "O que é o 'viés' na ciência?",
+        "opcoes": ["Uma tendência ou inclinação que pode distorcer os resultados.", "Um tipo de experimento.", "Uma lei física.", "Uma ferramenta de laboratório."],
+        "correta": 0,
+        "explicacao": "O viés deve ser evitado para garantir a objetividade."
+      },
+      {
+        "enunciado": "Quem foi Galileu Galilei?",
+        "opcoes": ["Um astrônomo italiano que aperfeiçoou o telescópio e defendeu o heliocentrismo.", "Um imperador romano.", "Um médico.", "Um pintor renascentista."],
+        "correta": 0,
+        "explicacao": "Galileu foi um dos fundadores da ciência moderna."
+      },
+      {
+        "enunciado": "O que Galileu defendia?",
+        "opcoes": ["O modelo heliocêntrico (Sol no centro).", "O modelo geocêntrico (Terra no centro).", "Que a Terra era plana.", "Que o Sol era um planeta."],
+        "correta": 0,
+        "explicacao": "Galileu defendeu a teoria de Copérnico."
+      },
+      {
+        "enunciado": "Quem foi René Descartes?",
+        "opcoes": ["Um filósofo e matemático que criou o método cartesiano (dúvida metódica).", "Um astrônomo grego.", "Um imperador.", "Um médico."],
+        "correta": 0,
+        "explicacao": "Descartes propôs um método para se chegar à verdade."
+      },
+      {
+        "enunciado": "O que é a dúvida metódica de Descartes?",
+        "opcoes": ["Duvidar de tudo para encontrar uma verdade indubitável.", "Aceitar tudo sem questionar.", "Duvidar apenas das coisas ruins.", "Não estudar."],
+        "correta": 0,
+        "explicacao": "Descartes duvidava de tudo para chegar a uma base segura."
+      },
+      {
+        "enunciado": "A frase 'Penso, logo existo' é de qual filósofo?",
+        "opcoes": ["René Descartes.", "Galileu Galilei.", "Isaac Newton.", "Albert Einstein."],
+        "correta": 0,
+        "explicacao": "É a conclusão da dúvida metódica de Descartes."
+      },
+      {
+        "enunciado": "O que é o Renascimento Científico?",
+        "opcoes": ["Um movimento que resgatou o conhecimento clássico e impulsionou a ciência moderna.", "Um movimento artístico apenas.", "Uma guerra.", "Uma religião."],
+        "correta": 0,
+        "explicacao": "O Renascimento trouxe avanços na astronomia, física e matemática."
+      },
+      {
+        "enunciado": "Qual é a importância da Filosofia para a Ciência?",
+        "opcoes": ["Ela ajuda a fundamentar as bases e os métodos da ciência.", "Ela não tem importância.", "Ela impede a ciência.", "Ela é apenas uma arte."],
+        "correta": 0,
+        "explicacao": "A Filosofia da Ciência estuda os fundamentos e a validade dos métodos científicos."
+      },
+      {
+        "enunciado": "O que é a metodologia experimental?",
+        "opcoes": ["O conjunto de procedimentos para testar hipóteses com experimentos.", "Um tipo de filosofia.", "Uma teoria sem testes.", "Uma ferramenta de laboratório."],
+        "correta": 0,
+        "explicacao": "A metodologia experimental é base da ciência moderna."
+      },
+      {
+        "enunciado": "Por que a ciência é considerada um conhecimento em constante evolução?",
+        "opcoes": ["Porque novas descobertas e evidências podem modificar as teorias existentes.", "Porque os cientistas mudam de ideia sem motivo.", "Porque a ciência é uma opinião.", "Porque a ciência não tem método."],
+        "correta": 0,
+        "explicacao": "A ciência se atualiza conforme novas evidências surgem."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v1_cnat_historia_ciencia_01",
+    "titulo": "Ciências Naturais - História da Ciência",
+    "tipo": "conteudo",
+    "icone": "📜",
+    "perguntas": [
+      {
+        "enunciado": "Quem foi o responsável por organizar o conhecimento geométrico da antiguidade na obra 'Os Elementos'?",
+        "opcoes": ["Pitágoras.", "Euclides.", "Arquimedes.", "Tales de Mileto."],
+        "correta": 1,
+        "explicacao": "Euclides organizou a geometria em 13 livros, na obra 'Os Elementos'."
+      },
+      {
+        "enunciado": "Qual era a principal preocupação da ciência antiga (filosofia pré-socrática)?",
+        "opcoes": ["O conhecimento contemplativo da natureza.", "O domínio tecnológico.", "A criação de máquinas.", "A exploração espacial."],
+        "correta": 0,
+        "explicacao": "O saber antigo tinha um fim em si mesmo, buscando entender a physis."
+      },
+      {
+        "enunciado": "Como era vista a natureza no Renascimento?",
+        "opcoes": ["Como algo a ser apenas contemplado.", "Como uma realidade regida por leis próprias e que deve ser pesquisada cientificamente.", "Como algo intocável.", "Como uma criação apenas divina."],
+        "correta": 1,
+        "explicacao": "O Renascimento trouxe uma visão naturalista e racional."
+      },
+      {
+        "enunciado": "Quem foi Francis Bacon?",
+        "opcoes": ["Um filósofo que defendeu o método experimental e a frase 'saber é poder'.", "Um astrônomo grego.", "Um imperador romano.", "Um artista."],
+        "correta": 0,
+        "explicacao": "Bacon propôs que o conhecimento deveria servir para dominar a natureza."
+      },
+      {
+        "enunciado": "O que a frase 'saber é poder' de Francis Bacon significa?",
+        "opcoes": ["Que o conhecimento é a ferramenta para o ser humano dominar a natureza.", "Que o poder é apenas político.", "Que a ciência é inútil.", "Que o conhecimento é apenas teórico."],
+        "correta": 0,
+        "explicacao": "Bacon defendia a aplicação prática da ciência."
+      },
+      {
+        "enunciado": "Qual é a visão de Descartes sobre o conhecimento e a natureza?",
+        "opcoes": ["Que o ser humano deve se tornar 'senhor e possuidor da natureza' por meio da ciência.", "Que a natureza é invencível.", "Que o homem não deve interferir na natureza.", "Que a ciência é inútil."],
+        "correta": 0,
+        "explicacao": "Descartes defendia o domínio racional da natureza."
+      },
+      {
+        "enunciado": "O que foi a Revolução Científica (séculos XVI-XVIII)?",
+        "opcoes": ["Um período de mudança na forma de pensar, baseado na razão e no método científico.", "Uma guerra religiosa.", "Um movimento artístico.", "Uma crise econômica."],
+        "correta": 0,
+        "explicacao": "A Revolução Científica transformou a forma de conhecer o mundo."
+      },
+      {
+        "enunciado": "O que é a Filosofia da Ciência?",
+        "opcoes": ["A área que estuda os fundamentos e implicações filosóficas das ciências.", "Uma religião.", "Uma ciência exata.", "Uma arte marcial."],
+        "correta": 0,
+        "explicacao": "A Filosofia da Ciência questiona a natureza do conhecimento científico."
+      },
+      {
+        "enunciado": "O que caracteriza o conhecimento científico moderno?",
+        "opcoes": ["A busca por explicações baseadas em evidências e experimentos.", "A aceitação de mitos.", "Apenas a intuição.", "A fé cega."],
+        "correta": 0,
+        "explicacao": "O método científico é a base do conhecimento moderno."
+      },
+      {
+        "enunciado": "Qual é a importância do método para a ciência?",
+        "opcoes": ["Garantir que os resultados sejam confiáveis e possam ser reproduzidos.", "Deixar a ciência mais lenta.", "Impedir novas descobertas.", "Tornar a ciência uma opinião."],
+        "correta": 0,
+        "explicacao": "O método dá rigor e credibilidade à ciência."
+      },
+      {
+        "enunciado": "O que são modelos na ciência?",
+        "opcoes": ["Representações mentais ou físicas simplificadas da realidade.", "Brinquedos.", "Pessoas famosas.", "Leis imutáveis."],
+        "correta": 0,
+        "explicacao": "Modelos ajudam a compreender sistemas complexos."
+      },
+      {
+        "enunciado": "O que é uma lei científica?",
+        "opcoes": ["Uma descrição de um fenômeno natural que se repete regularmente.", "Uma regra jurídica.", "Uma opinião.", "Uma hipótese."],
+        "correta": 0,
+        "explicacao": "As leis descrevem o comportamento da natureza."
+      },
+      {
+        "enunciado": "O que é uma teoria científica?",
+        "opcoes": ["Um conjunto de explicações amplamente aceitas e testadas.", "Uma suposição sem teste.", "Uma opinião.", "Uma lei."],
+        "correta": 0,
+        "explicacao": "Teorias são bem fundamentadas por evidências."
+      },
+      {
+        "enunciado": "Qual é a diferença entre lei e teoria?",
+        "opcoes": ["Leis descrevem regularidades; teorias explicam os fenômenos.", "São a mesma coisa.", "Teorias são mais importantes.", "Leis são apenas opiniões."],
+        "correta": 0,
+        "explicacao": "Ambas são fundamentais e complementares."
+      },
+      {
+        "enunciado": "O que é o viés na ciência?",
+        "opcoes": ["Uma distorção que pode comprometer a objetividade dos resultados.", "Um tipo de experimento.", "Uma lei física.", "Uma ferramenta."],
+        "correta": 0,
+        "explicacao": "O viés deve ser evitado para manter a integridade científica."
+      },
+      {
+        "enunciado": "Quem foi Galileu Galilei e qual foi sua contribuição?",
+        "opcoes": ["Aperfeiçoou o telescópio e defendeu o heliocentrismo.", "Descobriu a lei da gravidade.", "Criou o método cartesiano.", "Escreveu 'Os Elementos'."],
+        "correta": 0,
+        "explicacao": "Galileu foi um dos grandes nomes da Revolução Científica."
+      },
+      {
+        "enunciado": "Qual é a principal característica do Renascimento?",
+        "opcoes": ["O antropocentrismo (ser humano no centro) e o racionalismo.", "O teocentrismo.", "A idade das trevas.", "A volta ao mito."],
+        "correta": 0,
+        "explicacao": "O Renascimento valorizou a razão e a capacidade humana."
+      },
+      {
+        "enunciado": "O que é o naturalismo renascentista?",
+        "opcoes": ["A ênfase na natureza como uma realidade regida por leis próprias.", "A adoração da natureza.", "A negação da natureza.", "Apenas a arte da natureza."],
+        "correta": 0,
+        "explicacao": "O naturalismo renascentista valorizava o estudo científico da natureza."
+      },
+      {
+        "enunciado": "Qual é a principal diferença entre a ciência antiga e a moderna?",
+        "opcoes": ["A antiga era contemplativa; a moderna busca o domínio da natureza por meio de experimentos.", "A antiga era mais precisa.", "A moderna não tem método.", "A antiga era mais tecnológica."],
+        "correta": 0,
+        "explicacao": "A modernidade trouxe o método experimental e a busca por aplicação prática."
+      },
+      {
+        "enunciado": "O que é a 'dúvida metódica' de Descartes?",
+        "opcoes": ["Duvidar de tudo para encontrar uma verdade indubitável.", "Aceitar tudo o que se lê.", "Duvidar apenas de algumas coisas.", "Não estudar."],
+        "correta": 0,
+        "explicacao": "Descartes buscava uma base sólida para o conhecimento."
+      }
+    ]
+  }
+]
