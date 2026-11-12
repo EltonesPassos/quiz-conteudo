@@ -505,7 +505,7 @@
       },
       {
         "enunciado": "Qual é o principal desafio da atualidade em relação à Revolução Industrial?",
-        "opcoes": [" conciliar o desenvolvimento tecnológico com a preservação ambiental.", "Voltar ao artesanato.", "Acabar com a indústria.", "Aumentar a poluição."],
+        "opcoes": ["Conciliar o desenvolvimento tecnológico com a preservação ambiental.", "Voltar ao artesanato.", "Acabar com a indústria.", "Aumentar a poluição."],
         "correta": 0,
         "explicacao": "É preciso crescer sem degradar o meio ambiente."
       }
