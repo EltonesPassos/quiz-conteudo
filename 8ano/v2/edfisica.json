@@ -1,1 +1,770 @@
-[]
+[
+  {
+    "id": "8ano_v2_edf_boxe_historia_01",
+    "titulo": "Educação Física - História do Boxe (A Nobre Arte)",
+    "tipo": "conteudo",
+    "icone": "🥊",
+    "perguntas": [
+      {
+        "enunciado": "De onde se originam as práticas de luta com os punhos?",
+        "opcoes": ["Da Grécia Antiga apenas.", "De registros históricos na Mesopotâmia, Egito e Roma.", "Da Inglaterra do século XXI.", "Do Japão."],
+        "correta": 1,
+        "explicacao": "Há registros de lutas com punhos em várias civilizações antigas."
+      },
+      {
+        "enunciado": "Qual foi o termo usado na Grécia Antiga para uma luta semelhante ao boxe?",
+        "opcoes": ["Pugilato.", "Luta Livre.", "Karatê.", "Sumô."],
+        "correta": 0,
+        "explicacao": "O pugilato era praticado na Grécia Antiga."
+      },
+      {
+        "enunciado": "O boxe moderno começou a ser estruturado por volta de qual século?",
+        "opcoes": ["Século X.", "Século XV.", "Século XVIII (anos 1700).", "Século XXI."],
+        "correta": 2,
+        "explicacao": "O boxe moderno se estruturou a partir dos anos 1700."
+      },
+      {
+        "enunciado": "Quem foi John Graham Chambers?",
+        "opcoes": ["O criador das regras do boxe moderno (Regras de Queensberry).", "Um pugilista grego.", "Um imperador romano.", "Um treinador de futebol."],
+        "correta": 0,
+        "explicacao": "Chambers elaborou as regras que organizaram o boxe."
+      },
+      {
+        "enunciado": "O que as 'Regras de Queensberry' estabeleceram?",
+        "opcoes": ["A obrigatoriedade do uso de luvas e divisão por categorias de peso.", "A proibição do boxe.", "A permissão de golpes baixos.", "O fim dos ringues."],
+        "correta": 0,
+        "explicacao": "As regras trouxeram segurança e organização ao esporte."
+      },
+      {
+        "enunciado": "Quando o boxe masculino retornou aos Jogos Olímpicos?",
+        "opcoes": ["Em 1904, em St. Louis.", "Em 1896, em Atenas.", "Em 2012, em Londres.", "Em 2000, em Sydney."],
+        "correta": 0,
+        "explicacao": "O boxe masculino voltou às Olimpíadas em 1904."
+      },
+      {
+        "enunciado": "Em qual Olimpíada o boxe feminino estreou?",
+        "opcoes": ["Londres 2012.", "Rio 2016.", "Pequim 2008.", "Tóquio 2020."],
+        "correta": 0,
+        "explicacao": "As mulheres passaram a competir no boxe olímpico em 2012."
+      },
+      {
+        "enunciado": "Quem é considerado um dos maiores pugilistas de todos os tempos e foi campeão olímpico e mundial?",
+        "opcoes": ["Muhammad Ali.", "Mike Tyson.", "Eder Jofre.", "Acelino Freitas."],
+        "correta": 0,
+        "explicacao": "Muhammad Ali é uma lenda do boxe."
+      },
+      {
+        "enunciado": "Qual lutador brasileiro é conhecido como 'Popó'?",
+        "opcoes": ["Acelino Freitas.", "Eder Jofre.", "Robson Conceição.", "Adriana Araújo."],
+        "correta": 0,
+        "explicacao": "Acelino Freitas é o Popó."
+      },
+      {
+        "enunciado": "Qual lutador é conhecido por sua agressividade e foi campeão mundial dos pesos-pesados?",
+        "opcoes": ["Mike Tyson.", "Muhammad Ali.", "John Chambers.", "Robson Conceição."],
+        "correta": 0,
+        "explicacao": "Mike Tyson foi um dos maiores campeões dos pesados."
+      },
+      {
+        "enunciado": "Qual é o nome do ringue de boxe?",
+        "opcoes": ["Ringue.", "Quadrilátero.", "Octógono.", "Campo."],
+        "correta": 0,
+        "explicacao": "O ringue é a plataforma onde ocorre a luta."
+      },
+      {
+        "enunciado": "O boxe é uma prática que exige:",
+        "opcoes": ["Apenas força.", "Condicionamento físico, coordenação e benefícios mentais.", "Apenas flexibilidade.", "Apenas velocidade."],
+        "correta": 1,
+        "explicacao": "O boxe trabalha corpo e mente."
+      },
+      {
+        "enunciado": "O termo 'pugilismo' refere-se a:",
+        "opcoes": ["Uma luta com os punhos.", "Uma luta com espadas.", "Uma luta com os pés.", "Uma dança."],
+        "correta": 0,
+        "explicacao": "Pugilismo é o termo antigo para boxe."
+      },
+      {
+        "enunciado": "Em qual país o boxe moderno se desenvolveu e se popularizou?",
+        "opcoes": ["Inglaterra.", "Grécia.", "Roma.", "Brasil."],
+        "correta": 0,
+        "explicacao": "A Inglaterra foi o berço do boxe moderno."
+      },
+      {
+        "enunciado": "Quem trouxe o boxe para o Brasil?",
+        "opcoes": ["Imigrantes europeus.", "Os gregos.", "Os romanos.", "Os americanos."],
+        "correta": 0,
+        "explicacao": "O boxe chegou ao Brasil com imigrantes."
+      },
+      {
+        "enunciado": "Qual é o nome do órgão que organiza o boxe olímpico?",
+        "opcoes": ["Comitê Olímpico Internacional (COI).", "FIFA.", "NBA.", "UFC."],
+        "correta": 0,
+        "explicacao": "O COI organiza os Jogos Olímpicos."
+      },
+      {
+        "enunciado": "O boxe olímpico é diferente do profissional principalmente por:",
+        "opcoes": ["O número de rounds e o uso de capacete.", "As regras de pontuação.", "O tamanho do ringue.", "A cor das luvas."],
+        "correta": 0,
+        "explicacao": "No profissional há mais rounds e não se usa capacete."
+      },
+      {
+        "enunciado": "Quais são as categorias de peso no boxe?",
+        "opcoes": ["Mosca, Pena, Leve, Médio, Pesado.", "Apenas Leve e Pesado.", "Apenas Pesado.", "Não existem categorias."],
+        "correta": 0,
+        "explicacao": "Os lutadores são divididos por peso."
+      },
+      {
+        "enunciado": "Por que o boxe é chamado de 'A Nobre Arte'?",
+        "opcoes": ["Porque exige técnica, disciplina e respeito.", "Porque é uma arte marcial.", "Porque é um esporte de elite.", "Porque tem muitas regras."],
+        "correta": 0,
+        "explicacao": "O boxe é chamado de Nobre Arte por sua técnica e história."
+      },
+      {
+        "enunciado": "Qual é a principal característica do boxe?",
+        "opcoes": ["O uso dos punhos para atacar e defender.", "O uso dos pés.", "O uso de armas.", "O uso de espadas."],
+        "correta": 0,
+        "explicacao": "O boxe é a arte de lutar com os punhos."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_edf_categorias_equipamentos_01",
+    "titulo": "Educação Física - Categorias e Equipamentos do Boxe",
+    "tipo": "conteudo",
+    "icone": "🛡️",
+    "perguntas": [
+      {
+        "enunciado": "Quantas categorias de peso masculinas existem no boxe olímpico?",
+        "opcoes": ["5", "8", "10", "12"],
+        "correta": 1,
+        "explicacao": "São 8 categorias masculinas."
+      },
+      {
+        "enunciado": "Quantas categorias de peso femininas existem no boxe olímpico?",
+        "opcoes": ["3", "5", "8", "10"],
+        "correta": 1,
+        "explicacao": "São 5 categorias femininas."
+      },
+      {
+        "enunciado": "Qual é a categoria de peso mais leve no boxe olímpico masculino?",
+        "opcoes": ["Mosca.", "Pena.", "Leve.", "Pesado."],
+        "correta": 0,
+        "explicacao": "A categoria Mosca é a mais leve."
+      },
+      {
+        "enunciado": "Qual é o principal equipamento de segurança usado na cabeça no boxe olímpico?",
+        "opcoes": ["Capacete.", "Protetor bucal.", "Bandagem.", "Luvas."],
+        "correta": 0,
+        "explicacao": "O capacete protege a cabeça."
+      },
+      {
+        "enunciado": "Qual equipamento protege os dentes e a mandíbula?",
+        "opcoes": ["Protetor bucal.", "Capacete.", "Luvas.", "Bandagem."],
+        "correta": 0,
+        "explicacao": "O protetor bucal é essencial."
+      },
+      {
+        "enunciado": "Qual é a função do protetor genital (coquilha)?",
+        "opcoes": ["Proteger a região genital de golpes baixos.", "Proteger os olhos.", "Proteger as mãos.", "Proteger os pés."],
+        "correta": 0,
+        "explicacao": "A coquilha protege contra golpes baixos."
+      },
+      {
+        "enunciado": "Qual é a função das bandagens nas mãos?",
+        "opcoes": ["Proteger as mãos e os punhos.", "Aquecer o corpo.", "Proteger os olhos.", "Proteger os pés."],
+        "correta": 0,
+        "explicacao": "As bandagens estabilizam as mãos."
+      },
+      {
+        "enunciado": "Qual é o nome do ringue de boxe?",
+        "opcoes": ["Ringue.", "Quadrilátero.", "Octógono.", "Campo."],
+        "correta": 0,
+        "explicacao": "O ringue é a plataforma onde ocorre a luta."
+      },
+      {
+        "enunciado": "Qual é a altura mínima do ringue em relação ao chão?",
+        "opcoes": ["1 metro.", "50 cm.", "2 metros.", "3 metros."],
+        "correta": 0,
+        "explicacao": "O ringue deve ficar a cerca de 1 metro do chão."
+      },
+      {
+        "enunciado": "O que deve revestir o piso do ringue?",
+        "opcoes": ["Material que absorva impactos (como EVA).", "Madeira.", "Concreto.", "Metal."],
+        "correta": 0,
+        "explicacao": "O piso deve ser macio para evitar lesões."
+      },
+      {
+        "enunciado": "Quais são os equipamentos de segurança usados no boxe?",
+        "opcoes": ["Capacete, protetor bucal, coquilha, bandagens e luvas.", "Apenas luvas.", "Apenas capacete.", "Apenas protetor bucal."],
+        "correta": 0,
+        "explicacao": "São vários os equipamentos de segurança."
+      },
+      {
+        "enunciado": "Qual é a função do árbitro central no boxe?",
+        "opcoes": ["Preservar a integridade física dos atletas.", "Apenas contar os pontos.", "Apenas cronometrar.", "Apenas anunciar o vencedor."],
+        "correta": 0,
+        "explicacao": "O árbitro central zela pela segurança."
+      },
+      {
+        "enunciado": "Qual é a função dos árbitros laterais?",
+        "opcoes": ["Atribuir pontuação e avaliar o desempenho.", "Apenas contar os rounds.", "Apenas separar os lutadores.", "Apenas cronometrar."],
+        "correta": 0,
+        "explicacao": "Os juízes laterais avaliam a luta."
+      },
+      {
+        "enunciado": "Quantos árbitros laterais geralmente compõem a equipe de julgamento?",
+        "opcoes": ["3", "1", "5", "10"],
+        "correta": 0,
+        "explicacao": "Normalmente são 3 juízes laterais."
+      },
+      {
+        "enunciado": "O que é o cronometrista?",
+        "opcoes": ["Responsável por tocar a campainha no início e fim dos rounds.", "O que separa os lutadores.", "O que dá os pontos.", "O que anuncia o vencedor."],
+        "correta": 0,
+        "explicacao": "O cronometrista controla o tempo."
+      },
+      {
+        "enunciado": "Qual é o objetivo principal do boxe?",
+        "opcoes": ["Golpear o adversário com os punhos e defender-se.", "Correr mais rápido.", "Saltar mais alto.", "Chutar o adversário."],
+        "correta": 0,
+        "explicacao": "O boxe é a arte de golpear com os punhos."
+      },
+      {
+        "enunciado": "No boxe, é permitido golpear abaixo da linha da cintura?",
+        "opcoes": ["Não.", "Sim.", "Apenas em algumas categorias.", "Sim, mas vale menos pontos."],
+        "correta": 0,
+        "explicacao": "Golpes baixos são proibidos."
+      },
+      {
+        "enunciado": "É permitido golpear a nuca do adversário?",
+        "opcoes": ["Não.", "Sim.", "Apenas no primeiro round.", "Sim, se for leve."],
+        "correta": 0,
+        "explicacao": "Golpes na nuca são proibidos."
+      },
+      {
+        "enunciado": "Qual é a principal diferença entre o boxe olímpico e o profissional?",
+        "opcoes": ["O número de rounds e o uso de capacete.", "As regras de pontuação.", "O tamanho do ringue.", "A cor das luvas."],
+        "correta": 0,
+        "explicacao": "Profissionais lutam mais rounds e sem capacete."
+      },
+      {
+        "enunciado": "Quantos rounds tem uma luta de boxe olímpico feminino?",
+        "opcoes": ["4 rounds de 2 minutos.", "3 rounds de 3 minutos.", "12 rounds.", "1 round."],
+        "correta": 0,
+        "explicacao": "As mulheres lutam 4 rounds de 2 minutos."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_edf_golpes_defesa_01",
+    "titulo": "Educação Física - Movimentos de Defesa no Boxe",
+    "tipo": "conteudo",
+    "icone": "🛡️",
+    "perguntas": [
+      {
+        "enunciado": "O que é a 'esquiva' no boxe?",
+        "opcoes": ["Um movimento de defesa para desviar dos golpes.", "Um golpe de ataque.", "Um tipo de luva.", "Uma categoria de peso."],
+        "correta": 0,
+        "explicacao": "A esquiva desvia dos golpes adversários."
+      },
+      {
+        "enunciado": "Qual é a principal característica da esquiva?",
+        "opcoes": ["Exige flexibilidade e agilidade.", "Exige força.", "Exige apenas velocidade.", "Exige apenas resistência."],
+        "correta": 0,
+        "explicacao": "A esquiva requer flexibilidade e agilidade."
+      },
+      {
+        "enunciado": "O que é o 'bloqueio' no boxe?",
+        "opcoes": ["Uma defesa com os braços para bloquear golpes.", "Um ataque com o punho.", "Uma esquiva.", "Uma queda."],
+        "correta": 0,
+        "explicacao": "O bloqueio usa os braços para se proteger."
+      },
+      {
+        "enunciado": "Como é feito o bloqueio?",
+        "opcoes": ["Fechando-se com os braços à frente ou ao lado do rosto.", "Correndo para trás.", "Pulando.", "Abaixando a cabeça."],
+        "correta": 0,
+        "explicacao": "O bloqueio fecha a guarda."
+      },
+      {
+        "enunciado": "O que é o 'clinch' no boxe?",
+        "opcoes": ["Segurar e se apoiar no oponente para se defender.", "Um golpe de ataque.", "Uma esquiva.", "Um tipo de luva."],
+        "correta": 0,
+        "explicacao": "O clinch é uma forma de defesa e descanso."
+      },
+      {
+        "enunciado": "O clinch é permitido no boxe?",
+        "opcoes": ["Sim, mas com restrições.", "Não, é proibido.", "Sim, sem restrições.", "Apenas no primeiro round."],
+        "correta": 0,
+        "explicacao": "O clinch é permitido, mas pode gerar advertência se repetitivo."
+      },
+      {
+        "enunciado": "O que é a 'base' no boxe?",
+        "opcoes": ["A postura e o posicionamento corporal do lutador.", "Um tipo de luva.", "Um golpe.", "Uma esquiva."],
+        "correta": 0,
+        "explicacao": "A base é a posição fundamental do lutador."
+      },
+      {
+        "enunciado": "Como deve ser a base de um lutador destro?",
+        "opcoes": ["Perna e braço esquerdos à frente.", "Perna e braço direitos à frente.", "Pernas paralelas.", "Pernas cruzadas."],
+        "correta": 0,
+        "explicacao": "O lutador destro usa a base esquerda à frente."
+      },
+      {
+        "enunciado": "O que é a 'guarda' no boxe?",
+        "opcoes": ["A posição de defesa com os punhos próximos ao rosto.", "Um golpe.", "Uma esquiva.", "Um tipo de luva."],
+        "correta": 0,
+        "explicacao": "A guarda protege o rosto e o queixo."
+      },
+      {
+        "enunciado": "Onde os cotovelos devem ficar na guarda?",
+        "opcoes": ["Próximos ao tronco para proteger a região.", "Afastados do corpo.", "Levantados.", "Abaixados."],
+        "correta": 0,
+        "explicacao": "Os cotovelos protegem o tronco."
+      },
+      {
+        "enunciado": "O que é a 'esquiva' lateral?",
+        "opcoes": ["Desviar o corpo para o lado para evitar o golpe.", "Abaixar a cabeça.", "Correr para trás.", "Pular."],
+        "correta": 0,
+        "explicacao": "A esquiva lateral desloca o corpo para o lado."
+      },
+      {
+        "enunciado": "O que é a 'esquiva' para trás?",
+        "opcoes": ["Afastar o corpo para trás para evitar o golpe.", "Abaixar a cabeça.", "Correr para frente.", "Pular."],
+        "correta": 0,
+        "explicacao": "A esquiva para trás afasta o corpo."
+      },
+      {
+        "enunciado": "Qual é a importância da defesa no boxe?",
+        "opcoes": ["Evitar ser atingido e preservar a integridade física.", "Apenas para descansar.", "Para ganhar pontos.", "Para impressionar o juiz."],
+        "correta": 0,
+        "explicacao": "A defesa é essencial para a segurança."
+      },
+      {
+        "enunciado": "O que é um 'contra-ataque'?",
+        "opcoes": ["Um golpe desferido logo após uma defesa.", "Um golpe no ar.", "Um tipo de luva.", "Uma esquiva."],
+        "correta": 0,
+        "explicacao": "O contra-ataque é a resposta a um ataque."
+      },
+      {
+        "enunciado": "O que é o 'jab'?",
+        "opcoes": ["Um golpe reto e rápido com a mão da frente.", "Um golpe com a mão de trás.", "Um chute.", "Uma esquiva."],
+        "correta": 0,
+        "explicacao": "O jab é um golpe rápido."
+      },
+      {
+        "enunciado": "O que é o 'direto'?",
+        "opcoes": ["Um golpe reto com a mão de trás.", "Um golpe com a mão da frente.", "Um chute.", "Uma esquiva."],
+        "correta": 0,
+        "explicacao": "O direto é um golpe potente."
+      },
+      {
+        "enunciado": "O que é o 'cruzado'?",
+        "opcoes": ["Um golpe curvo com a mão de trás.", "Um golpe reto.", "Um chute.", "Uma esquiva."],
+        "correta": 0,
+        "explicacao": "O cruzado é um golpe em curva."
+      },
+      {
+        "enunciado": "O que é o 'uppercut'?",
+        "opcoes": ["Um golpe de baixo para cima.", "Um golpe de cima para baixo.", "Um chute.", "Uma esquiva."],
+        "correta": 0,
+        "explicacao": "O uppercut é um golpe ascendente."
+      },
+      {
+        "enunciado": "Qual é a importância da base e da guarda para a defesa?",
+        "opcoes": ["São a base para qualquer movimento de defesa.", "Não têm importância.", "São apenas para ataque.", "São apenas para corrida."],
+        "correta": 0,
+        "explicacao": "Sem base e guarda não há defesa eficiente."
+      },
+      {
+        "enunciado": "O boxe é uma luta que exige:",
+        "opcoes": ["Técnica, estratégia e condicionamento.", "Apenas força.", "Apenas velocidade.", "Apenas sorte."],
+        "correta": 0,
+        "explicacao": "O boxe é um esporte completo."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_edf_golpes_ataque_01",
+    "titulo": "Educação Física - Movimentos de Ataque no Boxe",
+    "tipo": "conteudo",
+    "icone": "🥊",
+    "perguntas": [
+      {
+        "enunciado": "O que é o 'jab' no boxe?",
+        "opcoes": ["Um golpe reto e rápido com a mão da frente.", "Um golpe com a mão de trás.", "Um chute.", "Uma esquiva."],
+        "correta": 0,
+        "explicacao": "O jab é o golpe mais usado para iniciar ataques."
+      },
+      {
+        "enunciado": "O que é o 'direto' no boxe?",
+        "opcoes": ["Um golpe reto com a mão de trás.", "Um golpe com a mão da frente.", "Um chute.", "Uma esquiva."],
+        "correta": 0,
+        "explicacao": "O direto é um golpe potente."
+      },
+      {
+        "enunciado": "O que é o 'cruzado' no boxe?",
+        "opcoes": ["Um golpe curvo com a mão de trás.", "Um golpe reto.", "Um chute.", "Uma esquiva."],
+        "correta": 0,
+        "explicacao": "O cruzado é um golpe em curva."
+      },
+      {
+        "enunciado": "O que é o 'uppercut' no boxe?",
+        "opcoes": ["Um golpe de baixo para cima.", "Um golpe de cima para baixo.", "Um chute.", "Uma esquiva."],
+        "correta": 0,
+        "explicacao": "O uppercut é um golpe ascendente."
+      },
+      {
+        "enunciado": "Qual é o golpe mais utilizado para iniciar um ataque?",
+        "opcoes": ["Jab.", "Direto.", "Cruzado.", "Uppercut."],
+        "correta": 0,
+        "explicacao": "O jab é o golpe de abertura."
+      },
+      {
+        "enunciado": "Qual é o golpe mais potente do boxe?",
+        "opcoes": ["Direto.", "Jab.", "Cruzado.", "Uppercut."],
+        "correta": 0,
+        "explicacao": "O direto é muito potente por usar a mão de trás."
+      },
+      {
+        "enunciado": "O que é o 'jab'?",
+        "opcoes": ["Um golpe rápido e reto.", "Um golpe curvo.", "Um golpe ascendente.", "Uma defesa."],
+        "correta": 0,
+        "explicacao": "O jab é rápido e reto."
+      },
+      {
+        "enunciado": "O que é o 'direto'?",
+        "opcoes": ["Um golpe reto e potente.", "Um golpe curto.", "Um golpe de defesa.", "Um chute."],
+        "correta": 0,
+        "explicacao": "O direto é reto e potente."
+      },
+      {
+        "enunciado": "O que é o 'cruzado'?",
+        "opcoes": ["Um golpe curvo e potente.", "Um golpe reto.", "Um golpe de defesa.", "Um chute."],
+        "correta": 0,
+        "explicacao": "O cruzado é curvo."
+      },
+      {
+        "enunciado": "O que é o 'uppercut'?",
+        "opcoes": ["Um golpe de baixo para cima.", "Um golpe de cima para baixo.", "Um golpe reto.", "Um chute."],
+        "correta": 0,
+        "explicacao": "O uppercut é ascendente."
+      },
+      {
+        "enunciado": "Qual é a importância do ataque no boxe?",
+        "opcoes": ["Marcar pontos e vencer a luta.", "Apenas se defender.", "Apenas correr.", "Apenas pular."],
+        "correta": 0,
+        "explicacao": "O ataque é essencial para vencer."
+      },
+      {
+        "enunciado": "O boxe é uma luta que exige:",
+        "opcoes": ["Técnica, estratégia e condicionamento.", "Apenas força.", "Apenas velocidade.", "Apenas sorte."],
+        "correta": 0,
+        "explicacao": "O boxe é um esporte completo."
+      },
+      {
+        "enunciado": "O que é o 'jab'?",
+        "opcoes": ["Um golpe rápido e reto.", "Um golpe curvo.", "Um golpe ascendente.", "Uma defesa."],
+        "correta": 0,
+        "explicacao": "O jab é rápido e reto."
+      },
+      {
+        "enunciado": "O que é o 'direto'?",
+        "opcoes": ["Um golpe reto e potente.", "Um golpe curto.", "Um golpe de defesa.", "Um chute."],
+        "correta": 0,
+        "explicacao": "O direto é reto e potente."
+      },
+      {
+        "enunciado": "O que é o 'cruzado'?",
+        "opcoes": ["Um golpe curvo e potente.", "Um golpe reto.", "Um golpe de defesa.", "Um chute."],
+        "correta": 0,
+        "explicacao": "O cruzado é curvo."
+      },
+      {
+        "enunciado": "O que é o 'uppercut'?",
+        "opcoes": ["Um golpe de baixo para cima.", "Um golpe de cima para baixo.", "Um golpe reto.", "Um chute."],
+        "correta": 0,
+        "explicacao": "O uppercut é ascendente."
+      },
+      {
+        "enunciado": "Qual é a importância do ataque no boxe?",
+        "opcoes": ["Marcar pontos e vencer a luta.", "Apenas se defender.", "Apenas correr.", "Apenas pular."],
+        "correta": 0,
+        "explicacao": "O ataque é essencial para vencer."
+      },
+      {
+        "enunciado": "O boxe é uma luta que exige:",
+        "opcoes": ["Técnica, estratégia e condicionamento.", "Apenas força.", "Apenas velocidade.", "Apenas sorte."],
+        "correta": 0,
+        "explicacao": "O boxe é um esporte completo."
+      },
+      {
+        "enunciado": "Qual é o golpe mais utilizado para iniciar um ataque?",
+        "opcoes": ["Jab.", "Direto.", "Cruzado.", "Uppercut."],
+        "correta": 0,
+        "explicacao": "O jab é o golpe de abertura."
+      },
+      {
+        "enunciado": "Qual é o golpe mais potente do boxe?",
+        "opcoes": ["Direto.", "Jab.", "Cruzado.", "Uppercut."],
+        "correta": 0,
+        "explicacao": "O direto é muito potente por usar a mão de trás."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_edf_regras_boxe_01",
+    "titulo": "Educação Física - Regras e Fundamentos do Boxe",
+    "tipo": "conteudo",
+    "icone": "📜",
+    "perguntas": [
+      {
+        "enunciado": "Quais são os principais movimentos de defesa no boxe?",
+        "opcoes": ["Esquiva, bloqueio e clinch.", "Jab, direto e cruzado.", "Uppercut e jab.", "Apenas esquiva."],
+        "correta": 0,
+        "explicacao": "Esses são os principais movimentos de defesa."
+      },
+      {
+        "enunciado": "Quais são os principais movimentos de ataque no boxe?",
+        "opcoes": ["Jab, direto, cruzado e uppercut.", "Esquiva, bloqueio e clinch.", "Apenas jab.", "Apenas direto."],
+        "correta": 0,
+        "explicacao": "Esses são os golpes principais."
+      },
+      {
+        "enunciado": "O que é o 'jab'?",
+        "opcoes": ["Um golpe rápido e reto com a mão da frente.", "Um golpe com a mão de trás.", "Um chute.", "Uma esquiva."],
+        "correta": 0,
+        "explicacao": "O jab é rápido e reto."
+      },
+      {
+        "enunciado": "O que é o 'direto'?",
+        "opcoes": ["Um golpe reto com a mão de trás.", "Um golpe com a mão da frente.", "Um chute.", "Uma esquiva."],
+        "correta": 0,
+        "explicacao": "O direto é reto e potente."
+      },
+      {
+        "enunciado": "O que é o 'cruzado'?",
+        "opcoes": ["Um golpe curvo com a mão de trás.", "Um golpe reto.", "Um chute.", "Uma esquiva."],
+        "correta": 0,
+        "explicacao": "O cruzado é curvo."
+      },
+      {
+        "enunciado": "O que é o 'uppercut'?",
+        "opcoes": ["Um golpe de baixo para cima.", "Um golpe de cima para baixo.", "Um golpe reto.", "Um chute."],
+        "correta": 0,
+        "explicacao": "O uppercut é ascendente."
+      },
+      {
+        "enunciado": "O que é a 'esquiva'?",
+        "opcoes": ["Um movimento de defesa para desviar dos golpes.", "Um golpe de ataque.", "Um tipo de luva.", "Uma categoria de peso."],
+        "correta": 0,
+        "explicacao": "A esquiva desvia dos golpes."
+      },
+      {
+        "enunciado": "O que é o 'bloqueio'?",
+        "opcoes": ["Uma defesa com os braços para bloquear golpes.", "Um ataque com o punho.", "Uma esquiva.", "Uma queda."],
+        "correta": 0,
+        "explicacao": "O bloqueio usa os braços."
+      },
+      {
+        "enunciado": "O que é o 'clinch'?",
+        "opcoes": ["Segurar e se apoiar no oponente para se defender.", "Um golpe de ataque.", "Uma esquiva.", "Um tipo de luva."],
+        "correta": 0,
+        "explicacao": "O clinch é uma forma de defesa e descanso."
+      },
+      {
+        "enunciado": "O que é a 'base'?",
+        "opcoes": ["A postura e o posicionamento corporal do lutador.", "Um tipo de luva.", "Um golpe.", "Uma esquiva."],
+        "correta": 0,
+        "explicacao": "A base é a posição fundamental do lutador."
+      },
+      {
+        "enunciado": "O que é a 'guarda'?",
+        "opcoes": ["A posição de defesa com os punhos próximos ao rosto.", "Um golpe.", "Uma esquiva.", "Um tipo de luva."],
+        "correta": 0,
+        "explicacao": "A guarda protege o rosto."
+      },
+      {
+        "enunciado": "Quantos rounds tem uma luta de boxe olímpico masculino?",
+        "opcoes": ["3 rounds de 3 minutos.", "4 rounds de 2 minutos.", "12 rounds.", "1 round."],
+        "correta": 0,
+        "explicacao": "Os homens lutam 3 rounds de 3 minutos."
+      },
+      {
+        "enunciado": "Quantos rounds tem uma luta de boxe olímpico feminino?",
+        "opcoes": ["4 rounds de 2 minutos.", "3 rounds de 3 minutos.", "12 rounds.", "1 round."],
+        "correta": 0,
+        "explicacao": "As mulheres lutam 4 rounds de 2 minutos."
+      },
+      {
+        "enunciado": "O que é o 'nocaute' (KO)?",
+        "opcoes": ["Quando o lutador não consegue se levantar após 10 segundos.", "Um golpe no ar.", "Um tipo de luva.", "Uma esquiva."],
+        "correta": 0,
+        "explicacao": "O nocaute encerra a luta."
+      },
+      {
+        "enunciado": "O que é a 'desclassificação'?",
+        "opcoes": ["Quando o lutador comete faltas graves.", "Um golpe no ar.", "Um tipo de luva.", "Uma esquiva."],
+        "correta": 0,
+        "explicacao": "A desclassificação é uma punição."
+      },
+      {
+        "enunciado": "O que é uma 'advertência' no boxe?",
+        "opcoes": ["Uma punição por falta leve.", "Um elogio.", "Um ponto extra.", "Uma vitória."],
+        "correta": 0,
+        "explicacao": "A advertência é uma punição."
+      },
+      {
+        "enunciado": "O que é o 'clinch'?",
+        "opcoes": ["Segurar e se apoiar no oponente para se defender.", "Um golpe de ataque.", "Uma esquiva.", "Um tipo de luva."],
+        "correta": 0,
+        "explicacao": "O clinch é uma forma de defesa e descanso."
+      },
+      {
+        "enunciado": "O que é a 'base'?",
+        "opcoes": ["A postura e o posicionamento corporal do lutador.", "Um tipo de luva.", "Um golpe.", "Uma esquiva."],
+        "correta": 0,
+        "explicacao": "A base é a posição fundamental do lutador."
+      },
+      {
+        "enunciado": "O que é a 'guarda'?",
+        "opcoes": ["A posição de defesa com os punhos próximos ao rosto.", "Um golpe.", "Uma esquiva.", "Um tipo de luva."],
+        "correta": 0,
+        "explicacao": "A guarda protege o rosto."
+      },
+      {
+        "enunciado": "Qual é a importância da defesa no boxe?",
+        "opcoes": ["Evitar ser atingido e preservar a integridade física.", "Apenas para descansar.", "Para ganhar pontos.", "Para impressionar o juiz."],
+        "correta": 0,
+        "explicacao": "A defesa é essencial para a segurança."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_edf_curiosidades_boxe_01",
+    "titulo": "Educação Física - Curiosidades e Grandes Nomes do Boxe",
+    "tipo": "conteudo",
+    "icone": "🏆",
+    "perguntas": [
+      {
+        "enunciado": "Quem foi Muhammad Ali?",
+        "opcoes": ["Um dos maiores pugilistas de todos os tempos.", "Um jogador de futebol.", "Um tenista.", "Um nadador."],
+        "correta": 0,
+        "explicacao": "Muhammad Ali é uma lenda do boxe."
+      },
+      {
+        "enunciado": "Qual foi a punição imposta a Muhammad Ali por se recusar a servir na Guerra do Vietnã?",
+        "opcoes": ["Foi impedido de lutar por três anos.", "Foi preso.", "Perdeu todos os títulos.", "Foi exilado."],
+        "correta": 0,
+        "explicacao": "Ele foi suspenso do boxe por três anos."
+      },
+      {
+        "enunciado": "Quem é conhecido como 'Popó'?",
+        "opcoes": ["Acelino Freitas.", "Eder Jofre.", "Robson Conceição.", "Adriana Araújo."],
+        "correta": 0,
+        "explicacao": "Acelino Freitas é o Popó."
+      },
+      {
+        "enunciado": "Quem é Eder Jofre?",
+        "opcoes": ["Um dos maiores boxeadores brasileiros de todos os tempos.", "Um jogador de futebol.", "Um tenista.", "Um nadador."],
+        "correta": 0,
+        "explicacao": "Eder Jofre foi campeão mundial de boxe."
+      },
+      {
+        "enunciado": "Qual brasileiro conquistou a medalha de ouro no boxe nas Olimpíadas do Rio 2016?",
+        "opcoes": ["Robson Conceição.", "Acelino Freitas.", "Eder Jofre.", "Adriana Araújo."],
+        "correta": 0,
+        "explicacao": "Robson Conceição ganhou o ouro em 2016."
+      },
+      {
+        "enunciado": "Quem foi a primeira mulher brasileira a conquistar uma medalha olímpica no boxe?",
+        "opcoes": ["Adriana Araújo.", "Acelino Freitas.", "Eder Jofre.", "Robson Conceição."],
+        "correta": 0,
+        "explicacao": "Adriana Araújo conquistou o bronze em Londres 2012."
+      },
+      {
+        "enunciado": "Quem é Mike Tyson?",
+        "opcoes": ["Um dos maiores campeões mundiais dos pesos-pesados.", "Um jogador de basquete.", "Um tenista.", "Um nadador."],
+        "correta": 0,
+        "explicacao": "Mike Tyson é uma lenda do boxe."
+      },
+      {
+        "enunciado": "Qual é a categoria de peso mais leve no boxe olímpico masculino?",
+        "opcoes": ["Mosca.", "Pena.", "Leve.", "Pesado."],
+        "correta": 0,
+        "explicacao": "A categoria Mosca é a mais leve."
+      },
+      {
+        "enunciado": "Qual é a principal diferença entre o boxe olímpico e o profissional?",
+        "opcoes": ["O número de rounds e o uso de capacete.", "As regras de pontuação.", "O tamanho do ringue.", "A cor das luvas."],
+        "correta": 0,
+        "explicacao": "Profissionais lutam mais rounds e sem capacete."
+      },
+      {
+        "enunciado": "Quem foi John Graham Chambers?",
+        "opcoes": ["O criador das regras do boxe moderno (Regras de Queensberry).", "Um pugilista grego.", "Um imperador romano.", "Um treinador de futebol."],
+        "correta": 0,
+        "explicacao": "Chambers elaborou as regras que organizaram o boxe."
+      },
+      {
+        "enunciado": "O que é a 'Nobre Arte'?",
+        "opcoes": ["Um apelido para o boxe.", "Um tipo de pintura.", "Uma dança.", "Um tipo de luta."],
+        "correta": 0,
+        "explicacao": "O boxe é chamado de Nobre Arte."
+      },
+      {
+        "enunciado": "O que é o 'pugilato'?",
+        "opcoes": ["Uma luta com os punhos.", "Uma luta com espadas.", "Uma luta com os pés.", "Uma dança."],
+        "correta": 0,
+        "explicacao": "Pugilato é o termo antigo para boxe."
+      },
+      {
+        "enunciado": "Em qual país o boxe moderno se desenvolveu e se popularizou?",
+        "opcoes": ["Inglaterra.", "Grécia.", "Roma.", "Brasil."],
+        "correta": 0,
+        "explicacao": "A Inglaterra foi o berço do boxe moderno."
+      },
+      {
+        "enunciado": "Quantos rounds tem uma luta de boxe olímpico masculino?",
+        "opcoes": ["3 rounds de 3 minutos.", "4 rounds de 2 minutos.", "12 rounds.", "1 round."],
+        "correta": 0,
+        "explicacao": "Os homens lutam 3 rounds de 3 minutos."
+      },
+      {
+        "enunciado": "Quantos rounds tem uma luta de boxe olímpico feminino?",
+        "opcoes": ["4 rounds de 2 minutos.", "3 rounds de 3 minutos.", "12 rounds.", "1 round."],
+        "correta": 0,
+        "explicacao": "As mulheres lutam 4 rounds de 2 minutos."
+      },
+      {
+        "enunciado": "O que é o 'nocaute' (KO)?",
+        "opcoes": ["Quando o lutador não consegue se levantar após 10 segundos.", "Um golpe no ar.", "Um tipo de luva.", "Uma esquiva."],
+        "correta": 0,
+        "explicacao": "O nocaute encerra a luta."
+      },
+      {
+        "enunciado": "O que é a 'desclassificação'?",
+        "opcoes": ["Quando o lutador comete faltas graves.", "Um golpe no ar.", "Um tipo de luva.", "Uma esquiva."],
+        "correta": 0,
+        "explicacao": "A desclassificação é uma punição."
+      },
+      {
+        "enunciado": "O que é uma 'advertência' no boxe?",
+        "opcoes": ["Uma punição por falta leve.", "Um elogio.", "Um ponto extra.", "Uma vitória."],
+        "correta": 0,
+        "explicacao": "A advertência é uma punição."
+      },
+      {
+        "enunciado": "O boxe é uma prática que exige:",
+        "opcoes": ["Condicionamento físico, coordenação e benefícios mentais.", "Apenas força.", "Apenas velocidade.", "Apenas sorte."],
+        "correta": 0,
+        "explicacao": "O boxe é um esporte completo."
+      },
+      {
+        "enunciado": "Qual é a principal característica do boxe?",
+        "opcoes": ["O uso dos punhos para atacar e defender.", "O uso dos pés.", "O uso de armas.", "O uso de espadas."],
+        "correta": 0,
+        "explicacao": "O boxe é a arte de lutar com os punhos."
+      }
+    ]
+  }
+]
