@@ -1,1 +1,898 @@
-[]
+[
+  {
+    "id": "8ano_v2_his_independencia_eua_01",
+    "titulo": "História - Independência dos Estados Unidos",
+    "tipo": "conteudo",
+    "icone": "🇺🇸",
+    "perguntas": [
+      {
+        "enunciado": "Quais eram as chamadas 'Treze Colônias'?",
+        "opcoes": ["Colônias espanholas na América do Sul.", "Colônias inglesas na costa leste da América do Norte.", "Colônias francesas no Canadá.", "Colônias portuguesas na África."],
+        "correta": 1,
+        "explicacao": "As Treze Colônias eram territórios britânicos na América do Norte."
+      },
+      {
+        "enunciado": "Qual foi o principal fator que levou ao descontentamento dos colonos ingleses?",
+        "opcoes": ["O aumento dos impostos e a falta de representação política.", "A proibição da escravidão.", "O fim do comércio triangular.", "A Guerra dos Sete Anos."],
+        "correta": 0,
+        "explicacao": "Os colonos se revoltaram com os impostos sem representação no Parlamento."
+      },
+      {
+        "enunciado": "O que foi a 'Guerra dos Sete Anos' (1756-1763)?",
+        "opcoes": ["Uma guerra entre colonos e indígenas.", "Um conflito entre Inglaterra e França pela disputa de territórios na América do Norte.", "Uma guerra civil inglesa.", "Uma guerra entre EUA e Espanha."],
+        "correta": 1,
+        "explicacao": "Foi um conflito global que envolveu Inglaterra e França."
+      },
+      {
+        "enunciado": "Qual foi a consequência da vitória inglesa na Guerra dos Sete Anos para os colonos?",
+        "opcoes": ["Aumento de impostos para pagar as dívidas da guerra.", "A independência imediata.", "A diminuição dos impostos.", "A anexação do Canadá."],
+        "correta": 0,
+        "explicacao": "A Inglaterra precisou cobrar mais impostos para cobrir os custos."
+      },
+      {
+        "enunciado": "O que foi a 'Lei do Selo' (Stamp Act)?",
+        "opcoes": ["Uma lei que criava selos para documentos oficiais.", "Um imposto sobre documentos e publicações.", "Uma lei que proibia a impressão de jornais.", "Uma lei que criava o serviço postal."],
+        "correta": 1,
+        "explicacao": "A Lei do Selo exigia que documentos tivessem um selo pago."
+      },
+      {
+        "enunciado": "O que foi o 'Motim do Chá' (Boston Tea Party)?",
+        "opcoes": ["Um protesto em que colonos jogaram chá inglês no mar.", "Uma festa de chá em Boston.", "Um acordo comercial com a Inglaterra.", "Uma batalha naval."],
+        "correta": 0,
+        "explicacao": "Os colonos protestaram contra o monopólio do chá inglês."
+      },
+      {
+        "enunciado": "O que foram as 'Leis Intoleráveis'?",
+        "opcoes": ["Leis que puniam os colonos de Massachusetts após o Motim do Chá.", "Leis que proibiam a escravidão.", "Leis que concediam independência.", "Leis que reduziam impostos."],
+        "correta": 0,
+        "explicacao": "Foram leis punitivas impostas pela Inglaterra."
+      },
+      {
+        "enunciado": "Quando ocorreu a Declaração de Independência dos Estados Unidos?",
+        "opcoes": ["4 de julho de 1776.", "7 de setembro de 1822.", "12 de outubro de 1492.", "15 de novembro de 1889."],
+        "correta": 0,
+        "explicacao": "A data é celebrada até hoje como o Dia da Independência."
+      },
+      {
+        "enunciado": "Quem foi o principal autor da Declaração de Independência?",
+        "opcoes": ["George Washington.", "Thomas Jefferson.", "Benjamin Franklin.", "John Adams."],
+        "correta": 1,
+        "explicacao": "Jefferson foi o principal redator do documento."
+      },
+      {
+        "enunciado": "Qual era a principal ideia defendida na Declaração de Independência?",
+        "opcoes": ["A superioridade da monarquia.", "A igualdade de todos os homens e o direito à vida, liberdade e busca da felicidade.", "A manutenção do sistema colonial.", "A criação de uma nova monarquia."],
+        "correta": 1,
+        "explicacao": "O documento defendia direitos naturais e igualdade."
+      },
+      {
+        "enunciado": "Quem foi George Washington?",
+        "opcoes": ["O líder militar das forças americanas e primeiro presidente dos EUA.", "O rei da Inglaterra.", "O autor da Declaração.", "Um líder indígena."],
+        "correta": 0,
+        "explicacao": "Washington foi o comandante do exército e primeiro presidente."
+      },
+      {
+        "enunciado": "Como terminou a Guerra de Independência dos EUA?",
+        "opcoes": ["Com a vitória inglesa.", "Com a vitória americana e o Tratado de Paris em 1783.", "Com a intervenção da ONU.", "Com a divisão das colônias."],
+        "correta": 1,
+        "explicacao": "Os EUA conquistaram a independência reconhecida pela Inglaterra."
+      },
+      {
+        "enunciado": "O que foi a Constituição dos EUA de 1787?",
+        "opcoes": ["Um documento que estabeleceu a federação e a separação de poderes.", "Uma lei que proibia a escravidão.", "Um tratado com a França.", "Um decreto da monarquia."],
+        "correta": 0,
+        "explicacao": "Criou o sistema presidencialista e federativo."
+      },
+      {
+        "enunciado": "Qual foi a influência das ideias iluministas na independência dos EUA?",
+        "opcoes": ["Defendiam a monarquia absolutista.", "Criticavam o absolutismo e defendiam direitos naturais e a liberdade.", "Apoiavam o mercantilismo.", "Defendiam a escravidão."],
+        "correta": 1,
+        "explicacao": "O Iluminismo inspirou a luta por liberdade e igualdade."
+      },
+      {
+        "enunciado": "O que era o 'comércio triangular'?",
+        "opcoes": ["Rota comercial entre Europa, África e América.", "Um tipo de imposto.", "Uma rota de trem.", "Uma aliança militar."],
+        "correta": 0,
+        "explicacao": "Envolvia escravos, produtos manufaturados e matérias-primas."
+      },
+      {
+        "enunciado": "A Guerra dos Sete Anos ocorreu entre quais países?",
+        "opcoes": ["EUA e Inglaterra.", "Inglaterra e França.", "Espanha e Portugal.", "França e Alemanha."],
+        "correta": 1,
+        "explicacao": "Foi um conflito entre Inglaterra e França."
+      },
+      {
+        "enunciado": "Quem eram os 'patriotas' no contexto da independência dos EUA?",
+        "opcoes": ["Colonos que apoiavam a independência.", "Colonos que apoiavam a Inglaterra.", "Soldados ingleses.", "Indígenas."],
+        "correta": 0,
+        "explicacao": "Os patriotas queriam a independência."
+      },
+      {
+        "enunciado": "Quem eram os 'loyalists' (lealistas)?",
+        "opcoes": ["Colonos que apoiavam a independência.", "Colonos que permaneceram leais à Inglaterra.", "Soldados franceses.", "Escravos."],
+        "correta": 1,
+        "explicacao": "Eles não queriam romper com a Inglaterra."
+      },
+      {
+        "enunciado": "Qual foi o papel da França na independência dos EUA?",
+        "opcoes": ["Apoiou a Inglaterra.", "Apoiou os colonos com dinheiro e tropas.", "Ficou neutra.", "Invadiu os EUA."],
+        "correta": 1,
+        "explicacao": "A França apoiou os americanos para enfraquecer a Inglaterra."
+      },
+      {
+        "enunciado": "O que foi o Tratado de Paris de 1783?",
+        "opcoes": ["Um acordo que reconheceu a independência dos EUA.", "Uma lei de impostos.", "Um tratado de comércio.", "Uma aliança militar."],
+        "correta": 0,
+        "explicacao": "A Inglaterra reconheceu formalmente a independência americana."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_his_revolucao_industrial_01",
+    "titulo": "História - A Revolução Industrial",
+    "tipo": "conteudo",
+    "icone": "⚙️",
+    "perguntas": [
+      {
+        "enunciado": "O que foi a Revolução Industrial?",
+        "opcoes": ["Um movimento artístico.", "Um conjunto de transformações econômicas e sociais que substituiu o artesanato pela maquinofatura.", "Uma guerra civil.", "Uma reforma religiosa."],
+        "correta": 1,
+        "explicacao": "A Revolução Industrial transformou a produção e a sociedade."
+      },
+      {
+        "enunciado": "Onde a Revolução Industrial começou?",
+        "opcoes": ["Na França.", "Na Inglaterra.", "Nos EUA.", "Na Alemanha."],
+        "correta": 1,
+        "explicacao": "A Inglaterra foi o berço da industrialização."
+      },
+      {
+        "enunciado": "Qual foi o setor pioneiro da Revolução Industrial?",
+        "opcoes": ["Agrícola.", "Têxtil (tecelagem).", "Mineração.", "Transporte."],
+        "correta": 1,
+        "explicacao": "A indústria têxtil foi a primeira a se mecanizar."
+      },
+      {
+        "enunciado": "O que era o 'artesanato' antes da Revolução Industrial?",
+        "opcoes": ["Produção em fábricas.", "Produção manual, feita por artesãos em suas oficinas.", "Produção em larga escala.", "Produção com máquinas."],
+        "correta": 1,
+        "explicacao": "O artesão controlava todo o processo produtivo."
+      },
+      {
+        "enunciado": "O que era a 'maquinofatura'?",
+        "opcoes": ["Produção manual.", "Produção com máquinas em fábricas.", "Produção agrícola.", "Produção doméstica."],
+        "correta": 1,
+        "explicacao": "Substituiu o artesanato e a manufatura."
+      },
+      {
+        "enunciado": "Qual foi a principal fonte de energia da Primeira Revolução Industrial?",
+        "opcoes": ["Petróleo.", "Carvão mineral.", "Eletricidade.", "Energia solar."],
+        "correta": 1,
+        "explicacao": "O carvão movia as máquinas a vapor."
+      },
+      {
+        "enunciado": "Quem inventou a máquina a vapor?",
+        "opcoes": ["James Watt.", "Thomas Edison.", "Karl Marx.", "Adam Smith."],
+        "correta": 0,
+        "explicacao": "Watt aperfeiçoou a máquina a vapor."
+      },
+      {
+        "enunciado": "Qual foi o impacto da máquina a vapor nos transportes?",
+        "opcoes": ["Permitiu a criação de locomotivas e navios a vapor.", "Substituiu os cavalos.", "Não teve impacto.", "Criou o automóvel."],
+        "correta": 0,
+        "explicacao": "A máquina a vapor revolucionou o transporte."
+      },
+      {
+        "enunciado": "Qual foi a primeira ferrovia moderna, construída em 1825 na Inglaterra?",
+        "opcoes": ["Ferrovia de Stockton e Darlington.", "Ferrovia de Liverpool.", "Ferrovia Transiberiana.", "Ferrovia de Manchester."],
+        "correta": 0,
+        "explicacao": "Foi a primeira linha férrea movida a vapor."
+      },
+      {
+        "enunciado": "O que era a 'divisão do trabalho'?",
+        "opcoes": ["Cada trabalhador realizava uma etapa específica da produção.", "Todos faziam tudo.", "Apenas um trabalhador fazia tudo.", "O trabalho era dividido por idade."],
+        "correta": 0,
+        "explicacao": "A divisão aumentou a produtividade."
+      },
+      {
+        "enunciado": "Quem foi Adam Smith?",
+        "opcoes": ["Um filósofo que defendeu o liberalismo econômico e a divisão do trabalho.", "Um imperador.", "Um inventor.", "Um líder sindical."],
+        "correta": 0,
+        "explicacao": "Smith escreveu 'A Riqueza das Nações'."
+      },
+      {
+        "enunciado": "O que foi o 'cercamento' (enclosures) na Inglaterra?",
+        "opcoes": ["Cercamento de terras comunais, expulsando camponeses.", "Cercamento de fábricas.", "Cercamento de cidades.", "Cercamento de portos."],
+        "correta": 0,
+        "explicacao": "Os cercamentos privatizaram terras e geraram êxodo rural."
+      },
+      {
+        "enunciado": "Qual foi uma consequência dos cercamentos para os camponeses?",
+        "opcoes": ["Eles migraram para as cidades em busca de trabalho.", "Eles ficaram ricos.", "Eles se tornaram proprietários.", "Eles deixaram de trabalhar."],
+        "correta": 0,
+        "explicacao": "Sem terras, muitos foram para as cidades."
+      },
+      {
+        "enunciado": "O que foi a 'Segunda Revolução Industrial'?",
+        "opcoes": ["A expansão da industrialização para outros países e novas tecnologias.", "A volta ao artesanato.", "O fim das fábricas.", "A Revolução Francesa."],
+        "correta": 0,
+        "explicacao": "Ocorreu a partir de meados do século XIX."
+      },
+      {
+        "enunciado": "Quais novas fontes de energia surgiram na Segunda Revolução Industrial?",
+        "opcoes": ["Petróleo e eletricidade.", "Carvão e vapor.", "Sol e vento.", "Água e madeira."],
+        "correta": 0,
+        "explicacao": "O petróleo e a eletricidade impulsionaram a indústria."
+      },
+      {
+        "enunciado": "Qual foi a principal inovação nos transportes na Segunda Revolução Industrial?",
+        "opcoes": ["O automóvel e o avião.", "A carroça.", "O navio a vela.", "A locomotiva a vapor."],
+        "correta": 0,
+        "explicacao": "O automóvel e o avião marcaram a época."
+      },
+      {
+        "enunciado": "O que é o 'capitalismo industrial'?",
+        "opcoes": ["Sistema baseado na produção em fábricas e no lucro.", "Sistema feudal.", "Sistema socialista.", "Sistema de escravidão."],
+        "correta": 0,
+        "explicacao": "O capitalismo se consolidou com a indústria."
+      },
+      {
+        "enunciado": "Quem eram os 'proletários'?",
+        "opcoes": ["Os donos das fábricas.", "Os trabalhadores assalariados.", "Os nobres.", "Os camponeses."],
+        "correta": 1,
+        "explicacao": "Proletários eram os operários que vendiam sua força de trabalho."
+      },
+      {
+        "enunciado": "O que era a 'burguesia industrial'?",
+        "opcoes": ["Os trabalhadores.", "Os donos das fábricas e meios de produção.", "Os nobres.", "Os escravos."],
+        "correta": 1,
+        "explicacao": "A burguesia era a classe dos empresários."
+      },
+      {
+        "enunciado": "Qual foi o impacto da Revolução Industrial no meio ambiente?",
+        "opcoes": ["Aumento da poluição do ar e da água.", "Melhora da qualidade do ar.", "Preservação total da natureza.", "Nenhum impacto."],
+        "correta": 0,
+        "explicacao": "A queima de carvão e os resíduos poluíram o ambiente."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_his_consequencias_revolucao_01",
+    "titulo": "História - Consequências da Revolução Industrial",
+    "tipo": "conteudo",
+    "icone": "🏭",
+    "perguntas": [
+      {
+        "enunciado": "Qual foi uma das principais consequências sociais da Revolução Industrial?",
+        "opcoes": ["Aumento da população rural.", "Urbanização acelerada e crescimento desordenado das cidades.", "Fim do trabalho assalariado.", "Diminuição da produção."],
+        "correta": 1,
+        "explicacao": "As pessoas migraram para as cidades em busca de trabalho."
+      },
+      {
+        "enunciado": "Como eram as condições de trabalho nas fábricas no início da Revolução Industrial?",
+        "opcoes": ["Excelentes, com boas remunerações.", "Precárias, com jornadas de 14 a 16 horas e ambientes insalubres.", "Justas, com direitos trabalhistas.", "Inexistentes."],
+        "correta": 1,
+        "explicacao": "Os trabalhadores enfrentavam condições desumanas."
+      },
+      {
+        "enunciado": "O que era o trabalho infantil na Revolução Industrial?",
+        "opcoes": ["Crianças trabalhavam em fábricas e minas em troca de baixos salários.", "Crianças não trabalhavam.", "Crianças estudavam em tempo integral.", "Crianças só brincavam."],
+        "correta": 0,
+        "explicacao": "O trabalho infantil era comum e exploratório."
+      },
+      {
+        "enunciado": "O que foi o movimento ludista?",
+        "opcoes": ["Um movimento de trabalhadores que destruíam máquinas.", "Um movimento a favor das máquinas.", "Um movimento religioso.", "Um movimento artístico."],
+        "correta": 0,
+        "explicacao": "Os ludistas viam as máquinas como culpadas pelo desemprego."
+      },
+      {
+        "enunciado": "O que eram os 'sindicatos'?",
+        "opcoes": ["Associações de trabalhadores para defender seus direitos.", "Associações de empresários.", "Órgãos do governo.", "Partidos políticos."],
+        "correta": 0,
+        "explicacao": "Os sindicatos surgiram para lutar por melhores condições."
+      },
+      {
+        "enunciado": "O que é o 'sufrágio universal'?",
+        "opcoes": ["O direito de voto para todos os cidadãos.", "O direito de voto apenas para ricos.", "O direito de voto apenas para homens.", "A ausência de eleições."],
+        "correta": 0,
+        "explicacao": "O sufrágio universal é a base da democracia moderna."
+      },
+      {
+        "enunciado": "O que é o 'socialismo'?",
+        "opcoes": ["Uma corrente que defende a igualdade social e a intervenção do Estado na economia.", "Uma corrente que defende o liberalismo.", "Uma corrente que defende a monarquia.", "Uma corrente que defende a escravidão."],
+        "correta": 0,
+        "explicacao": "O socialismo criticava as desigualdades do capitalismo."
+      },
+      {
+        "enunciado": "O que é o 'anarquismo'?",
+        "opcoes": ["Uma corrente que defende a abolição do Estado e de qualquer forma de autoridade.", "Uma corrente que defende o Estado forte.", "Uma corrente que defende a monarquia.", "Uma corrente que defende o capitalismo."],
+        "correta": 0,
+        "explicacao": "O anarquismo propõe uma sociedade sem hierarquias."
+      },
+      {
+        "enunciado": "Quem foi Karl Marx?",
+        "opcoes": ["Um dos principais teóricos do socialismo científico.", "Um inventor da máquina a vapor.", "Um rei inglês.", "Um líder ludista."],
+        "correta": 0,
+        "explicacao": "Marx escreveu o 'Manifesto Comunista' com Engels."
+      },
+      {
+        "enunciado": "O que é a 'mais-valia' na teoria de Marx?",
+        "opcoes": ["A diferença entre o valor produzido pelo trabalhador e o salário pago a ele.", "O lucro do governo.", "O imposto sobre a produção.", "O valor dos produtos."],
+        "correta": 0,
+        "explicacao": "A mais-valia é a exploração do trabalho."
+      },
+      {
+        "enunciado": "Qual foi o impacto da Revolução Industrial na vida das mulheres?",
+        "opcoes": ["Elas passaram a trabalhar nas fábricas, muitas vezes ganhando menos que os homens.", "Elas deixaram de trabalhar.", "Elas ganharam direitos imediatamente.", "Elas não foram afetadas."],
+        "correta": 0,
+        "explicacao": "As mulheres foram inseridas no mercado de trabalho precário."
+      },
+      {
+        "enunciado": "O que foi a 'urbanização acelerada'?",
+        "opcoes": ["O crescimento rápido e desordenado das cidades.", "A diminuição das cidades.", "A criação de novas capitais.", "O êxodo urbano."],
+        "correta": 0,
+        "explicacao": "As cidades cresceram sem planejamento."
+      },
+      {
+        "enunciado": "Quais problemas surgiram com a urbanização acelerada?",
+        "opcoes": ["Favelas, falta de saneamento e doenças.", "Melhora da infraestrutura.", "Aumento da qualidade de vida.", "Fim da poluição."],
+        "correta": 0,
+        "explicacao": "A falta de planejamento gerou graves problemas sociais."
+      },
+      {
+        "enunciado": "O que é a 'questão social' no contexto da Revolução Industrial?",
+        "opcoes": ["A pobreza e a desigualdade geradas pela exploração do trabalho.", "A riqueza da burguesia.", "O aumento da produção.", "A criação de sindicatos."],
+        "correta": 0,
+        "explicacao": "A questão social é o conflito entre capital e trabalho."
+      },
+      {
+        "enunciado": "O que foi a 'Segunda Revolução Industrial'?",
+        "opcoes": ["A expansão da industrialização para outros países e novas tecnologias.", "A volta ao artesanato.", "O fim das fábricas.", "A Revolução Francesa."],
+        "correta": 0,
+        "explicacao": "Ocorreu a partir de meados do século XIX."
+      },
+      {
+        "enunciado": "Quais novas fontes de energia surgiram na Segunda Revolução Industrial?",
+        "opcoes": ["Petróleo e eletricidade.", "Carvão e vapor.", "Sol e vento.", "Água e madeira."],
+        "correta": 0,
+        "explicacao": "O petróleo e a eletricidade impulsionaram a indústria."
+      },
+      {
+        "enunciado": "Qual foi a principal inovação nos transportes na Segunda Revolução Industrial?",
+        "opcoes": ["O automóvel e o avião.", "A carroça.", "O navio a vela.", "A locomotiva a vapor."],
+        "correta": 0,
+        "explicacao": "O automóvel e o avião marcaram a época."
+      },
+      {
+        "enunciado": "O que é o 'capitalismo industrial'?",
+        "opcoes": ["Sistema baseado na produção em fábricas e no lucro.", "Sistema feudal.", "Sistema socialista.", "Sistema de escravidão."],
+        "correta": 0,
+        "explicacao": "O capitalismo se consolidou com a indústria."
+      },
+      {
+        "enunciado": "Quem eram os 'proletários'?",
+        "opcoes": ["Os donos das fábricas.", "Os trabalhadores assalariados.", "Os nobres.", "Os camponeses."],
+        "correta": 1,
+        "explicacao": "Proletários eram os operários que vendiam sua força de trabalho."
+      },
+      {
+        "enunciado": "O que era a 'burguesia industrial'?",
+        "opcoes": ["Os trabalhadores.", "Os donos das fábricas e meios de produção.", "Os nobres.", "Os escravos."],
+        "correta": 1,
+        "explicacao": "A burguesia era a classe dos empresários."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_his_transformacoes_tecnicas_01",
+    "titulo": "História - Transformações Técnicas e Tecnológicas",
+    "tipo": "conteudo",
+    "icone": "🛠️",
+    "perguntas": [
+      {
+        "enunciado": "Qual foi a principal invenção da Primeira Revolução Industrial?",
+        "opcoes": ["A máquina a vapor.", "O computador.", "O automóvel.", "O avião."],
+        "correta": 0,
+        "explicacao": "A máquina a vapor foi o motor da industrialização."
+      },
+      {
+        "enunciado": "Quem aperfeiçoou a máquina a vapor?",
+        "opcoes": ["James Watt.", "Thomas Edison.", "Karl Marx.", "Adam Smith."],
+        "correta": 0,
+        "explicacao": "Watt desenvolveu uma máquina mais eficiente."
+      },
+      {
+        "enunciado": "Qual foi a primeira indústria a se mecanizar?",
+        "opcoes": ["A têxtil.", "A siderúrgica.", "A automobilística.", "A alimentícia."],
+        "correta": 0,
+        "explicacao": "A indústria têxtil foi pioneira."
+      },
+      {
+        "enunciado": "O que foi a 'lançadeira volante'?",
+        "opcoes": ["Uma inovação na tecelagem que aumentou a produção.", "Um meio de transporte.", "Uma arma.", "Um tipo de barco."],
+        "correta": 0,
+        "explicacao": "A lançadeira volante acelerou a tecelagem."
+      },
+      {
+        "enunciado": "Qual foi o impacto da ferrovia na Revolução Industrial?",
+        "opcoes": ["Facilitou o transporte de mercadorias e pessoas.", "Substituiu as fábricas.", "Acabou com o comércio.", "Não teve impacto."],
+        "correta": 0,
+        "explicacao": "As ferrovias integraram mercados."
+      },
+      {
+        "enunciado": "O que foi a 'navio a vapor'?",
+        "opcoes": ["Um navio movido a vapor, que substituiu os veleiros.", "Um navio a remo.", "Um submarino.", "Um navio de guerra."],
+        "correta": 0,
+        "explicacao": "Os navios a vapor agilizaram o transporte marítimo."
+      },
+      {
+        "enunciado": "Qual foi a principal fonte de energia na Segunda Revolução Industrial?",
+        "opcoes": ["Petróleo.", "Carvão.", "Madeira.", "Vento."],
+        "correta": 0,
+        "explicacao": "O petróleo se tornou essencial."
+      },
+      {
+        "enunciado": "O que foi o 'motor a combustão'?",
+        "opcoes": ["Um motor movido a derivados de petróleo, que revolucionou os transportes.", "Um motor a vapor.", "Um motor elétrico.", "Um motor movido a água."],
+        "correta": 0,
+        "explicacao": "O motor a combustão permitiu a criação de automóveis."
+      },
+      {
+        "enunciado": "Quem foi Henry Ford?",
+        "opcoes": ["O criador da linha de montagem e do automóvel popular.", "O inventor da máquina a vapor.", "Um líder sindical.", "Um imperador."],
+        "correta": 0,
+        "explicacao": "Ford revolucionou a produção com a linha de montagem."
+      },
+      {
+        "enunciado": "O que foi a 'linha de montagem'?",
+        "opcoes": ["Um sistema de produção em série que aumentou a produtividade.", "Uma linha de trem.", "Uma técnica de tecelagem.", "Um método de ensino."],
+        "correta": 0,
+        "explicacao": "A linha de montagem tornou a produção mais rápida."
+      },
+      {
+        "enunciado": "Qual foi o impacto da eletricidade na indústria?",
+        "opcoes": ["Permitiu a automação e iluminação das fábricas.", "Substituiu o carvão.", "Não teve impacto.", "Acabou com a indústria."],
+        "correta": 0,
+        "explicacao": "A eletricidade transformou a produção."
+      },
+      {
+        "enunciado": "Qual foi a principal inovação na comunicação na Segunda Revolução Industrial?",
+        "opcoes": ["O telégrafo e o telefone.", "O rádio.", "A televisão.", "A internet."],
+        "correta": 0,
+        "explicacao": "O telégrafo e o telefone encurtaram distâncias."
+      },
+      {
+        "enunciado": "O que foi a 'Terceira Revolução Industrial'?",
+        "opcoes": ["A revolução tecnológica e da informação, a partir de 1950.", "A revolução agrícola.", "A revolução comercial.", "A revolução industrial inglesa."],
+        "correta": 0,
+        "explicacao": "Marcada pela informática e telecomunicações."
+      },
+      {
+        "enunciado": "Quais foram as principais inovações da Terceira Revolução Industrial?",
+        "opcoes": ["Computadores, internet e robótica.", "Máquina a vapor.", "Motor a combustão.", "Telégrafo."],
+        "correta": 0,
+        "explicacao": "A tecnologia da informação transformou o mundo."
+      },
+      {
+        "enunciado": "O que é a 'globalização'?",
+        "opcoes": ["A integração econômica, cultural e política entre os países.", "O fechamento das fronteiras.", "A volta ao feudalismo.", "A divisão do mundo em blocos."],
+        "correta": 0,
+        "explicacao": "A globalização conecta o mundo."
+      },
+      {
+        "enunciado": "Qual foi o papel das multinacionais na globalização?",
+        "opcoes": ["Elas expandiram seus negócios pelo mundo.", "Elas fecharam fábricas.", "Elas impediram o comércio.", "Elas criaram barreiras."],
+        "correta": 0,
+        "explicacao": "As multinacionais atuam em vários países."
+      },
+      {
+        "enunciado": "O que é a 'revolução digital'?",
+        "opcoes": ["A transformação causada pela internet e tecnologias digitais.", "A revolução industrial.", "A revolução agrícola.", "A revolução comercial."],
+        "correta": 0,
+        "explicacao": "A revolução digital conectou o mundo em tempo real."
+      },
+      {
+        "enunciado": "Quais são os impactos ambientais da Revolução Industrial?",
+        "opcoes": ["Poluição do ar, da água e do solo.", "Melhora do meio ambiente.", "Preservação total.", "Nenhum impacto."],
+        "correta": 0,
+        "explicacao": "A industrialização gerou grande poluição."
+      },
+      {
+        "enunciado": "O que é o 'desenvolvimento sustentável'?",
+        "opcoes": ["Atender às necessidades atuais sem comprometer as futuras.", "Explorar tudo agora.", "Não usar recursos.", "Apenas crescer."],
+        "correta": 0,
+        "explicacao": "Busca equilibrar economia, sociedade e ambiente."
+      },
+      {
+        "enunciado": "Qual é o principal desafio da atualidade em relação à Revolução Industrial?",
+        "opcoes": ["Conciliar o desenvolvimento tecnológico com a preservação ambiental.", "Voltar ao artesanato.", "Acabar com a indústria.", "Aumentar a poluição."],
+        "correta": 0,
+        "explicacao": "É preciso crescer sem degradar o meio ambiente."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_his_trabalho_infantil_01",
+    "titulo": "História - O Trabalho Infantil na Revolução Industrial",
+    "tipo": "conteudo",
+    "icone": "🧒",
+    "perguntas": [
+      {
+        "enunciado": "Como era o trabalho infantil nas fábricas durante a Revolução Industrial?",
+        "opcoes": ["As crianças trabalhavam em condições precárias, com jornadas longas e baixos salários.", "As crianças tinham direitos trabalhistas.", "As crianças não trabalhavam.", "As crianças só estudavam."],
+        "correta": 0,
+        "explicacao": "O trabalho infantil era exploratório e comum."
+      },
+      {
+        "enunciado": "Por que as crianças eram contratadas nas fábricas?",
+        "opcoes": ["Porque eram mais baratas e ágeis para tarefas específicas.", "Porque eram mais fortes.", "Porque tinham experiência.", "Porque eram obrigatórias."],
+        "correta": 0,
+        "explicacao": "A mão de obra infantil era mais barata."
+      },
+      {
+        "enunciado": "Qual era a jornada de trabalho típica das crianças?",
+        "opcoes": ["14 a 16 horas por dia.", "4 horas.", "8 horas.", "6 horas."],
+        "correta": 0,
+        "explicacao": "As jornadas eram extenuantes."
+      },
+      {
+        "enunciado": "Quais eram os riscos do trabalho infantil nas minas?",
+        "opcoes": ["Desmoronamentos e doenças respiratórias.", "Nenhum risco.", "Apenas cansaço.", "Riscos de acidentes leves."],
+        "correta": 0,
+        "explicacao": "As minas eram ambientes perigosos."
+      },
+      {
+        "enunciado": "Quais eram os riscos do trabalho infantil nas fábricas têxteis?",
+        "opcoes": ["Máquinas sem proteção e acidentes.", "Nenhum risco.", "Apenas poeira.", "Riscos de queimaduras."],
+        "correta": 0,
+        "explicacao": "As máquinas causavam mutilações."
+      },
+      {
+        "enunciado": "O que era o 'workhouse' (casa de trabalho)?",
+        "opcoes": ["Instituições que abrigavam pobres e órfãos, que trabalhavam em troca de abrigo.", "Fábricas.", "Escolas.", "Hospitais."],
+        "correta": 0,
+        "explicacao": "As workhouses exploravam a mão de obra infantil."
+      },
+      {
+        "enunciado": "Qual foi a consequência do trabalho infantil para a saúde das crianças?",
+        "opcoes": ["Doenças, deformidades e mortalidade infantil elevada.", "Melhora da saúde.", "Nenhuma consequência.", "Aumento da expectativa de vida."],
+        "correta": 0,
+        "explicacao": "As condições eram desumanas."
+      },
+      {
+        "enunciado": "Qual foi o papel das 'Leis Fabris' (Factory Acts)?",
+        "opcoes": ["Leis que limitaram o trabalho infantil e melhoraram as condições.", "Leis que incentivaram o trabalho infantil.", "Leis que proibiram o trabalho.", "Leis que aumentaram a jornada."],
+        "correta": 0,
+        "explicacao": "As leis fabris foram conquistas dos trabalhadores."
+      },
+      {
+        "enunciado": "Quem foi Charles Dickens?",
+        "opcoes": ["Um escritor que denunciou as condições do trabalho infantil em suas obras.", "Um inventor.", "Um político.", "Um rei."],
+        "correta": 0,
+        "explicacao": "Dickens retratou a miséria da Revolução Industrial."
+      },
+      {
+        "enunciado": "Qual obra de Dickens retrata a vida de um órfão na Inglaterra industrial?",
+        "opcoes": ["Oliver Twist.", "Dom Casmurro.", "O Cortiço.", "A Moreninha."],
+        "correta": 0,
+        "explicacao": "Oliver Twist é um retrato da exploração infantil."
+      },
+      {
+        "enunciado": "O que é o 'trabalho infantil'?",
+        "opcoes": ["Qualquer trabalho realizado por crianças que prejudica sua saúde e desenvolvimento.", "Trabalho leve.", "Ajuda em casa.", "Estágio."],
+        "correta": 0,
+        "explicacao": "É considerado uma violação de direitos."
+      },
+      {
+        "enunciado": "O trabalho infantil ainda existe hoje?",
+        "opcoes": ["Sim, em várias partes do mundo.", "Não, foi erradicado.", "Apenas na Inglaterra.", "Apenas no século XIX."],
+        "correta": 0,
+        "explicacao": "Ainda é um problema global."
+      },
+      {
+        "enunciado": "Qual é o órgão brasileiro que combate o trabalho infantil?",
+        "opcoes": ["Conselho Tutelar e Ministério Público do Trabalho.", "IBGE.", "INSS.", "Receita Federal."],
+        "correta": 0,
+        "explicacao": "Esses órgãos fiscalizam e protegem crianças."
+      },
+      {
+        "enunciado": "O que é o ECA?",
+        "opcoes": ["Estatuto da Criança e do Adolescente.", "Estatuto do Trabalhador.", "Estatuto do Idoso.", "Estatuto da Mulher."],
+        "correta": 0,
+        "explicacao": "O ECA protege os direitos das crianças."
+      },
+      {
+        "enunciado": "Qual é a idade mínima para trabalhar no Brasil?",
+        "opcoes": ["16 anos (ou 14 como aprendiz).", "10 anos.", "12 anos.", "18 anos."],
+        "correta": 0,
+        "explicacao": "A lei permite trabalho a partir de 16 anos, salvo aprendiz."
+      },
+      {
+        "enunciado": "Qual foi a principal conquista dos trabalhadores no século XX?",
+        "opcoes": ["Direitos trabalhistas como férias, jornada de 8 horas e descanso semanal.", "Volta ao trabalho infantil.", "Aumento da jornada.", "Fim dos sindicatos."],
+        "correta": 0,
+        "explicacao": "As lutas sindicais garantiram direitos."
+      },
+      {
+        "enunciado": "O que é a 'Revolução Industrial'?",
+        "opcoes": ["Um conjunto de transformações econômicas e sociais que substituiu o artesanato pela maquinofatura.", "Uma guerra.", "Uma reforma religiosa.", "Um movimento artístico."],
+        "correta": 0,
+        "explicacao": "A Revolução Industrial transformou a produção."
+      },
+      {
+        "enunciado": "Onde a Revolução Industrial começou?",
+        "opcoes": ["Na Inglaterra.", "Na França.", "Nos EUA.", "Na Alemanha."],
+        "correta": 0,
+        "explicacao": "A Inglaterra foi o berço da industrialização."
+      },
+      {
+        "enunciado": "Qual foi o setor pioneiro da Revolução Industrial?",
+        "opcoes": ["Têxtil.", "Agrícola.", "Mineração.", "Transporte."],
+        "correta": 0,
+        "explicacao": "A indústria têxtil foi a primeira a se mecanizar."
+      },
+      {
+        "enunciado": "O que era a 'maquinofatura'?",
+        "opcoes": ["Produção com máquinas em fábricas.", "Produção manual.", "Produção agrícola.", "Produção doméstica."],
+        "correta": 0,
+        "explicacao": "Substituiu o artesanato e a manufatura."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_his_impactos_urbanos_01",
+    "titulo": "História - Impactos Urbanos e Ambientais",
+    "tipo": "conteudo",
+    "icone": "🏙️",
+    "perguntas": [
+      {
+        "enunciado": "O que foi a 'urbanização acelerada' durante a Revolução Industrial?",
+        "opcoes": ["O crescimento rápido e desordenado das cidades.", "A diminuição das cidades.", "A criação de novas capitais.", "O êxodo urbano."],
+        "correta": 0,
+        "explicacao": "As cidades cresceram sem planejamento."
+      },
+      {
+        "enunciado": "Quais problemas surgiram com a urbanização acelerada?",
+        "opcoes": ["Favelas, falta de saneamento e doenças.", "Melhora da infraestrutura.", "Aumento da qualidade de vida.", "Fim da poluição."],
+        "correta": 0,
+        "explicacao": "A falta de planejamento gerou graves problemas sociais."
+      },
+      {
+        "enunciado": "O que eram os 'bairros operários'?",
+        "opcoes": ["Áreas próximas às fábricas, com habitações precárias.", "Bairros ricos.", "Bairros comerciais.", "Bairros rurais."],
+        "correta": 0,
+        "explicacao": "Os operários viviam em condições insalubres."
+      },
+      {
+        "enunciado": "Qual foi o impacto da poluição industrial na saúde da população?",
+        "opcoes": ["Aumento de doenças respiratórias e mortalidade.", "Melhora da saúde.", "Nenhum impacto.", "Aumento da expectativa de vida."],
+        "correta": 0,
+        "explicacao": "A poluição do ar e da água afetou a saúde."
+      },
+      {
+        "enunciado": "O que é a 'poluição do ar'?",
+        "opcoes": ["A contaminação do ar por gases e partículas.", "A limpeza do ar.", "A umidade do ar.", "O vento."],
+        "correta": 0,
+        "explicacao": "A queima de carvão e petróleo poluiu o ar."
+      },
+      {
+        "enunciado": "O que é a 'poluição da água'?",
+        "opcoes": ["A contaminação de rios e lagos por resíduos industriais.", "A limpeza da água.", "A água potável.", "A chuva."],
+        "correta": 0,
+        "explicacao": "Os resíduos industriais foram despejados nos rios."
+      },
+      {
+        "enunciado": "Qual foi o impacto da Revolução Industrial no meio ambiente?",
+        "opcoes": ["Aumento da poluição e degradação ambiental.", "Melhora do meio ambiente.", "Preservação total.", "Nenhum impacto."],
+        "correta": 0,
+        "explicacao": "A industrialização gerou grande poluição."
+      },
+      {
+        "enunciado": "O que é o 'desenvolvimento sustentável'?",
+        "opcoes": ["Atender às necessidades atuais sem comprometer as futuras.", "Explorar tudo agora.", "Não usar recursos.", "Apenas crescer."],
+        "correta": 0,
+        "explicacao": "Busca equilibrar economia, sociedade e ambiente."
+      },
+      {
+        "enunciado": "Qual é o principal desafio da atualidade em relação à Revolução Industrial?",
+        "opcoes": ["Conciliar o desenvolvimento tecnológico com a preservação ambiental.", "Voltar ao artesanato.", "Acabar com a indústria.", "Aumentar a poluição."],
+        "correta": 0,
+        "explicacao": "É preciso crescer sem degradar o meio ambiente."
+      },
+      {
+        "enunciado": "O que é a 'pegada ecológica'?",
+        "opcoes": ["A medida do impacto do consumo humano sobre a natureza.", "Uma marca de sapato.", "Um tipo de energia.", "Uma lei."],
+        "correta": 0,
+        "explicacao": "Calcula a área necessária para sustentar um estilo de vida."
+      },
+      {
+        "enunciado": "Qual é a importância da reciclagem?",
+        "opcoes": ["Reduzir o consumo de recursos naturais.", "Aumentar o lixo.", "Poluir mais.", "Não tem importância."],
+        "correta": 0,
+        "explicacao": "Reciclar diminui a extração de matéria-prima."
+      },
+      {
+        "enunciado": "O que é a 'coleta seletiva'?",
+        "opcoes": ["Separação do lixo para reciclagem.", "Queima de lixo.", "Jogar lixo no rio.", "Enterrar lixo."],
+        "correta": 0,
+        "explicacao": "Facilita a reciclagem e reduz impactos."
+      },
+      {
+        "enunciado": "O que é a 'educação ambiental'?",
+        "opcoes": ["Conscientizar para práticas sustentáveis.", "Aumentar o consumo.", "Poluir mais.", "Não tem importância."],
+        "correta": 0,
+        "explicacao": "A educação transforma hábitos."
+      },
+      {
+        "enunciado": "O que são fontes renováveis?",
+        "opcoes": ["Que se regeneram naturalmente.", "Que se esgotam.", "Que poluem.", "Que são fósseis."],
+        "correta": 0,
+        "explicacao": "Ex: solar, eólica, biomassa."
+      },
+      {
+        "enunciado": "Qual é a principal fonte de energia no Brasil?",
+        "opcoes": ["Hidrelétrica.", "Solar.", "Nuclear.", "Carvão."],
+        "correta": 0,
+        "explicacao": "A hidrelétrica é predominante."
+      },
+      {
+        "enunciado": "O que é o 'efeito estufa'?",
+        "opcoes": ["Fenômeno natural que mantém a Terra aquecida.", "Fenômeno artificial que esfria a Terra.", "Buraco na camada de ozônio.", "Poluição do ar."],
+        "correta": 0,
+        "explicacao": "O efeito estufa é essencial para a vida."
+      },
+      {
+        "enunciado": "O que tem causado o aumento do efeito estufa?",
+        "opcoes": ["A emissão excessiva de gases poluentes.", "A diminuição da luz solar.", "O aumento das florestas.", "A rotação da Terra."],
+        "correta": 0,
+        "explicacao": "A queima de combustíveis fósseis e o desmatamento."
+      },
+      {
+        "enunciado": "Quais são os principais gases do efeito estufa?",
+        "opcoes": ["Gás carbônico (CO2) e metano (CH4).", "Oxigênio e Nitrogênio.", "Hidrogênio e Hélio.", "Ozônio e Argônio."],
+        "correta": 0,
+        "explicacao": "O CO2 e o metano são os principais."
+      },
+      {
+        "enunciado": "O que é o IPCC?",
+        "opcoes": ["Painel Intergovernamental sobre Mudanças Climáticas.", "Instituto de Pesquisas do Clima.", "Organização de Países Produtores de Petróleo.", "Agência Espacial."],
+        "correta": 0,
+        "explicacao": "O IPCC é o painel da ONU que estuda as mudanças climáticas."
+      },
+      {
+        "enunciado": "Qual é a principal conclusão do IPCC sobre o aquecimento global?",
+        "opcoes": ["Que é causado pelas ações humanas.", "Que é um fenômeno natural.", "Que não existe.", "Que vai acabar sozinho."],
+        "correta": 0,
+        "explicacao": "O IPCC afirma que a ação humana é a principal causa."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_his_nacao_tempo_01",
+    "titulo": "História - A Nova Noção de Tempo na Revolução Industrial",
+    "tipo": "conteudo",
+    "icone": "⏰",
+    "perguntas": [
+      {
+        "enunciado": "Como era a noção de tempo antes da Revolução Industrial?",
+        "opcoes": ["Baseada nos ciclos da natureza e nas estações do ano.", "Baseada no relógio.", "Baseada no calendário industrial.", "Baseada no horário de verão."],
+        "correta": 0,
+        "explicacao": "O tempo era marcado pela natureza."
+      },
+      {
+        "enunciado": "O que mudou na noção de tempo com a Revolução Industrial?",
+        "opcoes": ["O tempo passou a ser medido pelo relógio e pela produtividade.", "O tempo passou a ser medido pela natureza.", "Não houve mudança.", "O tempo deixou de existir."],
+        "correta": 0,
+        "explicacao": "O relógio passou a controlar a vida nas fábricas."
+      },
+      {
+        "enunciado": "Quem foi Edward P. Thompson?",
+        "opcoes": ["Um historiador que analisou a mudança na noção de tempo.", "Um inventor.", "Um político.", "Um rei."],
+        "correta": 0,
+        "explicacao": "Thompson estudou a disciplina do tempo na indústria."
+      },
+      {
+        "enunciado": "O que é a 'disciplina do tempo' na indústria?",
+        "opcoes": ["O controle rigoroso dos horários de trabalho.", "A liberdade de horários.", "A ausência de regras.", "A flexibilidade."],
+        "correta": 0,
+        "explicacao": "A indústria impôs horários rígidos."
+      },
+      {
+        "enunciado": "Qual foi o impacto do relógio na vida dos trabalhadores?",
+        "opcoes": ["Passaram a cumprir jornadas rigorosas.", "Tiveram mais liberdade.", "Não foram afetados.", "Passaram a trabalhar menos."],
+        "correta": 0,
+        "explicacao": "O relógio controlava a jornada de trabalho."
+      },
+      {
+        "enunciado": "O que era o 'tempo do relógio'?",
+        "opcoes": ["O tempo medido em horas, minutos e segundos.", "O tempo da natureza.", "O tempo da colheita.", "O tempo da igreja."],
+        "correta": 0,
+        "explicacao": "O tempo do relógio substituiu o tempo natural."
+      },
+      {
+        "enunciado": "O que era o 'tempo da natureza'?",
+        "opcoes": ["O tempo marcado pelos ciclos naturais (dia, noite, estações).", "O tempo do relógio.", "O tempo da fábrica.", "O tempo do calendário."],
+        "correta": 0,
+        "explicacao": "O tempo natural era mais flexível."
+      },
+      {
+        "enunciado": "Como a Revolução Industrial transformou a percepção do tempo?",
+        "opcoes": ["O tempo passou a ser visto como mercadoria e produtividade.", "O tempo passou a ser visto como natureza.", "O tempo deixou de existir.", "O tempo ficou mais flexível."],
+        "correta": 0,
+        "explicacao": "O tempo se tornou uma ferramenta de controle."
+      },
+      {
+        "enunciado": "O que é a 'jornada de trabalho'?",
+        "opcoes": ["O período diário dedicado ao trabalho.", "O tempo de descanso.", "O tempo de férias.", "O tempo de estudo."],
+        "correta": 0,
+        "explicacao": "A jornada foi regulamentada com o tempo."
+      },
+      {
+        "enunciado": "Qual foi a principal conquista dos trabalhadores em relação ao tempo?",
+        "opcoes": ["A redução da jornada de trabalho para 8 horas.", "O aumento da jornada.", "A volta ao tempo natural.", "O fim do relógio."],
+        "correta": 0,
+        "explicacao": "A jornada de 8 horas foi uma conquista histórica."
+      },
+      {
+        "enunciado": "O que é o 'tempo livre'?",
+        "opcoes": ["O tempo fora do trabalho.", "O tempo de trabalho.", "O tempo de sono.", "O tempo de estudo."],
+        "correta": 0,
+        "explicacao": "O tempo livre é um direito conquistado."
+      },
+      {
+        "enunciado": "Como a industrialização afetou o tempo de lazer?",
+        "opcoes": ["O tempo de lazer foi reduzido e controlado.", "O tempo de lazer aumentou.", "Não houve mudança.", "O lazer acabou."],
+        "correta": 0,
+        "explicacao": "A jornada extenuante reduziu o lazer."
+      },
+      {
+        "enunciado": "O que é a 'sociedade do relógio'?",
+        "opcoes": ["Uma sociedade organizada em torno do tempo cronometrado.", "Uma sociedade sem tempo.", "Uma sociedade natural.", "Uma sociedade agrícola."],
+        "correta": 0,
+        "explicacao": "A sociedade industrial é regida pelo relógio."
+      },
+      {
+        "enunciado": "Qual é a relação entre o relógio e a produtividade?",
+        "opcoes": ["O relógio ajudou a medir e aumentar a produtividade.", "O relógio não tem relação.", "O relógio diminuiu a produtividade.", "O relógio é inútil."],
+        "correta": 0,
+        "explicacao": "O controle do tempo aumentou a produção."
+      },
+      {
+        "enunciado": "O que é a 'pontualidade' no contexto industrial?",
+        "opcoes": ["A obrigação de chegar no horário exato.", "A flexibilidade de horários.", "A ausência de regras.", "A liberdade."],
+        "correta": 0,
+        "explicacao": "A pontualidade se tornou uma exigência."
+      },
+      {
+        "enunciado": "O que é o 'absenteísmo'?",
+        "opcoes": ["A falta ao trabalho.", "A presença no trabalho.", "O aumento da jornada.", "A redução do salário."],
+        "correta": 0,
+        "explicacao": "O absenteísmo era punido nas fábricas."
+      },
+      {
+        "enunciado": "O que é a 'disciplina fabril'?",
+        "opcoes": ["O conjunto de regras e punições para controlar os trabalhadores.", "A liberdade dos trabalhadores.", "A ausência de regras.", "A flexibilidade."],
+        "correta": 0,
+        "explicacao": "A disciplina fabril controlava o tempo e o corpo."
+      },
+      {
+        "enunciado": "Qual foi o impacto da disciplina fabril na vida dos operários?",
+        "opcoes": ["A submissão a horários e ritmos impostos.", "A liberdade de horários.", "A ausência de regras.", "A flexibilidade."],
+        "correta": 0,
+        "explicacao": "Os operários perderam o controle sobre seu tempo."
+      },
+      {
+        "enunciado": "O que é a 'resistência operária'?",
+        "opcoes": ["As lutas dos trabalhadores contra as condições impostas.", "A aceitação das regras.", "A fuga das fábricas.", "A colaboração com os patrões."],
+        "correta": 0,
+        "explicacao": "Os trabalhadores resistiram de várias formas."
+      },
+      {
+        "enunciado": "Qual é a importância da luta por direitos trabalhistas?",
+        "opcoes": ["Garantir condições dignas de trabalho.", "Aumentar a exploração.", "Reduzir salários.", "Aumentar a jornada."],
+        "correta": 0,
+        "explicacao": "As lutas garantiram direitos fundamentais."
+      }
+    ]
+  }
+]
