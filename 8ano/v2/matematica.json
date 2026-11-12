@@ -1,1 +1,770 @@
-[]
+[
+  {
+    "id": "8ano_v2_mat_monomios_polinomios_01",
+    "titulo": "Matemática - Monômios e Polinômios",
+    "tipo": "conteudo",
+    "icone": "📐",
+    "perguntas": [
+      {
+        "enunciado": "O que é um monômio?",
+        "opcoes": ["Um termo algébrico que indica uma multiplicação.", "Uma soma de termos.", "Uma fração.", "Uma equação."],
+        "correta": 0,
+        "explicacao": "Um monômio é formado por um coeficiente numérico e uma parte literal."
+      },
+      {
+        "enunciado": "O que é um polinômio?",
+        "opcoes": ["Uma soma algébrica de monômios.", "Um único monômio.", "Uma divisão de monômios.", "Uma equação."],
+        "correta": 0,
+        "explicacao": "Polinômio é a soma de dois ou mais monômios."
+      },
+      {
+        "enunciado": "Na expressão 5x², qual é o coeficiente numérico?",
+        "opcoes": ["x", "2", "5", "x²"],
+        "correta": 2,
+        "explicacao": "O coeficiente é o número que multiplica a parte literal."
+      },
+      {
+        "enunciado": "Na expressão 3a²b, qual é a parte literal?",
+        "opcoes": ["3", "a²b", "a", "b"],
+        "correta": 1,
+        "explicacao": "A parte literal são as variáveis com seus expoentes."
+      },
+      {
+        "enunciado": "Qual é o grau do monômio 4x³y²?",
+        "opcoes": ["3", "2", "5", "4"],
+        "correta": 2,
+        "explicacao": "O grau é a soma dos expoentes das variáveis: 3 + 2 = 5."
+      },
+      {
+        "enunciado": "Quais são monômios semelhantes?",
+        "opcoes": ["Os que têm a mesma parte literal.", "Os que têm o mesmo coeficiente.", "Os que têm o mesmo expoente.", "Todos os monômios são semelhantes."],
+        "correta": 0,
+        "explicacao": "Monômios semelhantes têm a mesma parte literal."
+      },
+      {
+        "enunciado": "Os monômios 3x² e 5x² são semelhantes?",
+        "opcoes": ["Sim, pois têm a mesma parte literal (x²).", "Não, pois os coeficientes são diferentes.", "Não, pois os expoentes são diferentes.", "Sim, pois são números."],
+        "correta": 0,
+        "explicacao": "A parte literal é a mesma, então são semelhantes."
+      },
+      {
+        "enunciado": "Qual é a regra para somar monômios semelhantes?",
+        "opcoes": ["Somar os coeficientes e manter a parte literal.", "Somar as partes literais.", "Multiplicar os coeficientes.", "Somar os expoentes."],
+        "correta": 0,
+        "explicacao": "Somamos os coeficientes e repetimos a parte literal."
+      },
+      {
+        "enunciado": "Qual é o resultado de 3x + 5x?",
+        "opcoes": ["8x", "8x²", "15x", "2x"],
+        "correta": 0,
+        "explicacao": "3 + 5 = 8, mantendo o x."
+      },
+      {
+        "enunciado": "Qual é o resultado de 7a - 3a?",
+        "opcoes": ["4a", "10a", "4a²", "-4a"],
+        "correta": 0,
+        "explicacao": "7 - 3 = 4, mantendo o a."
+      },
+      {
+        "enunciado": "O que é o grau de um polinômio?",
+        "opcoes": ["O maior grau entre seus termos.", "A soma dos graus.", "O número de termos.", "O coeficiente do primeiro termo."],
+        "correta": 0,
+        "explicacao": "O grau do polinômio é o grau do seu termo de maior grau."
+      },
+      {
+        "enunciado": "Qual é o grau do polinômio 3x² + 5x - 7?",
+        "opcoes": ["1", "2", "3", "0"],
+        "correta": 1,
+        "explicacao": "O termo de maior grau é 3x², que tem grau 2."
+      },
+      {
+        "enunciado": "O que é um binômio?",
+        "opcoes": ["Um polinômio de dois termos.", "Um polinômio de três termos.", "Um monômio.", "Uma equação."],
+        "correta": 0,
+        "explicacao": "Bi significa dois termos."
+      },
+      {
+        "enunciado": "O que é um trinômio?",
+        "opcoes": ["Um polinômio de três termos.", "Um polinômio de dois termos.", "Um monômio.", "Uma equação."],
+        "correta": 0,
+        "explicacao": "Tri significa três termos."
+      },
+      {
+        "enunciado": "Qual é o resultado da simplificação de 2x + 3y + 5x - 2y?",
+        "opcoes": ["7x + y", "7x + 5y", "2x + y", "7x - y"],
+        "correta": 0,
+        "explicacao": "Agrupando termos semelhantes: 2x + 5x = 7x e 3y - 2y = y."
+      },
+      {
+        "enunciado": "O que é um termo independente em um polinômio?",
+        "opcoes": ["O termo que não possui parte literal.", "O termo de maior grau.", "O primeiro termo.", "O último termo."],
+        "correta": 0,
+        "explicacao": "É o termo que não tem variável."
+      },
+      {
+        "enunciado": "Qual é o coeficiente de x no polinômio 4x³ - 2x + 1?",
+        "opcoes": ["4", "-2", "1", "0"],
+        "correta": 1,
+        "explicacao": "O coeficiente de x é -2."
+      },
+      {
+        "enunciado": "Qual é o resultado de 5x² + 3x²?",
+        "opcoes": ["8x²", "8x⁴", "15x²", "2x²"],
+        "correta": 0,
+        "explicacao": "Somamos os coeficientes: 5 + 3 = 8, mantendo x²."
+      },
+      {
+        "enunciado": "Qual é o resultado de 9a - 12a?",
+        "opcoes": ["-3a", "3a", "-3a²", "21a"],
+        "correta": 0,
+        "explicacao": "9 - 12 = -3, mantendo o a."
+      },
+      {
+        "enunciado": "Quantos termos tem o polinômio 4x³ - 2x² + x - 5?",
+        "opcoes": ["4", "3", "2", "5"],
+        "correta": 0,
+        "explicacao": "São 4 termos: 4x³, -2x², x e -5."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_mat_operacoes_polinomios_01",
+    "titulo": "Matemática - Operações com Polinômios",
+    "tipo": "conteudo",
+    "icone": "➕",
+    "perguntas": [
+      {
+        "enunciado": "Para somar dois polinômios, devemos:",
+        "opcoes": ["Somar os termos semelhantes.", "Somar todos os termos.", "Multiplicar os termos.", "Dividir os termos."],
+        "correta": 0,
+        "explicacao": "Só podemos somar termos com a mesma parte literal."
+      },
+      {
+        "enunciado": "Qual é o resultado de (2x² + 3x) + (4x² - 2x)?",
+        "opcoes": ["6x² + x", "6x⁴ + x", "6x² + 5x", "6x² - x"],
+        "correta": 0,
+        "explicacao": "2x² + 4x² = 6x² e 3x - 2x = x."
+      },
+      {
+        "enunciado": "O que devemos fazer ao subtrair polinômios?",
+        "opcoes": ["Inverter os sinais do polinômio subtraendo.", "Apenas subtrair os coeficientes.", "Somar os expoentes.", "Multiplicar os termos."],
+        "correta": 0,
+        "explicacao": "A subtração é a soma do oposto."
+      },
+      {
+        "enunciado": "Qual é o resultado de (5x + 3) - (2x + 1)?",
+        "opcoes": ["3x + 2", "3x + 4", "7x + 2", "3x - 2"],
+        "correta": 0,
+        "explicacao": "5x - 2x = 3x e 3 - 1 = 2."
+      },
+      {
+        "enunciado": "Como multiplicamos um monômio por um polinômio?",
+        "opcoes": ["Multiplicamos o monômio por cada termo do polinômio.", "Multiplicamos apenas pelo primeiro termo.", "Somamos os termos.", "Dividimos os termos."],
+        "correta": 0,
+        "explicacao": "Usamos a propriedade distributiva."
+      },
+      {
+        "enunciado": "Qual é o resultado de 3x · (2x + 4)?",
+        "opcoes": ["6x² + 12x", "6x + 12x", "6x² + 4", "5x + 4"],
+        "correta": 0,
+        "explicacao": "3x · 2x = 6x² e 3x · 4 = 12x."
+      },
+      {
+        "enunciado": "Qual é o resultado de 2a · (3a² - 5)?",
+        "opcoes": ["6a³ - 10a", "6a² - 10a", "6a³ - 5", "5a³ - 10a"],
+        "correta": 0,
+        "explicacao": "2a · 3a² = 6a³ e 2a · (-5) = -10a."
+      },
+      {
+        "enunciado": "Como multiplicamos um polinômio por outro polinômio?",
+        "opcoes": ["Multiplicamos cada termo do primeiro por cada termo do segundo e somamos.", "Multiplicamos apenas os primeiros termos.", "Somamos todos os termos.", "Dividimos os termos."],
+        "correta": 0,
+        "explicacao": "Usamos a propriedade distributiva duas vezes."
+      },
+      {
+        "enunciado": "Qual é o resultado de (x + 2) · (x + 3)?",
+        "opcoes": ["x² + 5x + 6", "x² + 6x + 5", "x² + 6", "x² + 5x + 5"],
+        "correta": 0,
+        "explicacao": "x·x + x·3 + 2·x + 2·3 = x² + 3x + 2x + 6 = x² + 5x + 6."
+      },
+      {
+        "enunciado": "Qual é o resultado de (x - 1) · (x + 1)?",
+        "opcoes": ["x² - 1", "x² + 1", "x² - 2x + 1", "x² + 2x + 1"],
+        "correta": 0,
+        "explicacao": "Produto notável: (a - b)(a + b) = a² - b²."
+      },
+      {
+        "enunciado": "Qual é o resultado de (x + 2)²?",
+        "opcoes": ["x² + 4x + 4", "x² + 4", "x² + 2x + 4", "x² + 4x + 2"],
+        "correta": 0,
+        "explicacao": "Quadrado da soma: (a + b)² = a² + 2ab + b²."
+      },
+      {
+        "enunciado": "Qual é o resultado de (x - 3)²?",
+        "opcoes": ["x² - 6x + 9", "x² - 9", "x² - 3x + 9", "x² + 6x + 9"],
+        "correta": 0,
+        "explicacao": "Quadrado da diferença: (a - b)² = a² - 2ab + b²."
+      },
+      {
+        "enunciado": "Na divisão de polinômios, o que é o dividendo?",
+        "opcoes": ["O polinômio que será dividido.", "O resultado da divisão.", "O que divide.", "O resto."],
+        "correta": 0,
+        "explicacao": "O dividendo é o numerador da divisão."
+      },
+      {
+        "enunciado": "Qual é a relação fundamental da divisão?",
+        "opcoes": ["Dividendo = quociente · divisor + resto", "Dividendo = quociente + divisor", "Dividendo = resto + divisor", "Dividendo = quociente · resto"],
+        "correta": 0,
+        "explicacao": "Essa é a propriedade fundamental da divisão."
+      },
+      {
+        "enunciado": "Qual é o resultado de (6x²) ÷ (2x)?",
+        "opcoes": ["3x", "3x²", "4x", "3"],
+        "correta": 0,
+        "explicacao": "6 ÷ 2 = 3 e x² ÷ x = x."
+      },
+      {
+        "enunciado": "Qual é o resultado de (10a³b²) ÷ (5ab)?",
+        "opcoes": ["2a²b", "2a²b²", "5a²b", "2ab"],
+        "correta": 0,
+        "explicacao": "10 ÷ 5 = 2, a³ ÷ a = a², b² ÷ b = b."
+      },
+      {
+        "enunciado": "O que devemos fazer com os expoentes na divisão de monômios de mesma base?",
+        "opcoes": ["Subtrair os expoentes.", "Somar os expoentes.", "Multiplicar os expoentes.", "Dividir os expoentes."],
+        "correta": 0,
+        "explicacao": "Na divisão, subtraímos os expoentes."
+      },
+      {
+        "enunciado": "Qual é o resultado de (4x³) ÷ (2x)?",
+        "opcoes": ["2x²", "2x", "2x³", "2"],
+        "correta": 0,
+        "explicacao": "4 ÷ 2 = 2 e x³ ÷ x = x²."
+      },
+      {
+        "enunciado": "Qual é o resultado de (12a²b) ÷ (3ab)?",
+        "opcoes": ["4a", "4a²", "4b", "4ab"],
+        "correta": 0,
+        "explicacao": "12 ÷ 3 = 4, a² ÷ a = a, b ÷ b = 1."
+      },
+      {
+        "enunciado": "Qual é o resultado de (x² + 2x) ÷ x?",
+        "opcoes": ["x + 2", "x + 1", "x² + 2", "x + 2x"],
+        "correta": 0,
+        "explicacao": "Dividimos cada termo por x: x² ÷ x = x e 2x ÷ x = 2."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_mat_area_figuras_planas_01",
+    "titulo": "Matemática - Área de Figuras Planas",
+    "tipo": "conteudo",
+    "icone": "📏",
+    "perguntas": [
+      {
+        "enunciado": "O que é área?",
+        "opcoes": ["A medida da superfície de uma figura.", "A medida do contorno.", "A medida do volume.", "A medida do comprimento."],
+        "correta": 0,
+        "explicacao": "Área é a medida da superfície."
+      },
+      {
+        "enunciado": "Qual é a fórmula da área do retângulo?",
+        "opcoes": ["A = b · h", "A = b + h", "A = 2b + 2h", "A = b²"],
+        "correta": 0,
+        "explicacao": "Área é base vezes altura."
+      },
+      {
+        "enunciado": "Qual é a área de um retângulo de base 5 cm e altura 3 cm?",
+        "opcoes": ["15 cm²", "8 cm²", "16 cm²", "10 cm²"],
+        "correta": 0,
+        "explicacao": "A = 5 · 3 = 15 cm²."
+      },
+      {
+        "enunciado": "Qual é a fórmula da área do quadrado?",
+        "opcoes": ["A = l²", "A = 4l", "A = l + l", "A = 2l"],
+        "correta": 0,
+        "explicacao": "Área é lado ao quadrado."
+      },
+      {
+        "enunciado": "Qual é a área de um quadrado de lado 4 cm?",
+        "opcoes": ["16 cm²", "8 cm²", "12 cm²", "20 cm²"],
+        "correta": 0,
+        "explicacao": "A = 4² = 16 cm²."
+      },
+      {
+        "enunciado": "Qual é a fórmula da área do triângulo?",
+        "opcoes": ["A = (b · h) / 2", "A = b · h", "A = 2b · h", "A = b + h"],
+        "correta": 0,
+        "explicacao": "Área do triângulo é base vezes altura dividido por 2."
+      },
+      {
+        "enunciado": "Qual é a área de um triângulo de base 6 cm e altura 4 cm?",
+        "opcoes": ["12 cm²", "24 cm²", "10 cm²", "20 cm²"],
+        "correta": 0,
+        "explicacao": "A = (6 · 4) / 2 = 24 / 2 = 12 cm²."
+      },
+      {
+        "enunciado": "Qual é a fórmula da área do paralelogramo?",
+        "opcoes": ["A = b · h", "A = (b · h) / 2", "A = b + h", "A = l²"],
+        "correta": 0,
+        "explicacao": "Área do paralelogramo é base vezes altura."
+      },
+      {
+        "enunciado": "Qual é a área de um paralelogramo de base 8 cm e altura 5 cm?",
+        "opcoes": ["40 cm²", "20 cm²", "13 cm²", "80 cm²"],
+        "correta": 0,
+        "explicacao": "A = 8 · 5 = 40 cm²."
+      },
+      {
+        "enunciado": "Qual é a fórmula da área do losango?",
+        "opcoes": ["A = (D · d) / 2", "A = D · d", "A = (D + d) / 2", "A = D²"],
+        "correta": 0,
+        "explicacao": "Área é diagonal maior vezes diagonal menor dividido por 2."
+      },
+      {
+        "enunciado": "Qual é a área de um losango com diagonais 10 cm e 6 cm?",
+        "opcoes": ["30 cm²", "60 cm²", "16 cm²", "20 cm²"],
+        "correta": 0,
+        "explicacao": "A = (10 · 6) / 2 = 60 / 2 = 30 cm²."
+      },
+      {
+        "enunciado": "O que é a densidade demográfica?",
+        "opcoes": ["A razão entre a população e a área.", "A área total de um país.", "A população total.", "A taxa de natalidade."],
+        "correta": 0,
+        "explicacao": "Densidade demográfica = população / área."
+      },
+      {
+        "enunciado": "Qual é a unidade de medida de área no sistema métrico?",
+        "opcoes": ["Metro quadrado (m²)", "Metro (m)", "Metro cúbico (m³)", "Litro (L)"],
+        "correta": 0,
+        "explicacao": "A unidade de área é o metro quadrado."
+      },
+      {
+        "enunciado": "Quantos centímetros quadrados há em 1 metro quadrado?",
+        "opcoes": ["10.000 cm²", "100 cm²", "1.000 cm²", "100.000 cm²"],
+        "correta": 0,
+        "explicacao": "1 m² = 10.000 cm²."
+      },
+      {
+        "enunciado": "Como podemos calcular a área de figuras compostas?",
+        "opcoes": ["Decompondo em figuras conhecidas.", "Somando os lados.", "Multiplicando os lados.", "Dividindo por 2."],
+        "correta": 0,
+        "explicacao": "Dividimos a figura em partes e somamos as áreas."
+      },
+      {
+        "enunciado": "Qual é a área de um quadrado de lado 10 cm?",
+        "opcoes": ["100 cm²", "40 cm²", "20 cm²", "80 cm²"],
+        "correta": 0,
+        "explicacao": "A = 10² = 100 cm²."
+      },
+      {
+        "enunciado": "Qual é a área de um retângulo de base 12 cm e altura 5 cm?",
+        "opcoes": ["60 cm²", "17 cm²", "34 cm²", "120 cm²"],
+        "correta": 0,
+        "explicacao": "A = 12 · 5 = 60 cm²."
+      },
+      {
+        "enunciado": "Qual é a área de um triângulo de base 10 cm e altura 8 cm?",
+        "opcoes": ["40 cm²", "80 cm²", "18 cm²", "20 cm²"],
+        "correta": 0,
+        "explicacao": "A = (10 · 8) / 2 = 80 / 2 = 40 cm²."
+      },
+      {
+        "enunciado": "O que é perímetro?",
+        "opcoes": ["A soma dos lados de uma figura.", "A área da figura.", "O volume da figura.", "A diagonal da figura."],
+        "correta": 0,
+        "explicacao": "Perímetro é o contorno da figura."
+      },
+      {
+        "enunciado": "Qual é o perímetro de um quadrado de lado 4 cm?",
+        "opcoes": ["16 cm", "8 cm", "12 cm", "20 cm"],
+        "correta": 0,
+        "explicacao": "Perímetro = 4 · 4 = 16 cm."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_mat_volume_capacidade_01",
+    "titulo": "Matemática - Volume e Capacidade",
+    "tipo": "conteudo",
+    "icone": "🧊",
+    "perguntas": [
+      {
+        "enunciado": "O que é volume?",
+        "opcoes": ["A medida do espaço ocupado por um corpo.", "A medida da superfície.", "A medida do contorno.", "A medida do comprimento."],
+        "correta": 0,
+        "explicacao": "Volume é o espaço ocupado."
+      },
+      {
+        "enunciado": "Qual é a unidade padrão de volume no sistema métrico?",
+        "opcoes": ["Metro cúbico (m³)", "Metro quadrado (m²)", "Metro (m)", "Litro (L)"],
+        "correta": 0,
+        "explicacao": "A unidade de volume é o metro cúbico."
+      },
+      {
+        "enunciado": "Qual é a fórmula do volume do bloco retangular?",
+        "opcoes": ["V = a · b · c", "V = a + b + c", "V = a²", "V = a · b"],
+        "correta": 0,
+        "explicacao": "Volume é comprimento vezes largura vezes altura."
+      },
+      {
+        "enunciado": "Qual é o volume de um cubo de aresta 3 cm?",
+        "opcoes": ["27 cm³", "9 cm³", "18 cm³", "12 cm³"],
+        "correta": 0,
+        "explicacao": "V = 3³ = 27 cm³."
+      },
+      {
+        "enunciado": "Qual é a relação entre litro e metro cúbico?",
+        "opcoes": ["1 m³ = 1.000 L", "1 m³ = 100 L", "1 m³ = 10 L", "1 m³ = 10.000 L"],
+        "correta": 0,
+        "explicacao": "1 m³ equivale a 1.000 litros."
+      },
+      {
+        "enunciado": "Qual é a relação entre litro e decímetro cúbico?",
+        "opcoes": ["1 dm³ = 1 L", "1 dm³ = 10 L", "1 dm³ = 100 L", "1 dm³ = 0,1 L"],
+        "correta": 0,
+        "explicacao": "1 dm³ é igual a 1 litro."
+      },
+      {
+        "enunciado": "Quantos mililitros há em 1 litro?",
+        "opcoes": ["1.000 mL", "100 mL", "10 mL", "10.000 mL"],
+        "correta": 0,
+        "explicacao": "1 L = 1.000 mL."
+      },
+      {
+        "enunciado": "Qual é a capacidade de um recipiente cúbico de 10 cm de aresta?",
+        "opcoes": ["1 litro", "10 litros", "100 litros", "0,1 litro"],
+        "correta": 0,
+        "explicacao": "10 cm = 1 dm, então 1 dm³ = 1 L."
+      },
+      {
+        "enunciado": "Qual é o volume de um bloco retangular de 5 cm de comprimento, 4 cm de largura e 2 cm de altura?",
+        "opcoes": ["40 cm³", "20 cm³", "11 cm³", "80 cm³"],
+        "correta": 0,
+        "explicacao": "V = 5 · 4 · 2 = 40 cm³."
+      },
+      {
+        "enunciado": "Um aquário tem 50 cm de comprimento, 30 cm de largura e 40 cm de altura. Qual é o seu volume em litros?",
+        "opcoes": ["60 litros", "6 litros", "600 litros", "0,6 litro"],
+        "correta": 0,
+        "explicacao": "V = 50 · 30 · 40 = 60.000 cm³ = 60 L."
+      },
+      {
+        "enunciado": "Quantos litros há em 1 m³?",
+        "opcoes": ["1.000 L", "100 L", "10 L", "10.000 L"],
+        "correta": 0,
+        "explicacao": "1 m³ = 1.000 litros."
+      },
+      {
+        "enunciado": "Qual é a capacidade de uma caixa d'água de 2 m de comprimento, 1,5 m de largura e 1 m de altura?",
+        "opcoes": ["3.000 litros", "300 litros", "30.000 litros", "300 litros"],
+        "correta": 0,
+        "explicacao": "V = 2 · 1,5 · 1 = 3 m³ = 3.000 L."
+      },
+      {
+        "enunciado": "O que é capacidade?",
+        "opcoes": ["A medida do volume interno de um recipiente.", "A medida da superfície.", "A medida do contorno.", "A medida do comprimento."],
+        "correta": 0,
+        "explicacao": "Capacidade é o volume interno."
+      },
+      {
+        "enunciado": "Qual é a unidade de capacidade mais usada no dia a dia?",
+        "opcoes": ["Litro (L)", "Metro cúbico (m³)", "Metro quadrado (m²)", "Quilograma (kg)"],
+        "correta": 0,
+        "explicacao": "O litro é a unidade mais comum."
+      },
+      {
+        "enunciado": "Quantos mililitros há em 2,5 litros?",
+        "opcoes": ["2.500 mL", "250 mL", "25 mL", "25.000 mL"],
+        "correta": 0,
+        "explicacao": "2,5 · 1.000 = 2.500 mL."
+      },
+      {
+        "enunciado": "Qual é o volume de um cubo de aresta 5 cm?",
+        "opcoes": ["125 cm³", "25 cm³", "50 cm³", "100 cm³"],
+        "correta": 0,
+        "explicacao": "V = 5³ = 125 cm³."
+      },
+      {
+        "enunciado": "Quantos litros há em 500 mL?",
+        "opcoes": ["0,5 L", "5 L", "50 L", "0,05 L"],
+        "correta": 0,
+        "explicacao": "500 ÷ 1.000 = 0,5 L."
+      },
+      {
+        "enunciado": "O que é 1 dm³?",
+        "opcoes": ["1 litro", "10 litros", "100 litros", "0,1 litro"],
+        "correta": 0,
+        "explicacao": "1 dm³ = 1 L."
+      },
+      {
+        "enunciado": "Qual é a fórmula do volume do cubo?",
+        "opcoes": ["V = a³", "V = a²", "V = a · 6", "V = a · 4"],
+        "correta": 0,
+        "explicacao": "Volume do cubo é aresta ao cubo."
+      },
+      {
+        "enunciado": "Qual é o volume de um bloco retangular de dimensões 10 cm, 20 cm e 30 cm?",
+        "opcoes": ["6.000 cm³", "600 cm³", "60.000 cm³", "6.000 cm²"],
+        "correta": 0,
+        "explicacao": "V = 10 · 20 · 30 = 6.000 cm³."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_mat_expressoes_algebricas_01",
+    "titulo": "Matemática - Expressões Algébricas e Simplificação",
+    "tipo": "conteudo",
+    "icone": "🔣",
+    "perguntas": [
+      {
+        "enunciado": "O que é uma expressão algébrica?",
+        "opcoes": ["Uma expressão que contém números e letras.", "Uma expressão apenas com números.", "Uma equação.", "Uma fração."],
+        "correta": 0,
+        "explicacao": "Expressões algébricas usam letras para representar números."
+      },
+      {
+        "enunciado": "O que é uma variável?",
+        "opcoes": ["Uma letra que representa um valor desconhecido.", "Um número fixo.", "Uma operação matemática.", "Um sinal."],
+        "correta": 0,
+        "explicacao": "Variáveis representam valores que podem variar."
+      },
+      {
+        "enunciado": "Como simplificamos uma expressão algébrica?",
+        "opcoes": ["Agrupando termos semelhantes.", "Mudando as letras.", "Alterando os expoentes.", "Multiplicando tudo."],
+        "correta": 0,
+        "explicacao": "Termos semelhantes podem ser somados ou subtraídos."
+      },
+      {
+        "enunciado": "Simplifique a expressão: 3x + 5x - 2x.",
+        "opcoes": ["6x", "10x", "8x", "2x"],
+        "correta": 0,
+        "explicacao": "3 + 5 - 2 = 6."
+      },
+      {
+        "enunciado": "Simplifique: 4a - 2a + 3a.",
+        "opcoes": ["5a", "9a", "2a", "6a"],
+        "correta": 0,
+        "explicacao": "4 - 2 + 3 = 5."
+      },
+      {
+        "enunciado": "Simplifique: 2x² + 3x - x² + 4x.",
+        "opcoes": ["x² + 7x", "3x² + 7x", "x² + x", "3x² + x"],
+        "correta": 0,
+        "explicacao": "2x² - x² = x² e 3x + 4x = 7x."
+      },
+      {
+        "enunciado": "Simplifique: 5y - 3y + 2y - y.",
+        "opcoes": ["3y", "5y", "2y", "4y"],
+        "correta": 0,
+        "explicacao": "5 - 3 + 2 - 1 = 3."
+      },
+      {
+        "enunciado": "Simplifique: 2x + 3y - x + 2y.",
+        "opcoes": ["x + 5y", "3x + 5y", "x + y", "3x + y"],
+        "correta": 0,
+        "explicacao": "2x - x = x e 3y + 2y = 5y."
+      },
+      {
+        "enunciado": "Qual é o valor numérico da expressão 2x + 3 para x = 4?",
+        "opcoes": ["11", "8", "14", "10"],
+        "correta": 0,
+        "explicacao": "2 · 4 + 3 = 8 + 3 = 11."
+      },
+      {
+        "enunciado": "Qual é o valor numérico da expressão 3a - 2 para a = 5?",
+        "opcoes": ["13", "15", "10", "17"],
+        "correta": 0,
+        "explicacao": "3 · 5 - 2 = 15 - 2 = 13."
+      },
+      {
+        "enunciado": "Qual é o valor numérico da expressão x² + 2x para x = 3?",
+        "opcoes": ["15", "9", "12", "18"],
+        "correta": 0,
+        "explicacao": "3² + 2·3 = 9 + 6 = 15."
+      },
+      {
+        "enunciado": "Qual é a expressão que representa o perímetro de um quadrado de lado a?",
+        "opcoes": ["4a", "a²", "2a", "a + 4"],
+        "correta": 0,
+        "explicacao": "Perímetro é a soma dos lados: a + a + a + a = 4a."
+      },
+      {
+        "enunciado": "Qual é a expressão que representa a área de um quadrado de lado a?",
+        "opcoes": ["a²", "4a", "2a", "a + 4"],
+        "correta": 0,
+        "explicacao": "Área é lado vezes lado: a · a = a²."
+      },
+      {
+        "enunciado": "Qual é a expressão que representa o perímetro de um retângulo de base b e altura h?",
+        "opcoes": ["2b + 2h", "b + h", "b · h", "b² + h²"],
+        "correta": 0,
+        "explicacao": "Perímetro é a soma de todos os lados: b + b + h + h = 2b + 2h."
+      },
+      {
+        "enunciado": "Qual é a expressão que representa a área de um retângulo de base b e altura h?",
+        "opcoes": ["b · h", "2b + 2h", "b + h", "b² + h²"],
+        "correta": 0,
+        "explicacao": "Área é base vezes altura."
+      },
+      {
+        "enunciado": "Simplifique: 3(x + 2).",
+        "opcoes": ["3x + 6", "3x + 2", "x + 6", "3x + 5"],
+        "correta": 0,
+        "explicacao": "3 · x = 3x e 3 · 2 = 6."
+      },
+      {
+        "enunciado": "Simplifique: 2(x - 3).",
+        "opcoes": ["2x - 6", "2x - 3", "x - 6", "2x + 6"],
+        "correta": 0,
+        "explicacao": "2 · x = 2x e 2 · (-3) = -6."
+      },
+      {
+        "enunciado": "Simplifique: x(x + 2).",
+        "opcoes": ["x² + 2x", "x² + 2", "x + 2x", "x² + x"],
+        "correta": 0,
+        "explicacao": "x · x = x² e x · 2 = 2x."
+      },
+      {
+        "enunciado": "Simplifique: (x + 1)(x + 2).",
+        "opcoes": ["x² + 3x + 2", "x² + 2x + 3", "x² + 3x + 3", "x² + 2x + 2"],
+        "correta": 0,
+        "explicacao": "x·x + x·2 + 1·x + 1·2 = x² + 2x + x + 2 = x² + 3x + 2."
+      },
+      {
+        "enunciado": "Simplifique: (x - 2)(x + 2).",
+        "opcoes": ["x² - 4", "x² + 4", "x² - 2x + 4", "x² + 2x + 4"],
+        "correta": 0,
+        "explicacao": "Produto notável: (a - b)(a + b) = a² - b²."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_mat_problemas_algebricos_01",
+    "titulo": "Matemática - Problemas com Expressões Algébricas",
+    "tipo": "conteudo",
+    "icone": "🧩",
+    "perguntas": [
+      {
+        "enunciado": "Se um número é representado por x, como representamos o seu dobro?",
+        "opcoes": ["2x", "x + 2", "x²", "x/2"],
+        "correta": 0,
+        "explicacao": "O dobro é 2 vezes o número."
+      },
+      {
+        "enunciado": "Como representamos a metade de um número x?",
+        "opcoes": ["x/2", "2x", "x - 2", "x + 2"],
+        "correta": 0,
+        "explicacao": "A metade é x dividido por 2."
+      },
+      {
+        "enunciado": "Como representamos o triplo de um número x mais 5?",
+        "opcoes": ["3x + 5", "3(x + 5)", "3x - 5", "x + 15"],
+        "correta": 0,
+        "explicacao": "O triplo é 3x, mais 5 = 3x + 5."
+      },
+      {
+        "enunciado": "A soma de dois números consecutivos é representada por:",
+        "opcoes": ["x + (x + 1)", "x + x", "x + 2", "2x + 1"],
+        "correta": 0,
+        "explicacao": "Consecutivos: x e x + 1."
+      },
+      {
+        "enunciado": "Qual é a expressão para a idade de uma pessoa daqui a 5 anos, se hoje ela tem x anos?",
+        "opcoes": ["x + 5", "x - 5", "5x", "x/5"],
+        "correta": 0,
+        "explicacao": "Daqui a 5 anos = x + 5."
+      },
+      {
+        "enunciado": "Qual é a expressão para o perímetro de um triângulo equilátero de lado a?",
+        "opcoes": ["3a", "a³", "a + 3", "a/3"],
+        "correta": 0,
+        "explicacao": "Perímetro = 3 vezes o lado."
+      },
+      {
+        "enunciado": "Qual é a expressão para a área de um triângulo de base b e altura h?",
+        "opcoes": ["(b · h) / 2", "b · h", "b + h", "2b + 2h"],
+        "correta": 0,
+        "explicacao": "Área do triângulo é base vezes altura dividido por 2."
+      },
+      {
+        "enunciado": "Se x = 5, qual é o valor de 2x + 3?",
+        "opcoes": ["13", "10", "15", "8"],
+        "correta": 0,
+        "explicacao": "2 · 5 + 3 = 10 + 3 = 13."
+      },
+      {
+        "enunciado": "Se y = 3, qual é o valor de y² - 2y?",
+        "opcoes": ["3", "9", "6", "0"],
+        "correta": 0,
+        "explicacao": "3² - 2·3 = 9 - 6 = 3."
+      },
+      {
+        "enunciado": "Se a = 2, qual é o valor de a³?",
+        "opcoes": ["8", "6", "4", "2"],
+        "correta": 0,
+        "explicacao": "2³ = 8."
+      },
+      {
+        "enunciado": "Simplifique: 3x + 2y - x + 3y.",
+        "opcoes": ["2x + 5y", "3x + 5y", "2x + y", "4x + 5y"],
+        "correta": 0,
+        "explicacao": "3x - x = 2x e 2y + 3y = 5y."
+      },
+      {
+        "enunciado": "Simplifique: 5a - 2a + 3b - b.",
+        "opcoes": ["3a + 2b", "3a + 3b", "2a + 2b", "5a + 2b"],
+        "correta": 0,
+        "explicacao": "5a - 2a = 3a e 3b - b = 2b."
+      },
+      {
+        "enunciado": "Qual é o valor numérico de 2x² + 3x - 1 para x = 2?",
+        "opcoes": ["13", "11", "9", "15"],
+        "correta": 0,
+        "explicacao": "2·(2²) + 3·2 - 1 = 2·4 + 6 - 1 = 8 + 6 - 1 = 13."
+      },
+      {
+        "enunciado": "Qual é o valor numérico de 4a - 3b para a = 2 e b = 1?",
+        "opcoes": ["5", "8", "11", "2"],
+        "correta": 0,
+        "explicacao": "4·2 - 3·1 = 8 - 3 = 5."
+      },
+      {
+        "enunciado": "Qual é o valor numérico de x² - y² para x = 5 e y = 3?",
+        "opcoes": ["16", "8", "34", "4"],
+        "correta": 0,
+        "explicacao": "5² - 3² = 25 - 9 = 16."
+      },
+      {
+        "enunciado": "Simplifique: 2(x + 3) + 3(x + 2).",
+        "opcoes": ["5x + 12", "5x + 6", "6x + 12", "5x + 8"],
+        "correta": 0,
+        "explicacao": "2x + 6 + 3x + 6 = 5x + 12."
+      },
+      {
+        "enunciado": "Simplifique: 3(x - 1) - 2(x + 2).",
+        "opcoes": ["x - 7", "x + 7", "5x - 7", "x - 5"],
+        "correta": 0,
+        "explicacao": "3x - 3 - 2x - 4 = x - 7."
+      },
+      {
+        "enunciado": "Simplifique: (x + 2)(x - 2).",
+        "opcoes": ["x² - 4", "x² + 4", "x² - 2x + 4", "x² + 2x - 4"],
+        "correta": 0,
+        "explicacao": "Produto notável: (a + b)(a - b) = a² - b²."
+      },
+      {
+        "enunciado": "Simplifique: (x + 3)².",
+        "opcoes": ["x² + 6x + 9", "x² + 9", "x² + 3x + 9", "x² + 6x + 6"],
+        "correta": 0,
+        "explicacao": "Quadrado da soma: (a + b)² = a² + 2ab + b²."
+      },
+      {
+        "enunciado": "Simplifique: (x - 2)².",
+        "opcoes": ["x² - 4x + 4", "x² - 4", "x² - 2x + 4", "x² + 4x + 4"],
+        "correta": 0,
+        "explicacao": "Quadrado da diferença: (a - b)² = a² - 2ab + b²."
+      }
+    ]
+  }
+]
