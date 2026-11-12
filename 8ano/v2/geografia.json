@@ -1,1 +1,898 @@
-[]
+[
+  {
+    "id": "8ano_v2_geo_populacao_mundial_01",
+    "titulo": "Geografia - População Mundial e Crescimento",
+    "tipo": "conteudo",
+    "icone": "🌍",
+    "perguntas": [
+      {
+        "enunciado": "O que é demografia?",
+        "opcoes": ["O estudo da natureza.", "O estudo da população e suas características.", "O estudo da economia.", "O estudo da política."],
+        "correta": 1,
+        "explicacao": "Demografia estuda a dinâmica populacional."
+      },
+      {
+        "enunciado": "Qual é o número aproximado de habitantes no mundo atualmente?",
+        "opcoes": ["1 bilhão.", "5 bilhões.", "8 bilhões.", "10 bilhões."],
+        "correta": 2,
+        "explicacao": "A população mundial atingiu a marca de 8 bilhões."
+      },
+      {
+        "enunciado": "O que é a taxa de natalidade?",
+        "opcoes": ["O número de mortes por ano.", "O número de nascimentos por mil habitantes em um ano.", "A migração de pessoas.", "O número de idosos."],
+        "correta": 1,
+        "explicacao": "A natalidade mede os nascimentos."
+      },
+      {
+        "enunciado": "O que é a taxa de mortalidade?",
+        "opcoes": ["O número de nascimentos por ano.", "O número de mortes por mil habitantes em um ano.", "A migração de pessoas.", "O número de crianças."],
+        "correta": 1,
+        "explicacao": "A mortalidade mede os óbitos."
+      },
+      {
+        "enunciado": "O que é o crescimento natural ou vegetativo?",
+        "opcoes": ["A diferença entre nascimentos e mortes.", "A diferença entre imigrantes e emigrantes.", "O total de habitantes.", "A taxa de fecundidade."],
+        "correta": 0,
+        "explicacao": "O crescimento natural é a diferença entre natalidade e mortalidade."
+      },
+      {
+        "enunciado": "O que é a taxa de fecundidade?",
+        "opcoes": ["O número de filhos por mulher.", "O número de mortes de crianças.", "O número de casamentos.", "O número de idosos."],
+        "correta": 0,
+        "explicacao": "A fecundidade mede o número médio de filhos por mulher."
+      },
+      {
+        "enunciado": "Qual é a taxa de fecundidade considerada ideal para a reposição populacional?",
+        "opcoes": ["1 filho por mulher.", "2,1 filhos por mulher.", "5 filhos por mulher.", "10 filhos por mulher."],
+        "correta": 1,
+        "explicacao": "A taxa de reposição é de 2,1 filhos por mulher."
+      },
+      {
+        "enunciado": "O que é a expectativa de vida?",
+        "opcoes": ["A idade média que uma pessoa pode viver.", "O número de anos que uma pessoa já viveu.", "A taxa de natalidade.", "A taxa de mortalidade."],
+        "correta": 0,
+        "explicacao": "A expectativa de vida é a média de anos que se espera viver."
+      },
+      {
+        "enunciado": "O que é o IDH (Índice de Desenvolvimento Humano)?",
+        "opcoes": ["Um índice que mede a economia de um país.", "Um índice que mede a qualidade de vida da população.", "Um índice que mede a população.", "Um índice que mede a violência."],
+        "correta": 1,
+        "explicacao": "O IDH avalia renda, educação e saúde."
+      },
+      {
+        "enunciado": "O que é a transição demográfica?",
+        "opcoes": ["A mudança de um país de uma situação de alta natalidade e mortalidade para baixa natalidade e mortalidade.", "A migração de pessoas.", "O aumento da população.", "A diminuição da população."],
+        "correta": 0,
+        "explicacao": "A transição demográfica é a evolução das taxas populacionais."
+      },
+      {
+        "enunciado": "Quais são as fases da transição demográfica?",
+        "opcoes": ["Apenas uma fase.", "Duas fases.", "Quatro ou cinco fases.", "Dez fases."],
+        "correta": 2,
+        "explicacao": "A transição demográfica é dividida em fases."
+      },
+      {
+        "enunciado": "O que caracteriza a primeira fase da transição demográfica?",
+        "opcoes": ["Altas taxas de natalidade e mortalidade.", "Baixas taxas de natalidade e mortalidade.", "Apenas alta natalidade.", "Apenas alta mortalidade."],
+        "correta": 0,
+        "explicacao": "Na primeira fase, as taxas são altas."
+      },
+      {
+        "enunciado": "O que caracteriza a fase final da transição demográfica?",
+        "opcoes": ["Altas taxas de natalidade e mortalidade.", "Baixas taxas de natalidade e mortalidade.", "Apenas alta natalidade.", "Apenas alta mortalidade."],
+        "correta": 1,
+        "explicacao": "Na fase final, as taxas são baixas."
+      },
+      {
+        "enunciado": "O que é o envelhecimento populacional?",
+        "opcoes": ["O aumento da proporção de idosos na população.", "O aumento da proporção de crianças.", "A diminuição da população.", "O aumento da natalidade."],
+        "correta": 0,
+        "explicacao": "O envelhecimento é o aumento de idosos."
+      },
+      {
+        "enunciado": "Quais são as consequências do envelhecimento populacional?",
+        "opcoes": ["Aumento dos gastos com saúde e previdência.", "Aumento da natalidade.", "Diminuição da expectativa de vida.", "Aumento da população jovem."],
+        "correta": 0,
+        "explicacao": "O envelhecimento gera impactos sociais e econômicos."
+      },
+      {
+        "enunciado": "O que é a pirâmide etária?",
+        "opcoes": ["Um gráfico que mostra a distribuição da população por idade e sexo.", "Um gráfico que mostra a economia.", "Um gráfico que mostra a migração.", "Um gráfico que mostra o clima."],
+        "correta": 0,
+        "explicacao": "A pirâmide etária representa a estrutura populacional."
+      },
+      {
+        "enunciado": "O que indica uma base larga na pirâmide etária?",
+        "opcoes": ["Alta natalidade.", "Baixa natalidade.", "Alta mortalidade.", "Envelhecimento."],
+        "correta": 0,
+        "explicacao": "Base larga indica muitos jovens."
+      },
+      {
+        "enunciado": "O que indica um topo largo na pirâmide etária?",
+        "opcoes": ["Alta natalidade.", "Baixa natalidade.", "População envelhecida.", "População jovem."],
+        "correta": 2,
+        "explicacao": "Topo largo indica muitos idosos."
+      },
+      {
+        "enunciado": "Qual é o país mais populoso do mundo?",
+        "opcoes": ["China.", "Índia.", "EUA.", "Brasil."],
+        "correta": 1,
+        "explicacao": "A Índia se tornou o país mais populoso."
+      },
+      {
+        "enunciado": "O que é a densidade demográfica?",
+        "opcoes": ["A população total de um país.", "A distribuição da população por área (hab/km²).", "A taxa de natalidade.", "A taxa de mortalidade."],
+        "correta": 1,
+        "explicacao": "A densidade demográfica mede a concentração populacional."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_geo_teorias_demograficas_01",
+    "titulo": "Geografia - Teorias Demográficas",
+    "tipo": "conteudo",
+    "icone": "📈",
+    "perguntas": [
+      {
+        "enunciado": "Quem foi Thomas Malthus?",
+        "opcoes": ["Um economista que criou a teoria malthusiana.", "Um geógrafo que criou o IDH.", "Um político.", "Um sociólogo."],
+        "correta": 0,
+        "explicacao": "Malthus propôs uma teoria sobre o crescimento populacional."
+      },
+      {
+        "enunciado": "O que a teoria malthusiana afirmava?",
+        "opcoes": ["A população cresce em progressão geométrica e os alimentos em progressão aritmética.", "A população cresce em progressão aritmética e os alimentos em progressão geométrica.", "A população não cresce.", "A população cresce igual aos alimentos."],
+        "correta": 0,
+        "explicacao": "Malthus previa que a população cresceria mais que a produção de alimentos."
+      },
+      {
+        "enunciado": "Qual era a solução proposta por Malthus para evitar a fome?",
+        "opcoes": ["Aumentar a produção de alimentos.", "Controle da natalidade e abstinência sexual.", "Incentivar a natalidade.", "Aumentar a migração."],
+        "correta": 1,
+        "explicacao": "Malthus propunha o controle da natalidade."
+      },
+      {
+        "enunciado": "O que é a teoria neomalthusiana?",
+        "opcoes": ["Defende o aumento da natalidade.", "Defende o controle da natalidade nos países subdesenvolvidos para evitar a pobreza.", "Defende a migração.", "Defende a agricultura."],
+        "correta": 1,
+        "explicacao": "Os neomalthusianos pregam o controle da natalidade."
+      },
+      {
+        "enunciado": "O que é a teoria reformista?",
+        "opcoes": ["Defende o controle da natalidade.", "Defende que a pobreza é a causa da alta natalidade, e não o contrário.", "Defende o aumento da natalidade.", "Defende a migração."],
+        "correta": 1,
+        "explicacao": "Para os reformistas, a pobreza gera a superpopulação."
+      },
+      {
+        "enunciado": "Qual é a principal crítica à teoria malthusiana?",
+        "opcoes": ["Malthus não considerou o avanço tecnológico na agricultura.", "Malthus estava certo.", "Malthus era um político.", "Malthus não estudou a população."],
+        "correta": 0,
+        "explicacao": "A tecnologia aumentou a produção de alimentos."
+      },
+      {
+        "enunciado": "O que é a taxa de natalidade?",
+        "opcoes": ["O número de mortes por ano.", "O número de nascimentos por mil habitantes em um ano.", "A migração de pessoas.", "O número de idosos."],
+        "correta": 1,
+        "explicacao": "A natalidade mede os nascimentos."
+      },
+      {
+        "enunciado": "O que é a taxa de mortalidade?",
+        "opcoes": ["O número de nascimentos por ano.", "O número de mortes por mil habitantes em um ano.", "A migração de pessoas.", "O número de crianças."],
+        "correta": 1,
+        "explicacao": "A mortalidade mede os óbitos."
+      },
+      {
+        "enunciado": "O que é o crescimento natural ou vegetativo?",
+        "opcoes": ["A diferença entre nascimentos e mortes.", "A diferença entre imigrantes e emigrantes.", "O total de habitantes.", "A taxa de fecundidade."],
+        "correta": 0,
+        "explicacao": "O crescimento natural é a diferença entre natalidade e mortalidade."
+      },
+      {
+        "enunciado": "O que é a taxa de fecundidade?",
+        "opcoes": ["O número de filhos por mulher.", "O número de mortes de crianças.", "O número de casamentos.", "O número de idosos."],
+        "correta": 0,
+        "explicacao": "A fecundidade mede o número médio de filhos por mulher."
+      },
+      {
+        "enunciado": "Qual é a taxa de fecundidade considerada ideal para a reposição populacional?",
+        "opcoes": ["1 filho por mulher.", "2,1 filhos por mulher.", "5 filhos por mulher.", "10 filhos por mulher."],
+        "correta": 1,
+        "explicacao": "A taxa de reposição é de 2,1 filhos por mulher."
+      },
+      {
+        "enunciado": "O que é a expectativa de vida?",
+        "opcoes": ["A idade média que uma pessoa pode viver.", "O número de anos que uma pessoa já viveu.", "A taxa de natalidade.", "A taxa de mortalidade."],
+        "correta": 0,
+        "explicacao": "A expectativa de vida é a média de anos que se espera viver."
+      },
+      {
+        "enunciado": "O que é o IDH (Índice de Desenvolvimento Humano)?",
+        "opcoes": ["Um índice que mede a economia de um país.", "Um índice que mede a qualidade de vida da população.", "Um índice que mede a população.", "Um índice que mede a violência."],
+        "correta": 1,
+        "explicacao": "O IDH avalia renda, educação e saúde."
+      },
+      {
+        "enunciado": "O que é a transição demográfica?",
+        "opcoes": ["A mudança de um país de uma situação de alta natalidade e mortalidade para baixa natalidade e mortalidade.", "A migração de pessoas.", "O aumento da população.", "A diminuição da população."],
+        "correta": 0,
+        "explicacao": "A transição demográfica é a evolução das taxas populacionais."
+      },
+      {
+        "enunciado": "Quais são as fases da transição demográfica?",
+        "opcoes": ["Apenas uma fase.", "Duas fases.", "Quatro ou cinco fases.", "Dez fases."],
+        "correta": 2,
+        "explicacao": "A transição demográfica é dividida em fases."
+      },
+      {
+        "enunciado": "O que caracteriza a primeira fase da transição demográfica?",
+        "opcoes": ["Altas taxas de natalidade e mortalidade.", "Baixas taxas de natalidade e mortalidade.", "Apenas alta natalidade.", "Apenas alta mortalidade."],
+        "correta": 0,
+        "explicacao": "Na primeira fase, as taxas são altas."
+      },
+      {
+        "enunciado": "O que caracteriza a fase final da transição demográfica?",
+        "opcoes": ["Altas taxas de natalidade e mortalidade.", "Baixas taxas de natalidade e mortalidade.", "Apenas alta natalidade.", "Apenas alta mortalidade."],
+        "correta": 1,
+        "explicacao": "Na fase final, as taxas são baixas."
+      },
+      {
+        "enunciado": "O que é o envelhecimento populacional?",
+        "opcoes": ["O aumento da proporção de idosos na população.", "O aumento da proporção de crianças.", "A diminuição da população.", "O aumento da natalidade."],
+        "correta": 0,
+        "explicacao": "O envelhecimento é o aumento de idosos."
+      },
+      {
+        "enunciado": "Quais são as consequências do envelhecimento populacional?",
+        "opcoes": ["Aumento dos gastos com saúde e previdência.", "Aumento da natalidade.", "Diminuição da expectativa de vida.", "Aumento da população jovem."],
+        "correta": 0,
+        "explicacao": "O envelhecimento gera impactos sociais e econômicos."
+      },
+      {
+        "enunciado": "O que é a pirâmide etária?",
+        "opcoes": ["Um gráfico que mostra a distribuição da população por idade e sexo.", "Um gráfico que mostra a economia.", "Um gráfico que mostra a migração.", "Um gráfico que mostra o clima."],
+        "correta": 0,
+        "explicacao": "A pirâmide etária representa a estrutura populacional."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_geo_migracoes_01",
+    "titulo": "Geografia - Migrações e Movimentos Populacionais",
+    "tipo": "conteudo",
+    "icone": "✈️",
+    "perguntas": [
+      {
+        "enunciado": "O que é migração?",
+        "opcoes": ["O deslocamento de pessoas de um lugar para outro.", "A fixação de pessoas em um lugar.", "O crescimento populacional.", "A taxa de natalidade."],
+        "correta": 0,
+        "explicacao": "Migração é o movimento de pessoas."
+      },
+      {
+        "enunciado": "O que é emigração?",
+        "opcoes": ["A saída de pessoas de um país.", "A entrada de pessoas em um país.", "A migração interna.", "A migração pendular."],
+        "correta": 0,
+        "explicacao": "Emigrar é sair do país."
+      },
+      {
+        "enunciado": "O que é imigração?",
+        "opcoes": ["A saída de pessoas de um país.", "A entrada de pessoas em um país.", "A migração interna.", "A migração pendular."],
+        "correta": 1,
+        "explicacao": "Imigrar é entrar no país."
+      },
+      {
+        "enunciado": "O que é a migração pendular?",
+        "opcoes": ["O deslocamento diário de pessoas entre cidades (ex: trabalho).", "A migração definitiva.", "A migração internacional.", "A migração de animais."],
+        "correta": 0,
+        "explicacao": "A migração pendular é o vai e vem diário."
+      },
+      {
+        "enunciado": "O que é a migração sazonal?",
+        "opcoes": ["O deslocamento em determinadas épocas do ano (ex: colheita).", "A migração definitiva.", "A migração diária.", "A migração de animais."],
+        "correta": 0,
+        "explicacao": "A migração sazonal ocorre em épocas específicas."
+      },
+      {
+        "enunciado": "O que é a migração forçada?",
+        "opcoes": ["Quando a pessoa é obrigada a sair (ex: guerras, desastres).", "Quando a pessoa escolhe sair.", "A migração de animais.", "A migração pendular."],
+        "correta": 0,
+        "explicacao": "A migração forçada é involuntária."
+      },
+      {
+        "enunciado": "O que é a migração voluntária?",
+        "opcoes": ["Quando a pessoa é obrigada a sair.", "Quando a pessoa escolhe sair (ex: trabalho, estudo).", "A migração de animais.", "A migração pendular."],
+        "correta": 1,
+        "explicacao": "A migração voluntária é uma escolha."
+      },
+      {
+        "enunciado": "O que é a xenofobia?",
+        "opcoes": ["A aversão a estrangeiros.", "A aceitação de estrangeiros.", "A migração de animais.", "A migração pendular."],
+        "correta": 0,
+        "explicacao": "A xenofobia é o preconceito contra estrangeiros."
+      },
+      {
+        "enunciado": "Quais são as principais causas das migrações?",
+        "opcoes": ["Econômicas, políticas, ambientais e religiosas.", "Apenas econômicas.", "Apenas políticas.", "Apenas ambientais."],
+        "correta": 0,
+        "explicacao": "As migrações têm causas variadas."
+      },
+      {
+        "enunciado": "O que atrai migrantes para um local?",
+        "opcoes": ["Fatores de repulsão.", "Fatores de atração (emprego, segurança, etc.).", "A xenofobia.", "A guerra."],
+        "correta": 1,
+        "explicacao": "Os fatores de atração atraem migrantes."
+      },
+      {
+        "enunciado": "O que são fatores de repulsão?",
+        "opcoes": ["Fatores que atraem migrantes.", "Fatores que expulsam as pessoas (guerra, fome, etc.).", "A xenofobia.", "A migração pendular."],
+        "correta": 1,
+        "explicacao": "Os fatores de repulsão empurram as pessoas para fora."
+      },
+      {
+        "enunciado": "O que é a imigração no Brasil?",
+        "opcoes": ["A saída de brasileiros.", "A entrada de estrangeiros no Brasil.", "A migração interna.", "A migração pendular."],
+        "correta": 1,
+        "explicacao": "O Brasil recebeu muitos imigrantes ao longo da história."
+      },
+      {
+        "enunciado": "Quais foram os principais grupos de imigrantes no Brasil?",
+        "opcoes": ["Italianos, alemães, japoneses e portugueses.", "Apenas portugueses.", "Apenas italianos.", "Apenas japoneses."],
+        "correta": 0,
+        "explicacao": "O Brasil recebeu imigrantes de várias nacionalidades."
+      },
+      {
+        "enunciado": "O que é a migração interna no Brasil?",
+        "opcoes": ["A migração de brasileiros entre regiões do país.", "A entrada de estrangeiros.", "A saída de brasileiros.", "A migração de animais."],
+        "correta": 0,
+        "explicacao": "A migração interna é dentro do país."
+      },
+      {
+        "enunciado": "Quais são os principais fluxos migratórios internos no Brasil?",
+        "opcoes": ["Nordeste para o Sudeste (êxodo rural).", "Sudeste para o Norte.", "Sul para o Nordeste.", "Centro-Oeste para o Sul."],
+        "correta": 0,
+        "explicacao": "Muitos nordestinos migraram para o Sudeste em busca de trabalho."
+      },
+      {
+        "enunciado": "O que é o êxodo rural?",
+        "opcoes": ["A migração do campo para a cidade.", "A migração da cidade para o campo.", "A migração de animais.", "A migração internacional."],
+        "correta": 0,
+        "explicacao": "O êxodo rural é a saída do campo."
+      },
+      {
+        "enunciado": "O que é a migração de retorno?",
+        "opcoes": ["O retorno do migrante à sua terra natal.", "A migração de animais.", "A migração pendular.", "A migração sazonal."],
+        "correta": 0,
+        "explicacao": "A migração de retorno é a volta para casa."
+      },
+      {
+        "enunciado": "Quais são os impactos das migrações para os países de origem?",
+        "opcoes": ["Perda de mão de obra e envio de remessas.", "Aumento da população.", "Aumento da natalidade.", "Diminuição do IDH."],
+        "correta": 0,
+        "explicacao": "Os países de origem perdem trabalhadores, mas recebem remessas."
+      },
+      {
+        "enunciado": "Quais são os impactos das migrações para os países de destino?",
+        "opcoes": ["Aumento da mão de obra e diversidade cultural.", "Perda de população.", "Diminuição da natalidade.", "Aumento da xenofobia."],
+        "correta": 0,
+        "explicacao": "Os países de destino ganham mão de obra e cultura."
+      },
+      {
+        "enunciado": "O que é um refugiado?",
+        "opcoes": ["Alguém que migra por vontade própria.", "Alguém que foge de seu país por causa de guerra, perseguição ou desastres.", "Alguém que viaja a turismo.", "Alguém que trabalha no exterior."],
+        "correta": 1,
+        "explicacao": "Os refugiados fogem de situações de perigo."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_geo_distribuicao_populacional_01",
+    "titulo": "Geografia - Distribuição Populacional e Indicadores",
+    "tipo": "conteudo",
+    "icone": "📊",
+    "perguntas": [
+      {
+        "enunciado": "O que é densidade demográfica?",
+        "opcoes": ["A população total de um país.", "A distribuição da população por área (hab/km²).", "A taxa de natalidade.", "A taxa de mortalidade."],
+        "correta": 1,
+        "explicacao": "A densidade demográfica mede a concentração populacional."
+      },
+      {
+        "enunciado": "O que significa um país ser populoso?",
+        "opcoes": ["Ter uma grande população absoluta.", "Ter uma grande população relativa.", "Ter poucos habitantes.", "Ter uma área pequena."],
+        "correta": 0,
+        "explicacao": "Populoso é o país com grande população absoluta."
+      },
+      {
+        "enunciado": "O que significa um país ser povoado?",
+        "opcoes": ["Ter uma grande população absoluta.", "Ter uma grande população relativa (densidade).", "Ter poucos habitantes.", "Ter uma área pequena."],
+        "correta": 1,
+        "explicacao": "Povoado é o país com grande densidade demográfica."
+      },
+      {
+        "enunciado": "O Brasil é um país populoso ou povoado?",
+        "opcoes": ["Populoso.", "Povoado.", "As duas coisas.", "Nenhuma das duas."],
+        "correta": 0,
+        "explicacao": "O Brasil é populoso, mas não é muito povoado."
+      },
+      {
+        "enunciado": "O que é o IDH?",
+        "opcoes": ["Índice de Desenvolvimento Humano.", "Índice de Desenvolvimento Habitacional.", "Imposto de Desenvolvimento Humano.", "Índice de Desigualdade Humana."],
+        "correta": 0,
+        "explicacao": "O IDH mede a qualidade de vida."
+      },
+      {
+        "enunciado": "Quais são os três pilares do IDH?",
+        "opcoes": ["Renda, educação e saúde.", "Apenas renda.", "Apenas educação.", "Apenas saúde."],
+        "correta": 0,
+        "explicacao": "O IDH avalia renda, educação e saúde."
+      },
+      {
+        "enunciado": "O que é a taxa de mortalidade infantil?",
+        "opcoes": ["O número de mortes de crianças com menos de 1 ano por mil nascidos vivos.", "O número de nascimentos.", "O número de idosos.", "A taxa de fecundidade."],
+        "correta": 0,
+        "explicacao": "A mortalidade infantil mede as mortes de crianças."
+      },
+      {
+        "enunciado": "O que é a expectativa de vida?",
+        "opcoes": ["A idade média que uma pessoa pode viver.", "O número de anos que uma pessoa já viveu.", "A taxa de natalidade.", "A taxa de mortalidade."],
+        "correta": 0,
+        "explicacao": "A expectativa de vida é a média de anos que se espera viver."
+      },
+      {
+        "enunciado": "O que é a taxa de fecundidade?",
+        "opcoes": ["O número de filhos por mulher.", "O número de mortes de crianças.", "O número de casamentos.", "O número de idosos."],
+        "correta": 0,
+        "explicacao": "A fecundidade mede o número médio de filhos por mulher."
+      },
+      {
+        "enunciado": "Qual é a taxa de fecundidade considerada ideal para a reposição populacional?",
+        "opcoes": ["1 filho por mulher.", "2,1 filhos por mulher.", "5 filhos por mulher.", "10 filhos por mulher."],
+        "correta": 1,
+        "explicacao": "A taxa de reposição é de 2,1 filhos por mulher."
+      },
+      {
+        "enunciado": "O que é a transição demográfica?",
+        "opcoes": ["A mudança de um país de uma situação de alta natalidade e mortalidade para baixa natalidade e mortalidade.", "A migração de pessoas.", "O aumento da população.", "A diminuição da população."],
+        "correta": 0,
+        "explicacao": "A transição demográfica é a evolução das taxas populacionais."
+      },
+      {
+        "enunciado": "Quais são as fases da transição demográfica?",
+        "opcoes": ["Apenas uma fase.", "Duas fases.", "Quatro ou cinco fases.", "Dez fases."],
+        "correta": 2,
+        "explicacao": "A transição demográfica é dividida em fases."
+      },
+      {
+        "enunciado": "O que caracteriza a primeira fase da transição demográfica?",
+        "opcoes": ["Altas taxas de natalidade e mortalidade.", "Baixas taxas de natalidade e mortalidade.", "Apenas alta natalidade.", "Apenas alta mortalidade."],
+        "correta": 0,
+        "explicacao": "Na primeira fase, as taxas são altas."
+      },
+      {
+        "enunciado": "O que caracteriza a fase final da transição demográfica?",
+        "opcoes": ["Altas taxas de natalidade e mortalidade.", "Baixas taxas de natalidade e mortalidade.", "Apenas alta natalidade.", "Apenas alta mortalidade."],
+        "correta": 1,
+        "explicacao": "Na fase final, as taxas são baixas."
+      },
+      {
+        "enunciado": "O que é o envelhecimento populacional?",
+        "opcoes": ["O aumento da proporção de idosos na população.", "O aumento da proporção de crianças.", "A diminuição da população.", "O aumento da natalidade."],
+        "correta": 0,
+        "explicacao": "O envelhecimento é o aumento de idosos."
+      },
+      {
+        "enunciado": "Quais são as consequências do envelhecimento populacional?",
+        "opcoes": ["Aumento dos gastos com saúde e previdência.", "Aumento da natalidade.", "Diminuição da expectativa de vida.", "Aumento da população jovem."],
+        "correta": 0,
+        "explicacao": "O envelhecimento gera impactos sociais e econômicos."
+      },
+      {
+        "enunciado": "O que é a pirâmide etária?",
+        "opcoes": ["Um gráfico que mostra a distribuição da população por idade e sexo.", "Um gráfico que mostra a economia.", "Um gráfico que mostra a migração.", "Um gráfico que mostra o clima."],
+        "correta": 0,
+        "explicacao": "A pirâmide etária representa a estrutura populacional."
+      },
+      {
+        "enunciado": "O que indica uma base larga na pirâmide etária?",
+        "opcoes": ["Alta natalidade.", "Baixa natalidade.", "Alta mortalidade.", "Envelhecimento."],
+        "correta": 0,
+        "explicacao": "Base larga indica muitos jovens."
+      },
+      {
+        "enunciado": "O que indica um topo largo na pirâmide etária?",
+        "opcoes": ["Alta natalidade.", "Baixa natalidade.", "População envelhecida.", "População jovem."],
+        "correta": 2,
+        "explicacao": "Topo largo indica muitos idosos."
+      },
+      {
+        "enunciado": "Qual é o país mais populoso do mundo?",
+        "opcoes": ["China.", "Índia.", "EUA.", "Brasil."],
+        "correta": 1,
+        "explicacao": "A Índia se tornou o país mais populoso."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_geo_antartica_01",
+    "titulo": "Geografia - O Continente Antártico",
+    "tipo": "conteudo",
+    "icone": "🧊",
+    "perguntas": [
+      {
+        "enunciado": "O que é a Antártida?",
+        "opcoes": ["O continente mais ao norte do planeta.", "O continente mais ao sul do planeta.", "Um oceano.", "Uma ilha."],
+        "correta": 1,
+        "explicacao": "A Antártida é o continente mais austral."
+      },
+      {
+        "enunciado": "Qual é a principal característica climática da Antártida?",
+        "opcoes": ["Clima tropical.", "Clima desértico.", "Clima polar, com temperaturas extremamente baixas.", "Clima temperado."],
+        "correta": 2,
+        "explicacao": "A Antártida é o continente mais frio do planeta."
+      },
+      {
+        "enunciado": "Qual é a porcentagem da Antártida coberta por gelo?",
+        "opcoes": ["Cerca de 50%.", "Cerca de 80%.", "Cerca de 20%.", "Cerca de 10%."],
+        "correta": 1,
+        "explicacao": "Cerca de 80% da Antártida é coberta por gelo."
+      },
+      {
+        "enunciado": "O que é o Tratado da Antártida?",
+        "opcoes": ["Um acordo que permite a exploração de petróleo.", "Um acordo que reserva a Antártida para pesquisas científicas e proíbe atividades militares.", "Um acordo que permite a mineração.", "Um acordo que permite a caça de animais."],
+        "correta": 1,
+        "explicacao": "O Tratado reserva a Antártida para a ciência."
+      },
+      {
+        "enunciado": "Quais são os principais animais da Antártida?",
+        "opcoes": ["Pinguins, focas e baleias.", "Leões, tigres e girafas.", "Cangurus e coalas.", "Ursos polares e raposas."],
+        "correta": 0,
+        "explicacao": "A fauna antártica é adaptada ao frio extremo."
+      },
+      {
+        "enunciado": "O que são os pinguins na Antártida?",
+        "opcoes": ["Aves que não voam, mas nadam muito bem.", "Mamíferos.", "Peixes.", "Répteis."],
+        "correta": 0,
+        "explicacao": "Os pinguins são aves marinhas."
+      },
+      {
+        "enunciado": "Qual é a principal ameaça à Antártida?",
+        "opcoes": ["O aquecimento global e o derretimento das geleiras.", "A caça de pinguins.", "A mineração.", "A poluição do ar."],
+        "correta": 0,
+        "explicacao": "O aquecimento global derrete as geleiras."
+      },
+      {
+        "enunciado": "O que é a Antártida?",
+        "opcoes": ["O continente mais ao norte do planeta.", "O continente mais ao sul do planeta.", "Um oceano.", "Uma ilha."],
+        "correta": 1,
+        "explicacao": "A Antártida é o continente mais austral."
+      },
+      {
+        "enunciado": "Qual é a principal característica climática da Antártida?",
+        "opcoes": ["Clima tropical.", "Clima desértico.", "Clima polar, com temperaturas extremamente baixas.", "Clima temperado."],
+        "correta": 2,
+        "explicacao": "A Antártida é o continente mais frio do planeta."
+      },
+      {
+        "enunciado": "Qual é a porcentagem da Antártida coberta por gelo?",
+        "opcoes": ["Cerca de 50%.", "Cerca de 80%.", "Cerca de 20%.", "Cerca de 10%."],
+        "correta": 1,
+        "explicacao": "Cerca de 80% da Antártida é coberta por gelo."
+      },
+      {
+        "enunciado": "O que é o Tratado da Antártida?",
+        "opcoes": ["Um acordo que permite a exploração de petróleo.", "Um acordo que reserva a Antártida para pesquisas científicas e proíbe atividades militares.", "Um acordo que permite a mineração.", "Um acordo que permite a caça de animais."],
+        "correta": 1,
+        "explicacao": "O Tratado reserva a Antártida para a ciência."
+      },
+      {
+        "enunciado": "Quais são os principais animais da Antártida?",
+        "opcoes": ["Pinguins, focas e baleias.", "Leões, tigres e girafas.", "Cangurus e coalas.", "Ursos polares e raposas."],
+        "correta": 0,
+        "explicacao": "A fauna antártica é adaptada ao frio extremo."
+      },
+      {
+        "enunciado": "O que são os pinguins na Antártida?",
+        "opcoes": ["Aves que não voam, mas nadam muito bem.", "Mamíferos.", "Peixes.", "Répteis."],
+        "correta": 0,
+        "explicacao": "Os pinguins são aves marinhas."
+      },
+      {
+        "enunciado": "Qual é a principal ameaça à Antártida?",
+        "opcoes": ["O aquecimento global e o derretimento das geleiras.", "A caça de pinguins.", "A mineração.", "A poluição do ar."],
+        "correta": 0,
+        "explicacao": "O aquecimento global derrete as geleiras."
+      },
+      {
+        "enunciado": "O que é a Antártida?",
+        "opcoes": ["O continente mais ao norte do planeta.", "O continente mais ao sul do planeta.", "Um oceano.", "Uma ilha."],
+        "correta": 1,
+        "explicacao": "A Antártida é o continente mais austral."
+      },
+      {
+        "enunciado": "Qual é a principal característica climática da Antártida?",
+        "opcoes": ["Clima tropical.", "Clima desértico.", "Clima polar, com temperaturas extremamente baixas.", "Clima temperado."],
+        "correta": 2,
+        "explicacao": "A Antártida é o continente mais frio do planeta."
+      },
+      {
+        "enunciado": "Qual é a porcentagem da Antártida coberta por gelo?",
+        "opcoes": ["Cerca de 50%.", "Cerca de 80%.", "Cerca de 20%.", "Cerca de 10%."],
+        "correta": 1,
+        "explicacao": "Cerca de 80% da Antártida é coberta por gelo."
+      },
+      {
+        "enunciado": "O que é o Tratado da Antártida?",
+        "opcoes": ["Um acordo que permite a exploração de petróleo.", "Um acordo que reserva a Antártida para pesquisas científicas e proíbe atividades militares.", "Um acordo que permite a mineração.", "Um acordo que permite a caça de animais."],
+        "correta": 1,
+        "explicacao": "O Tratado reserva a Antártida para a ciência."
+      },
+      {
+        "enunciado": "Quais são os principais animais da Antártida?",
+        "opcoes": ["Pinguins, focas e baleias.", "Leões, tigres e girafas.", "Cangurus e coalas.", "Ursos polares e raposas."],
+        "correta": 0,
+        "explicacao": "A fauna antártica é adaptada ao frio extremo."
+      },
+      {
+        "enunciado": "O que são os pinguins na Antártida?",
+        "opcoes": ["Aves que não voam, mas nadam muito bem.", "Mamíferos.", "Peixes.", "Répteis."],
+        "correta": 0,
+        "explicacao": "Os pinguins são aves marinhas."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_geo_demografia_brasil_01",
+    "titulo": "Geografia - Demografia e Indicadores do Brasil",
+    "tipo": "conteudo",
+    "icone": "🇧🇷",
+    "perguntas": [
+      {
+        "enunciado": "O que é a densidade demográfica?",
+        "opcoes": ["A população total de um país.", "A distribuição da população por área (hab/km²).", "A taxa de natalidade.", "A taxa de mortalidade."],
+        "correta": 1,
+        "explicacao": "A densidade demográfica mede a concentração populacional."
+      },
+      {
+        "enunciado": "O que significa um país ser populoso?",
+        "opcoes": ["Ter uma grande população absoluta.", "Ter uma grande população relativa.", "Ter poucos habitantes.", "Ter uma área pequena."],
+        "correta": 0,
+        "explicacao": "Populoso é o país com grande população absoluta."
+      },
+      {
+        "enunciado": "O que significa um país ser povoado?",
+        "opcoes": ["Ter uma grande população absoluta.", "Ter uma grande população relativa (densidade).", "Ter poucos habitantes.", "Ter uma área pequena."],
+        "correta": 1,
+        "explicacao": "Povoado é o país com grande densidade demográfica."
+      },
+      {
+        "enunciado": "O Brasil é um país populoso ou povoado?",
+        "opcoes": ["Populoso.", "Povoado.", "As duas coisas.", "Nenhuma das duas."],
+        "correta": 0,
+        "explicacao": "O Brasil é populoso, mas não é muito povoado."
+      },
+      {
+        "enunciado": "O que é o IDH?",
+        "opcoes": ["Índice de Desenvolvimento Humano.", "Índice de Desenvolvimento Habitacional.", "Imposto de Desenvolvimento Humano.", "Índice de Desigualdade Humana."],
+        "correta": 0,
+        "explicacao": "O IDH mede a qualidade de vida."
+      },
+      {
+        "enunciado": "Quais são os três pilares do IDH?",
+        "opcoes": ["Renda, educação e saúde.", "Apenas renda.", "Apenas educação.", "Apenas saúde."],
+        "correta": 0,
+        "explicacao": "O IDH avalia renda, educação e saúde."
+      },
+      {
+        "enunciado": "O que é a taxa de mortalidade infantil?",
+        "opcoes": ["O número de mortes de crianças com menos de 1 ano por mil nascidos vivos.", "O número de nascimentos.", "O número de idosos.", "A taxa de fecundidade."],
+        "correta": 0,
+        "explicacao": "A mortalidade infantil mede as mortes de crianças."
+      },
+      {
+        "enunciado": "O que é a expectativa de vida?",
+        "opcoes": ["A idade média que uma pessoa pode viver.", "O número de anos que uma pessoa já viveu.", "A taxa de natalidade.", "A taxa de mortalidade."],
+        "correta": 0,
+        "explicacao": "A expectativa de vida é a média de anos que se espera viver."
+      },
+      {
+        "enunciado": "O que é a taxa de fecundidade?",
+        "opcoes": ["O número de filhos por mulher.", "O número de mortes de crianças.", "O número de casamentos.", "O número de idosos."],
+        "correta": 0,
+        "explicacao": "A fecundidade mede o número médio de filhos por mulher."
+      },
+      {
+        "enunciado": "Qual é a taxa de fecundidade considerada ideal para a reposição populacional?",
+        "opcoes": ["1 filho por mulher.", "2,1 filhos por mulher.", "5 filhos por mulher.", "10 filhos por mulher."],
+        "correta": 1,
+        "explicacao": "A taxa de reposição é de 2,1 filhos por mulher."
+      },
+      {
+        "enunciado": "O que é a transição demográfica?",
+        "opcoes": ["A mudança de um país de uma situação de alta natalidade e mortalidade para baixa natalidade e mortalidade.", "A migração de pessoas.", "O aumento da população.", "A diminuição da população."],
+        "correta": 0,
+        "explicacao": "A transição demográfica é a evolução das taxas populacionais."
+      },
+      {
+        "enunciado": "Quais são as fases da transição demográfica?",
+        "opcoes": ["Apenas uma fase.", "Duas fases.", "Quatro ou cinco fases.", "Dez fases."],
+        "correta": 2,
+        "explicacao": "A transição demográfica é dividida em fases."
+      },
+      {
+        "enunciado": "O que caracteriza a primeira fase da transição demográfica?",
+        "opcoes": ["Altas taxas de natalidade e mortalidade.", "Baixas taxas de natalidade e mortalidade.", "Apenas alta natalidade.", "Apenas alta mortalidade."],
+        "correta": 0,
+        "explicacao": "Na primeira fase, as taxas são altas."
+      },
+      {
+        "enunciado": "O que caracteriza a fase final da transição demográfica?",
+        "opcoes": ["Altas taxas de natalidade e mortalidade.", "Baixas taxas de natalidade e mortalidade.", "Apenas alta natalidade.", "Apenas alta mortalidade."],
+        "correta": 1,
+        "explicacao": "Na fase final, as taxas são baixas."
+      },
+      {
+        "enunciado": "O que é o envelhecimento populacional?",
+        "opcoes": ["O aumento da proporção de idosos na população.", "O aumento da proporção de crianças.", "A diminuição da população.", "O aumento da natalidade."],
+        "correta": 0,
+        "explicacao": "O envelhecimento é o aumento de idosos."
+      },
+      {
+        "enunciado": "Quais são as consequências do envelhecimento populacional?",
+        "opcoes": ["Aumento dos gastos com saúde e previdência.", "Aumento da natalidade.", "Diminuição da expectativa de vida.", "Aumento da população jovem."],
+        "correta": 0,
+        "explicacao": "O envelhecimento gera impactos sociais e econômicos."
+      },
+      {
+        "enunciado": "O que é a pirâmide etária?",
+        "opcoes": ["Um gráfico que mostra a distribuição da população por idade e sexo.", "Um gráfico que mostra a economia.", "Um gráfico que mostra a migração.", "Um gráfico que mostra o clima."],
+        "correta": 0,
+        "explicacao": "A pirâmide etária representa a estrutura populacional."
+      },
+      {
+        "enunciado": "O que indica uma base larga na pirâmide etária?",
+        "opcoes": ["Alta natalidade.", "Baixa natalidade.", "Alta mortalidade.", "Envelhecimento."],
+        "correta": 0,
+        "explicacao": "Base larga indica muitos jovens."
+      },
+      {
+        "enunciado": "O que indica um topo largo na pirâmide etária?",
+        "opcoes": ["Alta natalidade.", "Baixa natalidade.", "População envelhecida.", "População jovem."],
+        "correta": 2,
+        "explicacao": "Topo largo indica muitos idosos."
+      },
+      {
+        "enunciado": "Qual é o país mais populoso do mundo?",
+        "opcoes": ["China.", "Índia.", "EUA.", "Brasil."],
+        "correta": 1,
+        "explicacao": "A Índia se tornou o país mais populoso."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_geo_populacao_economia_01",
+    "titulo": "Geografia - População e Economia",
+    "tipo": "conteudo",
+    "icone": "💼",
+    "perguntas": [
+      {
+        "enunciado": "O que é a População Economicamente Ativa (PEA)?",
+        "opcoes": ["A população que está empregada ou procurando emprego.", "A população de idosos.", "A população de crianças.", "A população total."],
+        "correta": 0,
+        "explicacao": "A PEA é a população economicamente ativa."
+      },
+      {
+        "enunciado": "O que é a taxa de desemprego?",
+        "opcoes": ["A porcentagem da população que está desempregada.", "A porcentagem da população que está empregada.", "A taxa de natalidade.", "A taxa de mortalidade."],
+        "correta": 0,
+        "explicacao": "A taxa de desemprego mede a falta de trabalho."
+      },
+      {
+        "enunciado": "O que é o setor primário da economia?",
+        "opcoes": ["Agricultura, pecuária e extrativismo.", "Indústria.", "Serviços.", "Comércio."],
+        "correta": 0,
+        "explicacao": "O setor primário é a base da economia."
+      },
+      {
+        "enunciado": "O que é o setor secundário da economia?",
+        "opcoes": ["Agricultura.", "Indústria.", "Serviços.", "Comércio."],
+        "correta": 1,
+        "explicacao": "O setor secundário é a indústria."
+      },
+      {
+        "enunciado": "O que é o setor terciário da economia?",
+        "opcoes": ["Agricultura.", "Indústria.", "Serviços e comércio.", "Extrativismo."],
+        "correta": 2,
+        "explicacao": "O setor terciário é o de serviços."
+      },
+      {
+        "enunciado": "O que é o êxodo rural?",
+        "opcoes": ["A migração do campo para a cidade.", "A migração da cidade para o campo.", "A migração de animais.", "A migração internacional."],
+        "correta": 0,
+        "explicacao": "O êxodo rural é a saída do campo."
+      },
+      {
+        "enunciado": "O que é a urbanização?",
+        "opcoes": ["O aumento da população urbana.", "O aumento da população rural.", "A diminuição da população.", "A migração de animais."],
+        "correta": 0,
+        "explicacao": "A urbanização é o crescimento das cidades."
+      },
+      {
+        "enunciado": "O que é a metropolização?",
+        "opcoes": ["O crescimento das metrópoles.", "O crescimento das cidades pequenas.", "A diminuição da população.", "A migração de animais."],
+        "correta": 0,
+        "explicacao": "A metropolização é o crescimento das grandes cidades."
+      },
+      {
+        "enunciado": "O que são os problemas urbanos?",
+        "opcoes": ["Favelas, falta de saneamento, violência, etc.", "Apenas a poluição.", "Apenas o trânsito.", "Apenas a falta de moradia."],
+        "correta": 0,
+        "explicacao": "As cidades enfrentam diversos problemas."
+      },
+      {
+        "enunciado": "O que é a segregação socioespacial?",
+        "opcoes": ["A separação de grupos sociais no espaço urbano.", "A união de grupos sociais.", "A migração de animais.", "A diminuição da população."],
+        "correta": 0,
+        "explicacao": "A segregação separa ricos e pobres no espaço."
+      },
+      {
+        "enunciado": "O que é a gentrificação?",
+        "opcoes": ["A transformação de áreas pobres em áreas valorizadas.", "A transformação de áreas ricas em áreas pobres.", "A migração de animais.", "A diminuição da população."],
+        "correta": 0,
+        "explicacao": "A gentrificação valoriza áreas centrais."
+      },
+      {
+        "enunciado": "O que é a agricultura familiar?",
+        "opcoes": ["A agricultura praticada por pequenos produtores.", "A agricultura em larga escala.", "A agricultura industrial.", "A agricultura de exportação."],
+        "correta": 0,
+        "explicacao": "A agricultura familiar é de pequeno porte."
+      },
+      {
+        "enunciado": "O que é o agronegócio?",
+        "opcoes": ["A agricultura em larga escala, voltada para a exportação.", "A agricultura familiar.", "A agricultura de subsistência.", "A agricultura orgânica."],
+        "correta": 0,
+        "explicacao": "O agronegócio é a produção em larga escala."
+      },
+      {
+        "enunciado": "Quais são os impactos ambientais da agricultura?",
+        "opcoes": ["Desmatamento, poluição do solo e da água.", "Apenas o desmatamento.", "Apenas a poluição.", "Nenhum impacto."],
+        "correta": 0,
+        "explicacao": "A agricultura pode causar impactos ambientais."
+      },
+      {
+        "enunciado": "O que é a sustentabilidade?",
+        "opcoes": ["Atender às necessidades atuais sem comprometer as futuras.", "Explorar tudo agora.", "Não usar recursos.", "Apenas crescer."],
+        "correta": 0,
+        "explicacao": "A sustentabilidade busca o equilíbrio."
+      },
+      {
+        "enunciado": "O que é a pegada ecológica?",
+        "opcoes": ["A medida do impacto do consumo humano sobre a natureza.", "Uma marca de sapato.", "Um tipo de energia.", "Uma lei."],
+        "correta": 0,
+        "explicacao": "A pegada ecológica mede o impacto ambiental."
+      },
+      {
+        "enunciado": "O que é a reciclagem?",
+        "opcoes": ["O processo de transformar resíduos em novos produtos.", "Jogar lixo no rio.", "Queimar lixo.", "Enterrar lixo."],
+        "correta": 0,
+        "explicacao": "A reciclagem reduz o consumo de recursos."
+      },
+      {
+        "enunciado": "O que é a coleta seletiva?",
+        "opcoes": ["A separação do lixo para reciclagem.", "Jogar lixo no rio.", "Queimar lixo.", "Enterrar lixo."],
+        "correta": 0,
+        "explicacao": "A coleta seletiva facilita a reciclagem."
+      },
+      {
+        "enunciado": "O que é a educação ambiental?",
+        "opcoes": ["Conscientizar para práticas sustentáveis.", "Aumentar o consumo.", "Poluir mais.", "Não tem importância."],
+        "correta": 0,
+        "explicacao": "A educação ambiental transforma hábitos."
+      },
+      {
+        "enunciado": "Qual é o papel das ONGs ambientais?",
+        "opcoes": ["Fiscalizar e propor soluções ambientais.", "Explorar recursos.", "Construir usinas.", "Vender energia."],
+        "correta": 0,
+        "explicacao": "As ONGs atuam na proteção e conscientização."
+      }
+    ]
+  }
+]
