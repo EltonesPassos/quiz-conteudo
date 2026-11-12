@@ -1,1 +1,770 @@
-[]
+[
+  {
+    "id": "8ano_v2_art_arte_urbana_01",
+    "titulo": "Arte - Arte Urbana",
+    "tipo": "conteudo",
+    "icone": "🏙️",
+    "perguntas": [
+      {
+        "enunciado": "O que é Arte Urbana?",
+        "opcoes": ["Arte feita apenas em museus.", "Manifestações artísticas realizadas em espaços públicos urbanos.", "Arte feita apenas com tintas a óleo.", "Arte criada por robôs."],
+        "correta": 1,
+        "explicacao": "A arte urbana se apropria de muros, ruas e praças."
+      },
+      {
+        "enunciado": "A Arte Urbana é considerada uma arte:",
+        "opcoes": ["Exclusiva da elite.", "Apenas decorativa.", "Marginalizada em alguns momentos, mas com grande expressão social.", "Feita apenas em galerias."],
+        "correta": 2,
+        "explicacao": "A arte urbana muitas vezes desafia as normas e ocupa as ruas."
+      },
+      {
+        "enunciado": "Quais são elementos comuns na Arte Urbana?",
+        "opcoes": ["Tintas e pincéis finos.", "Elementos das artes visuais, como imagens, letras e pichações.", "Apenas esculturas de mármore.", "Apenas fotografias."],
+        "correta": 1,
+        "explicacao": "A arte urbana mistura imagens, palavras e intervenções."
+      },
+      {
+        "enunciado": "O que é o grafite?",
+        "opcoes": ["Uma técnica de pintura em telas.", "Uma manifestação artística urbana feita em muros e paredes.", "Uma escultura de metal.", "Uma dança."],
+        "correta": 1,
+        "explicacao": "O grafite é uma expressão visual urbana."
+      },
+      {
+        "enunciado": "O grafite tem uma história que se confunde com:",
+        "opcoes": ["A pintura clássica.", "A pichação e a contestação social.", "A fotografia.", "O cinema."],
+        "correta": 1,
+        "explicacao": "O grafite se desenvolveu junto com movimentos de contestação."
+      },
+      {
+        "enunciado": "Em Nova York, o grafite se tornou uma forma de:",
+        "opcoes": ["Decoração de shoppings.", "Expressão política e social.", "Publicidade.", "Arte de museu."],
+        "correta": 1,
+        "explicacao": "Em NY, o grafite foi usado para manifestações sociais."
+      },
+      {
+        "enunciado": "O que é a técnica do 'stencil'?",
+        "opcoes": ["Uma pintura à mão livre.", "Uma técnica de recorte e pintura com moldes.", "Uma escultura em pedra.", "Uma técnica de colagem."],
+        "correta": 1,
+        "explicacao": "O stencil usa moldes vazados para aplicar tinta."
+      },
+      {
+        "enunciado": "Qual artista é conhecido pelo uso do stencil e por obras como 'Menina com Balão'?",
+        "opcoes": ["Banksy.", "Romero Britto.", "Tarsila do Amaral.", "Candido Portinari."],
+        "correta": 0,
+        "explicacao": "Banksy é um famoso artista de rua britânico."
+      },
+      {
+        "enunciado": "O que a arte de Banksy costuma transmitir?",
+        "opcoes": ["Apenas beleza estética.", "Mensagens de crítica social e política.", "Apenas paisagens.", "Apenas retratos de famosos."],
+        "correta": 1,
+        "explicacao": "Banksy usa a arte para criticar a sociedade."
+      },
+      {
+        "enunciado": "A pichação é diferente do grafite porque:",
+        "opcoes": ["É considerada arte.", "Muitas vezes é vista como vandalismo.", "É feita apenas com pincéis.", "É feita em galerias."],
+        "correta": 1,
+        "explicacao": "A pichação pode ser vista como ato de vandalismo dependendo do contexto."
+      },
+      {
+        "enunciado": "Em que década o grafite se popularizou no Brasil?",
+        "opcoes": ["Década de 1950.", "Década de 1970.", "Década de 1990.", "Década de 2000."],
+        "correta": 1,
+        "explicacao": "O grafite se popularizou no Brasil nos anos 1970."
+      },
+      {
+        "enunciado": "O grafite e a arte urbana frequentemente ocupam:",
+        "opcoes": ["Museus.", "Espaços públicos, como muros e paredes.", "Escolas.", "Bibliotecas."],
+        "correta": 1,
+        "explicacao": "A arte urbana ocupa as ruas."
+      },
+      {
+        "enunciado": "O que é lambe-lambe?",
+        "opcoes": ["Um tipo de cartaz colado em muros.", "Uma dança.", "Um tipo de grafite.", "Um instrumento musical."],
+        "correta": 0,
+        "explicacao": "O lambe-lambe é um cartaz artístico colado nas ruas."
+      },
+      {
+        "enunciado": "Qual é a relação entre a Arte Urbana e a sociedade?",
+        "opcoes": ["Apenas decorativa.", "Reflete problemas e questões sociais.", "Não tem relação.", "É feita apenas por artistas famosos."],
+        "correta": 1,
+        "explicacao": "A arte urbana expressa opiniões e questões sociais."
+      },
+      {
+        "enunciado": "O que é a arte do grafite em relação à acessibilidade?",
+        "opcoes": ["É acessível apenas a ricos.", "É acessível a todos, pois está nas ruas.", "É feita apenas em galerias.", "É apenas digital."],
+        "correta": 1,
+        "explicacao": "A arte urbana está disponível para todos."
+      },
+      {
+        "enunciado": "O que é um 'mural' de grafite?",
+        "opcoes": ["Uma obra de arte em grande escala em um muro.", "Um tipo de escultura.", "Uma pintura a óleo.", "Um desenho em papel."],
+        "correta": 0,
+        "explicacao": "Murais são pinturas grandes em paredes."
+      },
+      {
+        "enunciado": "Quais são os materiais comuns na arte urbana?",
+        "opcoes": ["Spray, stencil, lambe-lambe.", "Mármore e bronze.", "Tinta a óleo.", "Aquarela."],
+        "correta": 0,
+        "explicacao": "Spray, stencil e cartazes são comuns."
+      },
+      {
+        "enunciado": "O que é a arte do grafite em relação à política?",
+        "opcoes": ["É sempre neutra.", "Pode ser uma forma de protesto político.", "É proibida.", "Não existe."],
+        "correta": 1,
+        "explicacao": "O grafite pode expressar opiniões políticas."
+      },
+      {
+        "enunciado": "A arte urbana é considerada:",
+        "opcoes": ["Uma forma de expressão contemporânea.", "Uma arte do passado.", "Uma arte apenas decorativa.", "Uma arte apenas para museus."],
+        "correta": 0,
+        "explicacao": "A arte urbana é uma manifestação contemporânea."
+      },
+      {
+        "enunciado": "Quem consome a arte urbana?",
+        "opcoes": ["Apenas críticos de arte.", "Apenas turistas.", "Qualquer pessoa que passe pelas ruas.", "Apenas artistas."],
+        "correta": 2,
+        "explicacao": "A arte urbana está exposta a todos."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_art_grafite_pichacao_01",
+    "titulo": "Arte - Grafite e Pichação",
+    "tipo": "conteudo",
+    "icone": "🎨",
+    "perguntas": [
+      {
+        "enunciado": "Qual é a principal diferença entre grafite e pichação?",
+        "opcoes": ["O grafite é considerado arte; a pichação é vista como vandalismo por muitos.", "A pichação é arte; o grafite é vandalismo.", "São a mesma coisa.", "O grafite é feito apenas com pincéis."],
+        "correta": 0,
+        "explicacao": "A pichação é mais associada a intervenções não autorizadas."
+      },
+      {
+        "enunciado": "O grafite geralmente tem um caráter:",
+        "opcoes": ["Apenas decorativo.", "Artístico e muitas vezes crítico.", "Apenas comercial.", "Apenas publicitário."],
+        "correta": 1,
+        "explicacao": "O grafite expressa ideias e críticas."
+      },
+      {
+        "enunciado": "A pichação é frequentemente associada a:",
+        "opcoes": ["Galeria de arte.", "Protestos e manifestações urbanas.", "Museus.", "Escolas."],
+        "correta": 1,
+        "explicacao": "A pichação é usada para marcar território ou protestar."
+      },
+      {
+        "enunciado": "O grafite pode ser considerado uma forma de:",
+        "opcoes": ["Comunicação visual.", "Poluição.", "Publicidade.", "Arte clássica."],
+        "correta": 0,
+        "explicacao": "O grafite comunica visualmente."
+      },
+      {
+        "enunciado": "Ambos, grafite e pichação, usam principalmente qual material?",
+        "opcoes": ["Tinta a óleo.", "Spray.", "Aquarela.", "Giz de cera."],
+        "correta": 1,
+        "explicacao": "O spray é o principal material."
+      },
+      {
+        "enunciado": "O que é 'tag' na pichação?",
+        "opcoes": ["Uma assinatura do pichador.", "Uma técnica de pintura.", "Um tipo de grafite.", "Um material."],
+        "correta": 0,
+        "explicacao": "A tag é a assinatura do artista."
+      },
+      {
+        "enunciado": "O grafite no Brasil ganhou destaque a partir de qual década?",
+        "opcoes": ["1950.", "1970.", "1990.", "2010."],
+        "correta": 1,
+        "explicacao": "O grafite brasileiro se destacou a partir dos anos 1970."
+      },
+      {
+        "enunciado": "O grafite e a pichação são formas de:",
+        "opcoes": ["Arte de rua.", "Arte de museu.", "Arte clássica.", "Arte digital."],
+        "correta": 0,
+        "explicacao": "São manifestações da arte de rua."
+      },
+      {
+        "enunciado": "Qual artista brasileiro é famoso pelo grafite?",
+        "opcoes": ["Kobra.", "Tarsila do Amaral.", "Candido Portinari.", "Romero Britto."],
+        "correta": 0,
+        "explicacao": "Kobra é um dos principais nomes do grafite brasileiro."
+      },
+      {
+        "enunciado": "As obras de grafite podem ser vistas em:",
+        "opcoes": ["Muros e paredes.", "Apenas em telas.", "Apenas em museus.", "Apenas em livros."],
+        "correta": 0,
+        "explicacao": "O grafite ocupa as ruas."
+      },
+      {
+        "enunciado": "O grafite pode ser uma ferramenta de:",
+        "opcoes": ["Transformação social.", "Destruição.", "Poluição.", "Isolamento."],
+        "correta": 0,
+        "explicacao": "O grafite pode conscientizar e transformar."
+      },
+      {
+        "enunciado": "A pichação é vista como arte por todos?",
+        "opcoes": ["Sim, por todos.", "Não, é vista como vandalismo por muitos.", "Sim, apenas em museus.", "Não, é proibida."],
+        "correta": 1,
+        "explicacao": "Há uma grande discussão sobre a pichação ser arte ou vandalismo."
+      },
+      {
+        "enunciado": "O que é um 'estêncil' (stencil) no grafite?",
+        "opcoes": ["Uma técnica de molde vazado.", "Uma tinta.", "Uma assinatura.", "Um tipo de spray."],
+        "correta": 0,
+        "explicacao": "O stencil usa moldes vazados."
+      },
+      {
+        "enunciado": "O grafite e a pichação são formas de expressão:",
+        "opcoes": ["Apenas individual.", "Coletiva e urbana.", "Apenas rural.", "Apenas digital."],
+        "correta": 1,
+        "explicacao": "São expressões urbanas e coletivas."
+      },
+      {
+        "enunciado": "O grafite pode ser usado para:",
+        "opcoes": ["Embelezar muros e transmitir mensagens.", "Destruir prédios.", "Poluir rios.", "Causar acidentes."],
+        "correta": 0,
+        "explicacao": "O grafite embeleza e comunica."
+      },
+      {
+        "enunciado": "Qual é uma das principais diferenças visuais entre grafite e pichação?",
+        "opcoes": ["O grafite geralmente tem imagens e cores; a pichação é mais voltada para letras e assinaturas.", "A pichação é colorida; o grafite é preto e branco.", "Não há diferença.", "O grafite é apenas preto."],
+        "correta": 0,
+        "explicacao": "O grafite tende a ter mais elaboração visual."
+      },
+      {
+        "enunciado": "O grafite pode ser encontrado em:",
+        "opcoes": ["Qualquer lugar do mundo.", "Apenas no Brasil.", "Apenas nos EUA.", "Apenas na Europa."],
+        "correta": 0,
+        "explicacao": "O grafite é uma arte global."
+      },
+      {
+        "enunciado": "A arte urbana, incluindo grafite e pichação, muitas vezes reflete:",
+        "opcoes": ["A realidade e os problemas sociais.", "Apenas a natureza.", "Apenas o luxo.", "Apenas a fantasia."],
+        "correta": 0,
+        "explicacao": "A arte urbana é uma expressão da realidade social."
+      },
+      {
+        "enunciado": "Qual é o impacto da arte urbana na sociedade?",
+        "opcoes": ["Promove reflexão e diálogo.", "Apenas sujeira.", "Nenhum impacto.", "Apenas vandalismo."],
+        "correta": 0,
+        "explicacao": "A arte urbana estimula a reflexão."
+      },
+      {
+        "enunciado": "A arte urbana pode ser considerada:",
+        "opcoes": ["Uma forma de comunicação.", "Uma forma de poluição.", "Um crime.", "Apenas decoração."],
+        "correta": 0,
+        "explicacao": "A arte urbana comunica e expressa."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_art_contracultura_01",
+    "titulo": "Arte - Contracultura e Movimentos Sociais",
+    "tipo": "conteudo",
+    "icone": "✊",
+    "perguntas": [
+      {
+        "enunciado": "O que é contracultura?",
+        "opcoes": ["Movimentos culturais que se opõem à cultura tradicional.", "A cultura dominante.", "A cultura de elite.", "A cultura erudita."],
+        "correta": 0,
+        "explicacao": "A contracultura questiona os padrões impostos."
+      },
+      {
+        "enunciado": "Quais são exemplos de movimentos de contracultura?",
+        "opcoes": ["Hippie, punk e hip-hop.", "Renascimento e Barroco.", "Impressionismo e Cubismo.", "Arte clássica e acadêmica."],
+        "correta": 0,
+        "explicacao": "Esses movimentos questionaram os padrões sociais."
+      },
+      {
+        "enunciado": "Qual é a origem do movimento hippie?",
+        "opcoes": ["Década de 1960, nos EUA.", "Década de 1980, na Inglaterra.", "Década de 1950, no Brasil.", "Década de 2000, no Japão."],
+        "correta": 0,
+        "explicacao": "O movimento hippie surgiu nos anos 1960."
+      },
+      {
+        "enunciado": "O que os hippies defendiam?",
+        "opcoes": ["A guerra.", "A paz, o amor e a liberdade.", "O consumismo.", "A violência."],
+        "correta": 1,
+        "explicacao": "O movimento hippie pregava paz e amor."
+      },
+      {
+        "enunciado": "Qual era o estilo musical do movimento hippie?",
+        "opcoes": ["Rock progressivo.", "Punk.", "Rap.", "Samba."],
+        "correta": 0,
+        "explicacao": "O rock progressivo era a trilha sonora dos hippies."
+      },
+      {
+        "enunciado": "Qual é a origem do movimento punk?",
+        "opcoes": ["Década de 1970, nos EUA e Inglaterra.", "Década de 1960, na França.", "Década de 1990, no Brasil.", "Década de 2000, no Japão."],
+        "correta": 0,
+        "explicacao": "O punk surgiu nos anos 1970."
+      },
+      {
+        "enunciado": "O que os punks criticavam?",
+        "opcoes": ["O sistema, o governo e as regras sociais.", "A paz.", "O amor.", "A música."],
+        "correta": 0,
+        "explicacao": "O punk criticava o sistema e as normas."
+      },
+      {
+        "enunciado": "Qual é a característica visual do movimento punk?",
+        "opcoes": ["Roupas rasgadas, cores fortes e cabelos extravagantes.", "Roupas elegantes.", "Roupas floridas.", "Roupas formais."],
+        "correta": 0,
+        "explicacao": "O visual punk é marcado pela rebeldia."
+      },
+      {
+        "enunciado": "O que é o movimento hip-hop?",
+        "opcoes": ["Um movimento cultural que inclui rap, DJ, breakdance e grafite.", "Um movimento político.", "Um movimento religioso.", "Um movimento esportivo."],
+        "correta": 0,
+        "explicacao": "O hip-hop engloba várias manifestações artísticas."
+      },
+      {
+        "enunciado": "Qual é a origem do hip-hop?",
+        "opcoes": ["Década de 1970, nos EUA.", "Década de 1960, na Inglaterra.", "Década de 1990, no Brasil.", "Década de 2000, no Japão."],
+        "correta": 0,
+        "explicacao": "O hip-hop surgiu nos EUA nos anos 1970."
+      },
+      {
+        "enunciado": "Quais são os quatro elementos do hip-hop?",
+        "opcoes": ["Rap, DJ, breakdance e grafite.", "Rap, rock, funk e samba.", "DJ, guitarra, bateria e baixo.", "Dança, música, teatro e circo."],
+        "correta": 0,
+        "explicacao": "Esses são os quatro pilares do hip-hop."
+      },
+      {
+        "enunciado": "O que é o rap?",
+        "opcoes": ["Um estilo musical com rimas e batidas.", "Uma dança.", "Um tipo de grafite.", "Um instrumento."],
+        "correta": 0,
+        "explicacao": "O rap é a música do hip-hop."
+      },
+      {
+        "enunciado": "O que é o breakdance?",
+        "opcoes": ["Uma dança de rua.", "Um tipo de música.", "Um grafite.", "Um instrumento."],
+        "correta": 0,
+        "explicacao": "O breakdance é a dança do hip-hop."
+      },
+      {
+        "enunciado": "O que é o DJ no hip-hop?",
+        "opcoes": ["O responsável por mixar as músicas.", "O dançarino.", "O grafiteiro.", "O cantor."],
+        "correta": 0,
+        "explicacao": "O DJ comanda as batidas e mixagens."
+      },
+      {
+        "enunciado": "Qual é a origem da palavra 'punk'?",
+        "opcoes": ["Do inglês, significa algo como 'vagabundo' ou 'marginal'.", "Do francês, significa 'arte'.", "Do alemão, significa 'música'.", "Do espanhol, significa 'dança'."],
+        "correta": 0,
+        "explicacao": "O termo era usado de forma pejorativa."
+      },
+      {
+        "enunciado": "Qual banda é considerada um ícone do punk?",
+        "opcoes": ["Sex Pistols.", "The Beatles.", "Queen.", "Nirvana."],
+        "correta": 0,
+        "explicacao": "Sex Pistols foi uma banda punk britânica."
+      },
+      {
+        "enunciado": "O movimento hippie era contra:",
+        "opcoes": ["A guerra e o consumismo.", "A paz.", "O amor.", "A música."],
+        "correta": 0,
+        "explicacao": "Os hippies eram pacifistas e anticonsumistas."
+      },
+      {
+        "enunciado": "O movimento punk valorizava:",
+        "opcoes": ["A individualidade e a atitude rebelde.", "A obediência.", "O conformismo.", "O luxo."],
+        "correta": 0,
+        "explicacao": "O punk valorizava a rebeldia."
+      },
+      {
+        "enunciado": "O hip-hop no Brasil tem como ícone:",
+        "opcoes": ["Racionais MC's.", "Roberto Carlos.", "Caetano Veloso.", "Chico Buarque."],
+        "correta": 0,
+        "explicacao": "Racionais MC's é um grupo importante do rap nacional."
+      },
+      {
+        "enunciado": "Os movimentos de contracultura buscavam:",
+        "opcoes": ["Uma sociedade mais justa e livre.", "O retorno ao passado.", "A manutenção das tradições.", "O aumento do consumo."],
+        "correta": 0,
+        "explicacao": "A contracultura busca transformação social."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_art_movimento_hiphop_01",
+    "titulo": "Arte - Movimento Hip-hop",
+    "tipo": "conteudo",
+    "icone": "🎧",
+    "perguntas": [
+      {
+        "enunciado": "O que é o hip-hop?",
+        "opcoes": ["Um movimento cultural urbano.", "Um estilo de música clássica.", "Uma dança de salão.", "Um tipo de pintura."],
+        "correta": 0,
+        "explicacao": "O hip-hop é um movimento cultural que engloba arte, música e dança."
+      },
+      {
+        "enunciado": "Quais são os quatro elementos do hip-hop?",
+        "opcoes": ["Rap, DJ, breakdance e grafite.", "Rap, rock, funk e samba.", "DJ, guitarra, bateria e baixo.", "Dança, música, teatro e circo."],
+        "correta": 0,
+        "explicacao": "Esses são os pilares do hip-hop."
+      },
+      {
+        "enunciado": "O rap é uma manifestação do hip-hop que consiste em:",
+        "opcoes": ["Rimas faladas sobre batidas.", "Uma dança.", "Um tipo de grafite.", "Um instrumento."],
+        "correta": 0,
+        "explicacao": "O rap é a música do hip-hop."
+      },
+      {
+        "enunciado": "O breakdance é:",
+        "opcoes": ["A dança do hip-hop.", "A música do hip-hop.", "Um tipo de grafite.", "Um instrumento."],
+        "correta": 0,
+        "explicacao": "O breakdance é a dança do hip-hop."
+      },
+      {
+        "enunciado": "O grafite é:",
+        "opcoes": ["A expressão visual do hip-hop.", "A música do hip-hop.", "A dança do hip-hop.", "Um instrumento."],
+        "correta": 0,
+        "explicacao": "O grafite é a arte visual do hip-hop."
+      },
+      {
+        "enunciado": "O DJ no hip-hop é responsável por:",
+        "opcoes": ["Mixar músicas e criar batidas.", "Dançar.", "Pintar.", "Cantar."],
+        "correta": 0,
+        "explicacao": "O DJ comanda a musicalidade."
+      },
+      {
+        "enunciado": "Onde o hip-hop surgiu?",
+        "opcoes": ["Nos bairros periféricos de Nova York.", "Na Europa.", "No Brasil.", "No Japão."],
+        "correta": 0,
+        "explicacao": "O hip-hop surgiu nos guetos de NY."
+      },
+      {
+        "enunciado": "O hip-hop era uma forma de expressão para:",
+        "opcoes": ["Jovens marginalizados.", "A elite.", "Crianças.", "Idosos."],
+        "correta": 0,
+        "explicacao": "O hip-hop deu voz aos jovens das periferias."
+      },
+      {
+        "enunciado": "Quando o hip-hop chegou ao Brasil?",
+        "opcoes": ["Década de 1980.", "Década de 1950.", "Década de 1970.", "Década de 1990."],
+        "correta": 0,
+        "explicacao": "O hip-hop chegou ao Brasil nos anos 1980."
+      },
+      {
+        "enunciado": "Quais são alguns dos principais nomes do hip-hop brasileiro?",
+        "opcoes": ["Racionais MC's, Thaíde, Gabriel o Pensador.", "Roberto Carlos, Erasmo Carlos.", "Caetano Veloso, Gilberto Gil.", "Chico Buarque, Tom Jobim."],
+        "correta": 0,
+        "explicacao": "Esses são ícones do rap nacional."
+      },
+      {
+        "enunciado": "O que é o 'break'?",
+        "opcoes": ["Um estilo de dança do hip-hop.", "Um tipo de música.", "Um grafite.", "Um instrumento."],
+        "correta": 0,
+        "explicacao": "O break é a dança de rua."
+      },
+      {
+        "enunciado": "O hip-hop é uma cultura que valoriza:",
+        "opcoes": ["A expressão artística e a crítica social.", "O consumismo.", "A violência.", "A opressão."],
+        "correta": 0,
+        "explicacao": "O hip-hop busca a conscientização."
+      },
+      {
+        "enunciado": "Quem é considerado o 'pai' do hip-hop?",
+        "opcoes": ["DJ Kool Herc.", "Afrika Bambaataa.", "Grandmaster Flash.", "Tupac Shakur."],
+        "correta": 0,
+        "explicacao": "DJ Kool Herc é considerado o fundador."
+      },
+      {
+        "enunciado": "O que é a 'batalha de rap'?",
+        "opcoes": ["Uma competição de rimas entre MCs.", "Uma briga de rua.", "Uma dança.", "Um grafite."],
+        "correta": 0,
+        "explicacao": "As batalhas são competições de improvisação."
+      },
+      {
+        "enunciado": "O que é um 'MC'?",
+        "opcoes": ["Mestre de Cerimônias, quem canta rap.", "O DJ.", "O dançarino.", "O grafiteiro."],
+        "correta": 0,
+        "explicacao": "O MC é o rapper."
+      },
+      {
+        "enunciado": "O hip-hop tem um forte caráter:",
+        "opcoes": ["Social e político.", "Apenas recreativo.", "Apenas comercial.", "Apenas religioso."],
+        "correta": 0,
+        "explicacao": "O hip-hop é uma ferramenta de transformação social."
+      },
+      {
+        "enunciado": "O que o hip-hop representa para a juventude?",
+        "opcoes": ["Uma forma de expressão e identidade.", "Uma forma de alienação.", "Uma forma de exclusão.", "Uma forma de violência."],
+        "correta": 0,
+        "explicacao": "O hip-hop dá identidade e voz aos jovens."
+      },
+      {
+        "enunciado": "Qual é a relação do hip-hop com a arte?",
+        "opcoes": ["O hip-hop é uma manifestação artística completa.", "O hip-hop não é arte.", "O hip-hop é apenas música.", "O hip-hop é apenas dança."],
+        "correta": 0,
+        "explicacao": "O hip-hop engloba música, dança e arte visual."
+      },
+      {
+        "enunciado": "O que é a cultura de rua?",
+        "opcoes": ["Manifestações artísticas que ocorrem nas ruas.", "Apenas comércio de rua.", "Apenas moradores de rua.", "Apenas grafite."],
+        "correta": 0,
+        "explicacao": "A cultura de rua inclui hip-hop, grafite, entre outros."
+      },
+      {
+        "enunciado": "O hip-hop é um movimento:",
+        "opcoes": ["Global.", "Apenas americano.", "Apenas brasileiro.", "Apenas europeu."],
+        "correta": 0,
+        "explicacao": "O hip-hop está presente em todo o mundo."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_art_movimento_punk_01",
+    "titulo": "Arte - Movimento Punk",
+    "tipo": "conteudo",
+    "icone": "🎸",
+    "perguntas": [
+      {
+        "enunciado": "Qual é a origem do movimento punk?",
+        "opcoes": ["Década de 1970, nos EUA e Inglaterra.", "Década de 1960, na França.", "Década de 1990, no Brasil.", "Década de 2000, no Japão."],
+        "correta": 0,
+        "explicacao": "O punk surgiu nos anos 1970."
+      },
+      {
+        "enunciado": "O que os punks criticavam?",
+        "opcoes": ["O sistema, o governo e as regras sociais.", "A paz.", "O amor.", "A música."],
+        "correta": 0,
+        "explicacao": "O punk criticava o sistema e as normas."
+      },
+      {
+        "enunciado": "Qual é a característica visual do movimento punk?",
+        "opcoes": ["Roupas rasgadas, cores fortes e cabelos extravagantes.", "Roupas elegantes.", "Roupas floridas.", "Roupas formais."],
+        "correta": 0,
+        "explicacao": "O visual punk é marcado pela rebeldia."
+      },
+      {
+        "enunciado": "Qual é a origem da palavra 'punk'?",
+        "opcoes": ["Do inglês, significa algo como 'vagabundo' ou 'marginal'.", "Do francês, significa 'arte'.", "Do alemão, significa 'música'.", "Do espanhol, significa 'dança'."],
+        "correta": 0,
+        "explicacao": "O termo era usado de forma pejorativa."
+      },
+      {
+        "enunciado": "Qual banda é considerada um ícone do punk?",
+        "opcoes": ["Sex Pistols.", "The Beatles.", "Queen.", "Nirvana."],
+        "correta": 0,
+        "explicacao": "Sex Pistols foi uma banda punk britânica."
+      },
+      {
+        "enunciado": "O punk valorizava:",
+        "opcoes": ["A individualidade e a atitude rebelde.", "A obediência.", "O conformismo.", "O luxo."],
+        "correta": 0,
+        "explicacao": "O punk valorizava a rebeldia."
+      },
+      {
+        "enunciado": "Qual é o estilo musical do punk?",
+        "opcoes": ["Rápido, agressivo e simples.", "Lento e melódico.", "Clássico.", "Jazz."],
+        "correta": 0,
+        "explicacao": "O punk é conhecido pela velocidade e simplicidade."
+      },
+      {
+        "enunciado": "O punk é um movimento de:",
+        "opcoes": ["Contracultura.", "Apoio ao governo.", "Consumo.", "Tradição."],
+        "correta": 0,
+        "explicacao": "O punk é um movimento de contracultura."
+      },
+      {
+        "enunciado": "O que os punks usavam como símbolo?",
+        "opcoes": ["Alfinetes e correntes.", "Gravatas.", "Chapéus.", "Flores."],
+        "correta": 0,
+        "explicacao": "O visual punk incluía alfinetes e correntes."
+      },
+      {
+        "enunciado": "Qual é a atitude punk em relação à música?",
+        "opcoes": ["Fazer música sem precisar de técnica avançada.", "Apenas música erudita.", "Apenas música clássica.", "Música comercial."],
+        "correta": 0,
+        "explicacao": "O punk pregava a espontaneidade."
+      },
+      {
+        "enunciado": "O movimento punk foi uma reação a:",
+        "opcoes": ["Crise econômica e desilusão social.", "Riqueza.", "Paz.", "Amor."],
+        "correta": 0,
+        "explicacao": "O punk surgiu em um contexto de crise."
+      },
+      {
+        "enunciado": "Qual é o país de origem do punk?",
+        "opcoes": ["EUA e Inglaterra.", "Brasil.", "França.", "Japão."],
+        "correta": 0,
+        "explicacao": "O punk surgiu nos EUA e Inglaterra."
+      },
+      {
+        "enunciado": "O que é o 'faça você mesmo' (DIY) no punk?",
+        "opcoes": ["A ideia de que qualquer um pode criar arte e música.", "A ideia de comprar tudo pronto.", "A ideia de contratar artistas.", "A ideia de seguir regras."],
+        "correta": 0,
+        "explicacao": "O DIY é um princípio punk."
+      },
+      {
+        "enunciado": "O punk influenciou qual movimento?",
+        "opcoes": ["Grunge.", "Hip-hop.", "Samba.", "Bossa Nova."],
+        "correta": 0,
+        "explicacao": "O grunge tem influência punk."
+      },
+      {
+        "enunciado": "O que é um 'fanzine'?",
+        "opcoes": ["Uma revista independente feita por fãs.", "Um tipo de música.", "Um instrumento.", "Um grafite."],
+        "correta": 0,
+        "explicacao": "Fanzines eram comuns na cultura punk."
+      },
+      {
+        "enunciado": "Qual é a relação do punk com a política?",
+        "opcoes": ["Crítica e contestação.", "Apoio ao governo.", "Neutralidade.", "Apoio ao sistema."],
+        "correta": 0,
+        "explicacao": "O punk é político e contestador."
+      },
+      {
+        "enunciado": "O punk é um movimento:",
+        "opcoes": ["Global.", "Apenas americano.", "Apenas inglês.", "Apenas brasileiro."],
+        "correta": 0,
+        "explicacao": "O punk se espalhou pelo mundo."
+      },
+      {
+        "enunciado": "O que os punks rejeitavam?",
+        "opcoes": ["O consumismo e as normas sociais.", "A música.", "A arte.", "A liberdade."],
+        "correta": 0,
+        "explicacao": "O punk rejeitava o consumismo."
+      },
+      {
+        "enunciado": "Qual é a importância do punk para a arte?",
+        "opcoes": ["Trouxe uma estética de ruptura e contestação.", "Nenhuma.", "Apenas música.", "Apenas dança."],
+        "correta": 0,
+        "explicacao": "O punk influenciou a moda e as artes visuais."
+      },
+      {
+        "enunciado": "O que é a 'cultura punk'?",
+        "opcoes": ["Um conjunto de valores e expressões ligados ao punk.", "Apenas música.", "Apenas moda.", "Apenas política."],
+        "correta": 0,
+        "explicacao": "A cultura punk abrange música, moda e atitude."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_art_movimento_hippie_01",
+    "titulo": "Arte - Movimento Hippie",
+    "tipo": "conteudo",
+    "icone": "☮️",
+    "perguntas": [
+      {
+        "enunciado": "Qual é a origem do movimento hippie?",
+        "opcoes": ["Década de 1960, nos EUA.", "Década de 1980, na Inglaterra.", "Década de 1950, no Brasil.", "Década de 2000, no Japão."],
+        "correta": 0,
+        "explicacao": "O movimento hippie surgiu nos anos 1960."
+      },
+      {
+        "enunciado": "O que os hippies defendiam?",
+        "opcoes": ["A guerra.", "A paz, o amor e a liberdade.", "O consumismo.", "A violência."],
+        "correta": 1,
+        "explicacao": "O movimento hippie pregava paz e amor."
+      },
+      {
+        "enunciado": "Qual era o estilo musical do movimento hippie?",
+        "opcoes": ["Rock progressivo.", "Punk.", "Rap.", "Samba."],
+        "correta": 0,
+        "explicacao": "O rock progressivo era a trilha sonora dos hippies."
+      },
+      {
+        "enunciado": "O movimento hippie era contra:",
+        "opcoes": ["A guerra e o consumismo.", "A paz.", "O amor.", "A música."],
+        "correta": 0,
+        "explicacao": "Os hippies eram pacifistas e anticonsumistas."
+      },
+      {
+        "enunciado": "Qual é a característica visual do movimento hippie?",
+        "opcoes": ["Roupas coloridas, floridas e cabelos longos.", "Roupas rasgadas.", "Roupas formais.", "Roupas escuras."],
+        "correta": 0,
+        "explicacao": "Os hippies usavam roupas coloridas e naturais."
+      },
+      {
+        "enunciado": "O que os hippies valorizavam?",
+        "opcoes": ["A natureza, a paz e o amor livre.", "O dinheiro.", "A guerra.", "A violência."],
+        "correta": 0,
+        "explicacao": "Os hippies valorizavam a natureza e a liberdade."
+      },
+      {
+        "enunciado": "O movimento hippie foi uma reação a:",
+        "opcoes": ["Guerra do Vietnã e à sociedade de consumo.", "À riqueza.", "À paz.", "Ao amor."],
+        "correta": 0,
+        "explicacao": "O movimento surgiu em oposição à guerra e ao consumismo."
+      },
+      {
+        "enunciado": "Qual é a relação entre o movimento hippie e a arte?",
+        "opcoes": ["Influenciou a música, a moda e as artes visuais.", "Não teve relação.", "Foi apenas político.", "Foi apenas religioso."],
+        "correta": 0,
+        "explicacao": "Os hippies influenciaram a cultura e a arte."
+      },
+      {
+        "enunciado": "O que é a 'geração amor'?",
+        "opcoes": ["Um apelido para os hippies.", "Um movimento político.", "Um tipo de música.", "Uma religião."],
+        "correta": 0,
+        "explicacao": "Os hippies ficaram conhecidos como a geração do amor."
+      },
+      {
+        "enunciado": "Qual é o lema dos hippies?",
+        "opcoes": ["Paz e amor.", "Guerra e poder.", "Dinheiro e fama.", "Ordem e progresso."],
+        "correta": 0,
+        "explicacao": "O lema é paz e amor."
+      },
+      {
+        "enunciado": "O que os hippies rejeitavam?",
+        "opcoes": ["O consumismo, a guerra e as normas rígidas.", "A música.", "A arte.", "A paz."],
+        "correta": 0,
+        "explicacao": "Os hippies rejeitavam o consumismo e a guerra."
+      },
+      {
+        "enunciado": "Onde o movimento hippie se espalhou?",
+        "opcoes": ["Pelo mundo todo.", "Apenas nos EUA.", "Apenas na Inglaterra.", "Apenas no Brasil."],
+        "correta": 0,
+        "explicacao": "O movimento hippie se tornou global."
+      },
+      {
+        "enunciado": "Qual é a importância do movimento hippie para a cultura?",
+        "opcoes": ["Trouxe mudanças nos costumes e na moda.", "Nenhuma.", "Apenas música.", "Apenas política."],
+        "correta": 0,
+        "explicacao": "Os hippies mudaram a forma de viver e se vestir."
+      },
+      {
+        "enunciado": "O que é o festival de Woodstock?",
+        "opcoes": ["Um festival de música que marcou o movimento hippie.", "Um festival de cinema.", "Um festival de comida.", "Um festival de esportes."],
+        "correta": 0,
+        "explicacao": "Woodstock foi o símbolo da contracultura."
+      },
+      {
+        "enunciado": "Quem eram os hippies?",
+        "opcoes": ["Jovens que buscavam uma vida alternativa.", "Políticos.", "Empresários.", "Militares."],
+        "correta": 0,
+        "explicacao": "Os hippies eram jovens em busca de liberdade."
+      },
+      {
+        "enunciado": "O movimento hippie valorizava:",
+        "opcoes": ["A liberdade individual e a paz.", "A obediência.", "A guerra.", "O consumismo."],
+        "correta": 0,
+        "explicacao": "Os hippies pregavam a liberdade e a paz."
+      },
+      {
+        "enunciado": "O que é a contracultura?",
+        "opcoes": ["Movimentos que se opõem à cultura dominante.", "A cultura oficial.", "A cultura de elite.", "A cultura acadêmica."],
+        "correta": 0,
+        "explicacao": "A contracultura questiona os valores estabelecidos."
+      },
+      {
+        "enunciado": "O movimento hippie influenciou qual área?",
+        "opcoes": ["Moda e comportamento.", "Apenas música.", "Apenas política.", "Apenas esporte."],
+        "correta": 0,
+        "explicacao": "Os hippies influenciaram a moda e os costumes."
+      },
+      {
+        "enunciado": "Qual é o legado do movimento hippie?",
+        "opcoes": ["A busca por uma sociedade mais justa e pacífica.", "A guerra.", "A violência.", "O consumismo."],
+        "correta": 0,
+        "explicacao": "Os hippies deixaram um legado de paz e amor."
+      },
+      {
+        "enunciado": "O movimento hippie foi importante para:",
+        "opcoes": ["A transformação cultural e social.", "A manutenção da ordem.", "O aumento da violência.", "O consumo."],
+        "correta": 0,
+        "explicacao": "O movimento hippie transformou a cultura."
+      }
+    ]
+  }
+]
