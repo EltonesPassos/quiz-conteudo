@@ -1,1 +1,770 @@
-[]
+[
+  {
+    "id": "8ano_v2_soc_sociedades_humanas_01",
+    "titulo": "Ciências Sociais - Sociedades Humanas e a Natureza",
+    "tipo": "conteudo",
+    "icone": "👥",
+    "perguntas": [
+      {
+        "enunciado": "Qual é a principal diferença entre as sociedades humanas e as sociedades animais?",
+        "opcoes": ["Os humanos não se comunicam.", "As sociedades humanas não se limitam à natureza, possuem valores, regras e cultura.", "Os animais têm mais cultura.", "Não há diferença."],
+        "correta": 1,
+        "explicacao": "As sociedades humanas são construídas culturalmente e não apenas biologicamente."
+      },
+      {
+        "enunciado": "O que é sociabilidade?",
+        "opcoes": ["A capacidade de viver isolado.", "A condição de viver em sociedade e estabelecer relações sociais.", "A capacidade de dominar a natureza.", "A habilidade de fazer cálculos."],
+        "correta": 1,
+        "explicacao": "Sociabilidade é a tendência humana de viver em grupo."
+      },
+      {
+        "enunciado": "O que são valores, regras e costumes em uma sociedade?",
+        "opcoes": ["Elementos biológicos.", "Construções sociais que organizam a vida em grupo.", "Leis da natureza.", "Apenas tradições familiares."],
+        "correta": 1,
+        "explicacao": "São construções culturais que orientam o comportamento."
+      },
+      {
+        "enunciado": "O que é a 'consciência coletiva' segundo Durkheim?",
+        "opcoes": ["A soma das consciências individuais.", "O conjunto de crenças e sentimentos comuns a uma sociedade.", "A consciência de um indivíduo.", "A consciência dos animais."],
+        "correta": 1,
+        "explicacao": "É o conjunto de valores compartilhados pelo grupo."
+      },
+      {
+        "enunciado": "O que é a solidariedade mecânica?",
+        "opcoes": ["Típica de sociedades modernas, com divisão do trabalho.", "Típica de sociedades tradicionais, onde os indivíduos compartilham os mesmos valores.", "Típica de sociedades industriais.", "Um tipo de solidariedade política."],
+        "correta": 1,
+        "explicacao": "Na solidariedade mecânica, há pouca divisão do trabalho e forte semelhança entre os indivíduos."
+      },
+      {
+        "enunciado": "O que é a solidariedade orgânica?",
+        "opcoes": ["Típica de sociedades tradicionais.", "Típica de sociedades modernas, com alta divisão do trabalho e interdependência.", "A solidariedade entre animais.", "Um tipo de solidariedade familiar."],
+        "correta": 1,
+        "explicacao": "Na solidariedade orgânica, os indivíduos são interdependentes devido à divisão do trabalho."
+      },
+      {
+        "enunciado": "Segundo Durkheim, o que mantém a coesão social nas sociedades modernas?",
+        "opcoes": ["A semelhança entre os indivíduos.", "A divisão do trabalho e a interdependência.", "A força militar.", "A religião."],
+        "correta": 1,
+        "explicacao": "A divisão do trabalho cria interdependência e coesão."
+      },
+      {
+        "enunciado": "O que é a socialização?",
+        "opcoes": ["O processo de isolamento.", "O processo pelo qual o indivíduo aprende e internaliza as normas e valores da sociedade.", "A rejeição das regras sociais.", "A criação de novas leis."],
+        "correta": 1,
+        "explicacao": "A socialização é o aprendizado da cultura."
+      },
+      {
+        "enunciado": "Quais são os principais agentes de socialização?",
+        "opcoes": ["Família, escola, amigos e meios de comunicação.", "Apenas a escola.", "Apenas a família.", "Apenas os meios de comunicação."],
+        "correta": 0,
+        "explicacao": "Vários agentes atuam na socialização."
+      },
+      {
+        "enunciado": "O que é a socialização primária?",
+        "opcoes": ["Ocorre na infância, principalmente na família.", "Ocorre na escola.", "Ocorre no trabalho.", "Ocorre na vida adulta."],
+        "correta": 0,
+        "explicacao": "A socialização primária ocorre na primeira infância."
+      },
+      {
+        "enunciado": "O que é a socialização secundária?",
+        "opcoes": ["Ocorre na infância.", "Ocorre na escola, no trabalho e em outros grupos sociais.", "Ocorre apenas na família.", "Não existe."],
+        "correta": 1,
+        "explicacao": "A socialização secundária ocorre fora do núcleo familiar."
+      },
+      {
+        "enunciado": "O que é o 'ser social'?",
+        "opcoes": ["O indivíduo que vive isolado.", "O indivíduo que vive em sociedade e é influenciado por ela.", "O indivíduo que não tem cultura.", "O indivíduo que não se relaciona."],
+        "correta": 1,
+        "explicacao": "O ser humano é um ser social por natureza."
+      },
+      {
+        "enunciado": "Como a sociedade influencia o indivíduo?",
+        "opcoes": ["Através da imposição de regras e valores.", "Não influencia.", "Apenas através da biologia.", "Através do isolamento."],
+        "correta": 0,
+        "explicacao": "A sociedade molda o comportamento individual."
+      },
+      {
+        "enunciado": "Segundo Durkheim, o que são 'fatos sociais'?",
+        "opcoes": ["Ações individuais.", "Maneiras de agir, pensar e sentir exteriores ao indivíduo e dotadas de poder de coerção.", "Fenômenos da natureza.", "Leis da física."],
+        "correta": 1,
+        "explicacao": "Fatos sociais são exteriores e coercitivos."
+      },
+      {
+        "enunciado": "Qual é a principal característica dos fatos sociais?",
+        "opcoes": ["A exterioridade, a coercitividade e a generalidade.", "A subjetividade.", "A individualidade.", "A espontaneidade."],
+        "correta": 0,
+        "explicacao": "São três características fundamentais."
+      },
+      {
+        "enunciado": "O que é a anomia social?",
+        "opcoes": ["A ausência ou enfraquecimento das normas sociais.", "A presença de muitas normas.", "A harmonia social.", "A igualdade social."],
+        "correta": 0,
+        "explicacao": "Anomia é a falta de regras claras."
+      },
+      {
+        "enunciado": "Para Durkheim, o crime é um fato social:",
+        "opcoes": ["Anormal.", "Normal em todas as sociedades.", "Inexistente.", "Apenas em sociedades modernas."],
+        "correta": 1,
+        "explicacao": "O crime é normal porque está presente em todas as sociedades."
+      },
+      {
+        "enunciado": "Qual é a função do crime na sociedade segundo Durkheim?",
+        "opcoes": ["Reforçar a consciência coletiva e a coesão social.", "Destruir a sociedade.", "Não tem função.", "Aumentar a violência."],
+        "correta": 0,
+        "explicacao": "O crime reafirma os valores sociais."
+      },
+      {
+        "enunciado": "O que é um 'crime' do ponto de vista sociológico?",
+        "opcoes": ["Uma ação que contraria os valores e regras dominantes.", "Uma ação natural.", "Uma ação individual.", "Uma ação biológica."],
+        "correta": 0,
+        "explicacao": "O crime é definido pela coletividade."
+      },
+      {
+        "enunciado": "Como Durkheim via o crime em relação à sociedade?",
+        "opcoes": ["Como um fenômeno patológico.", "Como um fenômeno normal e necessário.", "Como algo a ser ignorado.", "Como algo que não existe."],
+        "correta": 1,
+        "explicacao": "Para Durkheim, o crime é normal e pode ser útil."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_soc_durkheim_fatos_sociais_01",
+    "titulo": "Ciências Sociais - Émile Durkheim e os Fatos Sociais",
+    "tipo": "conteudo",
+    "icone": "📚",
+    "perguntas": [
+      {
+        "enunciado": "Quem foi Émile Durkheim?",
+        "opcoes": ["Um dos fundadores da Sociologia moderna.", "Um filósofo grego.", "Um imperador romano.", "Um artista renascentista."],
+        "correta": 0,
+        "explicacao": "Durkheim foi um dos pais da Sociologia."
+      },
+      {
+        "enunciado": "Qual é a principal obra de Durkheim que define o método sociológico?",
+        "opcoes": ["As Regras do Método Sociológico.", "A Riqueza das Nações.", "O Príncipe.", "A República."],
+        "correta": 0,
+        "explicacao": "Nessa obra ele define os fatos sociais."
+      },
+      {
+        "enunciado": "Qual é o objeto de estudo da Sociologia para Durkheim?",
+        "opcoes": ["O indivíduo.", "Os fatos sociais.", "A natureza.", "A política."],
+        "correta": 1,
+        "explicacao": "A Sociologia estuda os fatos sociais."
+      },
+      {
+        "enunciado": "O que é um fato social?",
+        "opcoes": ["Uma ação individual.", "Maneiras de agir, pensar e sentir exteriores ao indivíduo, dotadas de poder de coerção.", "Um fenômeno natural.", "Uma lei da física."],
+        "correta": 1,
+        "explicacao": "Fatos sociais são exteriores e coercitivos."
+      },
+      {
+        "enunciado": "Quais são as três características do fato social?",
+        "opcoes": ["Exterioridade, coercitividade e generalidade.", "Subjetividade, individualidade e espontaneidade.", "Beleza, bondade e verdade.", "Força, velocidade e resistência."],
+        "correta": 0,
+        "explicacao": "São as características definidas por Durkheim."
+      },
+      {
+        "enunciado": "O que é a exterioridade do fato social?",
+        "opcoes": ["Ele existe fora da consciência individual.", "Ele é interno ao indivíduo.", "Ele é uma escolha pessoal.", "Ele é uma emoção."],
+        "correta": 0,
+        "explicacao": "Os fatos sociais são externos ao indivíduo."
+      },
+      {
+        "enunciado": "O que é a coercitividade do fato social?",
+        "opcoes": ["A capacidade de impor regras ao indivíduo.", "A liberdade individual.", "A escolha pessoal.", "A indiferença."],
+        "correta": 0,
+        "explicacao": "Os fatos sociais exercem pressão sobre o indivíduo."
+      },
+      {
+        "enunciado": "O que é a generalidade do fato social?",
+        "opcoes": ["É comum a todos os membros de um grupo.", "É exclusivo de um indivíduo.", "É raro.", "É individual."],
+        "correta": 0,
+        "explicacao": "Os fatos sociais são compartilhados pelo grupo."
+      },
+      {
+        "enunciado": "Como Durkheim define a consciência coletiva?",
+        "opcoes": ["O conjunto de crenças e sentimentos comuns a uma sociedade.", "A consciência individual.", "A consciência dos animais.", "A consciência política."],
+        "correta": 0,
+        "explicacao": "É o conjunto de valores compartilhados."
+      },
+      {
+        "enunciado": "O que é a divisão do trabalho para Durkheim?",
+        "opcoes": ["A especialização das funções na sociedade.", "A separação de classes.", "A divisão de terras.", "A divisão de poderes."],
+        "correta": 0,
+        "explicacao": "A divisão do trabalho gera interdependência."
+      },
+      {
+        "enunciado": "Qual é a diferença entre solidariedade mecânica e orgânica?",
+        "opcoes": ["A mecânica é típica de sociedades tradicionais; a orgânica, de modernas.", "A mecânica é moderna; a orgânica é tradicional.", "São iguais.", "Não existem."],
+        "correta": 0,
+        "explicacao": "A mecânica é baseada na semelhança; a orgânica, na interdependência."
+      },
+      {
+        "enunciado": "O que é a anomia?",
+        "opcoes": ["A ausência de normas sociais.", "A presença de muitas normas.", "A harmonia social.", "A igualdade social."],
+        "correta": 0,
+        "explicacao": "Anomia é a falta de regras claras."
+      },
+      {
+        "enunciado": "O que é um crime para Durkheim?",
+        "opcoes": ["Uma ação que contraria os valores e regras dominantes.", "Uma ação natural.", "Uma ação individual.", "Uma ação biológica."],
+        "correta": 0,
+        "explicacao": "O crime é definido pela coletividade."
+      },
+      {
+        "enunciado": "Por que o crime é considerado normal por Durkheim?",
+        "opcoes": ["Porque está presente em todas as sociedades.", "Porque é sempre punido.", "Porque é raro.", "Porque é bom."],
+        "correta": 0,
+        "explicacao": "O crime existe em todas as sociedades."
+      },
+      {
+        "enunciado": "Qual é a função do crime na sociedade?",
+        "opcoes": ["Reforçar a consciência coletiva.", "Destruir a sociedade.", "Não tem função.", "Aumentar a violência."],
+        "correta": 0,
+        "explicacao": "O crime reafirma os valores sociais."
+      },
+      {
+        "enunciado": "Como Durkheim via a sociedade?",
+        "opcoes": ["Como um organismo vivo.", "Como uma máquina.", "Como uma criação divina.", "Como uma ilusão."],
+        "correta": 0,
+        "explicacao": "Ele comparava a sociedade a um organismo."
+      },
+      {
+        "enunciado": "O que é a coesão social?",
+        "opcoes": ["A união dos membros da sociedade.", "A divisão da sociedade.", "A luta de classes.", "A desigualdade."],
+        "correta": 0,
+        "explicacao": "A coesão mantém a sociedade unida."
+      },
+      {
+        "enunciado": "O que são as instituições sociais?",
+        "opcoes": ["Estruturas que organizam a vida social (família, escola, etc.).", "Apenas o governo.", "Apenas a igreja.", "Apenas a escola."],
+        "correta": 0,
+        "explicacao": "As instituições são pilares da sociedade."
+      },
+      {
+        "enunciado": "O que é a socialização?",
+        "opcoes": ["O processo de aprendizagem das normas e valores.", "O isolamento social.", "A rejeição das regras.", "A criação de novas leis."],
+        "correta": 0,
+        "explicacao": "A socialização é o aprendizado da cultura."
+      },
+      {
+        "enunciado": "Qual é a importância da Sociologia para Durkheim?",
+        "opcoes": ["Compreender os fatos sociais e a organização da sociedade.", "Apenas estudar o indivíduo.", "Ignorar a sociedade.", "Estudar a natureza."],
+        "correta": 0,
+        "explicacao": "A Sociologia busca entender a sociedade."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_soc_solidariedade_social_01",
+    "titulo": "Ciências Sociais - Solidariedade Social e Coesão",
+    "tipo": "conteudo",
+    "icone": "🤝",
+    "perguntas": [
+      {
+        "enunciado": "O que é solidariedade mecânica?",
+        "opcoes": ["Típica de sociedades modernas, com divisão do trabalho.", "Típica de sociedades tradicionais, onde os indivíduos compartilham os mesmos valores.", "Típica de sociedades industriais.", "Um tipo de solidariedade política."],
+        "correta": 1,
+        "explicacao": "Na solidariedade mecânica, há forte semelhança entre os indivíduos."
+      },
+      {
+        "enunciado": "O que é solidariedade orgânica?",
+        "opcoes": ["Típica de sociedades tradicionais.", "Típica de sociedades modernas, com alta divisão do trabalho e interdependência.", "A solidariedade entre animais.", "Um tipo de solidariedade familiar."],
+        "correta": 1,
+        "explicacao": "Na solidariedade orgânica, os indivíduos são interdependentes."
+      },
+      {
+        "enunciado": "Qual é a principal característica da solidariedade mecânica?",
+        "opcoes": ["A semelhança entre os indivíduos.", "A divisão do trabalho.", "A interdependência.", "O individualismo."],
+        "correta": 0,
+        "explicacao": "Na mecânica, os indivíduos são semelhantes."
+      },
+      {
+        "enunciado": "Qual é a principal característica da solidariedade orgânica?",
+        "opcoes": ["A divisão do trabalho e a interdependência.", "A semelhança entre os indivíduos.", "A ausência de regras.", "O isolamento."],
+        "correta": 0,
+        "explicacao": "A orgânica é baseada na interdependência."
+      },
+      {
+        "enunciado": "Em qual tipo de sociedade predomina a solidariedade mecânica?",
+        "opcoes": ["Sociedades tradicionais.", "Sociedades modernas.", "Sociedades industriais.", "Sociedades globalizadas."],
+        "correta": 0,
+        "explicacao": "A mecânica é típica de sociedades tradicionais."
+      },
+      {
+        "enunciado": "Em qual tipo de sociedade predomina a solidariedade orgânica?",
+        "opcoes": ["Sociedades tradicionais.", "Sociedades modernas.", "Sociedades primitivas.", "Sociedades agrícolas."],
+        "correta": 1,
+        "explicacao": "A orgânica é típica de sociedades modernas."
+      },
+      {
+        "enunciado": "O que é a divisão do trabalho para Durkheim?",
+        "opcoes": ["A especialização das funções na sociedade.", "A separação de classes.", "A divisão de terras.", "A divisão de poderes."],
+        "correta": 0,
+        "explicacao": "A divisão do trabalho gera interdependência."
+      },
+      {
+        "enunciado": "Como a divisão do trabalho contribui para a coesão social?",
+        "opcoes": ["Criando interdependência entre os indivíduos.", "Criando conflitos.", "Isolando os indivíduos.", "Eliminando as regras."],
+        "correta": 0,
+        "explicacao": "A interdependência une os indivíduos."
+      },
+      {
+        "enunciado": "O que é a consciência coletiva?",
+        "opcoes": ["O conjunto de crenças e sentimentos comuns a uma sociedade.", "A consciência individual.", "A consciência dos animais.", "A consciência política."],
+        "correta": 0,
+        "explicacao": "É o conjunto de valores compartilhados."
+      },
+      {
+        "enunciado": "Qual é a relação entre a consciência coletiva e a solidariedade mecânica?",
+        "opcoes": ["Na mecânica, a consciência coletiva é forte e cobre a maior parte da vida social.", "Na mecânica, a consciência coletiva é fraca.", "Não há relação.", "A consciência coletiva não existe."],
+        "correta": 0,
+        "explicacao": "Na mecânica, a consciência coletiva é muito forte."
+      },
+      {
+        "enunciado": "Qual é a relação entre a consciência coletiva e a solidariedade orgânica?",
+        "opcoes": ["Na orgânica, a consciência coletiva é menor e mais voltada para a interdependência.", "Na orgânica, a consciência coletiva é forte.", "Não há relação.", "A consciência coletiva não existe."],
+        "correta": 0,
+        "explicacao": "Na orgânica, a consciência individual se sobrepõe."
+      },
+      {
+        "enunciado": "O que é a anomia social?",
+        "opcoes": ["A ausência ou enfraquecimento das normas sociais.", "A presença de muitas normas.", "A harmonia social.", "A igualdade social."],
+        "correta": 0,
+        "explicacao": "Anomia é a falta de regras claras."
+      },
+      {
+        "enunciado": "Qual é a consequência da anomia para a sociedade?",
+        "opcoes": ["A desintegração social.", "O fortalecimento da coesão.", "A igualdade.", "A ordem."],
+        "correta": 0,
+        "explicacao": "A anomia leva à desordem social."
+      },
+      {
+        "enunciado": "O que é coesão social?",
+        "opcoes": ["A união dos membros da sociedade.", "A divisão da sociedade.", "A luta de classes.", "A desigualdade."],
+        "correta": 0,
+        "explicacao": "A coesão mantém a sociedade unida."
+      },
+      {
+        "enunciado": "O que são as instituições sociais?",
+        "opcoes": ["Estruturas que organizam a vida social (família, escola, etc.).", "Apenas o governo.", "Apenas a igreja.", "Apenas a escola."],
+        "correta": 0,
+        "explicacao": "As instituições são pilares da sociedade."
+      },
+      {
+        "enunciado": "Qual é a função das instituições sociais?",
+        "opcoes": ["Organizar a vida em sociedade e transmitir normas e valores.", "Destruir a sociedade.", "Criar conflitos.", "Isolar os indivíduos."],
+        "correta": 0,
+        "explicacao": "As instituições socializam os indivíduos."
+      },
+      {
+        "enunciado": "O que é a socialização?",
+        "opcoes": ["O processo de aprendizagem das normas e valores.", "O isolamento social.", "A rejeição das regras.", "A criação de novas leis."],
+        "correta": 0,
+        "explicacao": "A socialização é o aprendizado da cultura."
+      },
+      {
+        "enunciado": "Quais são os agentes de socialização?",
+        "opcoes": ["Família, escola, amigos e meios de comunicação.", "Apenas a escola.", "Apenas a família.", "Apenas os meios de comunicação."],
+        "correta": 0,
+        "explicacao": "Vários agentes atuam na socialização."
+      },
+      {
+        "enunciado": "O que é a socialização primária?",
+        "opcoes": ["Ocorre na infância, principalmente na família.", "Ocorre na escola.", "Ocorre no trabalho.", "Ocorre na vida adulta."],
+        "correta": 0,
+        "explicacao": "A socialização primária ocorre na primeira infância."
+      },
+      {
+        "enunciado": "O que é a socialização secundária?",
+        "opcoes": ["Ocorre na infância.", "Ocorre na escola, no trabalho e em outros grupos sociais.", "Ocorre apenas na família.", "Não existe."],
+        "correta": 1,
+        "explicacao": "A socialização secundária ocorre fora do núcleo familiar."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_soc_crime_anomia_01",
+    "titulo": "Ciências Sociais - Crime, Anomia e Sociedade",
+    "tipo": "conteudo",
+    "icone": "⚖️",
+    "perguntas": [
+      {
+        "enunciado": "O que é um crime para Durkheim?",
+        "opcoes": ["Uma ação que contraria os valores e regras dominantes.", "Uma ação natural.", "Uma ação individual.", "Uma ação biológica."],
+        "correta": 0,
+        "explicacao": "O crime é definido pela coletividade."
+      },
+      {
+        "enunciado": "Por que o crime é considerado normal por Durkheim?",
+        "opcoes": ["Porque está presente em todas as sociedades.", "Porque é sempre punido.", "Porque é raro.", "Porque é bom."],
+        "correta": 0,
+        "explicacao": "O crime existe em todas as sociedades."
+      },
+      {
+        "enunciado": "Qual é a função do crime na sociedade?",
+        "opcoes": ["Reforçar a consciência coletiva.", "Destruir a sociedade.", "Não tem função.", "Aumentar a violência."],
+        "correta": 0,
+        "explicacao": "O crime reafirma os valores sociais."
+      },
+      {
+        "enunciado": "O que é a anomia?",
+        "opcoes": ["A ausência de normas sociais.", "A presença de muitas normas.", "A harmonia social.", "A igualdade social."],
+        "correta": 0,
+        "explicacao": "Anomia é a falta de regras claras."
+      },
+      {
+        "enunciado": "Qual é a consequência da anomia para a sociedade?",
+        "opcoes": ["A desintegração social.", "O fortalecimento da coesão.", "A igualdade.", "A ordem."],
+        "correta": 0,
+        "explicacao": "A anomia leva à desordem social."
+      },
+      {
+        "enunciado": "Segundo Durkheim, o crime pode ser útil para a sociedade?",
+        "opcoes": ["Sim, pois pode promover a evolução social e reforçar a consciência coletiva.", "Não, nunca.", "Apenas em sociedades tradicionais.", "Apenas em sociedades modernas."],
+        "correta": 0,
+        "explicacao": "O crime pode estimular mudanças e reflexão."
+      },
+      {
+        "enunciado": "O que é a consciência coletiva?",
+        "opcoes": ["O conjunto de crenças e sentimentos comuns a uma sociedade.", "A consciência individual.", "A consciência dos animais.", "A consciência política."],
+        "correta": 0,
+        "explicacao": "É o conjunto de valores compartilhados."
+      },
+      {
+        "enunciado": "Como a consciência coletiva reage ao crime?",
+        "opcoes": ["Com repulsa e punição, reafirmando os valores sociais.", "Com indiferença.", "Com apoio.", "Com medo."],
+        "correta": 0,
+        "explicacao": "A sociedade pune o crime para reafirmar os valores."
+      },
+      {
+        "enunciado": "O que é a punição para Durkheim?",
+        "opcoes": ["Uma forma de reafirmar a consciência coletiva e a coesão social.", "Uma vingança pessoal.", "Um ato de violência.", "Uma forma de isolamento."],
+        "correta": 0,
+        "explicacao": "A punição reforça os valores sociais."
+      },
+      {
+        "enunciado": "Quem foi Sócrates?",
+        "opcoes": ["Um filósofo grego condenado por contestar os valores de sua época.", "Um imperador romano.", "Um sociólogo francês.", "Um artista."],
+        "correta": 0,
+        "explicacao": "Sócrates foi condenado por suas ideias."
+      },
+      {
+        "enunciado": "Como Durkheim interpreta o caso de Sócrates?",
+        "opcoes": ["Como um exemplo de que o crime pode antecipar mudanças sociais.", "Como um erro da justiça.", "Como um crime comum.", "Como um ato heroico."],
+        "correta": 0,
+        "explicacao": "Sócrates foi um 'criminoso' que antecipou novos valores."
+      },
+      {
+        "enunciado": "O que é o 'crime' do ponto de vista sociológico?",
+        "opcoes": ["Uma ação que contraria os valores e regras dominantes.", "Uma ação natural.", "Uma ação individual.", "Uma ação biológica."],
+        "correta": 0,
+        "explicacao": "O crime é definido pela coletividade."
+      },
+      {
+        "enunciado": "Qual é a relação entre crime e mudança social?",
+        "opcoes": ["O crime pode antecipar mudanças nos valores sociais.", "O crime impede a mudança social.", "O crime não tem relação com a mudança.", "O crime é sempre ruim."],
+        "correta": 0,
+        "explicacao": "O crime pode ser um precursor de mudanças."
+      },
+      {
+        "enunciado": "O que é a solidariedade social?",
+        "opcoes": ["A união dos membros da sociedade.", "A divisão da sociedade.", "A luta de classes.", "A desigualdade."],
+        "correta": 0,
+        "explicacao": "A solidariedade mantém a sociedade unida."
+      },
+      {
+        "enunciado": "Quais são os tipos de solidariedade segundo Durkheim?",
+        "opcoes": ["Mecânica e orgânica.", "Simples e complexa.", "Rural e urbana.", "Antiga e moderna."],
+        "correta": 0,
+        "explicacao": "Mecânica (tradicional) e orgânica (moderna)."
+      },
+      {
+        "enunciado": "O que é a divisão do trabalho para Durkheim?",
+        "opcoes": ["A especialização das funções na sociedade.", "A separação de classes.", "A divisão de terras.", "A divisão de poderes."],
+        "correta": 0,
+        "explicacao": "A divisão do trabalho gera interdependência."
+      },
+      {
+        "enunciado": "Como a divisão do trabalho contribui para a coesão social?",
+        "opcoes": ["Criando interdependência entre os indivíduos.", "Criando conflitos.", "Isolando os indivíduos.", "Eliminando as regras."],
+        "correta": 0,
+        "explicacao": "A interdependência une os indivíduos."
+      },
+      {
+        "enunciado": "O que é a coesão social?",
+        "opcoes": ["A união dos membros da sociedade.", "A divisão da sociedade.", "A luta de classes.", "A desigualdade."],
+        "correta": 0,
+        "explicacao": "A coesão mantém a sociedade unida."
+      },
+      {
+        "enunciado": "Qual é a importância da Sociologia para Durkheim?",
+        "opcoes": ["Compreender os fatos sociais e a organização da sociedade.", "Apenas estudar o indivíduo.", "Ignorar a sociedade.", "Estudar a natureza."],
+        "correta": 0,
+        "explicacao": "A Sociologia busca entender a sociedade."
+      },
+      {
+        "enunciado": "O que é a socialização?",
+        "opcoes": ["O processo de aprendizagem das normas e valores.", "O isolamento social.", "A rejeição das regras.", "A criação de novas leis."],
+        "correta": 0,
+        "explicacao": "A socialização é o aprendizado da cultura."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_soc_socializacao_cultura_01",
+    "titulo": "Ciências Sociais - Socialização e Cultura",
+    "tipo": "conteudo",
+    "icone": "👨‍👩‍👧‍👦",
+    "perguntas": [
+      {
+        "enunciado": "O que é a socialização?",
+        "opcoes": ["O processo de aprendizagem das normas e valores.", "O isolamento social.", "A rejeição das regras.", "A criação de novas leis."],
+        "correta": 0,
+        "explicacao": "A socialização é o aprendizado da cultura."
+      },
+      {
+        "enunciado": "Quais são os agentes de socialização?",
+        "opcoes": ["Família, escola, amigos e meios de comunicação.", "Apenas a escola.", "Apenas a família.", "Apenas os meios de comunicação."],
+        "correta": 0,
+        "explicacao": "Vários agentes atuam na socialização."
+      },
+      {
+        "enunciado": "O que é a socialização primária?",
+        "opcoes": ["Ocorre na infância, principalmente na família.", "Ocorre na escola.", "Ocorre no trabalho.", "Ocorre na vida adulta."],
+        "correta": 0,
+        "explicacao": "A socialização primária ocorre na primeira infância."
+      },
+      {
+        "enunciado": "O que é a socialização secundária?",
+        "opcoes": ["Ocorre na infância.", "Ocorre na escola, no trabalho e em outros grupos sociais.", "Ocorre apenas na família.", "Não existe."],
+        "correta": 1,
+        "explicacao": "A socialização secundária ocorre fora do núcleo familiar."
+      },
+      {
+        "enunciado": "O que é cultura?",
+        "opcoes": ["O conjunto de conhecimentos, valores, costumes e tradições de um povo.", "Apenas a arte.", "Apenas a música.", "Apenas a língua."],
+        "correta": 0,
+        "explicacao": "A cultura é ampla e abrange vários aspectos."
+      },
+      {
+        "enunciado": "Qual é a importância da família na socialização?",
+        "opcoes": ["É o primeiro agente de socialização.", "Não tem importância.", "É apenas um agente secundário.", "É um agente de socialização apenas na adolescência."],
+        "correta": 0,
+        "explicacao": "A família é o primeiro agente socializador."
+      },
+      {
+        "enunciado": "Qual é a importância da escola na socialização?",
+        "opcoes": ["Transmite conhecimentos e normas sociais.", "Não tem importância.", "É apenas um local de recreação.", "É um agente de socialização apenas na infância."],
+        "correta": 0,
+        "explicacao": "A escola socializa e transmite conhecimentos."
+      },
+      {
+        "enunciado": "Qual é a importância dos meios de comunicação na socialização?",
+        "opcoes": ["Transmitem informações, valores e modelos de comportamento.", "Não têm importância.", "São apenas entretenimento.", "São agentes de socialização apenas para adultos."],
+        "correta": 0,
+        "explicacao": "Os meios de comunicação influenciam a socialização."
+      },
+      {
+        "enunciado": "O que é o 'ser social'?",
+        "opcoes": ["O indivíduo que vive isolado.", "O indivíduo que vive em sociedade e é influenciado por ela.", "O indivíduo que não tem cultura.", "O indivíduo que não se relaciona."],
+        "correta": 1,
+        "explicacao": "O ser humano é um ser social por natureza."
+      },
+      {
+        "enunciado": "Como a sociedade influencia o indivíduo?",
+        "opcoes": ["Através da imposição de regras e valores.", "Não influencia.", "Apenas através da biologia.", "Através do isolamento."],
+        "correta": 0,
+        "explicacao": "A sociedade molda o comportamento individual."
+      },
+      {
+        "enunciado": "O que é a identidade social?",
+        "opcoes": ["A forma como o indivíduo se vê e é visto na sociedade.", "Apenas o nome.", "Apenas a aparência.", "Apenas a profissão."],
+        "correta": 0,
+        "explicacao": "A identidade é construída socialmente."
+      },
+      {
+        "enunciado": "O que é a diversidade cultural?",
+        "opcoes": ["A variedade de culturas existentes na sociedade.", "A uniformidade cultural.", "A cultura de elite.", "A cultura popular."],
+        "correta": 0,
+        "explicacao": "A diversidade cultural é a riqueza de diferentes culturas."
+      },
+      {
+        "enunciado": "Qual é a relação entre socialização e cultura?",
+        "opcoes": ["A socialização transmite a cultura.", "A socialização não tem relação com a cultura.", "A cultura impede a socialização.", "A socialização destrói a cultura."],
+        "correta": 0,
+        "explicacao": "A socialização é o processo de transmissão da cultura."
+      },
+      {
+        "enunciado": "O que é um 'papel social'?",
+        "opcoes": ["O comportamento esperado de um indivíduo em determinada posição social.", "Um personagem de teatro.", "Um documento.", "Uma profissão."],
+        "correta": 0,
+        "explicacao": "O papel social é o conjunto de expectativas sobre o comportamento."
+      },
+      {
+        "enunciado": "O que é um 'status social'?",
+        "opcoes": ["A posição que o indivíduo ocupa na sociedade.", "O comportamento esperado.", "Apenas a profissão.", "Apenas a renda."],
+        "correta": 0,
+        "explicacao": "O status é a posição social."
+      },
+      {
+        "enunciado": "O que é a mobilidade social?",
+        "opcoes": ["A mudança de posição social de um indivíduo ou grupo.", "A mudança de endereço.", "A mudança de emprego.", "A mudança de escola."],
+        "correta": 0,
+        "explicacao": "A mobilidade social é a mudança de status."
+      },
+      {
+        "enunciado": "O que é a exclusão social?",
+        "opcoes": ["A falta de acesso a direitos e recursos básicos.", "A inclusão social.", "A participação social.", "A igualdade social."],
+        "correta": 0,
+        "explicacao": "A exclusão social é a privação de direitos."
+      },
+      {
+        "enunciado": "O que é a cidadania?",
+        "opcoes": ["O conjunto de direitos e deveres do indivíduo na sociedade.", "Apenas o direito de votar.", "Apenas o dever de pagar impostos.", "Apenas a nacionalidade."],
+        "correta": 0,
+        "explicacao": "A cidadania envolve direitos e deveres."
+      },
+      {
+        "enunciado": "Qual é a importância da cidadania para a sociedade?",
+        "opcoes": ["Garantir a participação e a inclusão social.", "Manter a desigualdade.", "Impedir a participação.", "Criar conflitos."],
+        "correta": 0,
+        "explicacao": "A cidadania é fundamental para a democracia."
+      },
+      {
+        "enunciado": "O que é a socialização?",
+        "opcoes": ["O processo de aprendizagem das normas e valores.", "O isolamento social.", "A rejeição das regras.", "A criação de novas leis."],
+        "correta": 0,
+        "explicacao": "A socialização é o aprendizado da cultura."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_soc_trabalho_sociedade_01",
+    "titulo": "Ciências Sociais - Trabalho e Sociedade",
+    "tipo": "conteudo",
+    "icone": "⚒️",
+    "perguntas": [
+      {
+        "enunciado": "O que é o trabalho para a Sociologia?",
+        "opcoes": ["Uma atividade humana de transformação da natureza e da sociedade.", "Apenas uma atividade remunerada.", "Apenas uma atividade física.", "Apenas uma atividade intelectual."],
+        "correta": 0,
+        "explicacao": "O trabalho é uma atividade social de transformação."
+      },
+      {
+        "enunciado": "Qual é a importância do trabalho para o indivíduo?",
+        "opcoes": ["Fonte de renda e identidade social.", "Apenas fonte de renda.", "Apenas uma obrigação.", "Apenas um passatempo."],
+        "correta": 0,
+        "explicacao": "O trabalho é fonte de renda e identidade."
+      },
+      {
+        "enunciado": "Como o trabalho se transformou ao longo da história?",
+        "opcoes": ["Do artesanato à industrialização e automação.", "Permaneceu o mesmo.", "Retornou ao artesanato.", "Extinguiu-se."],
+        "correta": 0,
+        "explicacao": "O trabalho passou por diversas transformações."
+      },
+      {
+        "enunciado": "O que é a divisão do trabalho?",
+        "opcoes": ["A especialização das funções na sociedade.", "A separação de classes.", "A divisão de terras.", "A divisão de poderes."],
+        "correta": 0,
+        "explicacao": "A divisão do trabalho gera interdependência."
+      },
+      {
+        "enunciado": "O que é a mais-valia para Marx?",
+        "opcoes": ["A diferença entre o valor produzido pelo trabalhador e o salário pago a ele.", "O lucro do governo.", "O imposto sobre a produção.", "O valor dos produtos."],
+        "correta": 0,
+        "explicacao": "A mais-valia é a exploração do trabalho."
+      },
+      {
+        "enunciado": "O que é a alienação no trabalho?",
+        "opcoes": ["A separação do trabalhador do produto e do processo de trabalho.", "A integração do trabalhador.", "A satisfação no trabalho.", "A autonomia do trabalhador."],
+        "correta": 0,
+        "explicacao": "A alienação afasta o trabalhador do resultado do seu trabalho."
+      },
+      {
+        "enunciado": "O que é o trabalho infantil?",
+        "opcoes": ["Qualquer trabalho realizado por crianças que prejudica sua saúde e desenvolvimento.", "Trabalho leve.", "Ajuda em casa.", "Estágio."],
+        "correta": 0,
+        "explicacao": "O trabalho infantil é uma violação de direitos."
+      },
+      {
+        "enunciado": "Quais são os direitos trabalhistas conquistados ao longo da história?",
+        "opcoes": ["Férias, jornada de 8 horas e descanso semanal.", "Apenas o salário.", "Apenas o FGTS.", "Apenas o 13º salário."],
+        "correta": 0,
+        "explicacao": "Os direitos foram conquistados por lutas sociais."
+      },
+      {
+        "enunciado": "O que é a informalidade no trabalho?",
+        "opcoes": ["Trabalho sem registro e garantias trabalhistas.", "Trabalho com registro.", "Trabalho autônomo.", "Trabalho voluntário."],
+        "correta": 0,
+        "explicacao": "A informalidade é a ausência de direitos."
+      },
+      {
+        "enunciado": "O que é o desemprego?",
+        "opcoes": ["A falta de trabalho remunerado.", "A falta de estudo.", "A falta de moradia.", "A falta de saúde."],
+        "correta": 0,
+        "explicacao": "O desemprego é a ausência de trabalho."
+      },
+      {
+        "enunciado": "Quais são as consequências do desemprego?",
+        "opcoes": ["Pobreza, exclusão social e problemas de saúde.", "Apenas pobreza.", "Apenas exclusão social.", "Nenhuma consequência."],
+        "correta": 0,
+        "explicacao": "O desemprego afeta a vida social e econômica."
+      },
+      {
+        "enunciado": "O que é a economia solidária?",
+        "opcoes": ["Um modelo de produção baseado na cooperação e na autogestão.", "Um modelo capitalista.", "Um modelo socialista.", "Um modelo feudal."],
+        "correta": 0,
+        "explicacao": "A economia solidária valoriza a cooperação."
+      },
+      {
+        "enunciado": "O que é o trabalho escravo contemporâneo?",
+        "opcoes": ["Trabalho forçado e degradante, sem liberdade.", "Trabalho voluntário.", "Trabalho informal.", "Trabalho autônomo."],
+        "correta": 0,
+        "explicacao": "O trabalho escravo ainda existe e é crime."
+      },
+      {
+        "enunciado": "Qual é a importância dos sindicatos?",
+        "opcoes": ["Defender os direitos dos trabalhadores.", "Apenas cobrar mensalidades.", "Apenas organizar festas.", "Apenas fazer política."],
+        "correta": 0,
+        "explicacao": "Os sindicatos lutam pelos direitos trabalhistas."
+      },
+      {
+        "enunciado": "O que é a greve?",
+        "opcoes": ["Uma paralisação dos trabalhadores para reivindicar direitos.", "Uma festa.", "Uma reunião.", "Um protesto estudantil."],
+        "correta": 0,
+        "explicacao": "A greve é uma ferramenta de luta dos trabalhadores."
+      },
+      {
+        "enunciado": "O que é a terceirização?",
+        "opcoes": ["A contratação de serviços de terceiros por uma empresa.", "A contratação de funcionários próprios.", "A demissão de funcionários.", "A fusão de empresas."],
+        "correta": 0,
+        "explicacao": "A terceirização transfere serviços para outras empresas."
+      },
+      {
+        "enunciado": "O que é a automação?",
+        "opcoes": ["A substituição do trabalho humano por máquinas.", "A substituição de máquinas por humanos.", "A criação de novos empregos.", "A redução da produção."],
+        "correta": 0,
+        "explicacao": "A automação substitui a mão de obra humana."
+      },
+      {
+        "enunciado": "Quais são os desafios do mundo do trabalho hoje?",
+        "opcoes": ["Desemprego, informalidade e automação.", "Apenas o desemprego.", "Apenas a informalidade.", "Apenas a automação."],
+        "correta": 0,
+        "explicacao": "São vários os desafios do trabalho contemporâneo."
+      },
+      {
+        "enunciado": "O que é a qualificação profissional?",
+        "opcoes": ["A preparação do trabalhador para o mercado de trabalho.", "A demissão do trabalhador.", "A automação do trabalho.", "A informalidade."],
+        "correta": 0,
+        "explicacao": "A qualificação é essencial para o trabalho."
+      },
+      {
+        "enunciado": "Qual é a relação entre trabalho e sociedade?",
+        "opcoes": ["O trabalho é uma atividade social que transforma a sociedade.", "O trabalho não tem relação com a sociedade.", "O trabalho é apenas individual.", "O trabalho é apenas econômico."],
+        "correta": 0,
+        "explicacao": "O trabalho é uma atividade social."
+      }
+    ]
+  }
+]
