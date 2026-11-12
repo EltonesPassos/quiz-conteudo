@@ -1,1 +1,898 @@
-[]
+[
+  {
+    "id": "8ano_v2_cnat_fontes_energia_01",
+    "titulo": "Ciências Naturais - Fontes de Energia e Transformações",
+    "tipo": "conteudo",
+    "icone": "⚡",
+    "perguntas": [
+      {
+        "enunciado": "O que são fontes de energia renováveis?",
+        "opcoes": ["Fontes que se esgotam com o uso.", "Fontes que se regeneram naturalmente em um curto período de tempo.", "Fontes que só existem em laboratório.", "Fontes que poluem muito."],
+        "correta": 1,
+        "explicacao": "As renováveis se regeneram, como a solar, eólica e hídrica."
+      },
+      {
+        "enunciado": "Qual das fontes abaixo é considerada NÃO renovável?",
+        "opcoes": ["Energia solar.", "Energia eólica.", "Petróleo.", "Biomassa."],
+        "correta": 2,
+        "explicacao": "O petróleo é um combustível fóssil, levando milhões de anos para se formar."
+      },
+      {
+        "enunciado": "O que são combustíveis fósseis?",
+        "opcoes": ["Restos de animais e plantas que se transformaram ao longo de milhões de anos.", "Rochas derretidas.", "Água em estado gasoso.", "Materiais radioativos."],
+        "correta": 0,
+        "explicacao": "São restos orgânicos fossilizados (petróleo, carvão, gás natural)."
+      },
+      {
+        "enunciado": "A energia elétrica é considerada uma fonte:",
+        "opcoes": ["Primária.", "Secundária.", "Renovável.", "Não renovável."],
+        "correta": 1,
+        "explicacao": "Ela é obtida a partir da transformação de outras fontes (primárias)."
+      },
+      {
+        "enunciado": "O que são fontes primárias de energia?",
+        "opcoes": ["Aquelas que são encontradas diretamente na natureza.", "Aquelas que já vêm prontas para uso.", "Apenas a eletricidade.", "Apenas os combustíveis."],
+        "correta": 0,
+        "explicacao": "São os recursos naturais (sol, vento, petróleo, etc.)."
+      },
+      {
+        "enunciado": "Qual é a principal fonte de energia primária no Brasil?",
+        "opcoes": ["Carvão mineral.", "Petróleo e derivados.", "Energia solar.", "Gás natural."],
+        "correta": 1,
+        "explicacao": "O petróleo é a maior fonte primária na matriz brasileira."
+      },
+      {
+        "enunciado": "O que é a matriz energética de um país?",
+        "opcoes": ["O conjunto de fontes de energia utilizadas e sua proporção.", "O mapa das usinas.", "A quantidade de energia gasta.", "O preço da energia."],
+        "correta": 0,
+        "explicacao": "Representa a oferta de energia (fontes) de um local."
+      },
+      {
+        "enunciado": "O que é a matriz elétrica?",
+        "opcoes": ["O conjunto de fontes utilizadas para gerar eletricidade.", "O conjunto de todas as energias do país.", "A energia gasta em casa.", "A energia dos carros."],
+        "correta": 0,
+        "explicacao": "É a parte da matriz energética destinada à produção de eletricidade."
+      },
+      {
+        "enunciado": "Qual é a principal fonte da matriz elétrica brasileira?",
+        "opcoes": ["Energia eólica.", "Energia solar.", "Hidrelétrica.", "Nuclear."],
+        "correta": 2,
+        "explicacao": "A hidrelétrica é a maior geradora de eletricidade no Brasil."
+      },
+      {
+        "enunciado": "A queima de combustíveis fósseis libera qual gás, que agrava o efeito estufa?",
+        "opcoes": ["Oxigênio.", "Gás carbônico (CO2).", "Gás hélio.", "Ozônio."],
+        "correta": 1,
+        "explicacao": "O CO2 é o principal gás do efeito estufa liberado na queima."
+      },
+      {
+        "enunciado": "Qual das fontes abaixo NÃO emite gases poluentes ao gerar energia elétrica?",
+        "opcoes": ["Carvão mineral.", "Petróleo.", "Energia eólica.", "Gás natural."],
+        "correta": 2,
+        "explicacao": "A energia eólica é limpa e renovável."
+      },
+      {
+        "enunciado": "A energia solar é gerada a partir de qual processo?",
+        "opcoes": ["Queima de painéis.", "Transformação da luz solar em eletricidade.", "Movimento das marés.", "Calor da Terra."],
+        "correta": 1,
+        "explicacao": "Painéis solares convertem luz em energia elétrica."
+      },
+      {
+        "enunciado": "A energia eólica é gerada pela força de qual elemento?",
+        "opcoes": ["Água.", "Vento.", "Sol.", "Terra."],
+        "correta": 1,
+        "explicacao": "Aerogeradores movidos a vento geram eletricidade."
+      },
+      {
+        "enunciado": "Qual é o principal impacto ambiental das usinas hidrelétricas?",
+        "opcoes": ["Emissão de CO2.", "Alagamento de grandes áreas e perda de fauna.", "Poluição radioativa.", "Aumento do nível do mar."],
+        "correta": 1,
+        "explicacao": "A criação do reservatório alaga imensas áreas."
+      },
+      {
+        "enunciado": "O que é a biomassa?",
+        "opcoes": ["Matéria orgânica usada para gerar energia.", "Pedras preciosas.", "Água salgada.", "Gás natural."],
+        "correta": 0,
+        "explicacao": "Biomassa é material de origem orgânica (bagaço de cana, madeira, etc.)."
+      },
+      {
+        "enunciado": "O etanol usado como combustível no Brasil é produzido a partir de:",
+        "opcoes": ["Petróleo.", "Cana-de-açúcar.", "Carvão mineral.", "Urânio."],
+        "correta": 1,
+        "explicacao": "O Brasil é um grande produtor de etanol da cana."
+      },
+      {
+        "enunciado": "O que é o carvão mineral?",
+        "opcoes": ["Uma fonte renovável.", "Um combustível fóssil formado por restos de vegetais.", "Um minério radioativo.", "Uma fonte de energia solar."],
+        "correta": 1,
+        "explicacao": "É um fóssil formado há milhões de anos."
+      },
+      {
+        "enunciado": "O gás natural é usado principalmente em:",
+        "opcoes": ["Veículos, indústrias e residências.", "Painéis solares.", "Turbinas eólicas.", "Usinas nucleares."],
+        "correta": 0,
+        "explicacao": "É um combustível fóssil muito utilizado para energia térmica."
+      },
+      {
+        "enunciado": "A energia nuclear é gerada pela fissão (divisão) de átomos de:",
+        "opcoes": ["Urânio.", "Carbono.", "Hidrogênio.", "Oxigênio."],
+        "correta": 0,
+        "explicacao": "A fissão do urânio libera grande quantidade de energia."
+      },
+      {
+        "enunciado": "A energia maremotriz é gerada a partir de:",
+        "opcoes": ["Movimento das marés.", "Vento.", "Luz solar.", "Queima de carvão."],
+        "correta": 0,
+        "explicacao": "Usa a diferença de altura entre marés alta e baixa."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_cnat_petroleo_derivados_01",
+    "titulo": "Ciências Naturais - Petróleo e Seus Derivados",
+    "tipo": "conteudo",
+    "icone": "🛢️",
+    "perguntas": [
+      {
+        "enunciado": "O que é o petróleo?",
+        "opcoes": ["Uma rocha.", "Um combustível fóssil originado de restos orgânicos marinhos.", "Um tipo de gás.", "Uma fonte renovável."],
+        "correta": 1,
+        "explicacao": "É um líquido escuro formado por decomposição de matéria orgânica."
+      },
+      {
+        "enunciado": "Onde o petróleo é encontrado?",
+        "opcoes": ["Em reservatórios subterrâneos ou marinhos.", "Na superfície.", "No ar.", "Nos rios."],
+        "correta": 0,
+        "explicacao": "É extraído de bacias sedimentares, muitas vezes em alto-mar."
+      },
+      {
+        "enunciado": "O que é o refino do petróleo?",
+        "opcoes": ["Processo de separação de seus derivados por meio do aquecimento.", "Queima direta.", "Extração da terra.", "Transporte."],
+        "correta": 0,
+        "explicacao": "O refino separa o petróleo em frações como gasolina, diesel, etc."
+      },
+      {
+        "enunciado": "Qual derivado do petróleo é usado como combustível para carros?",
+        "opcoes": ["Gasolina.", "Álcool.", "Asfalto.", "Plástico."],
+        "correta": 0,
+        "explicacao": "A gasolina é um dos principais derivados."
+      },
+      {
+        "enunciado": "O que é o diesel?",
+        "opcoes": ["Um derivado usado em veículos pesados (caminhões, ônibus).", "Um gás de cozinha.", "Um óleo lubrificante.", "Um tipo de plástico."],
+        "correta": 0,
+        "explicacao": "O diesel move motores de maior potência."
+      },
+      {
+        "enunciado": "O Gás Liquefeito de Petróleo (GLP) é mais conhecido como:",
+        "opcoes": ["Gás de cozinha.", "Gasolina.", "Óleo diesel.", "Querosene."],
+        "correta": 0,
+        "explicacao": "O GLP é o gás usado em botijões de cozinha."
+      },
+      {
+        "enunciado": "Qual derivado do petróleo é usado na pavimentação de ruas?",
+        "opcoes": ["Asfalto.", "Gasolina.", "Plástico.", "GLP."],
+        "correta": 0,
+        "explicacao": "O asfalto é a fração mais pesada do refino."
+      },
+      {
+        "enunciado": "Os plásticos são derivados de qual fonte?",
+        "opcoes": ["Petróleo.", "Água.", "Madeira.", "Cana-de-açúcar."],
+        "correta": 0,
+        "explicacao": "A indústria petroquímica produz plásticos a partir do petróleo."
+      },
+      {
+        "enunciado": "O que é a 'linha produtiva do petróleo'?",
+        "opcoes": ["O caminho desde a extração até a venda dos derivados.", "Uma linha de trem.", "Um duto.", "O refino apenas."],
+        "correta": 0,
+        "explicacao": "Compreende extração, refino, distribuição e consumo."
+      },
+      {
+        "enunciado": "Qual é um dos principais impactos ambientais da extração de petróleo?",
+        "opcoes": ["Vazamentos que poluem oceanos.", "Aumento da camada de ozônio.", "Chuvas ácidas.", "Nenhum impacto."],
+        "correta": 0,
+        "explicacao": "Vazamentos são grandes desastres ecológicos."
+      },
+      {
+        "enunciado": "O petróleo é uma fonte de energia:",
+        "opcoes": ["Renovável.", "Não renovável.", "Limpa.", "Inesgotável."],
+        "correta": 1,
+        "explicacao": "Leva milhões de anos para se formar, sendo esgotável."
+      },
+      {
+        "enunciado": "Por que o petróleo é chamado de 'ouro negro'?",
+        "opcoes": ["Porque é escuro e valioso economicamente.", "Porque tem ouro na composição.", "Porque é usado em joias.", "Porque é raro."],
+        "correta": 0,
+        "explicacao": "A expressão remete ao seu alto valor de mercado."
+      },
+      {
+        "enunciado": "Qual órgão brasileiro regula o setor de petróleo?",
+        "opcoes": ["ANP (Agência Nacional do Petróleo).", "IBGE.", "INPE.", "Ministério da Educação."],
+        "correta": 0,
+        "explicacao": "A ANP regula e fiscaliza a exploração."
+      },
+      {
+        "enunciado": "A queima de derivados de petróleo contribui para qual problema?",
+        "opcoes": ["Aquecimento global e poluição do ar.", "Chuvas ácidas.", "Aumento da camada de ozônio.", "Terremotos."],
+        "correta": 0,
+        "explicacao": "Libera CO2 e outros poluentes."
+      },
+      {
+        "enunciado": "O que é uma plataforma de petróleo?",
+        "opcoes": ["Estrutura para extrair petróleo no mar.", "Uma usina de açúcar.", "Um tipo de carro.", "Um navio de passageiros."],
+        "correta": 0,
+        "explicacao": "As plataformas são usadas na extração offshore."
+      },
+      {
+        "enunciado": "Qual é o principal componente do petróleo?",
+        "opcoes": ["Hidrocarbonetos.", "Água.", "Sal.", "Oxigênio."],
+        "correta": 0,
+        "explicacao": "Hidrocarbonetos são moléculas de carbono e hidrogênio."
+      },
+      {
+        "enunciado": "A gasolina e o diesel são separados do petróleo por:",
+        "opcoes": ["Destilação fracionada.", "Filtragem.", "Solidificação.", "Fervura simples."],
+        "correta": 0,
+        "explicacao": "A destilação separa pelos pontos de ebulição."
+      },
+      {
+        "enunciado": "Qual derivado é usado em aviões?",
+        "opcoes": ["Querosene.", "Gasolina.", "Diesel.", "GLP."],
+        "correta": 0,
+        "explicacao": "O querosene de aviação é o combustível aeronáutico."
+      },
+      {
+        "enunciado": "O petróleo pode acabar um dia?",
+        "opcoes": ["Sim, é uma fonte finita.", "Não, é infinita.", "Não, se renova rapidamente.", "Sim, mas leva 10 anos."],
+        "correta": 0,
+        "explicacao": "Suas reservas são limitadas."
+      },
+      {
+        "enunciado": "O que é a OPEP?",
+        "opcoes": ["Organização dos Países Exportadores de Petróleo.", "Organização de Proteção Ambiental.", "Agência de Energia Nuclear.", "Órgão de Pesquisa."],
+        "correta": 0,
+        "explicacao": "É um cartel de países produtores."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_cnat_energias_renovaveis_01",
+    "titulo": "Ciências Naturais - Energias Renováveis e Alternativas",
+    "tipo": "conteudo",
+    "icone": "🌞",
+    "perguntas": [
+      {
+        "enunciado": "Qual é a principal vantagem das energias renováveis?",
+        "opcoes": ["São mais baratas.", "Não se esgotam e poluem menos.", "Ocupam pouco espaço.", "Geram muita poluição."],
+        "correta": 1,
+        "explicacao": "Elas se regeneram e causam menor impacto."
+      },
+      {
+        "enunciado": "A energia solar pode ser usada para:",
+        "opcoes": ["Apenas aquecer água.", "Gerar eletricidade e aquecer.", "Apenas iluminar.", "Apenas carregar celulares."],
+        "correta": 1,
+        "explicacao": "Painéis solares geram eletricidade, e aquecedores solares aquecem água."
+      },
+      {
+        "enunciado": "Qual é um dos problemas da energia solar?",
+        "opcoes": ["Alto custo de instalação e intermitência.", "Poluição sonora.", "Emissão de CO2.", "Falta de sol no Brasil."],
+        "correta": 0,
+        "explicacao": "O investimento inicial é alto e depende do clima."
+      },
+      {
+        "enunciado": "A energia eólica é gerada por:",
+        "opcoes": ["Aerogeradores (turbinas eólicas).", "Painéis solares.", "Usinas nucleares.", "Queima de carvão."],
+        "correta": 0,
+        "explicacao": "O vento move as pás e gera eletricidade."
+      },
+      {
+        "enunciado": "Qual é uma desvantagem da energia eólica?",
+        "opcoes": ["Emissão de gases.", "Poluição visual e sonora.", "Esgotamento.", "Custo zero."],
+        "correta": 1,
+        "explicacao": "As turbinas causam impacto visual e ruído."
+      },
+      {
+        "enunciado": "A energia hidrelétrica no Brasil é a maior fonte de:",
+        "opcoes": ["Matriz energética.", "Matriz elétrica.", "Combustível.", "Biomassa."],
+        "correta": 1,
+        "explicacao": "A hidrelétrica é a maior geradora de eletricidade no país."
+      },
+      {
+        "enunciado": "Qual é o impacto socioambiental das hidrelétricas?",
+        "opcoes": ["Desmatamento e alagamento de áreas.", "Emissão de CFCs.", "Poluição nuclear.", "Aumento do nível do mar."],
+        "correta": 0,
+        "explicacao": "Os reservatórios alagam grandes áreas."
+      },
+      {
+        "enunciado": "A energia da biomassa é obtida a partir de:",
+        "opcoes": ["Matéria orgânica (cana, madeira, resíduos).", "Urânio.", "Vento.", "Marés."],
+        "correta": 0,
+        "explicacao": "É a queima ou transformação de matéria vegetal ou animal."
+      },
+      {
+        "enunciado": "O etanol no Brasil é produzido a partir de:",
+        "opcoes": ["Petróleo.", "Cana-de-açúcar.", "Carvão.", "Gás natural."],
+        "correta": 1,
+        "explicacao": "O Brasil usa cana para produzir etanol."
+      },
+      {
+        "enunciado": "Qual é a vantagem do etanol em relação à gasolina?",
+        "opcoes": ["Polui menos e é renovável.", "É mais barato.", "Rende mais.", "Não precisa de motores."],
+        "correta": 0,
+        "explicacao": "O etanol é renovável e emite menos gases."
+      },
+      {
+        "enunciado": "A energia geotérmica é gerada por:",
+        "opcoes": ["Calor da Terra.", "Vento.", "Sol.", "Água."],
+        "correta": 0,
+        "explicacao": "Usa o calor do subsolo para gerar eletricidade."
+      },
+      {
+        "enunciado": "A energia maremotriz usa:",
+        "opcoes": ["As marés.", "As ondas.", "O vento.", "O sol."],
+        "correta": 0,
+        "explicacao": "Aproveita a subida e descida das marés."
+      },
+      {
+        "enunciado": "A energia solar no Brasil é mais viável em qual região?",
+        "opcoes": ["Nordeste.", "Sul.", "Norte.", "Sudeste."],
+        "correta": 0,
+        "explicacao": "O Nordeste tem alta incidência solar."
+      },
+      {
+        "enunciado": "O que é o Selo Procel?",
+        "opcoes": ["Indica eficiência energética de aparelhos.", "Um imposto.", "Uma marca de carro.", "Um tipo de energia."],
+        "correta": 0,
+        "explicacao": "O selo classifica aparelhos que consomem menos energia."
+      },
+      {
+        "enunciado": "Qual aparelho tem maior consumo de energia em uma casa?",
+        "opcoes": ["Chuveiro elétrico.", "Geladeira.", "TV.", "Lâmpada."],
+        "correta": 0,
+        "explicacao": "O chuveiro aquece água e consome muita energia."
+      },
+      {
+        "enunciado": "A substituição de lâmpadas incandescentes por LED:",
+        "opcoes": ["Aumenta o consumo.", "Economiza energia.", "Não altera nada.", "É mais poluente."],
+        "correta": 1,
+        "explicacao": "As LEDs são mais eficientes."
+      },
+      {
+        "enunciado": "O que é a eficiência energética?",
+        "opcoes": ["Usar menos energia para a mesma finalidade.", "Usar mais energia.", "Não usar energia.", "Produzir energia."],
+        "correta": 0,
+        "explicacao": "Significa obter o mesmo serviço com menor consumo."
+      },
+      {
+        "enunciado": "Qual das fontes abaixo é considerada limpa e renovável?",
+        "opcoes": ["Carvão mineral.", "Petróleo.", "Energia eólica.", "Gás natural."],
+        "correta": 2,
+        "explicacao": "A eólica não emite poluentes e é renovável."
+      },
+      {
+        "enunciado": "As hidrelétricas no Brasil estão concentradas em qual região?",
+        "opcoes": ["Norte e Nordeste.", "Sul e Sudeste.", "Centro-Oeste.", "Apenas no litoral."],
+        "correta": 1,
+        "explicacao": "A Bacia do Paraná e do São Francisco concentram usinas."
+      },
+      {
+        "enunciado": "A transição energética busca substituir:",
+        "opcoes": ["Energias limpas por fósseis.", "Combustíveis fósseis por renováveis.", "Água por petróleo.", "Sol por vento."],
+        "correta": 1,
+        "explicacao": "O objetivo é reduzir a dependência de fósseis."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_cnat_energia_nuclear_01",
+    "titulo": "Ciências Naturais - Energia Nuclear e Impactos",
+    "tipo": "conteudo",
+    "icone": "☢️",
+    "perguntas": [
+      {
+        "enunciado": "A energia nuclear é gerada a partir da:",
+        "opcoes": ["Fissão (divisão) de átomos.", "Queima de carvão.", "Movimentação de turbinas.", "Radiação solar."],
+        "correta": 0,
+        "explicacao": "A fissão do urânio libera grande energia."
+      },
+      {
+        "enunciado": "Qual é o principal combustível usado nas usinas nucleares?",
+        "opcoes": ["Urânio.", "Carvão.", "Água.", "Gás natural."],
+        "correta": 0,
+        "explicacao": "O urânio é o elemento radioativo usado."
+      },
+      {
+        "enunciado": "Qual é uma vantagem da energia nuclear?",
+        "opcoes": ["Não emite gases do efeito estufa na operação.", "É renovável.", "É barata.", "É simples de construir."],
+        "correta": 0,
+        "explicacao": "Durante a geração não há emissão de CO2."
+      },
+      {
+        "enunciado": "Qual é o principal risco da energia nuclear?",
+        "opcoes": ["Acidentes com liberação de radiação e descarte de lixo radioativo.", "Chuva ácida.", "Aumento do nível do mar.", "Poluição sonora."],
+        "correta": 0,
+        "explicacao": "Acidentes e resíduos são os maiores desafios."
+      },
+      {
+        "enunciado": "O lixo radioativo das usinas nucleares:",
+        "opcoes": ["Deve ser isolado por milhares de anos.", "Pode ser jogado no mar.", "É inofensivo.", "Pode ser reciclado facilmente."],
+        "correta": 0,
+        "explicacao": "O material radioativo permanece perigoso por muito tempo."
+      },
+      {
+        "enunciado": "Qual acidente nuclear ocorreu em 1986 na Ucrânia?",
+        "opcoes": ["Chernobyl.", "Fukushima.", "Three Mile Island.", "Goiânia."],
+        "correta": 0,
+        "explicacao": "Chernobyl foi um dos piores acidentes nucleares da história."
+      },
+      {
+        "enunciado": "Qual acidente nuclear ocorreu no Japão em 2011, após um tsunami?",
+        "opcoes": ["Chernobyl.", "Fukushima.", "Goiânia.", "Hiroshima."],
+        "correta": 1,
+        "explicacao": "Fukushima foi atingida por um tsunami."
+      },
+      {
+        "enunciado": "No Brasil, qual estado abriga a usina nuclear de Angra?",
+        "opcoes": ["São Paulo.", "Rio de Janeiro.", "Minas Gerais.", "Bahia."],
+        "correta": 1,
+        "explicacao": "Angra dos Reis, no Rio de Janeiro, abriga as usinas."
+      },
+      {
+        "enunciado": "Quais são as usinas nucleares brasileiras?",
+        "opcoes": ["Angra 1, 2 e 3.", "Itaipu.", "Belo Monte.", "Tucuruí."],
+        "correta": 0,
+        "explicacao": "Angra 1 e 2 estão em operação; Angra 3 está em construção."
+      },
+      {
+        "enunciado": "O que é a fissão nuclear?",
+        "opcoes": ["Divisão de um átomo em dois menores, liberando energia.", "União de dois átomos.", "Queima de combustível.", "Radiação solar."],
+        "correta": 0,
+        "explicacao": "Ocorre a quebra do núcleo atômico."
+      },
+      {
+        "enunciado": "O que é a fusão nuclear?",
+        "opcoes": ["União de dois núcleos atômicos, liberando energia.", "Divisão do átomo.", "Queima de carvão.", "Radiação."],
+        "correta": 0,
+        "explicacao": "É o processo que ocorre no Sol."
+      },
+      {
+        "enunciado": "Qual é a principal vantagem ambiental da energia nuclear em relação aos fósseis?",
+        "opcoes": ["Não emite gases de efeito estufa na geração.", "É mais barata.", "É renovável.", "Não gera resíduos."],
+        "correta": 0,
+        "explicacao": "Não libera CO2, mas gera lixo radioativo."
+      },
+      {
+        "enunciado": "O que é a radiação ionizante?",
+        "opcoes": ["Radiação que pode danificar células.", "Luz visível.", "Ondas de rádio.", "Calor."],
+        "correta": 0,
+        "explicacao": "É a radiação capaz de arrancar elétrons dos átomos."
+      },
+      {
+        "enunciado": "O acidente de Goiânia (1987) envolveu qual material radioativo?",
+        "opcoes": ["Césio-137.", "Urânio.", "Plutônio.", "Iodo."],
+        "correta": 0,
+        "explicacao": "Um aparelho de radioterapia abandonado continha césio."
+      },
+      {
+        "enunciado": "A energia nuclear é considerada renovável?",
+        "opcoes": ["Sim, o urânio é infinito.", "Não, o urânio é finito.", "Sim, não gera resíduos.", "Sim, é limpa."],
+        "correta": 1,
+        "explicacao": "O urânio é um recurso finito."
+      },
+      {
+        "enunciado": "Qual é a principal função das usinas nucleares?",
+        "opcoes": ["Produzir eletricidade.", "Produzir combustível.", "Aquecer água.", "Produzir plástico."],
+        "correta": 0,
+        "explicacao": "A energia térmica é usada para gerar vapor e mover turbinas."
+      },
+      {
+        "enunciado": "O que é o reator nuclear?",
+        "opcoes": ["Onde ocorre a fissão controlada.", "Onde o urânio é minerado.", "Onde o lixo é descartado.", "Onde a água é aquecida."],
+        "correta": 0,
+        "explicacao": "O reator controla a reação em cadeia."
+      },
+      {
+        "enunciado": "Qual é o destino do lixo radioativo no Brasil?",
+        "opcoes": ["Armazenado em locais seguros na usina.", "Jogado no mar.", "Enterrado em qualquer lugar.", "Incinerado."],
+        "correta": 0,
+        "explicacao": "É armazenado em piscinas ou depósitos seguros."
+      },
+      {
+        "enunciado": "As usinas nucleares são mais comuns em países:",
+        "opcoes": ["Desenvolvidos.", "Subdesenvolvidos.", "Tropicais.", "Sem litoral."],
+        "correta": 0,
+        "explicacao": "Exigem alta tecnologia e investimento."
+      },
+      {
+        "enunciado": "A energia nuclear é uma fonte:",
+        "opcoes": ["Renovável.", "Não renovável.", "Solar.", "Eólica."],
+        "correta": 1,
+        "explicacao": "Depende do urânio, que é finito."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_cnat_impactos_ambientais_01",
+    "titulo": "Ciências Naturais - Impactos Ambientais e Licenciamento",
+    "tipo": "conteudo",
+    "icone": "🌳",
+    "perguntas": [
+      {
+        "enunciado": "O que é o licenciamento ambiental?",
+        "opcoes": ["Um documento que autoriza obras com impacto ambiental.", "Um imposto.", "Um tipo de energia.", "Uma ONG."],
+        "correta": 0,
+        "explicacao": "É um procedimento para avaliar e mitigar impactos."
+      },
+      {
+        "enunciado": "Qual é a lei brasileira que trata da Política Nacional do Meio Ambiente?",
+        "opcoes": ["Lei 6.938/1981.", "Lei 9.605/1998.", "Constituição de 1988.", "Código Civil."],
+        "correta": 0,
+        "explicacao": "A Lei 6.938 é um marco na legislação ambiental."
+      },
+      {
+        "enunciado": "O que é um estudo de impacto ambiental (EIA)?",
+        "opcoes": ["Um documento que avalia os impactos de uma obra.", "Um relatório financeiro.", "Um projeto de lei.", "Um mapa."],
+        "correta": 0,
+        "explicacao": "O EIA é exigido para licenciar grandes obras."
+      },
+      {
+        "enunciado": "O que é o RIMA?",
+        "opcoes": ["Relatório de Impacto Ambiental.", "Registro de Imóveis.", "Relatório Médico.", "Regimento Interno."],
+        "correta": 0,
+        "explicacao": "O RIMA é um resumo do EIA para o público."
+      },
+      {
+        "enunciado": "Qual é o principal impacto das hidrelétricas?",
+        "opcoes": ["Alagamento de áreas e perda de biodiversidade.", "Poluição nuclear.", "Emissão de CFCs.", "Chuvas ácidas."],
+        "correta": 0,
+        "explicacao": "A formação do reservatório alaga grandes áreas."
+      },
+      {
+        "enunciado": "O que é o desmatamento?",
+        "opcoes": ["Remoção da cobertura vegetal.", "Plantio de árvores.", "Crescimento da floresta.", "Proteção ambiental."],
+        "correta": 0,
+        "explicacao": "O desmatamento remove a vegetação nativa."
+      },
+      {
+        "enunciado": "Qual é uma consequência do desmatamento?",
+        "opcoes": ["Aumento da biodiversidade.", "Erosão e perda de habitats.", "Aumento das chuvas.", "Melhora do clima."],
+        "correta": 1,
+        "explicacao": "Sem árvores, o solo sofre erosão e a fauna perde abrigo."
+      },
+      {
+        "enunciado": "O que é a poluição do solo?",
+        "opcoes": ["Contaminação por resíduos e produtos químicos.", "Plantio de árvores.", "Irrigação.", "Adubação natural."],
+        "correta": 0,
+        "explicacao": "O solo pode ser contaminado por agrotóxicos e lixo."
+      },
+      {
+        "enunciado": "Qual é o impacto da queima de combustíveis fósseis na atmosfera?",
+        "opcoes": ["Aumento do efeito estufa.", "Diminuição do CO2.", "Limpeza do ar.", "Aumento do oxigênio."],
+        "correta": 0,
+        "explicacao": "Libera CO2, agravando o aquecimento global."
+      },
+      {
+        "enunciado": "O que é a chuva ácida?",
+        "opcoes": ["Chuva com poluentes que acidificam o solo e a água.", "Chuva com açúcar.", "Chuva normal.", "Chuva de granizo."],
+        "correta": 0,
+        "explicacao": "Óxidos de enxofre e nitrogênio reagem com a água."
+      },
+      {
+        "enunciado": "Qual é a principal causa da chuva ácida?",
+        "opcoes": ["Queima de combustíveis fósseis.", "Desmatamento.", "Energia solar.", "Irrigação."],
+        "correta": 0,
+        "explicacao": "A queima libera SO2 e NOx."
+      },
+      {
+        "enunciado": "O que é a camada de ozônio?",
+        "opcoes": ["Protege a Terra dos raios UV.", "Aquece a Terra.", "Polui o ar.", "Produz chuva."],
+        "correta": 0,
+        "explicacao": "Filtra a radiação ultravioleta."
+      },
+      {
+        "enunciado": "Qual gás destrói a camada de ozônio?",
+        "opcoes": ["CFC.", "CO2.", "Metano.", "Oxigênio."],
+        "correta": 0,
+        "explicacao": "Os CFCs eram usados em aerossóis."
+      },
+      {
+        "enunciado": "O que é a poluição sonora?",
+        "opcoes": ["Excesso de ruído que afeta a saúde.", "Música alta.", "Silêncio.", "Barulho da natureza."],
+        "correta": 0,
+        "explicacao": "Pode causar estresse e problemas auditivos."
+      },
+      {
+        "enunciado": "Qual é o impacto da poluição plástica nos oceanos?",
+        "opcoes": ["Morte de animais marinhos.", "Limpeza da água.", "Aumento da biodiversidade.", "Nenhum impacto."],
+        "correta": 0,
+        "explicacao": "Plásticos são ingeridos por animais."
+      },
+      {
+        "enunciado": "O que é a pegada ecológica?",
+        "opcoes": ["Medida do impacto do consumo humano.", "Marca de sapato.", "Um tipo de energia.", "Uma lei."],
+        "correta": 0,
+        "explicacao": "Calcula a área necessária para sustentar um estilo de vida."
+      },
+      {
+        "enunciado": "Qual é a importância da reciclagem?",
+        "opcoes": ["Reduzir o consumo de recursos naturais.", "Aumentar o lixo.", "Poluir mais.", "Não tem importância."],
+        "correta": 0,
+        "explicacao": "Reciclar diminui a extração de matéria-prima."
+      },
+      {
+        "enunciado": "O que é o desenvolvimento sustentável?",
+        "opcoes": ["Atender às necessidades atuais sem comprometer as futuras.", "Explorar tudo agora.", "Não usar recursos.", "Apenas crescer economicamente."],
+        "correta": 0,
+        "explicacao": "Equilibra economia, sociedade e ambiente."
+      },
+      {
+        "enunciado": "Qual é o papel das ONGs ambientais?",
+        "opcoes": ["Fiscalizar e propor soluções ambientais.", "Explorar recursos.", "Construir usinas.", "Vender energia."],
+        "correta": 0,
+        "explicacao": "Atuam na proteção e conscientização."
+      },
+      {
+        "enunciado": "O que é a Agenda 2030 da ONU?",
+        "opcoes": ["Um plano com 17 ODS para o desenvolvimento sustentável.", "Uma lei brasileira.", "Um tratado de comércio.", "Uma ONG."],
+        "correta": 0,
+        "explicacao": "Define metas globais até 2030."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_cnat_matriz_energetica_01",
+    "titulo": "Ciências Naturais - Matriz Energética e Eficiência",
+    "tipo": "conteudo",
+    "icone": "📊",
+    "perguntas": [
+      {
+        "enunciado": "O que é a matriz energética?",
+        "opcoes": ["O conjunto de fontes de energia de um país.", "Apenas a eletricidade.", "A energia dos carros.", "O preço da energia."],
+        "correta": 0,
+        "explicacao": "Inclui todas as fontes primárias e secundárias."
+      },
+      {
+        "enunciado": "Qual é a principal fonte da matriz energética brasileira?",
+        "opcoes": ["Petróleo.", "Carvão.", "Hidrelétrica.", "Solar."],
+        "correta": 0,
+        "explicacao": "O petróleo é a maior fonte primária."
+      },
+      {
+        "enunciado": "Qual é a principal fonte da matriz elétrica brasileira?",
+        "opcoes": ["Petróleo.", "Hidrelétrica.", "Nuclear.", "Eólica."],
+        "correta": 1,
+        "explicacao": "A hidrelétrica é a maior geradora de eletricidade."
+      },
+      {
+        "enunciado": "A matriz elétrica brasileira é considerada mais renovável que a mundial devido ao uso de:",
+        "opcoes": ["Hidrelétrica.", "Carvão.", "Petróleo.", "Nuclear."],
+        "correta": 0,
+        "explicacao": "A hidrelétrica é renovável e predominante."
+      },
+      {
+        "enunciado": "O que é eficiência energética?",
+        "opcoes": ["Usar menos energia para obter o mesmo resultado.", "Aumentar o consumo.", "Produzir mais energia.", "Desligar tudo."],
+        "correta": 0,
+        "explicacao": "Significa reduzir desperdícios."
+      },
+      {
+        "enunciado": "Qual aparelho consome mais energia em uma residência?",
+        "opcoes": ["Chuveiro elétrico.", "Geladeira.", "TV.", "Lâmpada."],
+        "correta": 0,
+        "explicacao": "O chuveiro aquece água e consome muita energia."
+      },
+      {
+        "enunciado": "O que é o Selo Procel?",
+        "opcoes": ["Indica eficiência energética.", "Um imposto.", "Uma marca.", "Um tipo de energia."],
+        "correta": 0,
+        "explicacao": "Classifica aparelhos que consomem menos."
+      },
+      {
+        "enunciado": "Qual é a vantagem das lâmpadas LED?",
+        "opcoes": ["Economizam energia.", "Iluminam menos.", "Esquentam mais.", "São mais caras."],
+        "correta": 0,
+        "explicacao": "São mais eficientes que as incandescentes."
+      },
+      {
+        "enunciado": "O que é o consumo consciente?",
+        "opcoes": ["Usar recursos de forma equilibrada e evitar desperdícios.", "Consumir tudo.", "Não consumir.", "Comprar sempre."],
+        "correta": 0,
+        "explicacao": "Envolve escolhas sustentáveis."
+      },
+      {
+        "enunciado": "O que é a geração distribuída de energia?",
+        "opcoes": ["Produção próxima ao local de consumo.", "Grandes usinas.", "Importação de energia.", "Uso de carvão."],
+        "correta": 0,
+        "explicacao": "Exemplo: painéis solares em residências."
+      },
+      {
+        "enunciado": "Qual é a fonte renovável mais usada no Brasil para eletricidade?",
+        "opcoes": ["Hidrelétrica.", "Solar.", "Eólica.", "Biomassa."],
+        "correta": 0,
+        "explicacao": "A hidrelétrica é a maior."
+      },
+      {
+        "enunciado": "O que é o horário de pico?",
+        "opcoes": ["Período de maior consumo de energia.", "Hora de dormir.", "Hora do almoço.", "Hora da novela."],
+        "correta": 0,
+        "explicacao": "É quando a demanda é maior."
+      },
+      {
+        "enunciado": "Qual é o impacto do consumo excessivo de energia?",
+        "opcoes": ["Aumento da necessidade de geração e impactos ambientais.", "Nenhum impacto.", "Melhora do meio ambiente.", "Economia."],
+        "correta": 0,
+        "explicacao": "Mais geração significa mais impactos."
+      },
+      {
+        "enunciado": "A substituição de combustíveis fósseis por renováveis é chamada de:",
+        "opcoes": ["Transição energética.", "Revolução industrial.", "Efeito estufa.", "Poluição."],
+        "correta": 0,
+        "explicacao": "Busca reduzir emissões."
+      },
+      {
+        "enunciado": "Qual é o papel do governo na eficiência energética?",
+        "opcoes": ["Criar políticas e incentivos.", "Apenas cobrar impostos.", "Não fazer nada.", "Vender energia."],
+        "correta": 0,
+        "explicacao": "O governo regula e incentiva práticas eficientes."
+      },
+      {
+        "enunciado": "O que é a ANEEL?",
+        "opcoes": ["Agência Nacional de Energia Elétrica.", "Agência de Meio Ambiente.", "Instituto de Pesquisa.", "Empresa de petróleo."],
+        "correta": 0,
+        "explicacao": "Regula o setor elétrico."
+      },
+      {
+        "enunciado": "Qual é a vantagem da geração distribuída?",
+        "opcoes": ["Reduz perdas na transmissão.", "Aumenta a poluição.", "Depende de petróleo.", "Aumenta o custo."],
+        "correta": 0,
+        "explicacao": "A energia é gerada perto do consumo."
+      },
+      {
+        "enunciado": "O que é o carvão mineral?",
+        "opcoes": ["Combustível fóssil.", "Fonte renovável.", "Energia limpa.", "Minério de ferro."],
+        "correta": 0,
+        "explicacao": "É um fóssil muito poluente."
+      },
+      {
+        "enunciado": "O que é a energia de biomassa?",
+        "opcoes": ["Energia de matéria orgânica.", "Energia do vento.", "Energia solar.", "Energia nuclear."],
+        "correta": 0,
+        "explicacao": "Ex: bagaço de cana, madeira."
+      },
+      {
+        "enunciado": "Qual é a principal crítica ao uso de hidrelétricas?",
+        "opcoes": ["Impactos socioambientais.", "Emissão de CO2.", "Custo alto.", "Falta de água."],
+        "correta": 0,
+        "explicacao": "Alagamento e deslocamento de comunidades."
+      }
+    ]
+  },
+  {
+    "id": "8ano_v2_cnat_sustentabilidade_energia_01",
+    "titulo": "Ciências Naturais - Energia e Sustentabilidade",
+    "tipo": "conteudo",
+    "icone": "♻️",
+    "perguntas": [
+      {
+        "enunciado": "O que é o ODS 7 da Agenda 2030?",
+        "opcoes": ["Energia limpa e acessível.", "Erradicação da pobreza.", "Educação de qualidade.", "Água potável."],
+        "correta": 0,
+        "explicacao": "Busca garantir energia acessível e limpa."
+      },
+      {
+        "enunciado": "Qual é a meta do ODS 7?",
+        "opcoes": ["Assegurar acesso à energia para todos.", "Aumentar o uso de carvão.", "Reduzir a energia solar.", "Aumentar a poluição."],
+        "correta": 0,
+        "explicacao": "Energia acessível e limpa para todos."
+      },
+      {
+        "enunciado": "O que é um projeto sustentável de energia?",
+        "opcoes": ["Aquele que busca reduzir impactos e promover acesso.", "Aquele que só visa lucro.", "Aquele que usa carvão.", "Aquele que polui."],
+        "correta": 0,
+        "explicacao": "Integra sustentabilidade e acesso."
+      },
+      {
+        "enunciado": "A falta de acesso à energia afeta quantas pessoas no mundo?",
+        "opcoes": ["Cerca de 1 bilhão.", "100 milhões.", "Ninguém.", "5 bilhões."],
+        "correta": 0,
+        "explicacao": "O texto cita que 1 bilhão não tem acesso."
+      },
+      {
+        "enunciado": "No Brasil, quantas pessoas não têm acesso à energia elétrica?",
+        "opcoes": ["Cerca de 1 milhão.", "10 milhões.", "Ninguém.", "500 mil."],
+        "correta": 0,
+        "explicacao": "Cerca de 1 milhão de brasileiros."
+      },
+      {
+        "enunciado": "O que é o programa 'Luz para Todos'?",
+        "opcoes": ["Programa do governo para levar energia ao meio rural.", "Um projeto de carvão.", "Uma usina nuclear.", "Um imposto."],
+        "correta": 0,
+        "explicacao": "Busca universalizar o acesso à energia."
+      },
+      {
+        "enunciado": "Qual é o principal desafio para a sustentabilidade energética?",
+        "opcoes": ["Equilibrar desenvolvimento e preservação.", "Aumentar o consumo.", "Usar mais fósseis.", "Reduzir a eficiência."],
+        "correta": 0,
+        "explicacao": "É preciso crescer sem degradar."
+      },
+      {
+        "enunciado": "O que é a 'economia de baixo carbono'?",
+        "opcoes": ["Economia que reduz a emissão de CO2.", "Economia baseada em carvão.", "Economia sem energia.", "Economia de plástico."],
+        "correta": 0,
+        "explicacao": "Busca reduzir a pegada de carbono."
+      },
+      {
+        "enunciado": "Qual é o papel das tecnologias limpas?",
+        "opcoes": ["Reduzir impactos ambientais.", "Aumentar a poluição.", "Usar mais petróleo.", "Reduzir a eficiência."],
+        "correta": 0,
+        "explicacao": "Ex: solar, eólica, LED, etc."
+      },
+      {
+        "enunciado": "O que é a eficiência energética no contexto da sustentabilidade?",
+        "opcoes": ["Reduzir o desperdício de energia.", "Aumentar o consumo.", "Usar mais carvão.", "Desligar tudo."],
+        "correta": 0,
+        "explicacao": "Usar menos energia para o mesmo serviço."
+      },
+      {
+        "enunciado": "Quais são os 3 pilares da sustentabilidade?",
+        "opcoes": ["Ambiental, social e econômico.", "Político, militar e cultural.", "Apenas ambiental.", "Tecnológico e científico."],
+        "correta": 0,
+        "explicacao": "O desenvolvimento sustentável integra os três."
+      },
+      {
+        "enunciado": "O que é a pegada de carbono?",
+        "opcoes": ["Medida das emissões de gases de efeito estufa.", "Marca de sapato.", "Um tipo de energia.", "Uma árvore."],
+        "correta": 0,
+        "explicacao": "Calcula o impacto das atividades humanas."
+      },
+      {
+        "enunciado": "Qual é uma atitude individual para a sustentabilidade energética?",
+        "opcoes": ["Economizar energia e reciclar.", "Deixar luzes acesas.", "Usar mais carro.", "Comprar mais."],
+        "correta": 0,
+        "explicacao": "Pequenas atitudes somam grandes resultados."
+      },
+      {
+        "enunciado": "O que é a geração de resíduos?",
+        "opcoes": ["Produção de lixo.", "Reciclagem.", "Limpeza.", "Economia."],
+        "correta": 0,
+        "explicacao": "É um dos desafios do consumo."
+      },
+      {
+        "enunciado": "O que é a coleta seletiva?",
+        "opcoes": ["Separação do lixo para reciclagem.", "Queima de lixo.", "Jogar lixo no rio.", "Enterrar lixo."],
+        "correta": 0,
+        "explicacao": "Facilita a reciclagem e reduz impactos."
+      },
+      {
+        "enunciado": "Qual é a importância da educação ambiental?",
+        "opcoes": ["Conscientizar para práticas sustentáveis.", "Aumentar o consumo.", "Poluir mais.", "Não tem importância."],
+        "correta": 0,
+        "explicacao": "A educação transforma hábitos."
+      },
+      {
+        "enunciado": "O que são fontes renováveis?",
+        "opcoes": ["Que se regeneram naturalmente.", "Que se esgotam.", "Que poluem.", "Que são fósseis."],
+        "correta": 0,
+        "explicacao": "Ex: solar, eólica, biomassa."
+      },
+      {
+        "enunciado": "Qual é a principal fonte de energia no Brasil?",
+        "opcoes": ["Hidrelétrica.", "Solar.", "Nuclear.", "Carvão."],
+        "correta": 0,
+        "explicacao": "A hidrelétrica é predominante."
+      },
+      {
+        "enunciado": "O que é o desenvolvimento sustentável?",
+        "opcoes": ["Atender às necessidades atuais sem comprometer as futuras.", "Explorar tudo agora.", "Não usar recursos.", "Apenas crescer."],
+        "correta": 0,
+        "explicacao": "Equilíbrio entre economia, sociedade e ambiente."
+      },
+      {
+        "enunciado": "Qual é a meta da Agenda 2030?",
+        "opcoes": ["Alcançar os 17 ODS.", "Aumentar a poluição.", "Reduzir a energia.", "Acabar com a sustentabilidade."],
+        "correta": 0,
+        "explicacao": "Os ODS buscam um mundo mais justo e sustentável."
+      }
+    ]
+  }
+]
